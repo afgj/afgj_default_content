@@ -8,5 +8,7 @@
             "email": "darchuletajr@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "drupal/default_content": "^2.0"
+    }
 }
