@@ -41,7 +41,7 @@ default:
               value: true
           field_mt_fancy_block_reference:
             -
-              target_id: businessplus_views_block__mt_products_masonry_block_1
+              target_id: afgjtheme_views_block__mt_products_masonry_block_1
           field_mt_fancy_subtitle:
             -
               value: 'Explore Now'
@@ -71,7 +71,7 @@ default:
               value: true
           field_mt_fancy_block_reference:
             -
-              target_id: businessplus_popularsalesstatic
+              target_id: afgjtheme_popularsalesstatic
           field_mt_fancy_subtitle:
             -
               value: 'Explore Now'
@@ -101,7 +101,7 @@ default:
               value: true
           field_mt_fancy_block_reference:
             -
-              target_id: businessplus_views_block__mt_collections_masonry_block_1
+              target_id: afgjtheme_views_block__mt_collections_masonry_block_1
           field_mt_fancy_subtitle:
             -
               value: 'Explore Now'
