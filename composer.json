@@ -1,0 +1,12 @@
+{
+    "name": "afgj/afgj_default_content",
+    "description": "default content for the afgj drupal site",
+    "type": "drupal-module",
+    "authors": [
+        {
+            "name": "david",
+            "email": "darchuletajr@gmail.com"
+        }
+    ],
+    "require": {}
+}
