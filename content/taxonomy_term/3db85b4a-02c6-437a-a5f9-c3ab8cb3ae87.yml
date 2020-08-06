@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: 3db85b4a-02c6-437a-a5f9-c3ab8cb3ae87
+  bundle: tags
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: Santos
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /santos-0
+      langcode: en
+      pathauto: 1

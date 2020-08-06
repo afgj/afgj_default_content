@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 0839439a-2bae-48e4-872e-6ff169998482
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: Subscribe
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"row align-items-center\">\r\n<div class=\"col-12 col-xl-3 mb-3 mb-xl-0 text-xl-left text-center\">\r\n<p class=\"subscribe-form-text\">Join our mailing list to keep up to date on future events.</p>\r\n</div>\r\n\r\n<div class=\"col-12 col-xl-9\">\r\n<form action=\"#\" class=\"subscribe-form\" data-drupal-form-fields=\"subscribe-submit\">\r\n<div class=\"form-row\">\r\n<div class=\"form-group col-12 col-sm-8 col-lg-9 mb-3 mb-sm-0\">\r\n<div class=\"form-item form-type-textfield\"><input class=\"form-text\" name=\"email\" placeholder=\"Email\" type=\"email\" /></div>\r\n</div>\r\n\r\n<div class=\"form-actions col-12 col-sm-4 col-lg-3\"><input class=\"form-submit w-100\" id=\"subscribe-submit\" name=\"subscribe-submit\" type=\"submit\" value=\"Subscribe\" /></div>\r\n</div>\r\n</form>\r\n</div>\r\n</div>\r\n"
+      format: full_html
+      summary: ''

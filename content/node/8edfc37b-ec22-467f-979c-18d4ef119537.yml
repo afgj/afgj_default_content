@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8edfc37b-ec22-467f-979c-18d4ef119537
+  bundle: article
+  default_langcode: en
+  depends:
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Take Action! Send a letter to Congress: Hands off Venezuela!'
+  created:
+    -
+      value: 1548787749
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /take-action-send-letter-congress-hands-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<span style=\"font-weight: 400;\">NO Coup</span>\r\n\r\n<span style=\"font-weight: 400;\">NO War</span>\r\n\r\n<span style=\"font-weight: 400;\">NO Sanctions</span>\r\n\r\n<span style=\"font-weight: 400;\">HANDS OFF VENEZUELA!</span>\r\n\r\n<span style=\"font-weight: 400;\">Act Now! Click <a href=\"https://afgj.salsalabs.org/us-out-of-venezuela\">HERE</a> to send a message to your Congressperson and Senators (US) or your Government (Canada) </span>\r\n\r\n<span style=\"font-weight: 400;\">Tell them you demand that they respect international law and honor the right of Venezuelans to choose their own government and to resolve their own problems with peace and dignity. Sanctions hurt the poor most of all. A coup will plunge Venezuela into bloody chaos, just like the Obama administration’s coup in Libya. War will spread death and misery throughout the region and for years to come as we witnessed in Central America in the 1980s and in Syria today.</span>\r\n\r\n<span style=\"font-weight: 400;\">The Trump administration, with the cooperation of Canada, Great Britain, and some European allies and South American client states, are threatening the very structure of diplomacy built painfully step-by-step over the past 500 years. Their reckless actions threaten to return us to the “might makes right” “survival of the fittest” world depicted in post-apocalyptic movies. Our world is not a movie. Innocent women, children and men die when our leaders choose violence over diplomacy and negotiation.</span>\r\n\r\n<span style=\"font-weight: 400;\">WE WILL NOT STAND FOR IT!</span>\r\n\r\n<span style=\"font-weight: 400;\">In this time of great danger, it is morally imperative that we take our opposition into the streets…into the halls of government…into the corporate boardrooms…into the media studios and the newspaper pages.</span>\r\n\r\n<span style=\"font-weight: 400;\">We ask you to take three actions:</span>\r\n<ol>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Click <a href=\"https://afgj.salsalabs.org/us-out-of-venezuela\">HERE</a> to send an email to your elected officials.</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Call the White House Comment Line and tell Trump Hands Off Venezuela </span><span style=\"font-weight: 400;\">202-456-1111</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Write a letter-to-the editor of your local newspaper</span></li>\r\n</ol>\r\n&nbsp;\r\n\r\n<span style=\"font-weight: 400;\">Dear [Sen or Rep]</span>\r\n\r\n<span style=\"font-weight: 400;\">As a voting constituent I demand that you speak out against the dangerous and illegal campaign by the Trump Administration to overthrow the legitimate government of Venezuela. If the United States invades Venezuela with US troops or proxy forces or foments a coup using my tax dollars, my vote will be determined by the actions and positions you take. Illegal, unilateral sanctions are already making the suffering of the Venezuelan people worse in the current economic crisis and are depriving the government of the economic tools to recover. The confusion and chaos caused by the baseless and unconstitutional recognition of opposition politician Juan Guaido simply makes matters worse for ordinary Venezuelans. Violence in the form of direct invasion or low intensity warfare will cause untold suffering and the danger of turning Venezuela into a failed State like Libya. This is an extremely important issue to me and I will be watching your actions closely.</span>\r\n\r\n<span style=\"font-weight: 400;\">Sincerely,</span>\r\n\r\n&nbsp;\r\n\r\n<a style=\"background: #ff0000; padding: 10px; margin: 10px 0px; text-align: center; text-decoration: none; font-size: 12pt; color: #ffffff; font-family: Arial, Helvetica, sans-serif; display: inline-block;\" href=\"https://afgj.salsalabs.org/us-out-of-venezuela\" target=\"_blank\" rel=\"noopener\">Take Action Now!</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

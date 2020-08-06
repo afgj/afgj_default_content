@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 1f23627e-4b7e-4feb-8367-fb6c6d6b1cdb
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 72352924_10216103025156007_8564898454537502720_n.jpg
+  uri:
+    -
+      value: 'public://2020-06/72352924_10216103025156007_8564898454537502720_n.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 114005
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1591128262

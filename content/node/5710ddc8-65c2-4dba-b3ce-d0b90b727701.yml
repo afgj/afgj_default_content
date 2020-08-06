@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5710ddc8-65c2-4dba-b3ce-d0b90b727701
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'What is NED?'
+  created:
+    -
+      value: 1274366200
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /what-ned
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "“Democracy building” is one of the core beliefs of neoconservatives. But what they call democracy and what most people think of as democracy bear very little resemblance to each other. Neoconservatives are obsessed to maintaining and expanding US power. It is about realizing their vision of a <a href=\"http://www.newamericancentury.org/\">“New American Century.”</a> This is incompatible with real democracy in which the people of the world’s sovereign nations exercise their self-determination.\r\n\r\nIn order to “build democracy” and to insure US hegemony, it is necessary to provide mechanisms that will insure people in other countries elect those who will submit themselves willingly to the New American Century. In other words, the neocons need programs that will insure that other people will vote the “right” way. Thus, US democracy building programs are actually anti-democratic programs aimed at distorting and manipulating foreign elections to support US hegemony.\r\n\r\nThe best known agency of democracy building is the <a href=\"http://en.wikipedia.org/wiki/National_Endowment_for_Democracy\">National Endowment for Democracy,</a> a supposedly private organization that operates almost 100% with our tax money. The NED, as it is known, was created in 1983. As Allen Weinstein, a founder and theoretical planner for the NED, noted in a 1991 interview with the Washington Post, “A lot of what we do today was done covertly 25 years ago by the CIA.” Considering the difficulty researchers have getting detailed and up to date information about the NED and related agencies, the move away from the “covertness” of the CIA is, at best, only a relative notion.\r\n\r\nThe National Endowment for Democracy is made up of four core groups – The International Republican Institute and the National Democratic Institute are affiliated with the two political parties. Sen. John McCain is chair of the IRI and Clinton Secretary of State Madeline Albright chairs the NDI. The AFL-CIO has its own affiliate, the American Center for International Labor Solidarity also known as the Solidarity Center and to round out the engines of empire, the Chamber of Commerce has its affiliate the Center for International Private Enterprise.\r\n\r\nTo further confuse things, the NED operates its own grants and also makes grants to its sub-groups which they then give out under their own names. If you are confused, we can assume that they intend for us to be confused. That’s also why they call their electoral manipulation projects “democracy building” when they are actually just the opposite.\r\n\r\nNED’s first success was to defeat the Sandinista government in Nicaragua in 1990.\r\n\r\nThe International Republican Institute trained and funded the Haitian “Democratic Coordinator” which included the thugs whose violence created the pretext for the US to kidnap President Aristide and remove him from the country on Feb. 29, 2004. They also have a program to train municipal police in Caracas, Venezuela who have committed many extrajudicial killings.\r\n\r\nThe National Democratic Institute specializes in polling and quick counts. It’s blatantly manipulated poll in the Venezuela recall election of 2004 claimed Chavez lost when he actually won with 60%. It’s quick count in the Ukraine in 2003 cast doubt on the socialist victory and spawned the so-called Orange Revolution. They were apparently hoping the same thing would happen in Venezuela as a result of their phony poll. NDI’s pollster is none other than Mark Penn who was the top strategist in Hillary Clinton’s presidential campaign.\r\n\r\nThe AFL-CIO’s Solidarity Center, another core group of the NED, funded the anti-Chavez labor federation whose leader, Carlos Ortega, was one of the leaders of the 2002 coup. That coup failed because a million Venezuelans poured into the streets and demanded the return of their president. Some people say that the Solidarity Center runs good programs in some countries, but as long as it receives 94% of its money from the US government and only 6% from unions, its programs will remain suspect. There should be international solidarity between workers, but that solidarity needs to be funded by the workers themselves, not with US government tax money.\r\n\r\nIn 2004 Congress doubled NED’s budget with most of the additional money going to Iraq. The job openings advertised on the <a href=\"http://www.ndi.org/employment/employment.asp\">National Democratic Institute</a> and the <a href=\"http://www.iri.org/employment.asp\">International Republican Institute</a> give an idea of the huge scope of the US government’s anti-democracy project. The countries listed are only those where there is a job opening, by no means is it a full list of all the countries where NED and its core groups are interfering in democratic processes.\r\n\r\nEven when the particular grants from NED support something seemingly innocuous such as training poll waters, there is nothing innocuous about them. Their intention is to train people to believe that the US system of democracy by and for the elite is the only kind of legitimate democracy, and that democracy and free markets are two sides of the same coin. They are working to convince people that their only role in democracy is to go to the polls every few years and vote."
+      format: full_html
+      summary: ''

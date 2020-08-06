@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4dbc63bd-9fc8-49dd-81f1-c4c5024d99a1
+  bundle: article
+  default_langcode: en
+  depends:
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Honduras Solidarity: NEW Dear Colleague in House and Senate!'
+  created:
+    -
+      value: 1539708735
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /honduras-solidarity-new-dear-colleague-house-and-senate
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1>NEW Dear Colleague in House and Senate!</h1>\r\n<h3>Stop threats against national and international human rights defenders, observers and journalists in Honduras</h3>\r\nWe need your calls today! This afternoon Sen. Ed Markey (D-MA) and Rep. Jan Schakowsky (D-IL) began circulating a sign-on \"Dear Colleague\" letter in the U.S. Congress to President Trump and Secretary of State Pompeo, urging them to investigate and condemn recent threats against human rights defenders, journalists and international human rights observers.\r\n\r\nThe letter states that \"A recent wave of smear campaigns have escalated the danger facing Hondurans and others who document or attempt to speak out against abuses to their land rights, freedom of association and the press, and other basic rights.”\r\n\r\nThe letter calls on the Trump Administration to:\r\n<blockquote>- communicate concern to the Government of Honduras and request that it investigate these attacks, determine if state security were involved, and bring the perpetrators to justice.\r\n\r\n- direct the State Department to provide Congress with a detailed assessment of the efficacy of current Honduran government efforts to protect freedom of expression and that the State Department reassess its certification of human rights conditions in Honduras.\r\n\r\n- immediately investigate threats against American citizens, report the findings of the investigation to Congress, and include in the report what actions the administration has taken in response.</blockquote>\r\n--------\r\n\r\nWhen you call, ask to speak with the aide who handles foreign policy. \_Use the script below in speaking with the aide. If the foreign policy aide is not available, ask to leave a message on his or her voice mail.\_ Be sure to get the name of the foreign policy staffer so you can follow up by e-mail.\r\n\r\nScript: \_“My name is ________ and I’m a constituent calling from _________.\_ I’m calling to ask Senator/Representative _____ to sign the Markey/Schakowsky “Dear Colleague” letter calling for immediate action to address an alarming recent pattern of threats against journalists, human rights defenders, and international human rights observers working in Honduras. Has Senator/Representative _______ seen this letter? Can I count on him/her to sign on? Please call me at (_your phone number_) to let me know if you have seen the letter, and if Senator/Representative _____ will sign it.”\r\n\r\n<em>To sign on to the letter, ask the foreign policy staffer to contact Aaron Weinberg with Rep. Schakowsky (<a href=\"mailto:Aaron.Weinberg@mail.house.gov?eType=EmailBlastContent&amp;eId=e40d6e56-d35c-445e-9aa6-70209a98d0e4\" target=\"_blank\" rel=\"noopener\">Aaron.Weinberg@mail.house.gov</a>) or Satrajit (Jitu) Sardar with Sen. Markey (Satrajit_Sardar@markey.senate.gov). Please do not contact Schakowsky or Markey’s staff yourself, but please do ask the staffer to do so.</em>\r\n\r\n**In your phone conversation, please highlight why this letter is important to you, especially if you have travelled to Honduras or heard a Honduran leader/organizer speak in your community."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+  field_mt_slideshow:
+    -
+      value: false

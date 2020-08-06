@@ -1,0 +1,148 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: d9b4a11a-f5d2-4a65-a0ae-daea2c7f0b0a
+  bundle: mt_timeline_block
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: Timeline
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_tml_timeline_item:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: b13baa00-c5c9-415a-9c77-4d9055e4e4b5
+          bundle: mt_timeline_item
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1518447646
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_tml_timeline_date:
+            -
+              value: '2018-02-12'
+          field_mt_tml_timeline_link:
+            -
+              uri: 'internal:/node/2'
+              title: ''
+              options: {  }
+          field_mt_tml_timeline_title:
+            -
+              value: 'Call for Abstracts'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 09ffeef4-ef7c-4754-a385-6be2c4ec793f
+          bundle: mt_timeline_item
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1518447646
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_tml_timeline_date:
+            -
+              value: '2018-02-28'
+          field_mt_tml_timeline_link:
+            -
+              uri: 'internal:/node/1'
+              title: ''
+              options: {  }
+          field_mt_tml_timeline_title:
+            -
+              value: 'Abstract Submissions Deadline'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: de4de805-1a9d-4d4c-a97d-a2a0602b0d88
+          bundle: mt_timeline_item
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1518447793
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_tml_timeline_date:
+            -
+              value: '2018-06-30'
+          field_mt_tml_timeline_title:
+            -
+              value: 'End of Abstract Reviews and Notification to Authors'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: c0d88bd9-e714-47fb-81d4-09d945376a7c
+          bundle: mt_timeline_item
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1518683964
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_tml_timeline_date:
+            -
+              value: '2018-08-15'
+          field_mt_tml_timeline_link:
+            -
+              uri: 'internal:/node/1'
+              title: ''
+              options: {  }
+          field_mt_tml_timeline_title:
+            -
+              value: 'Opening of Early Bird Registration'
+  field_mt_tml_timeline_viewmore:
+    -
+      uri: 'internal:/'
+      title: 'View More'
+      options: {  }

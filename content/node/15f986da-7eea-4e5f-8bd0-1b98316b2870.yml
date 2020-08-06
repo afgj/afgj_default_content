@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 15f986da-7eea-4e5f-8bd0-1b98316b2870
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: International
+  created:
+    -
+      value: 1342101439
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /international
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Alianza Indígena Sin Fronteras/Indigenous Alliance Without Borders\r\n<span style=\"color: #800000;\"><a href=\"http://www.indigenousalliance.org\"><span style=\"color: #800000;\">www.indigenousalliance.org</span></a></span>\r\n\r\nAnarchists Against the Wall (AATW)\r\n<span style=\"color: #800000;\"><a href=\"http://www.awalls.org\"><span style=\"color: #800000;\">www.awalls.org</span></a></span>\r\n\r\nAsamblea de Base\r\n(no web page, contact acatlhuac@sbcglobal.net)\r\n\r\nBil’in Center for Joint Struggle\r\n(no web page)\r\n\r\nCAMEF (Cameroon)\r\n<span style=\"color: #800000;\"><a href=\"http://camef.weebly.com/\"><span style=\"color: #800000;\">camef.weebly.com</span></a></span>\r\n\r\nCampesin@ Hope in Nicaragua (CHIN)\r\n(no web page)\r\n\r\nCivil Peace Service Gaza\r\n<span style=\"color: #800000;\"><a href=\"http://www.cpsgaza.org\"><span style=\"color: #800000;\">www.cpsgaza.org</span></a></span>\r\n\r\nCoalition of Women for Peace\r\n<span style=\"color: #800000;\"><a href=\"http://www.coalitionofwomen.org/?lang=en\"><span style=\"color: #800000;\">www.coalitionofwomen.org/?lang=en</span></a></span>\r\n\r\nConversion to Reclaim Earth in the Americas (CREA)\r\n(no web page)\r\n\r\ne-TeamMed Foundation\r\n<span style=\"color: #800000;\"><a href=\"http://www.e-teammed.com/ENG.html\"><span style=\"color: #800000;\">www.e-teammed.com</span></a></span>\r\n\r\nJuthour Arboretum (Ramallah)\r\n<span style=\"color: #800000;\"><a href=\"http://juthour.org/\"><span style=\"color: #800000;\">juthour.org</span></a></span>\r\n\r\nLajee Center\r\n<span style=\"color: #800000;\"><span style=\"color: #800000;\"><a href=\"http://www.lajee.org/?lang=en\">www.lajee.org/</a></span></span>\r\n\r\nMossadegh Project\r\n<span style=\"color: #800000;\"><a href=\"http://www.mohammadmossadegh.com\"><span style=\"color: #800000;\">www.mohammadmossadegh.com</span></a></span>\r\n\r\nNija'nu Apoyando a Nuestros Abuelos A.C.\r\n<span style=\"color: #800000;\"><a href=\"http://www.nijanu.org/\" target=\"_blank\"><span style=\"color: #800000;\">www.nijanu.org</span></a></span>\r\n\r\nOne Democratic State Group\r\n<span style=\"color: #800000;\"><a href=\"http://www.odsg.org\"><span style=\"color: #800000;\">www.odsg.org</span></a></span>\r\n\r\nPalestine Youth for Peace &amp; Justice\r\n<span style=\"color: #800000;\"><a href=\"http://www.nilin-village.org/\"><span style=\"color: #800000;\">www.nilin-village.org</span></a></span>\r\n\r\nPartnership for a New Haiti\r\n(no web page, contact figarojoseph@gmail.com)\r\n\r\nPopular Struggle Coordinating Committee\r\n<span style=\"color: #800000;\"><a href=\"http://www.popularstruggle.org//\"><span style=\"color: #800000;\">www.popularstruggle.org</span></a></span>\r\n\r\nPot to Plate\r\n<span style=\"color: #800000;\"><a href=\"http://www.pottoplate.org/\"><span style=\"color: #800000;\">www.pottoplate.org</span></a></span>\r\n\r\nResearch Journalism Initiative\r\n<span style=\"color: #800000;\"><a href=\"http://www.ResearchJournalismInitiative.net\"><span style=\"color: #800000;\">www.researchjournalisminitiative.net</span></a></span>\r\n\r\nSolentiname Friendship Project\r\n<span style=\"color: #800000;\"><a href=\"http://www.poluscenter.org/solentiname.html\"><span style=\"color: #800000;\">www.poluscenter.org/solentiname.html</span></a></span>\r\n\r\nSustainable Orphanages for Haitian Youth\r\n<span style=\"color: #800000;\"><a href=\"http://www.sustainableorphanagesforhaiti.com/\"><span style=\"color: #800000;\">www.sustainableorphanagesforhaiti.com</span></a></span>\r\n\r\nTa'ayush\r\n<span style=\"color: #800000;\"><a href=\"http://www.taayush.org/\"><span style=\"color: #800000;\">www.taayush.org</span></a></span>\r\n\r\nUjamma Youth Farming Project\r\n<span style=\"color: #800000;\"><a href=\"http://www.ujammafarming.org\"><span style=\"color: #800000;\">www.ujammafarming.org</span></a></span>\r\n\r\nWezesha\r\n<span style=\"color: #800000;\"><a href=\"http://www.wezeshatz.org/\"><span style=\"color: #800000;\">www.wezeshatz.org</span></a></span>\r\n\r\nZochrot\r\n<span style=\"color: #800000;\"><a href=\"http://www.zochrot.org/\"><span style=\"color: #800000;\">www.zochrot.org</span></a></span>\r\n<h2 style=\"padding-left: 30px;\"></h2>\r\n&nbsp;\r\n<h2 style=\"padding-left: 30px; text-align: center;\"><strong><span style=\"color: #008080;\"><span style=\"color: #ff6600;\"><a title=\"Donations\" href=\"https://org2.salsalabs.com/o/7315/donate_page/fiscally-sponsored-projects\"><span style=\"color: #ff6600;\">DONATE</span></a></span> TO A FISCALLY SPONSORED PROJECTS</span></strong></h2>\r\n<h2 style=\"padding-left: 30px; text-align: center;\"><strong><span style=\"color: #008080;\"><span style=\"color: #ff6600;\"><a title=\"Fiscally Sponsored Projects\" href=\"https://afgj.org/sponsored-projects/fiscally-sponsored-projects\"><span style=\"color: #ff6600;\">ABOUT</span></a></span> FISCAL SPONSORSHIP</span></strong></h2>"
+      format: full_html
+      summary: ''

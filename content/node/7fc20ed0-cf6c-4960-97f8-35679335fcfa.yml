@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 7fc20ed0-cf6c-4960-97f8-35679335fcfa
+  bundle: article
+  default_langcode: en
+  depends:
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'What is Zika?'
+  created:
+    -
+      value: 1467867567
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /what-zika
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter size-full wp-image-6831\" src=\"https://afgj.org/wp-content/uploads/2016/07/zika-1.jpg\" alt=\"zika 1\" width=\"493\" height=\"603\" />\n\nBy: Lillian Garvin\n<table>\n<tbody>\n<tr>\n<td>You may find yourself asking this very question: “ What is Zika?”.\_ Zika is a viral infection found in hot tropical and subtropical areas spread by the Aedes aegypti mosquito. First news of Zika broke in 1952 with cases occurring sporadically after. The most recent and one of the largest outbreaks of Zika happened early in 2015 when new reports of the viral infection was spreading through South America and neighboring areas. \_Although little is known in regards to Zika and its full spectrum of effects, we know enough to be able to protect ourselves and those we love from being infected.</td>\n</tr>\n</tbody>\n</table>\n<img class=\"aligncenter size-full wp-image-6836\" src=\"https://afgj.org/wp-content/uploads/2016/07/zika-12png.jpg\" alt=\"zika 12png\" width=\"480\" height=\"304\" />\n\nZika includes a wide spectrum symptom list ranging from mild cold symptoms to the flu. Majority of adults who contract Zika do not have any symptoms. The Centers for Disease Control and Prevention ( CDC), reports that one may experience the following symptoms: Fever, rash, joint pain, headaches and vomiting. One may experience many symptoms or none at all, each case varies. Two well known viral infections associated with this mosquito are Dengue and Chikungunya. Dengue shares many of the same symptoms with Zika. Complications have seen to arise with Dengue and Zika, but not likely with Chikungunya. Like with many things, misdiagnoses can occur. If you believe you may have been infected, it’s best to see your primary care physician as soon as possible to have blood work done.\n\n<img class=\"aligncenter size-full wp-image-6832\" src=\"https://afgj.org/wp-content/uploads/2016/07/zika-3.jpg\" alt=\"zika 3\" width=\"461\" height=\"277\" /> <img class=\"aligncenter size-full wp-image-6833\" src=\"https://afgj.org/wp-content/uploads/2016/07/zika-4.jpg\" alt=\"zika 4\" width=\"468\" height=\"351\" />\n\nBrazilian clinics found that the most at risk were adults and those expecting. The good news however is, children have rarely contracted the viral infection during the most recent outbreak. Special consideration should be taken if one is pregnant or planning a pregnancy soon. There has since been a rise in Microcephaly cases in newborns as well as Guillain Barre Syndrome in adults since the recent outbreak. Microcephaly is a neurological disease that affects a baby’s brain development. This usually results in abnormal brain size, typically smaller brains. Guillain Barre is a syndrome that affects adults more than children. With this syndrome, the immune system attacks it’s nerves which may result in varying degrees of paralysis. \_While a concrete connection has not been confirmed, scientists do believe that Zika virus has caused several birth defects. Analysis is still being done to determine what lasting effects Zika may have on anyone who contracts the virus. Recent findings suggest that a small percentage of adults were reporting an autoimmune disease after exposure to Zika. While this has yet to be confirmed as a result of the virus, it’s important that adults and children take measures to protect themselves.\n\n<img class=\"aligncenter size-full wp-image-6837\" src=\"https://afgj.org/wp-content/uploads/2016/07/zika-122.jpg\" alt=\"zika 122\" width=\"480\" height=\"323\" />\n\nSummer of 2016 is showing signs of being a busy summer for travel to the Caribbean and Central &amp; South America. Prevention is key to best arm yourself against this virus. The Aedes Aegypti mosquito bites occur during the day, making daily prevention crucial. There currently is no vaccine or pill against Zika, but other preventative measures can help reduce the chances of being bitten greatly. The virus can spread sexually or through mosquito bite.\_ In the areas surrounding places of residency, items that can collect water and form breading areas should be promptly removed and covered. It’s best to wear long sleeves and clothing that covers skin to reduce chance of a bite. Screens or mosquito nets have shown to help reduce the chances of a bite as well. Those who are sexually active are advised to take into consideration their partners recent travels, medical history and practice safe measures to prevent sexual transmission of viral infections. Bug spray and repellents can help protect exposed skin. For many years now, a controversy on the use of DEET in repellents has been seen. Duke University conducted research and found that sporadic use of products containing DEET, did not have a lasting harmful effect on the body. DEET continues to be the strongest type of repellant. Prolonged use of any repellant has its negative effects on the body. For more information on choosing the right insect repellant for you, please refer to the US Environmental Protection Agency (EPA) Insect Repellent Data search.\n\n<img class=\"aligncenter size-full wp-image-6834\" src=\"https://afgj.org/wp-content/uploads/2016/07/zika-5.jpg\" alt=\"zika 5\" width=\"468\" height=\"304\" /> <img class=\"aligncenter size-full wp-image-6835\" src=\"https://afgj.org/wp-content/uploads/2016/07/zika-6.jpg\" alt=\"zika 6\" width=\"468\" height=\"281\" />\n\n<u>References</u>\n\nSymptoms, Diagnosis, &amp; Treatment. (2016). \_From\_ http://www.cdc.gov/zika/symptoms/index.html\n\n&nbsp;\n\nFind the Insect Repellent that is Right for You. (n.d.). Retrieved May, 2016, from https://www.epa.gov/insect-repellents/find-insect-repellent-right-you\n\n&nbsp;\n<ol>\n \t<li>(June 8). Is it true that the DEET used in most mosquito repellents is toxic? Retrieved May, 2016, from http://www.scientificamerican.com/article/is-it-true-that-the-deet/</li>\n</ol>\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

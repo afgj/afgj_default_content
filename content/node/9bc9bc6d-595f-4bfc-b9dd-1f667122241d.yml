@@ -1,0 +1,67 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 9bc9bc6d-595f-4bfc-b9dd-1f667122241d
+  bundle: article
+  default_langcode: en
+  depends:
+    4848f7f1-d8a6-4770-9e04-5737ab5cc97d: taxonomy_term
+    7c24d703-ad76-40f5-8889-a30cb1700fd3: taxonomy_term
+    d7484f78-fd8a-49f7-afcb-5b7fed9db70f: taxonomy_term
+    e2cd83a2-4ff6-40be-8260-0b38e269f80f: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    b2c352f2-62d9-485a-b8f0-d6687d083f48: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Under Arpaio'
+  created:
+    -
+      value: 1474277139
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /under-arpaio
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "https://www.youtube.com/watch?v=z08FMfgiGAc\n<h3>Interview and video by Chelli Stanley and Will Wickham.</h3>\nJoe Arpaio was convicted of criminal contempt in July 2017 for defying a federal court’s demand to stop detaining immigrants without sufficient grounds. In a lawsuit, he had been accused of racially profiling Latinos and detaining them on the suspicion that they were in the country illegally. During his tenure as sheriff, which ended in 2016 after he lost his campaign for reelection, Arpaio allowed crime rates to soar in Maricopa County while he focused his department’s energies on federal immigration law. He was pardoned by President Donald Trump in September 2017.\n\nThis documentary is the harrowing story of a community’s fight against Arpaio during his time in office. These were people seldom seen in the media that had been working for justice and to end Arpaio’s human rights abuses. Stories of abuses through racially profiling, beatings and killings in jail, and arrests for opposition against the Sheriff were retold by this community under threat. Under Arpaio tells the account of the people taking a stand and organizing for dignity and justice in Arizona by standing up against the self-proclaimed “toughest Sheriff.”"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 4848f7f1-d8a6-4770-9e04-5737ab5cc97d
+    -
+      entity: 7c24d703-ad76-40f5-8889-a30cb1700fd3
+    -
+      entity: d7484f78-fd8a-49f7-afcb-5b7fed9db70f
+    -
+      entity: e2cd83a2-4ff6-40be-8260-0b38e269f80f
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: b2c352f2-62d9-485a-b8f0-d6687d083f48
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

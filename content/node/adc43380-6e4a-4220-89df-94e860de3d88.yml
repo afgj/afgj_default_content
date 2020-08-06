@@ -1,0 +1,107 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: adc43380-6e4a-4220-89df-94e860de3d88
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    1c0c4377-b739-4293-a00a-331346b8aa16: taxonomy_term
+    cd0b4a40-9b03-4048-a812-892416542fb4: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    a64fa2f8-f73c-4f83-bbdc-b45341948bae: taxonomy_term
+    8ddb9025-ba32-4049-afa3-272a7db9b2c0: taxonomy_term
+    3e828d2d-3331-4ce2-81bc-5ca65d92ca91: taxonomy_term
+    e5077d17-46cb-4167-93eb-9ba25ec5e95c: taxonomy_term
+    82d01178-61d7-46e3-98b4-e591ef91ccce: taxonomy_term
+    45e79247-3963-45ab-a4aa-ca132d09a450: taxonomy_term
+    dad8fb60-ee71-40dc-ba8d-2153898e72da: taxonomy_term
+    cbb34cf0-3944-4473-889f-49d7489d4569: taxonomy_term
+    da823151-0c85-4127-a423-a26ae1c95cf5: taxonomy_term
+    381d7a91-e5a4-4ded-a5fe-dfa81cfe4736: taxonomy_term
+    e9ac88cc-8ffb-4fe4-926c-0a55470f5a62: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: '"We resist death, we want to live!" An appeal to US workers from Colombian rural workers'
+  created:
+    -
+      value: 1510842417
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /we-resist-death-we-want-live-appeal-us-workers-colombian-rural-workers
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Call to International Solidarity with the Colombian Rural Struggle, in Defense of the Land, for the Implementation of the Peace Accords, and the Right to Life and for Dignified Work </strong>\n\n<strong>- translated by Nasim Chatha</strong>\n<p style=\"text-align: center;\"><img class=\"alignleft wp-image-7009 size-medium\" src=\"https://afgj.org/wp-content/uploads/2016/09/043-213x300.jpg\" alt=\"\" width=\"213\" height=\"300\" /></p>\n<em>Colombia's largest federation of rural workers' unions calls for solidarity with Colombian workers and social movements in their struggle for a just and durable peace. Enemies of peace in Colombia are waging a campaign of violence against farming, indigenous, and Afro-Colombian communities, killing their leaders and displacing people from their homes. Over the first year of the peace agreement between the Colombian government and the Revolutionary Armed Forces of Colombia - People's Army (FARC-EP), 130 social movement and human rights defenders have been killed, as well as 31 ex-insurgents who had laid down their weapons. Displacement in rural areas continues at the rate of 17,000 individuals per month. This repression undermines peace in Colombia, but advances the interests of big landowners and transnational corporations who want to control Colombia's resources for themselves. The don't want peace and they oppose any concessions to unionists, popular movements, and rural families. International awareness and solidarity, especially among workers, is key to building a lasting and just peace in Colombia. UPDATE: This call for solidarity was issued during the midst of a National Strike for Peace in Colombia. That strike has been suspended because the government has agreed to negotiations with popular movements. However, political murders and displacement continue as does the need for international support.\_</em>\n<h2 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25589\">Click here to send President Juan Manuel Santos a copy of the People's Human Rights Observatory Declaration for Peace in Colombia!</a></h2>\nThe National Days of Indignation were initiated on October 10, called by diverse organized sectors and from different spaces of unified action such as the network of social organizations, the Unitary National Council, the Indigenous Minga, the Cumbre Agraria (Agrarian Summit), and FENSUAGRO, one of the largest union organizations representing farmers and agriculture workers in Colombia.\n\nThe struggle of the rural workers and farmers, of their agrarian unions, and, in general, of the residents of the Colombian countryside, is submerged in poverty. Since the National Strike of 2013, they have come urgently demanding the realization of structural reforms that would positively modify the current conditions of social exclusion in which the great majority of inhabitants of rural zones in our county live. These people have historically suffered the weight of the violence of the State, whose army has been immersed in paramilitarism and the dirty war against the rural population, its principle leaders, and the working class. Nevertheless with the Havana peace agreements between the FARC-E.P insurgency and the Colombian government, new perspectives were opened to begin to change this cruel situation and democratize the life of Colombian society. To this end, international solidarity and pressure of the global union movement are necessary, and in general the voice of the workers in the whole world.\n\nThe government of President Juan Manuel Santos has fallen into a type of inertia which impedes it from advancing its orbit with the force necessary to definitively win the terrain of peace, and to not cede to the blackmail of the so-called “opposition.” The opposition is a strong neoconservative current of the extreme right that wants to impose a model of peace based in impunity [for its crimes] and the concentration of political and economic power in the hands of the parasitic oligarchy of big landowner-narcos allied with the most dismal interests of transnational capital.\n\nIn the face of this, we, the farming, indigenous, and Afro-descendent peoples, haven’t had any options besides mobilization. Our feet are again on the highways and terrain of all the nation’s territory, exercising our legitimate right to protest. We are demanding the full guarantee and respect of human rights; a definitive solution to the situation of humanitarian crisis in which thousands of rural families [in order to survive] must produce illicit crops; the implementation of a true, comprehensive agrarian reform, and in general terms, the completion of the implementation of the Havana peace accords.\n\nFrom our agrarian union federation [FENSUAGRO], we urgently call the workers and the global union movement and in particular those in the United States, to strengthen your solidarity and support the fair struggle to liberate our rural communities, to win the right to peace and social justice. We resist death, we want to live!\n\nFrom our lands to yours a revolutionary embrace. We know we are not alone, and we’re counting on you!\n\nNational Unitary Federation of Agrigultural Workers Unions- FENSUAGRO - CUT\n\nExecutive Committee\n\nEBERTO DIAZ MONTES\n\nPresident\n\nNIDIA QUINTERO\n\nGeneral Secretary"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 1c0c4377-b739-4293-a00a-331346b8aa16
+    -
+      entity: cd0b4a40-9b03-4048-a812-892416542fb4
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false
+  field_tags:
+    -
+      entity: a64fa2f8-f73c-4f83-bbdc-b45341948bae
+    -
+      entity: 8ddb9025-ba32-4049-afa3-272a7db9b2c0
+    -
+      entity: 3e828d2d-3331-4ce2-81bc-5ca65d92ca91
+    -
+      entity: e5077d17-46cb-4167-93eb-9ba25ec5e95c
+    -
+      entity: 82d01178-61d7-46e3-98b4-e591ef91ccce
+    -
+      entity: 45e79247-3963-45ab-a4aa-ca132d09a450
+    -
+      entity: dad8fb60-ee71-40dc-ba8d-2153898e72da
+    -
+      entity: cbb34cf0-3944-4473-889f-49d7489d4569
+    -
+      entity: da823151-0c85-4127-a423-a26ae1c95cf5
+    -
+      entity: 381d7a91-e5a4-4ded-a5fe-dfa81cfe4736
+    -
+      entity: e9ac88cc-8ffb-4fe4-926c-0a55470f5a62

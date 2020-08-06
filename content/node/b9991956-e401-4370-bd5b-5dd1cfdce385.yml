@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b9991956-e401-4370-bd5b-5dd1cfdce385
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Our Mission'
+  created:
+    -
+      value: 1317094635
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /our-mission
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Our Vision</strong>\r\n\r\nWe envision societies which explore and implement alternatives to the unjust domination of governments, global financial institutions and multinational corporations which denigrate the world’s peoples and devastate ecosystems. We envision the development of a unified domestic and international movement of transformational grassroots organizations that promote a socially, ecologically and economically just world.\r\n\r\n<strong>Our Mission</strong>\r\n\r\nIt is the mission of the Alliance for Global Justice to achieve social change and economic justice by helping to build a stronger more unified grassroots movement. We recognize that the concentration of wealth and power is the root cause of oppression requiring us to work together across ideologies, issues and communities. The Alliance nurtures organizations seeking fundamental change in international and national conditions that disempower people, create disparities in access to wealth and power, poison the earth, and plunder its resources.\r\n\r\nWe support locally-based grassroots organizing by sharing political analysis, mobilizing for direct action, monitoring the centers of corporate and government power, expanding channels of communication, and sharing skills and infrastructure. Our commitment to solidarity and to non-hierarchical democratic process enables us to respectfully listen and respond to each other within the movement.\r\n\r\n<strong>Four Areas of Struggle</strong>\r\n<p lang=\"en-US\">We identify four main areas of interwoven struggle for liberation from Empire and for a better, more beautiful world. These are the struggles:</p>\r\n<p lang=\"en-US\">For Economic Justice–We stand in favor of community-based development versus corporate globalization and privatization. We believe a just society is oriented toward meeting the needs and supporting the sufficiency of its own people, not toward creating vast inequality and mega-profits for those at the top at the expense of the many.\_ We oppose neoliberal economics and its manifestations as Free Trade Agreements and austerity programs imposed on other countries via “aid” programs that encourage privatization, the International Monetary Fund, the World Bank and various other institutions.</p>\r\n<p lang=\"en-US\">Against US Militarism–We recognize that at their roots, militarism and modern wars result from coercive force and violent oppression waged in favor of economic and political systems that seek to concentrate wealth, power and resources in the hands of a privileged few. Spending about as much as the rest of the world combined on military expenditures, the US war machine has become global Capital’s “insurance company”, fighting to open, secure, protect and guard the interests of transnational corporations via US military dominance around the world.</p>\r\n<p lang=\"en-US\">For Real Democracy–We work for participatory democracy and against false democratic forms that reinforce inequality and undermine communities. We denounce electoral processes that give enormous and undue influence to wealthy corporations while marginalizing the decision-making capabilities of our own communities.\_ We consider to be a major part of our international solidarity work the task of exposing and opposing US interference in other countries via the mis-named National Endowment for Democracy and other components of US democracy manipulation efforts.</p>\r\nFor Ecological Integrity–We advocate for ecological sustainability, threatened worldwide because of the consumptive excesses of wealthy nations and their constant search for new resources to exploit. Global warming is a direct result of this excess and the drive to put profits before the planet’s own health.\_ Another result is the ongoing effort by private, multinational corporations to gain control over natural resources. The communities that live in and are part of an ecosystem should have a direct voice in deciding how its resources will be used and managed, over and above corporate and foreign interests.\r\n\r\n<strong>In Memory of Trim Bissell (1942-2002)\r\n</strong>\r\n\r\n<a href=\"https://afgj.org/wp-content/uploads/2011/08/Bissel.jpg\"><img class=\"alignleft size-full wp-image-1402\" style=\"padding: 5px;\" title=\"Trim Bissel's Painting\" src=\"https://afgj.org/wp-content/uploads/2011/08/Bissel.jpg\" alt=\"\" width=\"220\" height=\"220\" /></a>\r\nThe art utilized as the background for this website was painted by Trim Bissell. Trim founder and National Co-Coordinator of the Alliance for Global Justice's Campaign for Labor Rights, succumbed after a 20-month battle with a brain tumor and left the ranks of those who struggle for justice and peace. Trim died on June 15, 2002 in the home he shared with his wife, Ruth Evan. He was surrounded by his art, vividly colored paintings and sculptures that were his third passion in life following Ruth and the Campaign for Labor Rights. His memory is carried on in his art and the work of the Alliance for Global Justice."
+      format: full_html
+      summary: ''

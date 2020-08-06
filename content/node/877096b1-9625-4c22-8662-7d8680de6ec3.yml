@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 877096b1-9625-4c22-8662-7d8680de6ec3
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicaragua Indigenous Rights Delegation'
+  created:
+    -
+      value: 1387463168
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicaragua-indigenous-rights-delegation
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong><img class=\"alignleft  wp-image-5319\" title=\"Delegation to Nigaragua in 2012\" alt=\"IMG_2141 (640x360)\" src=\"https://afgj.org/wp-content/uploads/2013/12/IMG_2141-640x360.jpg\" width=\"474\" height=\"275\" />March 15 - 25, 2014</strong>\r\n\r\nThis delegation will examine the state of indigenous rights in Nicaragua at a time when the government has demarcated indigenous land and granted communal titles to indigenous groups but also at a time when illegal loggers and land grabbers have invaded those lands, deforesting pristine, internationally recognized nature reserves and threatened the tranquility of the indigenous territories.\r\n\r\nJoin Nicaragua Network National Co-Coordinator Katherine Hoyt and Alliance for Global Justice board chair Charlie Delaney-Megeso, a member of the Nulhegan-Coosuk tribe of the Abenaki\_Nation, who has represented the Nicaraguan Miskito in the United States.\r\n\r\n<span style=\"color: #800000;\"><strong>To apply:</strong></span> Email Chuck Kaufman at chuck@afgj.org for a delegation application\r\n\r\n<span style=\"color: #800000;\"><a href=\"https://org2.salsalabs.com/o/7315/donate_page/nicaragua-delegation\"><span style=\"color: #800000;\"><strong>Pay your delegation fee here</strong></span></a></span>"
+      format: full_html
+      summary: ''

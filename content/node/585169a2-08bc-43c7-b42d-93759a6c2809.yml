@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 585169a2-08bc-43c7-b42d-93759a6c2809
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Urgent-Colombia minga betrayed, Uribe defends possible massacre of protesters'
+  created:
+    -
+      value: 1554848139
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /urgent-colombia-minga-betrayed-uribe-defends-possible-massacre-protesters
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h6 style=\"text-align: center;\"><a href=\"https://default.salsalabs.org/T67da1905-a916-443c-8cd3-a83b946eca04/4950c7c6-7af0-48ec-ae58-6309a02bc06a\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T67da1905-a916-443c-8cd3-a83b946eca04/4950c7c6-7af0-48ec-ae58-6309a02bc06a&amp;source=gmail&amp;ust=1554959342720000&amp;usg=AFQjCNG2eC8JGIIi7iNAFZB2KIxv0taJGA\"><img id=\"m_6499067845405645444id_b8d22ebf-f900-4219-a4c2-34a3c1e9b51f_img\" class=\"m_6499067845405645444media-object CToWUd aligncenter\" src=\"https://ci5.googleusercontent.com/proxy/Dwh-_TvykG-pNoNUEGhim5Go8rAwwkrm-ej7h_ygYIZ2ZB_oMvMeVnz4Vi1V5B8w9h07EIUHwu8qC65brpkufrLdn-XybY5uG53m-B6XYCAU4kAIxcDQyOtaBgASS_AOI9q3bk0XPKfWusvoGrS85MqPKPy5ignMB0WhL0g4=s0-d-e1-ft#https://default.salsalabs.org/97fb6dc2-9ca0-4b11-b092-c887206f06db/4bf9d830-eb58-43ae-8b8e-eb8b625866fa.jpg\" width=\"540\" align=\"middle\" /></a>Indigenous, Afro-Colombian, and rural popular movement leaders wait for President Duque to sign accords for land rights and an end to political violence. Only 200 meters away, Duque changes his mind and goes home.</h6>\r\nThe Alliance for Global Justice is saddened and enraged tha<a href=\"https://default.salsalabs.org/Tf4a25cd6-ecf7-41c0-b68f-90ffca5e655c/4950c7c6-7af0-48ec-ae58-6309a02bc06a\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tf4a25cd6-ecf7-41c0-b68f-90ffca5e655c/4950c7c6-7af0-48ec-ae58-6309a02bc06a&amp;source=gmail&amp;ust=1554959342720000&amp;usg=AFQjCNEjqyVrYJ0kSljB5-mzTpxbHJNGIA\">t Colombia's President Iván Duque, just 200 yards away, decided to abandon his visit with indigenous and popular movement leaders in Cauca</a>. After weeks of protests for land rights and against political violence, the government had reached preliminary accords to address the concerns. President Duque was supposed to finalize the accords on Tuesday, April 9 2016.\r\n\r\nJust two days before, former President, current Senator, Duque's mentor, and \"Father of Colombia's Death Squads\",\_<a href=\"https://default.salsalabs.org/T4f2c3306-32b0-4de0-9064-1b31a6ace9ac/4950c7c6-7af0-48ec-ae58-6309a02bc06a\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T4f2c3306-32b0-4de0-9064-1b31a6ace9ac/4950c7c6-7af0-48ec-ae58-6309a02bc06a&amp;source=gmail&amp;ust=1554959342720000&amp;usg=AFQjCNEwiukVAS4s5IVBZw8i3L8YmBiDTg\">Álvaro Uribe posted a threatening message on twitter</a>: \"If the authorities, serene, firm and with social criteria are involved in a massacre it is because there is violence and terror from the other side more than protest.”\r\n\r\nWe must not allow these outrageous acts against peace and indigenous and rural communities to stand unchallenged.\r\n<h3 style=\"text-align: center;\"><a href=\"https://default.salsalabs.org/T9953a6fe-2443-4af2-8b1a-8905247d25cd/4950c7c6-7af0-48ec-ae58-6309a02bc06a\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T9953a6fe-2443-4af2-8b1a-8905247d25cd/4950c7c6-7af0-48ec-ae58-6309a02bc06a&amp;source=gmail&amp;ust=1554959342720000&amp;usg=AFQjCNHSltvirq_pMkmMeV-eLaG_WSzl-Q\"><span style=\"color: #993300;\">Click here to send an email to President Duque and the Colombian Ministry of Tourism. We demand that Duque finalize accords with the minga. Let the authorities know that\_if Colombia is not safe for peace, then it is not safe for tourism!</span></a></h3>\r\nDuque's decision to abandon the agreements with the \"minga\" indigenous and popular movement protests is not just a betrayal of the people. He is not just responding to pressure from his patron,\_Álvaro Uribe. He's also taking his lead from Washington, DC. The Trump administration is waging its own assault on Colombia's peace process and funding the very armed forces that have been attacking the minga.\r\n\r\nFollowing is a translation of the message that you will send:\r\n\r\n<em>If Colombia isn’t safe for the minga, how can it be safe for me?</em>\r\n\r\n<em>I write not only to President Duque, but also to Colombia’s Ministry of Commerce, Industry and Tourism:</em>\r\n<p style=\"padding-left: 40px;\"><em>1. To President Duque, I say that the world is watching, and as an internationalist, I join my voice to that of the indigenous and rural protests (minga) to demand your presence to approve and finalize the accords already reached between the government of Colombia and the minga popular movement.</em></p>\r\n<p style=\"padding-left: 40px;\"><em>2. To the\_ Office of Commerce, Industry and Tourism, I ask, If Colombia is not a safe place for peace and popular and indigenous movements, how can it be a safe and sound place for a visit by my family and me? What is happening in Colombia affects me and affects my considerations about tourist security. I hope that the Office of Tourism will communicate to the president that a reputation for political violence can potentially inhibit tourism to your beautiful country.</em></p>\r\n<em>I am completely in shock by the decision of President Iván Duque to break the negotiations with the minga in Cauca. The president was almost at the meeting with indigenous leaders when he changed his mind and decided not to attend. More terrible than anything\_is that this development occurred two days after the Senator and Father of the Paramilitaries, Álvaro Uribe emitted a tweet that justified the possibility of a massacre against the protesters. Expressing his displeasure with agreements reached between the minga and the government, Uribe wrote, “If the authorities, serene, firm and with social criteria\_are involved in a massacre, it is because there is violence and terror from the other side more than protest.” The cruel and inhumane cynicism in this message is unfathomable. Minga participants have suffered all manner of property destruction, assaults by the Armed Forces, injuries, and even deaths. The minga’s demands for land rights and an end to the violence against their communities are just.</em>\r\n<h3 style=\"text-align: center;\"><a href=\"https://default.salsalabs.org/Ta116ae00-c838-4119-8405-eecdb75e4b1c/4950c7c6-7af0-48ec-ae58-6309a02bc06a\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Ta116ae00-c838-4119-8405-eecdb75e4b1c/4950c7c6-7af0-48ec-ae58-6309a02bc06a&amp;source=gmail&amp;ust=1554959342720000&amp;usg=AFQjCNEfVsJiz-VXUL1rGdbJaJn1J6fqnw\"><span style=\"color: #993300;\">One more action you can take for peace in Colombia: Support AfGJ's human rights mission to Cauca and Valle de Cauca</span></a></h3>\r\nThe Alliance for Global Justice has been asked to accompany members of Colombia’s Permanent Committee for Human Rights (CPDH, Comité Permanente de Derechos Humanos) as they travel in Cauca and Valle de Cauca assessing the situation and meeting with popular movements.\r\n\r\nWe are also being asked to observe the opening days of the\_national strike. AfGJ will go to Corinto and Miranda and other parts of\_northern Cauca, where political violence has been especially bad. We are collecting funds to cover associated costs, and to raise money for medicines and food for the strikers and minga participants."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

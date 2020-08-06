@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 6dda0c77-25a8-43d9-b1ad-98ea5ad74ec4
+  bundle: article
+  default_langcode: en
+  depends:
+    bce432a9-c8d4-4656-a968-f6cc71b1b890: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Countering Disinformation on the ALBA Countries: AfGJ Ven-ALBA Weekly July 27, 2018'
+  created:
+    -
+      value: 1532693253
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /countering-disinformation-alba-countries-afgj-ven-alba-weekly-july-27-2018
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"wp-image-10428 size-full aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/07/1532705146140blob-1.png\" alt=\"\" width=\"676\" height=\"450\" />\r\n\r\n<hr />\r\n&nbsp;\r\n<h2>The News This Week</h2>\r\n<p dir=\"ltr\"><strong>Nicaragua</strong></p>\r\n<p dir=\"ltr\"><a href=\"https://afgj.org/the-case-against-daniel-ortega\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/the-case-against-daniel-ortega&amp;source=gmail&amp;ust=1532799111100000&amp;usg=AFQjCNFmefIGk6gvAEDXEXkXNDsfX-H4Ag\">Chuck Kaufman \_The Case Against Daniel Ortega<br class=\"m_2225468426959508132m_-2280800121678661514ydpbd02d706kix-line-break\" /></a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.telesurtv.net/english/news/After-The-Failed-Coup-After-All-The-Lies-Nicaragua-Rebuilds-20180725-0023.html\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/After-The-Failed-Coup-After-All-The-Lies-Nicaragua-Rebuilds-20180725-0023.html&amp;source=gmail&amp;ust=1532799111100000&amp;usg=AFQjCNG4Lwn-izVHhROgSFLtRrHGiFXmkA\">After The Failed Coup, After All The Lies, Nicaragua Rebuilds &amp; TeleSur Interview with Nicaragua President Daniel Ortega</a></p>\r\n<p dir=\"ltr\"><a href=\"http://www.nscag.org/news/article/248/nscag-statement-and-briefing-july-2018\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.nscag.org/news/article/248/nscag-statement-and-briefing-july-2018&amp;source=gmail&amp;ust=1532799111100000&amp;usg=AFQjCNGcO8OsklHnBrtKULqhAaX4AMAjcA\">Britain’s Nicaragua Solidarity Campaign statement on Nicaragua situation</a></p>\r\n\r\n<div><strong>Venezuela</strong></div>\r\n<p dir=\"ltr\"><a href=\"https://venezuelanalysis.com/analysis/13960\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://venezuelanalysis.com/analysis/13960&amp;source=gmail&amp;ust=1532799111100000&amp;usg=AFQjCNGG60hN8_Gp_-FsMp9JwJMMHAg3ow\">Ricardo Vaz Fighting for the Construction of Chávez’s Commune in the 23 de Enero</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.telesurtv.net/english/news/Venezuelan-Campesinos-March-To-Caracas-To-Talk-With-Maduro---20180723-0027.html\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Venezuelan-Campesinos-March-To-Caracas-To-Talk-With-Maduro---20180723-0027.html&amp;source=gmail&amp;ust=1532799111100000&amp;usg=AFQjCNGy_LD62Alvk6ct46A6YA9x_BiTIA\">Venezuelan Campesinos March To Caracas To Talk With Maduro</a></p>\r\n<p dir=\"ltr\"><a href=\"https://chicagoalbasolidarity.wordpress.com/2018/07/18/marta-harneckers-venezuela-after-the-elections-what-is-to-be-done-and-marx-luxembourg-and-lenin-on-the-role-of-cooperatives/\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://chicagoalbasolidarity.wordpress.com/2018/07/18/marta-harneckers-venezuela-after-the-elections-what-is-to-be-done-and-marx-luxembourg-and-lenin-on-the-role-of-cooperatives/&amp;source=gmail&amp;ust=1532799111100000&amp;usg=AFQjCNEUvmHTZiDgwZAUHFdSIeUYrdABdw\">Stansfield Smith: Marta Harnecker’s Venezuela — after the elections: what is to be done? and Marx, Luxembourg and Lenin on the Role of Cooperatives</a></p>\r\n\r\n<div><strong>Cuba</strong></div>\r\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/telesurenglish/videos/1437802683029796/\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.facebook.com/telesurenglish/videos/1437802683029796/&amp;source=gmail&amp;ust=1532799111100000&amp;usg=AFQjCNEXVolUsSm1fY94iKc7ufQ00k4rfg\">July 26: \_Anniversary of the attack on Moncada Barracks</a></p>\r\n<p dir=\"ltr\"><a href=\"http://resumen-english.org/2018/07/there-will-never-be-room-to-divide-or-desist/\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://resumen-english.org/2018/07/there-will-never-be-room-to-divide-or-desist/&amp;source=gmail&amp;ust=1532799111100000&amp;usg=AFQjCNEXk-UKva-s5FSvmnUiGsYpKrNHQA\">Cuba President Miguel Díaz-Canel Speech at Sao Paulo Forum: There Will Never Be Room to Divide or Desist!</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.telesurtv.net/english/news/Cuba-Castro-DenouncesUS-Siegeon-Cuba-Venezuela-Nicaragua-20180726-0016.html\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Cuba-Castro-DenouncesUS-Siegeon-Cuba-Venezuela-Nicaragua-20180726-0016.html&amp;source=gmail&amp;ust=1532799111100000&amp;usg=AFQjCNHPffmw-5Bk9IazKVbqI4uPS6saJQ\">Cuba: Castro Denounces US Siege on Cuba, Venezuela, Nicaragua</a></p>\r\n<p dir=\"ltr\"><a href=\"http://www.peoplesworld.org/article/protecting-the-revolution-a-new-constitution-for-cuba/\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.peoplesworld.org/article/protecting-the-revolution-a-new-constitution-for-cuba/&amp;source=gmail&amp;ust=1532799111100000&amp;usg=AFQjCNExY2W3KksLG28sGkm7KdZhB63PzA\">Tom Whitney: Protecting the Revolution: A new constitution for Cuba</a></p>\r\n\r\n<div><strong>Bolivia</strong>:</div>\r\n<p dir=\"ltr\"><a href=\"https://www.telesurtv.net/english/news/Rafael-Correa-Confident-of-Evo-Morales-Reelection-20180720-0020.html\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Rafael-Correa-Confident-of-Evo-Morales-Reelection-20180720-0020.html&amp;source=gmail&amp;ust=1532799111101000&amp;usg=AFQjCNFm3Y0hhKGFAv1zDmoW-QkHhZ9rcg\">Rafael Correa \_Interviews Bolivia's Evo Morales</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/telesurenglish/videos/1438540919622639/\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.facebook.com/telesurenglish/videos/1438540919622639/&amp;source=gmail&amp;ust=1532799111101000&amp;usg=AFQjCNEtGIC3slvcDdv9CMkZW54KKfnaeA\">Ileana Ros- Lehtinen Threatens Bolivia in US Congress</a></p>\r\n<strong>Venezuela Webinar:</strong>\r\n<p dir=\"ltr\"><a href=\"https://afgj.org/next-venezuela-webinar-on-june-26-8pm-eastern-end-us-canadian-sanctions-against-venezuela-now\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/next-venezuela-webinar-on-june-26-8pm-eastern-end-us-canadian-sanctions-against-venezuela-now&amp;source=gmail&amp;ust=1532799111101000&amp;usg=AFQjCNFeY2IA-wAd4p4JLM3LntgpF-ENSg\">Next AfGJ Venezuela Webinar on <span class=\"aBn\" data-term=\"goog_1198136718\"><span class=\"aQJ\">July 31</span></span>: End US-Canadian Sanctions Against Venezuela Now!</a></p>\r\n<p dir=\"ltr\">Learn about a new US-Canadian campaign to end sanctions against Venezuela from\_<strong>Teri Mattson</strong>, convener of the End Venezuela Sanctions Planning Group. Teri is a Bay Area organizer who has led numerous delegations to Venezuela.</p>\r\n<p dir=\"ltr\">Learn about the effects of sanctions on Venezuela and particularly on the ordinary people of Venezuela from long-time Venezuela expert\_<strong>Gregory Wilpert</strong>. Greg is a German-American sociologist and journalist, who currently works as host and producer for The Real News Network. Previously was director of the teleSur English website. Also, he is the co-founder of Venezuelanalysis.com and the author of Changing Venezuela by Taking Power: The History and Policies of the Chávez Government (Verso Books, 2007).</p>\r\n<p dir=\"ltr\">This is part of a monthly webinar series organized by the Alliance for Global Justice. You must be registered to participate.</p>\r\n<p dir=\"ltr\"><a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED56DE84844638\" target=\"_blank\" rel=\"noopener\"><img class=\"alignnone size-medium wp-image-10366 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/07/register-now-300x162-300x162.jpg\" alt=\"\" width=\"300\" height=\"162\" /></a></p>\r\n\r\n\r\n<hr />\r\n\r\n<h2><strong style=\"font-size: 16px; letter-spacing: 0.05em;\">About the Weekly</strong></h2>\r\n<div>\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n</div>\r\n<div id=\"m_8509126310956016771yiv3059714876yui_3_16_0_ym19_1_1503062836586_3627\" dir=\"ltr\">\r\n<div class=\"sharedaddy sd-sharing-enabled\"></div>\r\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bce432a9-c8d4-4656-a968-f6cc71b1b890
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

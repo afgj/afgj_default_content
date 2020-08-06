@@ -1,0 +1,61 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5aada860-fab3-4064-a167-ec21d1d6bd31
+  bundle: article
+  default_langcode: en
+  depends:
+    559721eb-b73d-4d86-a9b5-58f46584daa3: taxonomy_term
+    cd0b4a40-9b03-4048-a812-892416542fb4: taxonomy_term
+    2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'June 15th- Join the Global Day of Action for Justice for Berta!'
+  created:
+    -
+      value: 1465887561
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /june-15th-join-global-day-action-justice-berta
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2 class=\"p2\" style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action3/common/public/?action_KEY=23131\"><strong><span style=\"color: #000000;\">Participate in the Online Action!</span></strong></a></h2>\n<h2 class=\"p2\" style=\"text-align: center;\"><span class=\"s1\"><img class=\"aligncenter\" src=\"http://org2.salsalabs.com/o/7315/images/GlobalDayOfAction.jpg\" width=\"617\" height=\"827\" /><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action3/common/public/?action_KEY=23131\"><strong>STILL NO JUSTICE FOR BERTA CÁCERES!\_</strong></a></span></h2>\n<p class=\"p2\"><span class=\"s1\">In solidarity with the call to action by the Civic Council of Popular and Indigenous Organizations of Honduras (COPINH) for June 15, 2016, the Honduras Solidarity Network of North America (HSN) is organizing an electronic action to support COPINH and the Honduran people at the same time that people around the world will take action at Honduran Embassies and Consulates.</span></p>\n<p class=\"p2\"><span class=\"s1\">Three months after the assassination of Berta Cáceres Flores, the Honduran government continues to ignore demands for an independent investigation to identify and bring to justice all of those involved in Berta's murder. At the same time new threats against COPINH's leadership and new violence against the communities and organizations opposed to the Agua Zarca project have occurred with both passive and active support from the State. \_</span></p>\n\n<h2 class=\"p2\" style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action3/common/public/?action_KEY=23131\"><span class=\"s1\">On June 15th, you can act in solidarity with COPINH!</span></a></h2>\n<p class=\"p2\"><span class=\"s1\">With one click you will be sending two messages: One to the current president of Honduras, Juan Orlando Hernandez with a copy to the Honduran Ambassador to the United States Jorge Alberto Milla Reyes and another to Secretary of State John Kerry.\_</span></p>\n\n<h2 class=\"p2\" style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action3/common/public/?action_KEY=23131\">Participate in the Action!</a></h2>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 559721eb-b73d-4d86-a9b5-58f46584daa3
+    -
+      entity: cd0b4a40-9b03-4048-a812-892416542fb4
+    -
+      entity: 2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 1e4ea563-e3d7-458e-b97a-e95ca632596b
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    0dfdb011-9c82-4762-89a0-db01e08f9fe3: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Peace for Colombia - Declaration of the Coalition Against U.S. Foreign Military Bases'
+  created:
+    -
+      value: 1533670315
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /peace-colombia-declaration-coalition-against-us-foreign-military-bases
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<em>This declaration is released on the occasion of the inauguration of Ivan Duque, August 7, 2018, as President of Colombia, and in solidarity with the many demonstrations (more than 85 in 18 countries!) in Colombia and around the world demanding an end to political violence and that the peace accords be honored!</em>\r\n\r\n<a href=\"https://afgj.org/paz-por-colombia-declaracion-de-la-coalicion-contra-bases-militares-extranjeras-de-estados-unidos\">FOR SPANISH, CLICK HERE</a>\r\n\r\n[caption id=\"attachment_10541\" align=\"aligncenter\" width=\"670\"]<img class=\" wp-image-10541\" src=\"https://afgj.org/wp-content/uploads/2018/08/WhatsApp-Image-2018-08-07-at-6.54.22-PM-1024x576.jpeg\" alt=\"\" width=\"670\" height=\"377\" /> Uruguay says NO to political violence in Colombia and YES to peace![/caption]\r\n\r\nIn Solidarity with the Popular Movements of Colombia\r\n\r\nThe <a href=\"http://nousnatobases.org/\">Coalition Against U.S. Foreign Military Bases</a> declares our solidarity with the popular movements of Colombia who are currently the targets of a systematic operation of extermination and intimidation. On August 7, 2018, the right-wing candidate Iván Duque will take possession of the office of the presidency of Colombia, backed by every business and political interest, and every paramilitary organization that wants to undermine the country’s peace.\r\n\r\nWe denounce this right-wing violence and the efforts, whether legal or illegal, to break the peace and nullify accords that have ended more than 52 years of war between the Colombian government and the FARC-EP (Revolutionary Armed Forces of Colombia – People’s Army). As a result of this war, more than 220,000 persons have lost their lives, more than 92,000 persons have been disappeared, and more than 7.7 million have been forcibly displaced. From the beginning, the most impacted communities have been the Afro-Colombian, indigenous, and rural peoples. Also, from the beginning, the root of this conflict has been the greed of global capitalism for lands and resources that are abundant in their territories. Neither the big landowners, large agribusinesses, narco-traffickers, extractivist and transnational companies, nor the death squads who serve them, nor the militaries, business people, nor politicians linked with them, want peace. They do not want to return the displaced to their homes and farms. They do not want land reforms, nor reserves that protect oppressed communities and their access to land. They do not want peace – they want total domination and the dispossession of whatever community presents an obstacle to their excessive profits.\r\n\r\nThe June 17, 2018 election of Iván Duque as President of Colombia was a victory for the enemies of peace. He won the vote in an electoral season marked by irregularities and a climate of threats and violent assaults against the Left and the Center-Left and their candidates. The situation was already deplorable before his election. Between January 1, 2016 and May 14, 2018, the Marcha Patriótica, a social movement for a just peace, had counted 385 victims of political violence. They were all members of popular and Left movements, ex-insurgents and ex-political prisoners and their families, unionists, human rights defenders, students, and/or ecological activists. The majority of the murders were committed by paramilitaries and other illegal groups. Many of the paramilitaries operate with impunity in places where there are located Colombian Armed Forces troops. The Armed Forces have also directly attacked popular movements and protests, and are being investigated for 14 murders of social leaders.\r\n\r\nOf the 385 victims between January 1, 2016 and May 14, 2018, 161 came from the Marcha Patriótica and 62% were killed in rural zones. Of these, 33 belonged to just one labor organization, FENSUAGRO (the National Unified Federation of Agricultural Workers Unions). More than a third of the victims, 33.2% were indigenous (48, or almost 18%) or Afro-Colombian (41, o a little more than 15%). Since the election of Duque in June, the situation has gotten even worse, with leaders and members of social movements and ex insurgents and their families being killed at a rate of more than one person per day.\r\n\r\nWar and repression in Colombia are direct results of the policies of the United States and transnational capitalism. In 1962, the Pentagon’s Yarborough Commission pushed Colombia to unleash military and paramilitary “terror” against rural Colombians in order to achieve territorial control for national and international capitalism. Since 2000, the US has invested $11 billion through Plan Colombia. At least 70% of that funding has gone toward the Colombian Armed Forces, and \_most the rest toward “security” apparatus and programs that benefit overall strategies of war and repression.\r\n\r\nIn exchange, the US military has been granted a presence on seven Colombian military bases. Colombia has not only given the US access to its military bases, it has converted into an important partner in US/NATO imperialism. Colombia has sent troops to Afghanistan and Yemen, and has patrolled Central American and West African coasts with the US military. Colombia has also given international training to more than 30,000 military, police, penitentiary, and court personnel. In an act of geographical discordance, Colombia has joined NATO, giving it a permanent presence in Latin America.\r\n\r\nThus, we of the <a href=\"http://nousnatobases.org/\">Coalition Against U.S. Foreign Military Bases</a> not only denounce the political violence in Colombia. We denounce that the Colombian state has become an agent of Empire that threatens its own people, the region, and the planet. We recognize that what happens in Colombia has global repercussions. We stand with Colombia’s popular movements and say with them that: The Peace of Colombia is the Peace of the World!\r\n\r\n[caption id=\"attachment_10540\" align=\"aligncenter\" width=\"644\"]<img class=\" wp-image-10540\" src=\"https://afgj.org/wp-content/uploads/2018/08/DF-1024x768.jpeg\" alt=\"\" width=\"644\" height=\"483\" /> Demonstrators from the People's Human Rights Observatory in Mexico City at the Colombian Embassy[/caption]\r\n\r\n&nbsp;\r\n\r\n[caption id=\"attachment_10534\" align=\"aligncenter\" width=\"640\"]<img class=\" wp-image-10534\" src=\"https://afgj.org/wp-content/uploads/2018/08/NYC-e1533692872240-1024x701.jpeg\" alt=\"\" width=\"640\" height=\"438\" /> New York, New York for peace in Colombia, outside the United Nations[/caption]\r\n\r\n&nbsp;\r\n\r\n[caption id=\"attachment_10533\" align=\"aligncenter\" width=\"661\"]<img class=\" wp-image-10533\" src=\"https://afgj.org/wp-content/uploads/2018/08/San-Francisco-1024x768.jpeg\" alt=\"\" width=\"661\" height=\"496\" /> San Francisco, California demonstrates for peace in Colombia, no more assassinations of social movement leaders![/caption]\r\n\r\n&nbsp;\r\n\r\n[caption id=\"attachment_10531\" align=\"aligncenter\" width=\"687\"]<img class=\" wp-image-10531\" src=\"https://afgj.org/wp-content/uploads/2018/08/Suiza-por-Colombia-1024x768.jpeg\" alt=\"\" width=\"687\" height=\"515\" /> Zurich, Switzerland wants an end to assassinations of social leaders in Colombia[/caption]\r\n\r\n\\\r\n\r\n[caption id=\"attachment_10532\" align=\"aligncenter\" width=\"680\"]<img class=\" wp-image-10532\" src=\"https://afgj.org/wp-content/uploads/2018/08/PHRO-Colombia-1024x576.jpeg\" alt=\"\" width=\"680\" height=\"382\" /> The People's Human Rights Observatory calls for peace in Colombia from the town square of Oaxaca, Mexico[/caption]\r\n\r\n&nbsp;\r\n<p style=\"text-align: center;\"><img class=\"aligncenter size-large wp-image-10537\" src=\"https://afgj.org/wp-content/uploads/2018/08/Raquel-618x1024.jpeg\" alt=\"\" width=\"618\" height=\"1024\" /></p>\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: 0dfdb011-9c82-4762-89a0-db01e08f9fe3
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

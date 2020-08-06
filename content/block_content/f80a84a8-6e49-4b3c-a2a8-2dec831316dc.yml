@@ -1,0 +1,46 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: f80a84a8-6e49-4b3c-a2a8-2dec831316dc
+  bundle: mt_background_image_block
+  default_langcode: en
+  depends:
+    ce31bbfd-4315-4b20-ae89-78636df16431: file
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Background image block - CtA'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_background_image:
+    -
+      entity: ce31bbfd-4315-4b20-ae89-78636df16431
+      alt: 'Background Image CtA'
+      title: ''
+      width: 1920
+      height: 1080
+  field_mt_bg_image_color:
+    -
+      value: 'region--dark-typography region--white-background'
+  field_mt_bg_image_layout_mode:
+    -
+      value: container
+  field_mt_bg_image_opacity:
+    -
+      value: 95
+  field_mt_bg_image_positioning:
+    -
+      value: false
+  field_mt_block_reference:
+    -
+      target_id: calltoaction

@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 88575f3b-fc93-4875-9353-7962ba361dd7
+  bundle: article
+  default_langcode: en
+  depends:
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Emergency Human Rights Delegation to Honduras'
+  created:
+    -
+      value: 1547906810
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /emergency-human-rights-delegation-honduras
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p dir=\"ltr\">Dates: March 26 - April 2, 2019</p>\r\n&nbsp;\r\n<p dir=\"ltr\">After the fraudulent elections of 2017, in which Juan Orlando Hernández was illegally re-elected as president of Honduras, the world has seen thousands of people flee the country in massive caravans; an increase of political repression and \_violence. Conditions for political prisoners such as Edwin Espinal and Raúl Álvarez are deteriorating and impunity to which the relatives of the victims and the victims of government violence have been subjected continues. The Honduran regime, supported by the governments of the United States and Canada, has targeted journalists, human rights, defenders and activists, who are arrested weekly.</p>\r\n&nbsp;\r\n<p dir=\"ltr\">In 2019, a broad coalition of Honduran political and religious groups, supported by human rights organizations, indigenous people, farmers, lgbtq community and student organizations, has been created to oppose the continuation of dictatorship. More than ever, international solidarity is necessary to support the Honduran people’s struggle for liberation.</p>\r\n&nbsp;\r\n<p dir=\"ltr\">Join us in responding to the urgent call for accompaniment in Honduras! This delegation will focus on the victims of political repression, and on the human rights activists and journalists defending the truth. We will meet with Honduran organizations and the people who are in the frontlines of the resistance. We will gather information and testimonies to hold US and Canadian officials accountable for their role in the human rights crisis increased in Honduras after the 2009 coup and for their support for Juan Orlando Hernández government.</p>\r\n&nbsp;\r\n<p dir=\"ltr\">This delegation will be led by Vicki Cervantes (AFGJ board member/ Honduras Solidarity Network and La Voz de los de Abajo coordinator) and Eduardo García (AFGJ national co-coordinator). If you have any questions or are interested in joining the delegation, please contact Eduardo at <a href=\"mailto:eduardo@afgj.org\" target=\"_blank\" rel=\"noopener\">eduardo@afgj.org</a> or 202-540-8336 ext 7. As the planning goes forward we will be able to share an agenda and more details.</p>\r\n&nbsp;\r\n<p dir=\"ltr\">Costs: $750: covers in-country transportation during the delegation, at least 2 meals a day, interpretation/translation, educational materials, logistics and coordination.\_ It does not cover transportation into and out of Honduras.</p>\r\n<b>Come be a part of this historic effort! Send an email today to <a href=\"mailto:eduardo@afgj.org\" target=\"_blank\" rel=\"noopener\">eduardo@afgj.org</a> to request your applciation. </b>\r\n\r\n<a href=\"https://afgj.org/donateafgj\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://afgj.org/donateafgj&amp;source=gmail&amp;ust=1548010586918000&amp;usg=AFQjCNFCxAoyze78qMEOxVK_9-RLAqNPZQ\">You can also click here to donate toward scholarships for black, indigenous and people of color youth who want to participate in the delegation but cannot afford the cost. Donate and send an email to eduardo@afgj.org to designate it correctly.</a>\r\n\r\n<img class=\"alignnone wp-image-11140 size-full\" src=\"https://afgj.org/wp-content/uploads/2019/01/2019.-HN-Delegation-1.-Alliance-for-Global-Justice2.png\" alt=\"\" width=\"816\" height=\"1056\" />"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 00ee566b-7eeb-4177-a606-a4b17d9714ad
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NicaNotes About'
+  created:
+    -
+      value: 1591156866
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotesabout
+      langcode: en
+      pathauto: 0
+  body:
+    -
+      value: "<p><img alt=\"NicaNotes About\" data-entity-type=\"file\" data-entity-uuid=\"434ec9fe-1bdf-4798-a307-37ddcbd4146f\" src=\"/sites/default/files/inline-images/admin-ajax.php_.jpg\" /></p>\r\n\r\n<p><span style=\"color: #000000;\"><span style=\"font-weight: 400;\">Nicaragua Network is the oldest Latin America solidarity organization in the US. It was formed in February, 1979, six months before the Triumph of the Sandinista Revolution. You can read more about Nicaragua Network’s history and its role in founding the Alliance for Global Justice </span><a href=\"https://afgj.org/about/our-history\" style=\"color: #000000;\"><span style=\"font-weight: 400;\">here</span></a><span style=\"font-weight: 400;\">. </span><span style=\"font-weight: 400;\">The Nicaragua Network advocates for sound U.S. foreign policies that respect human rights and international law. The Nicaragua Network provides information and organizing tools to solidarity, sister city, and peace and justice activists across the U.S. and around the world.</span></span></p>\r\n\r\n<p><span style=\"font-weight: 400; color: #000000;\">NicaNotes is a weekly blog co-edited by Chuck Kaufman and John Kotula. Chuck is the long-time co-coordinator of the Nicaragua Network. He has been on the national staff since 1987. John Kotula lives in Nicaragua with his wife after completing a stint there in the Peace Corps. John is a long-time Nicaragua solidarity supporter and an artist. The purpose of NicaNotes is to inform solidarity activists and the US progressive movement in general about the good things that are happening since the Sandinistas returned to power through elections in 2007 and to alert and mobilize the activist community in the face of continuing threats and interference by the United States government.</span></p>\r\n\r\n<p><span style=\"color: #000000;\">At the same time we recognize that destruction of the Sandinista government is no longer the top US Latin America foreign policy priority as it was in the 1980s which changes the urgency and level of information needed. Tens of thousands of activists had their lives changed by their involvement with Nicaragua solidarity in the 1980s and well into the 1990s. Many retain a strong interest in Nicaragua. We view Nicaragua’s relevance to the US solidarity movement as primarily a positive example of what can be accomplished, even by a poor country, if it has a true “preferential option for the poor.” With so few positive examples for our work to transform our own country, we see Nicaragua’s ongoing political, social, and economic development as a shining example, applicable to the work of many other movements. We hope to stimulate domestic issue activism by raising the question, “Why do Nicaraguans get to have nice things when we, in the richest country of the world, can’t have them?”</span></p>\r\n\r\n<p><span style=\"color: #000000;\">We also want to invite submissions of guest blogs which talk about aspects of Nicaragua within the context of solidarity with and support for the Sandinista government and Sandinista popular movements. The anti-Sandinista opposition, including former Sandinistas now allied with the right-wing, has full access to the press in Nicaragua and exclusive access to the international corporate media, so they don’t need our little blog to get their message out.&nbsp;</span></p>\r\n\r\n<p><span style=\"color: #000000;\">That doesn’t make us naïve or blind; it makes us respect and celebrate the tens of thousands of martyrs who gave their lives so Nicaraguans could live in dignity and have sovereign control over their destiny. Following the path of our own understanding of the meaning of solidarity, we see our primary role as to oppose US policies that interfere with, or close spaces for, the right of Nicaraguans to resolve their own problems and chart their own destiny. We are not part of the debates within Nicaragua on how those issues should be resolved; only that the US does not have a legitimate role in their resolution.</span></p>\r\n\r\n<p><span style=\"color: #000000;\">We hope you will find NicaNotes useful and stimulating. We welcome your feedback and contributions, and hopefully we can strive together to make it a functional tool in your activist tool belt.</span></p>\r\n"
+      format: full_html
+      summary: ''

@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8218721d-33c6-4874-a7a4-a6108a1c8b96
+  bundle: article
+  default_langcode: en
+  depends:
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly 5.10.2019 Defend Venezuela Embassy Protectors under Attack'
+  created:
+    -
+      value: 1557412078
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-5102019-defend-venezuela-embassy-protectors-under-attack
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p dir=\"ltr\">Venezuela Embassy Defense</p>\r\n<p dir=\"ltr\"><a href=\"https://veteransforpeace.salsalabs.org/takeactionforvenezuela_copy1?wvpId=add9dc94-a7c9-4d23-8d72-40f14eabf35d\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://veteransforpeace.salsalabs.org/takeactionforvenezuela_copy1?wvpId%3Dadd9dc94-a7c9-4d23-8d72-40f14eabf35d&amp;source=gmail&amp;ust=1557522039671000&amp;usg=AFQjCNEf9G2DTfC9l1tprqJuP0Wb6FnIoA\">Gerry Condon, President of Vets for Peace beaten, arrested by police outside Venezuela Embassy DC</a></p>\r\n<p dir=\"ltr\"><a href=\"https://mailchi.mp/mintpressnews/exclusive-812969?e=6572ae34cf\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://mailchi.mp/mintpressnews/exclusive-812969?e%3D6572ae34cf&amp;source=gmail&amp;ust=1557522039671000&amp;usg=AFQjCNErUNmTCLufW_KIK7m1qNhdeiM-7Q\">Police cause blackout at the besieged Venezuelan Embassy in Washington, DC.</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/events/1019236951613701/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.facebook.com/events/1019236951613701/&amp;source=gmail&amp;ust=1557522039671000&amp;usg=AFQjCNE3lvZoPE91-GO0aRUm7S8CkebOvw\">May 9 Emergency Rally at the Venezuelan Embassy</a></p>\r\n<p dir=\"ltr\"><a href=\"https://afgj.org/inside-and-out-live-from-the-siege-at-the-venezuela-embassy-in-dc\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://afgj.org/inside-and-out-live-from-the-siege-at-the-venezuela-embassy-in-dc&amp;source=gmail&amp;ust=1557522039671000&amp;usg=AFQjCNH4Mx1V1srv8bUqJ-2Y-FF7rLic_w\">Webinar | Inside and Out: Live from the Siege at the Venezuela Embassy in DC</a></p>\r\n<p dir=\"ltr\"></p>\r\n<p dir=\"ltr\">Venezuela</p>\r\n<p dir=\"ltr\"><a href=\"https://thegrayzone.com/2019/05/06/us-state-department-publishes-then-deletes-sadistic-venezuela-hit-list-boasting-of-economic-ruin/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://thegrayzone.com/2019/05/06/us-state-department-publishes-then-deletes-sadistic-venezuela-hit-list-boasting-of-economic-ruin/&amp;source=gmail&amp;ust=1557522039671000&amp;usg=AFQjCNHIv5sEiLO_vln7su5FfMLeQe0lpQ\">Anya Parampil,Grayzone Project: US \_Gloats Over its Actions to Economically Ruin Venezuela</a></p>\r\n<p dir=\"ltr\"><a href=\"https://docs.google.com/document/d/1JPVB89ORry7PF2bMb7bjCjIGWWN-ntLZJXOUorBPnCs/edit?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://docs.google.com/document/d/1JPVB89ORry7PF2bMb7bjCjIGWWN-ntLZJXOUorBPnCs/edit?usp%3Dsharing&amp;source=gmail&amp;ust=1557522039671000&amp;usg=AFQjCNG7hQrBCAmLiOtIGc42vJe5_ZQn-A\">World Anti-Imperialist Meeting in Solidarity with Venezuela \_May 31 to June 3, 2019 </a></p>\r\n<p dir=\"ltr\"><a href=\"https://gowans.blog/2019/05/02/jacobin-stabs-venezuela-in-the-front/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://gowans.blog/2019/05/02/jacobin-stabs-venezuela-in-the-front/&amp;source=gmail&amp;ust=1557522039671000&amp;usg=AFQjCNGqkG3E81GpvG8ubJzrozWZONkgVw\">Steve Gowans: Jacobin stabs Venezuela in the front</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.resumen-english.org/2019/05/will-the-hybrid-war-on-venezuela-become-a-conventional-war/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.resumen-english.org/2019/05/will-the-hybrid-war-on-venezuela-become-a-conventional-war/&amp;source=gmail&amp;ust=1557522039671000&amp;usg=AFQjCNGof_OVS_TWeC1aO3otynOxwo-lhg\">Will the Hybrid War on Venezuela Become a Conventional War?</a></p>\r\n<p dir=\"ltr\"><a href=\"https://fair.org/home/the-atlantic-illustrates-everything-thats-wrong-with-media-coverage-of-venezuela-sanctions/?awt_l=6NjFW&amp;awt_m=h0eSPn4haIR._TQ\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://fair.org/home/the-atlantic-illustrates-everything-thats-wrong-with-media-coverage-of-venezuela-sanctions/?awt_l%3D6NjFW%26awt_m%3Dh0eSPn4haIR._TQ&amp;source=gmail&amp;ust=1557522039671000&amp;usg=AFQjCNF19YQrUOuWT5h_7XUQdmq_rTB-CQ\">FAIR: The Atlantic Illustrates Everything That’s Wrong With Media Coverage of Venezuela Sanctions</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.globalresearch.ca/u-s-government-plan-dated-23-february-2018-coup-venezuela/5676380\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.globalresearch.ca/u-s-government-plan-dated-23-february-2018-coup-venezuela/5676380&amp;source=gmail&amp;ust=1557522039672000&amp;usg=AFQjCNGepITkpKtFixyfsRpDE19slsf0jQ\">U.S. Government Plan, Dated 23 February 2018, for Coup in Venezuela, Now Leaks Out</a></p>\r\n<p dir=\"ltr\"><a href=\"https://orinocotribune.com/bernal-this-is-why-we-can-not-deliver-the-clap-box-every-15-days-us-sanctions\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://orinocotribune.com/bernal-this-is-why-we-can-not-deliver-the-clap-box-every-15-days-us-sanctions&amp;source=gmail&amp;ust=1557522039672000&amp;usg=AFQjCNE8hgLAU7U7CbN0XajLL5olqWFnmg\">Bernal: This is Why We can Not Deliver the CLAP Box Every 15 Days (US Sanctions)</a></p>\r\n<p dir=\"ltr\"><a href=\"https://orinocotribune.com/rectification-in-revolution-days-of-direct-dialogue-in-communities\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://orinocotribune.com/rectification-in-revolution-days-of-direct-dialogue-in-communities&amp;source=gmail&amp;ust=1557522039672000&amp;usg=AFQjCNEWgbLc-aOikXAcwAmAGqCxgKyzLg\">Rectification in Revolution: Days of Direct Dialogue in Communities</a></p>\r\n<p dir=\"ltr\"></p>\r\n<p dir=\"ltr\">Cuba</p>\r\n<p dir=\"ltr\"><a href=\"http://en.granma.cu/cuba/2019-05-03/rising-up-against-imperialist-barbarism-for-peace-and-a-world-without-exploitation\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=http://en.granma.cu/cuba/2019-05-03/rising-up-against-imperialist-barbarism-for-peace-and-a-world-without-exploitation&amp;source=gmail&amp;ust=1557522039672000&amp;usg=AFQjCNFyPIMIIAb6XGN6TtNUscaqOQNWHg\">International Solidarity Conference for World Peace and Against War, May 2, Havana Cuba</a></p>\r\n<p dir=\"ltr\"><a href=\"http://en.granma.cu/cuba/2019-05-08/us-citizens-want-to-visit-cuba-despite-the-tourism-ban-and-travel-restrictions-imposed-by-their-government\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=http://en.granma.cu/cuba/2019-05-08/us-citizens-want-to-visit-cuba-despite-the-tourism-ban-and-travel-restrictions-imposed-by-their-government&amp;source=gmail&amp;ust=1557522039672000&amp;usg=AFQjCNHSFax2B5gejqXEepIs2OGUMOJ3FA\">U.S. citizens visiting Cuba, despite the tourism ban and travel restrictions imposed by their government</a></p>\r\n<p dir=\"ltr\"></p>\r\n<p dir=\"ltr\">Bolivia</p>\r\n<p dir=\"ltr\"><a href=\"https://revolucionalimentaria.org/2019/04/20/fall-delegation-to-bolivia-presidential-election-october-20-2019-food-sovereignty-and-indigenous-resistance/?fbclid=IwAR08acZyQQ5r0MI5qTZiiFVZgPH-W0QD3gdzqj-kBnJtw-IRY3n7UbNTWWE\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://revolucionalimentaria.org/2019/04/20/fall-delegation-to-bolivia-presidential-election-october-20-2019-food-sovereignty-and-indigenous-resistance/?fbclid%3DIwAR08acZyQQ5r0MI5qTZiiFVZgPH-W0QD3gdzqj-kBnJtw-IRY3n7UbNTWWE&amp;source=gmail&amp;ust=1557522039672000&amp;usg=AFQjCNF6-JmV9tblHOmB375Sv9WymnGl1g\">Fall Delegation to Bolivia: Presidential Election October 20, 2019, Food Sovereignty and Indigenous Resistance!!</a></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

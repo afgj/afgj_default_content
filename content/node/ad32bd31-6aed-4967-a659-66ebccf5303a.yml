@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ad32bd31-6aed-4967-a659-66ebccf5303a
+  bundle: article
+  default_langcode: en
+  depends:
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Eyewitness Venezuela: National Livestream with Anti-war Leaders and Progressive Journalists'
+  created:
+    -
+      value: 1555427919
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /eyewitness-venezuela-national-livestream-anti-war-leaders-and-progressive-journalists
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>3:00 p.m. ET / 12:00 p.m. PT\r\nSaturday, April 20\r\nOnline at: Facebook.com/AnswerCoalition/</strong>\r\n<div>\r\n\r\n<em>This event is part of a day of action was initiated by the\_<a href=\"https://www.answercoalition.org/r?u=7p30cU8jCWSorHvzWPvc2Gcrxx9JV1PieKpSEnQ_ZvY&amp;e=73a66c03dd146d96298f08d291571065&amp;utm_source=answercoalition&amp;utm_medium=email&amp;utm_campaign=news_20190404&amp;n=6\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.answercoalition.org/r?u%3D7p30cU8jCWSorHvzWPvc2Gcrxx9JV1PieKpSEnQ_ZvY%26e%3D73a66c03dd146d96298f08d291571065%26utm_source%3Danswercoalition%26utm_medium%3Demail%26utm_campaign%3Dnews_20190404%26n%3D6&amp;source=gmail&amp;ust=1555538949509000&amp;usg=AFQjCNFf5G-7J6ZROCk-MsQd6iCvO7dCXg\">Alliance for Global Justice</a>\_that is endorsed by dozens of organizations including the ANSWER Coalition.</em>\r\n\r\nJoin the ANSWER Coalition for a special Eyewitness Venezuela Livestream Panel featuring:\r\n<ul>\r\n \t<li>Ajamu Baraka — Black Alliance for Peace</li>\r\n \t<li>Gloria La Riva — Cuba-Venezuela Solidarity Committee and ANSWER Coalition</li>\r\n \t<li>Max Blumenthal — Editor at Grayzone Project</li>\r\n \t<li>Medea Benjamin — CodePink</li>\r\n \t<li>Anya Parampil — Grayzone Project</li>\r\n \t<li>Claudia De La Cruz — Popular Education Project</li>\r\n</ul>\r\nThe livestream will be nationally broadcast from the former Venezuelan Embassy building in Washington, D.C., on the Facebook page of the ANSWER Coalition. The panel presentation will feature prominent anti-war and progressive journalists based in the United States who have just returned from Venezuela or have firsthand knowledge. They will discuss the reality of the situation in Venezuela, taking on the myths portrayed in the corporate media, what lies behind the U.S. war drive and how we can stop it.\r\n\r\nThe livestream will focus on countering the Pentagon’s narrative in the U.S. media to support the work of anti-war activists in the United States who have been mobilizing and holding protests, marches, direct actions and forums to stop the U.S. war drive against Venezuela since January.\r\n\r\n<strong>Organize a watch party, tune in, and if you can, please\_<a href=\"https://www.answercoalition.org/donate?e=73a66c03dd146d96298f08d291571065&amp;utm_source=answercoalition&amp;utm_medium=email&amp;utm_campaign=news_20190404&amp;n=7\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.answercoalition.org/donate?e%3D73a66c03dd146d96298f08d291571065%26utm_source%3Danswercoalition%26utm_medium%3Demail%26utm_campaign%3Dnews_20190404%26n%3D7&amp;source=gmail&amp;ust=1555538949509000&amp;usg=AFQjCNFqXNNIvxzm7URaUuyO_ZERkaSL4A\">donate to support these anti-war efforts now</a>.</strong>\r\n\r\n</div>\r\n<a class=\"m_-749811125238670850m_2747383686525578224read-more\" href=\"http://www.answercoalition.org/eyewitness_venezuela_national_livestream_with_anti_war_leaders?utm_source=facebook&amp;utm_medium=shared_article&amp;utm_campaign=ANSWER+Coalition&amp;e=73a66c03dd146d96298f08d291571065&amp;utm_source=answercoalition&amp;utm_medium=email&amp;utm_campaign=news_20190404&amp;n=8\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.answercoalition.org/eyewitness_venezuela_national_livestream_with_anti_war_leaders?utm_source%3Dfacebook%26utm_medium%3Dshared_article%26utm_campaign%3DANSWER%2BCoalition%26e%3D73a66c03dd146d96298f08d291571065%26utm_source%3Danswercoalition%26utm_medium%3Demail%26utm_campaign%3Dnews_20190404%26n%3D8&amp;source=gmail&amp;ust=1555538949509000&amp;usg=AFQjCNGIWej-QkTTJXFvsCF5fohZjpz_dw\">Get additional details and RSVP</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

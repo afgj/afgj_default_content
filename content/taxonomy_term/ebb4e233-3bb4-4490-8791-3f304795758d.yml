@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: ebb4e233-3bb4-4490-8791-3f304795758d
+  bundle: tags
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: Anti-Sanctions
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /anti-sanctions
+      langcode: en
+      pathauto: 1

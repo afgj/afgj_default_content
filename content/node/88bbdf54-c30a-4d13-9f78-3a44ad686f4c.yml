@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 88bbdf54-c30a-4d13-9f78-3a44ad686f4c
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Form 990'
+  created:
+    -
+      value: 1400578368
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /form-990
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p>Please view our past 990 filings by clicking on the year: <a href=\"/2016-990\">2016</a>, <a href=\"/2017-990\">2017</a>, <a href=\"/2018-990\">2018</a>.</p>\r\n"
+      format: full_html
+      summary: ''

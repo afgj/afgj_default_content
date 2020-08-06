@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d540aa00-2d35-4079-8b93-c6ef728e67e1
+  bundle: article
+  default_langcode: en
+  depends:
+    d7484f78-fd8a-49f7-afcb-5b7fed9db70f: taxonomy_term
+    e2cd83a2-4ff6-40be-8260-0b38e269f80f: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'SOA Watch Convergence this October'
+  created:
+    -
+      value: 1464165753
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /soa-watch-convergence-october
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter\" src=\"http://www.soaw.org/border/wp-content/uploads/2016/02/webbanner.jpg\" alt=\"\" width=\"1200\" height=\"280\" />\n<p style=\"text-align: left;\"><b>The SOA Watch Convergence at the Border is taking place from October 7-10, 2016 at the border wall in Nogales, Sonora / Arizona.</b> <a href=\"http://org.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=3&amp;url=http%3A%2F%2Fwww.soaw.org%2Fborder%2Fmobilize%2F%2523Flier\" target=\"_blank\">Mobilize your communities</a> to take a stand for justice and against militarization. The convergence will include workshops and events on both sides of the U.S./ Mexico border, as well as art, music, and resistance. To learn more about why SOA Watch is moving from the gates of Fort Benning to the border, read the article \"<b><a href=\"http://org.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=5&amp;url=http%3A%2F%2Fwww.soaw.org%2Fborder%2F2016%2F04%2F21%2Ffrom-the-school-of-the-americas-to-the-border%2F\">From the School of the Americas to the Border</a>\"</b> and watch the documentary \"<a href=\"http://org.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=6&amp;url=http%3A%2F%2Fwww.soaw.org%2Fborder%2F%2523empirefiles\">The Empire's War on the Border</a>\".</p>\n<p class=\"p1\" style=\"text-align: left;\">This page includes <a href=\"http://org.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=7&amp;url=http%3A%2F%2Fwww.soaw.org%2Fborder%2Fwhere-to-stay%2F\" target=\"_blank\">hotel</a> and <a href=\"http://org.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=8&amp;url=http%3A%2F%2Fwww.soaw.org%2Fborder%2Fmobilize%2Flogistics%2F%2523Travel\" target=\"_blank\">travel</a> information. <a href=\"http://org.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=9&amp;url=http%3A%2F%2Forg.salsalabs.com%2Fo%2F727%2Fp%2Fsalsa%2Fweb%2Fcommon%2Fpublic%2Fsignup%3Fsignup_page_KEY%3D8347\" target=\"_blank\"><b>Sign up</b></a><a href=\"http://org.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=10&amp;url=http%3A%2F%2Forg.salsalabs.com%2Fo%2F727%2Fp%2Fsalsa%2Fweb%2Fcommon%2Fpublic%2Fsignup%3Fsignup_page_KEY%3D8347\"> <b> to receive </b></a><a href=\"http://org.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=11&amp;url=http%3A%2F%2Forg.salsalabs.com%2Fo%2F727%2Fp%2Fsalsa%2Fweb%2Fcommon%2Fpublic%2Fsignup%3Fsignup_page_KEY%3D8347\"><b>updates</b></a>.</p>\n<p class=\"p1\" style=\"text-align: left;\">Download and distribute the Border Convergence <a href=\"http://org.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=12&amp;url=http%3A%2F%2Fwww.soaw.org%2Fborder%2Fmobilize%2F%2523Flier\" target=\"_blank\">fliers</a>, and post information and <a href=\"http://org.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=13&amp;url=http%3A%2F%2Fwww.soaw.org%2Fborder%2Fmobilize%2F%2523socialmedia\" target=\"_blank\">images</a> on your social media networks (<a href=\"http://org.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=14&amp;url=http%3A%2F%2Fwww.soaw.org%2Fborder%2Fmobilize%2F%2523twitter\" target=\"_blank\">(click here for sample tweets</a>). Get your group or organization to <a href=\"http://org.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=15&amp;url=http%3A%2F%2Forg.salsalabs.com%2Fo%2F727%2Fp%2Fdia%2Faction3%2Fcommon%2Fpublic%2F%3Faction_KEY%3D19293\" target=\"_blank\">endorse the convergence</a>, and to spread the word.</p>\n<p class=\"p1\" style=\"text-align: left;\">History is made by movements - mass movements of people who organize themselves to struggle collectively for a better world. The SOA Watch movement is a nonviolent force to change oppressive U.S. policies as represented by institutions like the School of the Americas, and to resist militarization at home and abroad. It is made up of people from many backgrounds who work towards a positive and fundamentally different alternative to the racist system of violence and domination.</p>\n<img class=\"aligncenter size-full wp-image-6662\" src=\"https://afgj.org/wp-content/uploads/2016/05/SOA-Flyer.jpg\" alt=\"SOA Flyer\" width=\"1650\" height=\"1275\" />"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: d7484f78-fd8a-49f7-afcb-5b7fed9db70f
+    -
+      entity: e2cd83a2-4ff6-40be-8260-0b38e269f80f
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

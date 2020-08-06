@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4e68a729-89f3-4981-8ad2-331f1e2738fe
+  bundle: article
+  default_langcode: en
+  depends:
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'National Call-In Day Thursday, Dec 14:  Stop U.S. Support for Electoral Fraud & Repression in Honduras'
+  created:
+    -
+      value: 1513091173
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /national-call-day-thursday-dec-14-stop-us-support-electoral-fraud-repression-honduras
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<div id="1ab09164-0c68-4433-89ea-011a4c7f961e"><script type="text/javascript" src="https://default.salsalabs.org/api/widget/template/9e19ce81-938f-4f96-846e-e6653fc1cb9c/?tId=1ab09164-0c68-4433-89ea-011a4c7f961e" ></script></div>'
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

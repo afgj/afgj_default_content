@@ -1,0 +1,80 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 71a29496-b68f-4890-845d-47134a35f294
+  bundle: article
+  default_langcode: en
+  depends:
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    db37c597-23df-4a83-b2cc-0f2f3b69da01: taxonomy_term
+    a04c01cf-23ee-4ab3-a10b-baf4b5abb25c: taxonomy_term
+    ee34e800-7dde-4b5d-a94d-274ed5048127: taxonomy_term
+    5960ab81-2931-405e-ac3a-b15475a81c69: taxonomy_term
+    28f0ad37-341c-4c46-8be8-77b2cc0565c7: taxonomy_term
+    b8a095bf-e143-4cdd-bccb-79c84d849273: taxonomy_term
+    54ba92c8-4623-418c-b497-7639d1876f0c: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Right-wing Congressmembers Reintroduce the NICA Act in the House; Please Act!'
+  created:
+    -
+      value: 1492077832
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /right-wing-congressmembers-reintroduce-nica-act-house-please-act
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter size-full wp-image-6975\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"\" width=\"579\" height=\"195\" />\n<p style=\"text-align: center;\"><strong><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=24655\" target=\"_blank\" rel=\"noopener\">Act Now!</a></strong></p>\nOn April 5, 2017 right-wing members of Congress led by Florida Republican Ileana Ros-Lehtinen, reintroduced an even worse version of the NICA Act (Nicaraguan Investment Conditionality Act) than the one they introduced last September during both countries’ presidential election season. If the NICA Act were to pass both chambers of the US Congress and be signed by President Trump, it would require US representatives on multilateral lending institution boards to vote against loans to Nicaragua.\n\nThe US does not have a majority vote on any of those boards, but in the past, its opposition to a loan has effectively vetoed it. There is actually no conceivable combination of other votes that could counter the US if even one of its closest allies vote with it. Nicaragua receives about $250 million a year in multilateral loans. The World Bank and IMF have praised Nicaragua’s management of aid projects as ranking among the best in the world.\n\nIf Nicaragua were to lose that funding due to the US vetoing World Bank and Inter-American Development Bank loans, it would impact Nicaragua’s governmental budget and its ability to fund education, health care, and economic infrastructure, effectively cutting off at the knees the most productive economy in Central America. A flood of Nicaraguans attempting to cross the US-Mexico border would follow soon after.\n\nThe NICA Act text refers to corruption in the Sandinista government and requires the State Department to report back <span data-term=\"goog_1498990177\">within 90 days</span> on its demand that the Ortega government take significant steps to combat corruption and to protect human rights defenders. Since Nicaragua is one of the least corrupt countries in Latin America and since it has no political prisoners and there is no repression against human rights defenders, it would be hard to know what the bill’s authors would consider “significant steps.”\n\nThe NICA Act also parrots the right-wing opposition’s claims that recent elections have lacked transparency and legitimacy. The language completely ignores that the Nicaraguan government and the OAS have signed a formal agreement to work together in advance of and during the municipal elections coming up this November. OAS Secretary General Luis Almagro called on the bill’s sponsors to hold off and allow the OAS-Nicaragua agreement time to work.\n\nWe shouldn’t be surprised at all the falsehoods stated as facts in the NICA Act. Some of the have been recycled for over 30 years. Ortega is a dictator. His government is corrupt. The elections were rigged. I note that there is no similar piece of legislation aimed at Juan Orlando Hernandez’ government in Honduras where those statements actually are true which I can attest to by personal experience.\n\nThe Nicaraguan government, of course, rejected the introduction of the bill. Vice-President Rosario Murillo read the government statement which noted, “The 2017 Nica Act is just another threat, another out of the many that the US has held over Nicaragua throughout history, in the imperialist mentality’s eagerness to take over our country. It’s a new attempt to grant itself the right to destructively intervene in our national affairs. By presenting the 2017 Nica Act, this group of congress people is trying to infringe upon Nicaragua’s right, our people and government, to continue developing our Christian, socialist and solidarity system, where democracy, dialogue, alliances and the search for consensus, ensure peace, social harmony and hope. We will be waiting to see how this disastrous initiative develops.”\n\nHow seriously should we take the NICA Act? US Ambassador to Nicaragua Laura Dogu pointed out recently that lots of bills get introduced in Congress without any further action taking place. She said that President Trump has not expressed an opinion on the NICA Act. Also, the bill was submitted with only 25 co-sponsors (15 Republicans and 10 Democrats). Bills with that few co-sponsors don’t often go far.\n\nBut, we don’t usually face a situation where there are Republican majorities in both Houses of Congress and there is a Republican president! So, things could happen, and they could happen very fast. The NICA Act did pass the House unanimously last Fall. What that means is that it was put on the “unanimous consent” docket with a bunch of noncontroversial bills and no Democrat objected, so all the bills passed unanimously without most Members of Congress even knowing what they were.\n\nWe need to make sure that the NICA Act doesn’t end up on another unanimous consent docket and pass while only the Republican and Democratic floor leaders are even in the Chamber.\n\n<a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=24655\" target=\"_blank\" rel=\"noopener\">Please contact your Member of Congress yourself or <strong>click on this link and we will automatically generate the following message to your Representative</strong></a>!\n\n<hr />\n\nDear Representative _________,\n\nI am a constituent in your District writing to ask you to oppose the Nicaragua Investment Conditionality Act (NICA Act) H.R. 1918, which was introduced by Rep. Ros-Lehtinen for the purpose of cutting multilateral loans to Nicaragua. Not only is the bill based on a series of false premises and constitutes an unwarranted intervention in the sovereign affairs of another country, but its enactment would have serious repercussions for the United States as well.\n\nCurrently there are very few Nicaraguans among the refugees and immigrants seeking entrance to the United States without proper documentation. The reason is because the Nicaraguan economy is booming due to macroeconomic stability and peace. That situation would quickly reverse itself if the NICA Act were to become law. The economy would rapidly contract hurting Nicaraguan working people the most and driving many of them to travel to the US in the hope of earning money to feed their families.\n\nA version of the NICA Act passed the House of Representatives last Fall by unanimous consent. I’m writing to ask you to ask Minority Leader Nancy Pelosi to not agree to add the NICA Act to the unanimous consent docket and I ask further that you vote against the bill if it comes before the full House.\n\nSincerely,\n\nYour name and address\n\n[If your representative responds positively, please let us know by emailing <a href=\"mailto:Chuck@AFGJ.org\">Chuck@AFGJ.org</a>.)\n\n<hr />\n\n<strong>BRIEFS</strong>\n<ul>\n \t<li>The American Chamber of Commerce of Nicaragua (AmCham) and the National Assembly, including opposition Deputies, were quick to condemn the introduction of the NICA Act in the US House of Representatives. AmCham is a Nicaraguan business chamber. In a statement it said, “Domestic issues must be resolved by Nicaraguans, which makes it imperative to take measures to prevent (the Nica Act) from becoming law.\" AmCham worried that passage of the bill would affect Nicaragua's \"business climate, foreign investment and economic development.\" The National Assembly’s 91 Deputies unanimously passed a resolution opposing the NICA Act stating the “Nica Act aims to destabilize our country economically.\" <em>(El Nuevo Diario, Apr. 7)</em><em>\_</em></li>\n</ul>\n<ul>\n \t<li>Secretary General of the OAS Luis Almagro, issued an official statement expressing his deepest concern about the reintroduction of the NICA Act in the US Congress. He added that in compliance with the Inter-American Democratic Charter, the Nicaragua Government and the OAS are working together to strengthen democracy, electoral processes and the rule of law. The OAS believes that the NICA Act does not represent a constructive contribution and called on the US congressmembers sponsoring the bill to reconsider such an initiative. <em>(Nicaragua News, Apr. 6)</em></li>\n</ul>\n<ul>\n \t<li>The Inter-American Development Bank (IDB) announced the approval of a US$65 million loan to support the production sector in Nicaragua this year. The funding will contribute to strengthening capabilities and improving competitiveness in the productive sector, providing greater access to low interest credits. <em>(Nicaragua News, Apr. 4)</em></li>\n</ul>\n<ul>\n \t<li>During a hearing at the National Assembly, President of the Nicaragua Central Bank (BCN) Ovidio Reyes announced that formal employment grew 10.8% last year. Sectors such as finance, agriculture, commerce, mining and construction were among the main drivers of this growth. <em>(Nicaragua News, Apr. 5)</em></li>\n</ul>\n<ul>\n \t<li>The President of the Nicaragua Institute of Telecommunications (TELCOR), Orlando Castillo, announced that Nicaragua and Russia inaugurated a Glonass satellite navigation tracking station in Managua last Thursday. \"This new station will contribute to strengthening technical and logistic capabilities to deal with natural disaster prevention in Nicaragua\", Castillo said. The Washington Post, in an article about Russian influence in Nicaragua raised the question of whether the facility is a Russian spy center but didn’t prevent even a shred of evidence. <em>(Nicaragua News, Apr. 7; Washington Post, Apr. 8)</em><strong>\_</strong></li>\n</ul>\n<ul>\n \t<li>The Nicaragua government, along with a technical mission of the IMF, is organizing a forum about Regional Economic Projections that will be held in Managua in May. “This meeting is part of a broad agenda of cooperation and exchange between the Nicaragua Government and the IMF, to strengthen macroeconomic management in the country,” the Central Bank said.<em>(Nicaragua News, Apr. 10)</em></li>\n</ul>\n<ul>\n \t<li>The high cost of health care in the United States is driving international growth in medical tourism and Nicaragua is looking to increase its share. Dental costs are as much as a third lower in Nicaragua as in the US and more complex medical procedures run as much as 20-30% lower. Dr. Luis Contreras said that Managua dentists now have up-to-date training and technology and international patients can count on a level of professional treatment similar to that in their home countries. Currently the Vivian Pellas Metropolitan Hospital is the only Nicaragua hospital certified by the Joint Commission International for medical tourism. It is one of 388 hospitals in 50 countries. Costa Rica currently leads Central America in medical tourism with 100,000 patients and their accompaniers spending US$300 million a year. <em>(El Nuevo Diario, Apr. 11)</em></li>\n</ul>\n<ul>\n \t<li>Managua Cardinal Leopoldo Brenes presided over the beginning of Holy Week with Palm <span data-term=\"goog_1498990178\">Sunday</span> ceremonies attended by thousands of people at Managua’s Metropolitan Cathedral. Nicaragua, a heavily Catholic country, essentially shuts down during the week before Easter. It is a holiday week in which those who can go to the beach do so with their whole family and the faithful have a multitude of religious processions to participate in. The unfortunate side of Holy Week is that drownings and highway fatalities spike despite the additional police presence along the highways and on the beaches. <em>(El Nuevo Diario, Apr. 10)</em></li>\n</ul>\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false
+  field_tags:
+    -
+      entity: db37c597-23df-4a83-b2cc-0f2f3b69da01
+    -
+      entity: a04c01cf-23ee-4ab3-a10b-baf4b5abb25c
+    -
+      entity: ee34e800-7dde-4b5d-a94d-274ed5048127
+    -
+      entity: 5960ab81-2931-405e-ac3a-b15475a81c69
+    -
+      entity: 28f0ad37-341c-4c46-8be8-77b2cc0565c7
+    -
+      entity: b8a095bf-e143-4cdd-bccb-79c84d849273
+    -
+      entity: 54ba92c8-4623-418c-b497-7639d1876f0c

@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: dd9666c5-21af-4066-b94e-fc05ec5e4cd3
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: video-poster.jpg
+  uri:
+    -
+      value: 'public://2017-06/video-poster.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 35130
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1498729903

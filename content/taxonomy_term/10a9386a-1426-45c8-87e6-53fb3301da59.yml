@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: 10a9386a-1426-45c8-87e6-53fb3301da59
+  bundle: categories
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: immigration
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /immigration
+      langcode: en
+      pathauto: 1

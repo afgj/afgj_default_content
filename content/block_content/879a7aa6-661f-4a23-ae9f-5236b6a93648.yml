@@ -1,0 +1,145 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 879a7aa6-661f-4a23-ae9f-5236b6a93648
+  bundle: mt_features_slideshow_block
+  default_langcode: en
+  depends:
+    888fcca8-864a-4448-9a21-55aada2d04c1: file
+    2af291b1-1ada-4e46-969f-410c27503704: file
+    258b1b19-2e17-42af-8f2c-1ecc8e24c53c: node
+    0fafefbc-d0a7-456f-a0b7-bf9c1a70ec5a: file
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Features Slideshow'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_feature:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 788349d9-fcf2-4d26-acd6-faf1d69f4492
+          bundle: mt_feature
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1526045091
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_feature_body:
+            -
+              value: "<p>The Alliance for Global Justice, with contributions by over 20 co-authors plus editors, photographers, videographers, and folks who lived the terror of those times, has produced a free electronic book available in pdf and electronic book formats. Live from Nicaragua: Uprising our Coup? is a reader with both original articles and reprints of articles written during the troubled times.</p>\r\n"
+              format: basic_html
+          field_mt_feature_image:
+            -
+              entity: 888fcca8-864a-4448-9a21-55aada2d04c1
+              alt: 'Carl David Goette Luciak'
+              title: ''
+              width: 560
+              height: 373
+          field_mt_feature_link:
+            -
+              uri: 'internal:/nicanotes-live-nicaragua-uprising-or-coup'
+              title: 'Read More'
+              options: {  }
+          field_mt_feature_title:
+            -
+              value: 'Free Ebook: Live From Nicaragua: Uprising or Coup?'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 39036c6e-c1f3-4f7b-be48-227e5bc00d00
+          bundle: mt_feature
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1526045116
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_feature_body:
+            -
+              value: "<p>This news feed was started <span>shortly</span><span>&nbsp;</span><span>following the US-backed coup in Bolivia in November 2019 as an alternative to misleading information from corporate media and politicians who portrayed the coup as completed and popular when it was neither. We reached out to the People’s Human Rights Observatory and the Alberto Lovera Bolivarian Circle as well as individual experts to help us maintain this service.</span></p>\r\n"
+              format: basic_html
+          field_mt_feature_image:
+            -
+              entity: 2af291b1-1ada-4e46-969f-410c27503704
+              alt: 'Respect for Democracy'
+              title: ''
+              width: 366
+              height: 267
+          field_mt_feature_link:
+            -
+              target_uuid: 258b1b19-2e17-42af-8f2c-1ecc8e24c53c
+              title: 'See News Feed'
+              options: {  }
+          field_mt_feature_title:
+            -
+              value: 'Respect for Democracy News Feed: Latin America Resists in Real Time!'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: baf116fa-cb79-4f66-9006-e0e22a676fa7
+          bundle: mt_feature
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1526045177
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_feature_body:
+            -
+              value: "<p>Emergency Human Rights Delegation Report from Honduras</p>\r\n"
+              format: basic_html
+          field_mt_feature_image:
+            -
+              entity: 0fafefbc-d0a7-456f-a0b7-bf9c1a70ec5a
+              alt: 'Honduras Emergency Human Rights Delegation Report'
+              title: ''
+              width: 560
+              height: 718
+          field_mt_feature_link:
+            -
+              uri: 'internal:/honduras-human-rights-report'
+              title: 'Read Report'
+              options: {  }
+          field_mt_feature_title:
+            -
+              value: 'Honduras Emergency Human Rights Delegation Report'

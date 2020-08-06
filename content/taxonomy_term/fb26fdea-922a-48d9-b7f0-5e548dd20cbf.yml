@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+  bundle: categories
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: Colombia
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /colombia
+      langcode: en
+      pathauto: 1

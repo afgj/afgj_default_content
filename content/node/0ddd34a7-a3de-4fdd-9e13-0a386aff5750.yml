@@ -1,0 +1,61 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 0ddd34a7-a3de-4fdd-9e13-0a386aff5750
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    756dd5fa-1fbe-47b0-b4c6-f07b498cde6d: taxonomy_term
+    801e3bde-8887-4341-9509-1363185a5f6e: taxonomy_term
+    f866b718-fd02-493f-8a4a-e61cfdc5f8da: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Union Label, Organic Coffee from Colombia - Get yours TODAY!'
+  created:
+    -
+      value: 1530019283
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /union-label-organic-coffee-colombia-get-yours-today
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1 style=\"text-align: center;\"><a href=\"https://afgj.salsalabs.org/fensuagro-union-coffee/index.html\">Wake up with a cup of Union Label, Organic Coffee and take a stand for peace and labor rights in Colombia!</a></h1>\r\n<p style=\"text-align: center;\"><img class=\" wp-image-10024 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/06/logo_fensuagro-1024x576.jpg\" alt=\"\" width=\"548\" height=\"316\" /></p>\r\n<p style=\"text-align: center;\"><a href=\"https://afgj.salsalabs.org/fensuagro-union-coffee/index.html\"><strong>Coffee grown and produced by Fensuagro, Colombia’s National Unitary Federation of Farmers and Farm Workers Unions</strong></a></p>\r\nFENSUAGRO is Colombia’s largest federation of peasant farmers and farm workers unions. Its represents 50% family and cooperative farmers and 50% farm workers. It is also the most repressed and targeted labor organization in Colombia – the world’s most dangerous country to be a union member. Since its formation in 1976, more than 1,500 of Fensuagro’s organizers have been assassinated. Fensuagro represents the population hardest hit by forced displacement due to the armed conflict, transnational corporate land-grabs, and climate change. Despite these obstacles, Fensuagro is a fierce defender of its constituency. The federation has led several successful national and regional strikes, won better deals for workers in the industries it represents, and advocated for political changes that benefit its members. Fensuagro works tirelessly to find and promote new markets for its small farming families and cooperatives.\r\n<p style=\"text-align: center;\"><img class=\"aligncenter  wp-image-10026\" src=\"https://afgj.org/wp-content/uploads/2018/06/Las-Vegas-Col-1024x768.jpg\" alt=\"\" width=\"597\" height=\"451\" /></p>\r\n<p style=\"text-align: center;\"></p>\r\n<strong>By buying this coffee, you are helping farmers keep from being displaced by extractivist industries and agribusinesses that have a devastating impact on ecosystems and communities. Wake up with a cup of Union Label Coffee and take a stand for peace and labor rights in Colombia!</strong>\r\n<h1 style=\"text-align: center;\"><a href=\"https://afgj.salsalabs.org/fensuagro-union-coffee/index.html\"><strong>Order your Union Label, Organic Colombian Coffee TODAY!</strong>\r\n</a></h1>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: 756dd5fa-1fbe-47b0-b4c6-f07b498cde6d
+    -
+      entity: 801e3bde-8887-4341-9509-1363185a5f6e
+    -
+      entity: f866b718-fd02-493f-8a4a-e61cfdc5f8da
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

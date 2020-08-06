@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 915ae47d-291d-49d9-bc2b-859702109fcc
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: "Nicanotes: Danger of NICA Act\_Passing Increases with Introduction in the Senate"
+  created:
+    -
+      value: 1494424431
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-danger-nica-act-passing-increases-introduction-senate
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter size-full wp-image-6975\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"\" width=\"579\" height=\"195\" />\n\nI want to revisit the issue of the NICA Act this week because I may have\_been too complacent in dismissing it since it is so irrational. As we in the\_United States are going\_through a period of greater than normal irrationality,\_it behooves us to prepare not just for rational events, but for irrational ones\_as well.\n\nLikely everyone who reads this blog knows what the NICA Act is, but just\_in case we pick up some new readers, let me briefly describe it. The NICA Act\_stands for\_Nicaragua Investment Conditionality Act. If it became law it would\_require the US to vote against all multilateral loans to Nicaragua. Since the\_US has a virtual veto in the\_World Bank, International Monetary Fund,\_Inter-American Development Bank (see Brief #1 below concerning IDB) and others,\_the NICA Act would effectively cut\_Nicaragua off from international finance,\_just as Venezuela has been. In Nicaragua’s case, the effect on the economy would\_be even more devastating and the effect on\_the US would be to add Nicaragua\_refugees to the stream coming from its northern neighbors.\n\nUp until now, I haven’t been too concerned that the NICA Act could\_become law. It was introduced in the House by Florida Republican Ileana\_Ros-Lehtenin joined by only\_23 right-wing Republicans and Democrats.\_(Co-sponsors were 14 Republicans and 10 Democrats.) Ros-Lehtenin recently\_announced that she is retiring at the end of\_this term. (If your windows were\_open, you could hear the cheers of Cuba and Central America solidarity\_activists cheering throughout the land.) There has probably not\_been a greater\_enemy of Latin America than Ros-Lehtenin since the late and unlamented Senator\_Jesse Helms (R-NC).\n\nIn the last Congress, just before the elections in the US and Nicaragua,\_Ros-Lehtenin managed to slip the NICA Act through as part of the unanimous\_consent docket.\_That is a bundle of bills that the Republican and Democrat\_leadership determine are noncontroversial. Generally the unanimous consent\_bills are passed when only the\_House leadership is on the floor, but the effect\_is just as if all Members had actually voted.\n\nI hope those of you who are US voters acted on the Alert that I included\_a few weeks ago in this blog and sent a message to your Congresscritter telling\_them to block\_the NICA Act from being passed by unanimous consent. In theory,\_any Member can do so. If you are a US voter and you didn’t act on that alert,\_you can still send a\_message by\_<strong><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=24655\" target=\"_blank\" rel=\"noopener noreferrer\">clicking here</a>.</strong>\n\nWe have now learned that Florida Republican Senator Marco Rubio has\_introduced the NICA Act in the Senate as a companion bill. According to Lisa\_Haugaard at the\_Latin America Working Group in Washington, DC, the fact that\_the bill is active in both houses of Congress is much more worrisome than if it\_were only in the House. It is\_especially significant that the leading\_co-sponsor is Sen. Ben Cardin (D-MD) who is the Ranking Member of the Senate Foreign\_Relations Committee. He is generally\_considered to be a liberal, so his\_co-sponsorship demonstrates the danger that the NICA Act could sail through\_Congress due to shear ignorance on the part of the\_Representatives and Senators\_about what its effects would be. Still, it is the House of Representatives that\_would take action on it first, and there the biggest danger is\_that it would\_pass as part of the unanimous consent docket, so that is where our focus should\_lie for the time being. (Although Maryland solidarity activists may want to\_let\_Ben Cardin know exactly what you think of his co-sponsorship right now!)\n\nAccording to Lisa Haugaard, in the House the NICA Act has been assigned\_to the Financial Services Committee and also to Foreign Affairs. California\_Rep. Maxine\_Waters (D-CA) of Los Angeles is the Ranking Member of Financial\_Services and Keith Ellison (D-MN) of Minneapolis is on the Committee. At\_Foreign Affairs, Joaquin\_Castro (D-TX) of San Antonio is the Ranking Member. If\_you or someone you know is in any of these three Members’ districts, please let\_me know at\_<strong><a href=\"mailto:Chuck@AFGJ.org\">Chuck@AFGJ.org</a></strong>\_so that we can\_coordinate talking with them about the bill.\n\nPresident Trump has shown no particular animosity toward Nicaragua, and\_it is difficult to think that he would want to add to the flow of migrants and\_refugees coming to\_the US southern border before he builds his impermeable\_wall. But, as I noted at the start of this blog, we in the United States are\_going through a period of greater than\_normal irrationality. So, we need to\_remain vigilant. You can do your part by\_<a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=24655\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>educating your\_Congresscritter</strong></a>, and I’ll do my part by keeping an eye out for any movement\_of the bill in Congress.\n\n<hr />\n\n<strong>BRIEFS</strong>\n\n&nbsp;\n<ul>\n \t<li>The threat by the United States to\_apply a kind of economic embargo if the NICA Act should become law has\_activated dozens of international Nicaragua\_solidarity committees. The\_Nicaragua Solidarity Campaign of Great Britain promoted an open letter of\_solidarity condemning the NICA Act signed by union leaders in the\_UK, Ireland\_and EU countries. The letter expressed their “solidarity with Nicaragua to\_defend democracy and progress.” (Informe Pastran, May 8)</li><br>\n \t<li>Former Nicaraguan Ambassador to the\_US, Arturo Cruz, stated that, thanks to reforms at the Inter-American\_Development Bank (IDB) the US cannot veto loans\_to Nicaragua, eliminating the\_threat of the NICA Act in that regard. Prior to January 2017, it took a 75%\_vote to approve loans, but now only requires a simple majority,\_effectively\_removing the US veto power. (Informe Pastran, May 8)</li><br>\n \t<li>The Rama and Kriol territorial\_government in the Indio Maiz Biological Reserve in the South Caribbean\_Autonomous Region has issued an alert. It is calling on\_the national government\_and nongovernmental groups to address threats to the reserve from the advance\_of the agricultural frontier and illegal settlement. Their alert\_says, “Many of\_the lands are occupied by settlers. Some have been classified as “living\_owners” because they have been authorized by communal assemblies to live\_with\_us, but there are others who are invading, degrading the flora and fauna and committing\_a cultural colonization that is making it difficult to protect the land,\_according\_to Aldrick Beckford who is territorial prosecutor. He made these\_declarations at the First National Encounter of Social Actors for the Indio\_Maiz Reserve attended by over\_100 people.\_\_[Illegal colonization is also a serious problem in the Bosawas Nature\_Reserve in the North Caribbean Autonomous Region.] (El Nuevo Diario, May 4)</li><br>\n \t<li>The Nicaragua Central Bank reported\_that family remittances to the country surpassed US$323 million during the\_first three months of this year, 6.9% over the\_same period in 2016. The United\_States, Costa Rica, Spain, Panama, El Salvador and Canada were the main sources\_of these remittances. The Nicaragua Center for\_Exports also announced that\_exports totaled US$1 billion during the first four months of this year, led by\_coffee, beef, sugar, and gold. Exports were 23.9% above the\_same period in\_2016. (Nicaragua News, May 2)</li><br>\n \t<li>The Nicaragua government and the\_World Bank signed a US$ 55 million dollar loan for the Nicaragua Quality\_Education Alliance Program. The purpose of this\_initiative is to continue to\_strengthen teaching capabilities and improve infrastructure conditions in rural\_schools in the country, primarily those that are most vulnerable to\_the effects\_of climate change. (Nicaragua News, May 3)</li><br>\n \t<li>The Supreme Electoral Council (CSE)\_granted legal status to the Democratic Restoration Party (PRD) and the Citizens\_for Freedom Party (CxL) week. The PRD\_President, Saturnino Serrato, said this\_is an important achievement for Nicaragua democracy and they are prepared to\_run in the municipal elections of November 5 this\_year. Nicaragua has 19\_legally registered political parties. (Nicaragua News, May 4)</li><br>\n \t<li>Ricardo Melendez, vice-president of the Nicaragua Chamber of Builders\_said the sector strongly supports the 100,000 unit\_housing construction plan announced\_by the government this week.\_\_\"We believe this five year plan will\_contribute to promote greater dynamism in the construction sector, creating\_more jobs and improving\_the quality of life of the Nicaraguan people,\"\_Meléndez said. (Nicaragua News, May 4)</li><br>\n \t<li>The President of\_the Superior Council of Private Enterprise (COSEP), José Adán Aguerri said the\_Tripartite Alliance Model between government, employers and\_labor has\_contributed to growth in formal employment in Nicaragua. \"Over the last 10\_years the minimum wage grew 214% and formal employment 74%. We continue to\_work\_to ensure greater stability and better wages, as well as profitable and\_productive companies\", Aguerri said. President Ortega, in his May Day\_speech also called for\_further strengthening the Tripartite Alliance Model\_saying, \"Nicaragua must continue to strengthen this Tripartite Alliance\_Model to ensure peace, stability and prosperity\_for all Nicaraguan\_families.\" (Nicaragua News, May 2)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

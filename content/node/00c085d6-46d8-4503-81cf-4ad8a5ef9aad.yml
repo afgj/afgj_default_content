@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 00c085d6-46d8-4503-81cf-4ad8a5ef9aad
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicanotes: Guest Bloggers Invited for Next Two Weeks!'
+  created:
+    -
+      value: 1487163117
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-guest-bloggers-invited-next-two-weeks
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"aligncenter size-full wp-image-6975\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"\" width=\"579\" height=\"195\" /></a>\n<p class=\"p1\">Tomorrow, Feb. 16, I leave for Honduras and Nicaragua. I’ll be leading a group of academics and activists to compare and contrast the two neighboring countries in the areas of rural development, citizen security, and women’s empowerment. When I come back, I’m sure I’ll have a lot to write about, but in the meantime, I am going to be occupied over the deadlines for the next two weeks of NicaNotes. I am looking for guest blogs for Feb. 22 and Mar. 1. If you have something you would like considered for publication in this space, please send it to BOTH <a href=\"mailto:Chuck@AFGJ.org\">Chuck@AFGJ.org</a>and <a href=\"mailto:kathy@afgj.org\">Kathy@AFGJ.org </a>\_The deadlines are Feb. 20 and Feb 27, respectively. Submissions can be any length, but 2-4 pages is the ideal range.</p>\n\n\n<hr />\n\n<strong>BRIEFS</strong>\n<ul>\n \t<li>The Central Bank (BCN) reported that Nicaragua's oil bill was reduced by 11.2% last year, going from US$ 777.8 million dollars in 2015 to US$690 million in 2016. The reduction was due to a decline in international oil price and greater clean energy production in the country. Reducing fossil fuel consumption has been a priority of the Ortega government since it came to office amid an energy crisis in which the country suffered daily rolling black-outs. In conjunction with that priority, the Nicaragua Small and Medium Size Business Council (CONIMIPYME) and the Clean Energy Production Center (CPML) organized a workshop in Managua on Energy and Small Business Development. CONIMIPYME President Leonardo Torres said small businesses have a positive impact on the economy and it is important to provide training to promote greater use of renewable energy and more efficient use of electricity. (Nicaragua News, Feb. 13)</li>\n</ul>\n<ul>\n \t<li>The Global Peace Index, published by the Institute for Economics and Peace, ranked Nicaragua among the safest countries worldwide. The report states that Nicaragua has high public safety rates, low militarization levels and strong gun control policies. (Nicaragua News, Feb. 10)</li>\n</ul>\n<ul>\n \t<li>European Union Ambassador Kenny Bell reaffirmed that the European Union continues to be a strategic partner of Nicaragua in the fight against poverty and promotion of inclusive development. \"We will continue to be Nicaragua's largest donor in education, agricultural production and climate change. The European Union will also maintain a yearly aid level of US$200 million,\" Ambassador Bell said. (Nicaragua News, Feb. 10)</li>\n</ul>\n<ul>\n \t<li>OAS Secretary General Luis Almagro, said that constructive dialogue with Nicaragua is progressing with very good results. \"This has been a positive dialogue and changes are being made to strengthen Nicaragua electoral system and the rule of law. We believe that the Nicaragua government is firmly committed to the Inter-American Democratic Charter and the rule of law\", the Secretary General of the OAS said. (Nicaragua News, Feb. 9)</li>\n</ul>\n<ul>\n \t<li>The President of the Nicaragua Microfinance Association (ASOMIF), Verónica Herrera, said that in 2016 Nicaragua was the leading Central American country in microfinance development with an 18% growth over the previous year. She added that the Nicaragua financial system has been strengthened due to greater support from the government in promoting a responsible payment policy. (Nicaragua News, Feb. 9)</li>\n</ul>\n<ul>\n \t<li>Following the announcement by Presidential Advisor Orlando Nuñez that the government will not allow Uber to operate in the country but, in exchange, transportation cooperatives are expected to improve their service, it appears there is not a full consensus within the transport sector. The National Federation of Transportation Cooperatives and Multiple Services announced a pilot program starting with 50 vehicles and expanding to 1,000 in December. The Nicaraguan Federation of Taxi Cooperatives, on the other hand, said it didn’t know anything about that proposal and would continue its policy of replacing 150-180 vehicles per year as they have for the past 14 years. (El Nuevo Diario, Feb. 9)</li>\n</ul>\n<ul>\n \t<li>Costa Rica and Nicaragua’s long-running border dispute is back before the World Court with the justices giving deadlines of March 2 and April 18 respectively for the countries to file their arguments. The Court awarded Costa Rica sovereignty over a swampy island in the mouth of the San Juan River called Portillos Island by Costa Rica and Harbour Head by Nicaragua in December 2015. Costa Rica went back to the court claiming that Nicaragua has a military base on the island and demanding that the Court demarcate the exact land border. The Court also announced that it would examine a new suit by Costa Rica asking the World Court to set the maritime boundaries between the two countries. (El Nuevo Diario, Feb. 8)</li>\n</ul>\n<ul>\n \t<li>The Nicaragua Social Security Institute (INSS) reported that formal employment grew 11% last year, rising from 773,409 jobs in 2015 to 857,219 in 2016. The main drivers of this growth were construction, transport, commerce, tourism, manufacturing and finance. (Nicaragua News, Feb. 6)</li>\n</ul>\n<ul>\n \t<li>Nicaragua Army Chief, General Julio César Avilés, said that protection of Natural Reserves is a matter of national security for the Nicaragua government. \"This year, we have strengthened the Ecological Battalion with more than 700 soldiers, who have been deployed in seven strategic regions of the country to preserve 76 protected areas of our natural treasure,\" General Avilés said. Illegal settlement of the Reserves, especially the Bosawas, has resulted in settler violence against indigenous communities as well as accelerated deforestation. The government has won praise for the demarcation and titling of indigenous land, but has been criticized for failing to slow or remove illegal settlement by mestizo farmers and ranchers from the Pacific side of the country or to crack down sufficiently on unscrupulous lawyers and judges who have illegally sold indigenous land to unsuspecting settlers. (Nicaragua News, Feb. 6)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

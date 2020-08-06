@@ -1,0 +1,72 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 1ef37e65-1656-4f95-bddc-1368f6612a7c
+  bundle: mt_service
+  default_langcode: en
+  depends:
+    f4c96c2e-56e6-41ac-a887-98d826d15265: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'TAKE ACTION TO FREE HONDURAN POLITICAL PRISONERS!'
+  created:
+    -
+      value: 1592257015
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_srv_banner_image:
+    -
+      entity: f4c96c2e-56e6-41ac-a887-98d826d15265
+      alt: 'take action'
+      title: ''
+      width: 800
+      height: 800
+  field_mt_srv_body:
+    -
+      value: "<p><span>Why they migrate is why they are imprisoned and killed.</span></p>\r\n\r\n<p><span><a href=\"https://afgj.salsalabs.org/takeactiontofreehonduranpoliticalprisoners\">TAKE ACTION TO FREE HONDURAN POLITICAL PRISONERS! </a></span></p>\r\n\r\n<p><span>15 political prisoners remain imprisoned for protesting the U.S.- and Canadian-backed 2017 electoral fraud in Honduras. The majority of political prisoners are being held in military-run, maximum-security prisons where they face years of pre-trial detention. They are being persecuted, falsely charged and held in the harshest conditions usually reserved for violent criminals for demanding economic, political, and social change in Honduras. </span></p>\r\n\r\n<p><span>The refugees in the caravan traveling to the U.S. border have fled Honduras for the same reasons that Honduran political prisoners are incarcerated: both are resisting the U.S.- and Canadian-supported Honduran dictatorship under Juan Orlando Hernandez. Honduran refugees and political prisoners alike seek a viable, humane solution to the nationwide crisis provoked by the 2009 military coup and (most recently) repression and other violent state policies linked to the 2017 electoral fraud. Read the Honduras Solidarity Network’s statement on the refugee caravan </span><a href=\"http://www.hondurassolidarity.org/\"><span>here</span></a></p>\r\n\r\n<p><span>Demand that the U.S. and Canada end support to the Honduran regime NOW! &nbsp;</span></p>\r\n\r\n<p><span>Signing this petition demands that the U.S. and Canada change their long-standing policies in Honduras. We demand: &nbsp;</span></p>\r\n\r\n<ol>\r\n\t<li><span>An end to U.S. and Canadian military and security aid to Juan Orlando Hernandez’s regime, not as Donald Trump’s blackmail threat, but as a way to guarantee the protection of the human rights of the Honduran people. </span></li>\r\n\t<li><span>Justice for Berta Cáceres and all victims of state violence stemming from the 2009 coup and 2017 electoral crisis, and the approval of the Berta Cáceres Human Rights in Honduras Act, H.R. 1299. </span></li>\r\n\t<li><span>Immediate freedom for all political prisoners in Honduras. </span></li>\r\n\t<li><span>An end to the criminalization, imprisonment, separation, deportation and killing of migrants and refugees.</span></li>\r\n</ol>\r\n\r\n<p><span>Canadians can also sign another e-petition found </span><a href=\"https://petitions.ourcommons.ca/en/Petition/Sign/e-1868\"><span>here</span></a></p>\r\n\r\n<p><span>MIGRATION WON’T STOP UNTIL U.S. AND CANADIAN POLICY IN HONDURAS CHANGES. FREE THE POLITICAL PRISONERS! JUSTICE FOR BERTA CACERES!</span></p>\r\n\r\n<p><a href=\"https://afgj.salsalabs.org/takeactiontofreehonduranpoliticalprisoners\">Take Action</a></p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_srv_highlight:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 51604a47-b902-49a8-bf5f-6b2eee6412d6
+          bundle: mt_highlight
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1592257197
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true

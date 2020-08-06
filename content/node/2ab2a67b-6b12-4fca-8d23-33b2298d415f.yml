@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2ab2a67b-6b12-4fca-8d23-33b2298d415f
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    e1391c31-ce88-4beb-a12d-d58ab528ecd9: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Four attacks in four days! Solidarity with Colombia''s Minga!'
+  created:
+    -
+      value: 1552744181
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /four-attacks-four-days-solidarity-colombias-minga
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"aligncenter wp-image-11516\" src=\"https://afgj.org/wp-content/uploads/2019/03/hoy-3-1-1024x734.jpeg\" alt=\"\" width=\"656\" height=\"475\" /></p>\r\n<em>Español abajo - ¡CUATRO ASALTOS EN CUATRO DÍAS! ¡SOLIDARIDAD CON LA MINGA!\r\n</em>\r\n<p style=\"text-align: center;\"><a href=\"https://afgj.salsalabs.org/presidente-duque-ahora-es-la-hora-para-reunir-con-la-minga/index.html\">Click here to send a message to President Iván Duque calling on him to meet with the minga and end the state violence in Cajibío and throughout Cauca</a></p>\r\n<p style=\"text-align: center;\"><a href=\"https://afgj.salsalabs.org/presidente-duque-ahora-es-la-hora-para-reunir-con-la-minga/index.html\">Hace clic aqui para enviar un mensaje a Presidente Iván Duque pidiendolo que reune con la minga y termine la violencia estatal en Cajibío y por Cauca</a></p>\r\nDeclaration of Solidarity with the Minga in Cauca and Call for an End to the State Violence against the Minga in Cajibío\r\n\r\nThe Alliance for Global Justice, US organization for the defense of human rights, declares its solidarity with the present minga [community consultation called by indigenous, farming, and afro-descendent communities) in Cauca, and we support the request that Colombian President Iván Duque travel as soon as possible to listen to their grievances. In this specific moment, we demand an immediate end to the repression against the minga and the threats and attacks that have occurred in the village of Cairo, municipality of Cajibío, by the Colombian Armed Forces Anti-Disturbance Squadron (ESMAD).\r\n\r\nFor four days we have heard of daily assaults in Cairo with tear gas fired directly against the minga, resulting in various wounded. We know that, in similar circumstances, situations like this have escalated to the use of live bullets resulting in deaths. We remember with sadness and worry the events of October 5, 2016 in Tumaco, Nariño, when armed forces killed eight persons, with 20 to 50 wounded. We do not want the repetition in Cauca for this minga, and we ask the immediate withdrawal of ESMAD from Cajibío.\r\n\r\nWe have read and listened to the testimonies of various persons and have watched videos that show that the people were not blockading access to any highway as alleged by the authorities and that the meetings were, and are, peaceful and nonviolent. But even if the people had blockaded some road in protest, the persecution and repression in Cauca is terrible, an urgent emergency. The solution to any such blockade is not repression, but the attendance Pres. Duque at the minga to listen and talk in good faith about the current crisis and to give the commitment of the State to end this climate of political violence.\r\n\r\nThe indigenous, afro-descendent, and farming communities are experiencing the highest levels of political violence in years. The statistics in Cauca for murders of human rights defenders, social movement leaders, disarmed ex-insurgents, and ex-political prisoners and prisoners of war, are the highest in the country. Throughout all of Colombia, political murders continue to climb. According to Indepaz and the Marcha Patriótica (Patriotic March), in 2016, 97 human rights defenders were killed; in 2017, 159; and in 2018, 226, with 48 in Cauca. In the majority of cases, the violence had to do with land issues.\r\n\r\nThe Alliance for Global Justice supports the minga’s call “for defense of life, territory, democracy, justice, and peace”.\r\n<p style=\"text-align: center;\"><img class=\"aligncenter size-large wp-image-11517\" src=\"https://afgj.org/wp-content/uploads/2019/03/fensuagro-minga-1024x576.jpeg\" alt=\"\" width=\"752\" height=\"423\" /></p>\r\n<strong>ESPAÑOL:</strong>\r\n\r\nDeclaración de Solidaridad con la Minga en Cauca y Llamada para un Fin a la Violencia del Estado contra la Minga en Cajibío\r\n\r\nLa Alianza por la Justicia Global, organización estadounidense de defensa de derechos humanos, declara su solidaridad con la minga actual en Cauca, y apoyamos su petición que el presidente Iván Duque viaje tan pronto como posible a escuchar sus quejas. En este preciso momento exigimos un fin inmediato a la represión contra la minga y los amenazas y ataques que están ocurriendo en la vereda de Cairo, municipalidad de Cajibío por parte de ESMAD.\r\n\r\nPor cuatro días hemos oído de asaltos diarios en Cairo con gases lacrimógenos disparados directamente contra reuniones de la minga, resultando en varias heridas. Conocemos que, en circunstancias similares, situaciones como esta han escalado al uso de balas vivas resultando en muertes. \_Recordamos con tristeza y preocupación los eventos del 5 de octubre 2016 en Tumaco, Nariño cuando fuerzas armadas mataron a ocho personas, con dentro 20 y 50 heridos. No queremos la repetición en Cauca a esta minga, y así pedimos el retiro inmediato de ESMAD de Cajibío.\r\n\r\nHemos leído y escuchado los testimonios de varias personas y hemos mirado videos que muestran que la gente no había bloqueado el acceso a ninguna autopista como alega las autoridades y que las reuniones fueron, y son, pacíficas y no violentas. Pero incluso si la gente había bloqueado algún camino en protesta, la persecución y represión en Cauca es terrible, una emergencia urgente. La solución justa a cualquiera tal bloqueo no es la represión, sino la asistencia de Pres. Duque a la minga para escuchar y hablar en buena fe sobre la crisis actual y dar el compromiso del Estado para terminar con este clima de violencia política.\r\n\r\nLas comunidades indígenas, afrodescendientes, y campesinas están experimentando las más altas niveles de violencia política en años. Las cifras en Cauca de asesinatos de defensores de derechos humanos, líderes sociales, ex insurgentes desarmados, y exprisioneros y exprisioneras políticos y de guerra son las más altas en el país. Por toda Colombia, los asesinatos políticos continúan a subir. Según Indepaz y la Marcha Patriótica, en 2016, 97 defensores de derechos humanos fueron asesinados; en 2017, 159; y en 2018, 226 con 48 de estos en Cauca. En la mayoría de los casos, la violencia relacionó a asuntos de tierra.\r\n\r\nLa Alianza por la Justicia Global apoya la llamada de la minga “por la defensa de la vida, el territorio, la democracia, la justicia y la paz”."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: e1391c31-ce88-4beb-a12d-d58ab528ecd9
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

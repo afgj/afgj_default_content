@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 0cae9446-3503-47e5-b2be-487f3aec1209
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Delegation of Accompaniment in Support of Colombia’s Peace Process'
+  created:
+    -
+      value: 1447843954
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /delegation-accompaniment-support-colombias-peace-process
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p class=\"p1\" style=\"text-align: left;\"><img class=\"alignnone\" src=\"http://org2.salsalabs.com/o/7315/images/James0%20delegation%20Photo%20bright%20edit%20delegation%20text.jpg\" alt=\"\" width=\"3072\" height=\"2304\" /></p>\r\n<p class=\"p1\" style=\"text-align: left;\"><strong><span style=\"text-decoration: underline;\">Delegation Overview:</span></strong></p>\r\n<p class=\"p1\" style=\"text-align: left;\"><span style=\"text-decoration: underline;\">May 22 – June 1, 2016</span></p>\r\n<p class=\"p1\" style=\"text-align: left;\">We will begin the delegation in Bogota, the capitol city of Colombia, where we will receive an orientation about accompaniment, and where we will meet with labor,\_student and popular movement representatives. We will then travel to Tolima, Huila and or La Guajira where we will spend several days hosted by Fensuagro’s affiliates and the human rights organization, Lazos de Dignidad (Links of Dignity). We also plan to visit one of the US funded prisons in the area, and will meet with current and former political prisoners.</p>\r\n<p class=\"p1\">It is significant that this will be AfGJ's first delegation following the very possible successful end of negotiations in Havana to reach peace accords to end 52 years of civil war. We will be in Colombia on May 27, the date most cited as the beginning of the civil war in Colombia. That is when the forerunners of the FARC (Revolutionary Armed Forces of Colombia) formed to resist attacks by the Colombian military and paramilitary death squads against autonomous regions of peasant farmers in the departments (\"states\") of Tolima and Huila. Two years earlier, the Pentagon had sent a delegation to Colombia which called for military assaults and for acts of “terrorism” (yes, they used that word) against the rural populations.</p>\r\n<p class=\"p1\">The Alliance for Global Justice is returning to Colombia in order to accompany human rights defenders and leaders of Fensuagro, the peasant and agricultural workers union whose lives are still endangered by enemies of the peace. AfGJ is uniquely suited to do this because of the strong relationship we have cultivated with Fensuagro. We will also be working with the Pan Left collective to collect video cameras and related equipment to put into the hands of student, indigenous, Afrocolombian and peasant organizations so that they can document their struggles and share what’s happening with each other and the world. We’re excited about this collaboration because these are tools for peace we will leave behind even when our delegation has ended.</p>\r\n<p class=\"p1\">This delegation is a vital contribution that you can make to peace in Colombia. In the 1980s and 90s, the peace process was derailed because of political violence against the Left that resulted in more than 5,000 dead. Many believe that one of the reasons the process failed was because of the lack of international awareness and accompaniment. We of the US must do our part. Our taxes have funded and advised right wing political violence in the country for more than 50 years. We have a responsibility to help make this peace last.</p>\r\n<p class=\"p1\"><strong>Costs</strong>: $1,400 will cover food, lodging, translation services, in-country travel and other delegation related expenses. International travel is not covered.</p>\r\n<p class=\"p1\"><strong>For more information of an applications, please email\_<a href=\"mailto:Delegations@afgj.org\">Delegations@afgj.org</a></strong></p>\r\n<p class=\"p1\"><strong>To pay your fee for this delegation, click <a href=\"https://org2.salsalabs.com/o/7315/donate_page/delegation-payment-2\">here.</a></strong></p>\r\n<p class=\"p1\"><strong>Can't make it?<a href=\"https://org2.salsalabs.com/o/7315/donate_page/delegation-payment-2\"> Contribute to the Scholarship Fund for this Delegation!</a></strong></p>"
+      format: full_html
+      summary: ''

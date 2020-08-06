@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a5840030-6c15-4c80-b0ff-a52d1f3bbf32
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: false
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nica Notes'
+  created:
+    -
+      value: 1467105600
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nica-notes
+      langcode: en
+      pathauto: 1

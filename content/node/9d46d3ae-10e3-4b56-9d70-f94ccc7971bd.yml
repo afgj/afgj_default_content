@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 9d46d3ae-10e3-4b56-9d70-f94ccc7971bd
+  bundle: article
+  default_langcode: en
+  depends:
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Take Action Today to Support Venezuela''s Democracy'
+  created:
+    -
+      value: 1493982975
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /take-action-today-support-venezuelas-democracy
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Democrat and Republican senators have introduced a bill to further disrupt Venezuela’s political system with the goal of imposing regime change. We support Pope Frances’ call for dialogue between “ the government and all the components of the Venezuelan society so that every further form of violence is avoided, human rights are respected and negotiated solutions are sought to the humanitarian, social, political and economic crises, which are exhausting the people.” Please write a letter to your two Senators telling them to keep their Hands off Venezuela!\n<h2 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=24777\"><strong>You can automatically send a letter\nby clicking </strong><strong>here.</strong></a></h2>\nSen. Ben Cardin (D-MD), Sen. Marco Rubio (R-FL), Sen. Dick Durbin (D-IL), Sen. John Cornyn (R-TX), Sen. Robert Menendez (D-NJ), Sen. John McCain (R-AZ), Sen. Bill Nelson (D-FL), Sen. Tim Kaine (D-VA), and Sen. Chris Van Hollen (D-MD) introduced a destabilization bill in the Senate in the guise of a humanitarian response to the economic and political crisis Venezuela is confronting. The purpose of the bill is neither to help solve Venezuela’s economic crisis, nor to help bring violent elements in the opposition to the table to discuss peaceful solutions to Venezuela’s problems.\n\nIts purpose is to further destabilize Venezuela’s economy and democracy in order to remove elected President Nicolas Maduro and to crush Hugo Chavez’ Bolivarian Movement which brought hope of a better life to millions around the world. If Senators were serious about responding to a humanitarian crisis they would concentrate their attention on Haiti which is still suffering neglect after the deadly earthquake of 2009. Or concentrate on Honduras which suffered a military coup in 2009 followed by a faux election in which the democratic opposition was not allowed to campaign under a State of Emergency. Honduras’ 2013 election was marred by widespread cheating and the victor of that “election” is this year running for reelection without even changing the constitutional ban on reelection.\n\nInstead, Senators are focused on Venezuela where the government lost 80% of revenue in recent years due to low oil prices and where former US President Jimmy Carter himself said that Venezuela has the best electoral system of any country he has monitored.\n\nWe have to call our Senators on their gross hypocrisy. Regardless of whether we agree on all the steps the Venezuelan government has taken to confront the two crises, we can agree that the US government does not have the best interests of Venezuelans at heart. We can agree that no act of the US government to intervene in Venezuela’s internal affairs will improve the lives of Venezuelans. We defend the national sovereignty of all countries and oppose US intervention in the sovereign affairs of our neighboring countries and demand US Hands Off Venezuela!\n<h2 style=\"text-align: center;\"><strong><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=24777\" target=\"_blank\" rel=\"noopener noreferrer\">Click here to send a letter to your Senators.</a></strong></h2>\n\n<hr />\n<p style=\"text-align: center;\"><strong>Background: What is in Senate bill S-1018?</strong></p>\nRegime change in Venezuela has been official US government policy throughout the regimes of George W. Bush, Barack Obama, and now Donald Trump. The US has used its arsenal of regime change tools short of directly sending in military troops. The US has attempted to demonize first President Hugo Chavez and now his successor Nicolas Maduro. The US has implemented economic warfare to “make the economy scream” - as Henry Kissinger said when the US\_ worked toward regime change in Chile. The US has spent tens of millions of dollars to fund the Venezuelan opposition, including the factions of it that seek the violent overthrow of the democratically-elected government.\n<p style=\"text-align: center;\"><strong>Some of the highlights of bill S-1018 are:</strong></p>\n\n<ul>\n \t<li>The bill claims there are 108 political prisoners, naming a number of opposition leaders including some found responsible for deaths during the violent demonstrations following the 2015 presidential election won by President Maduro.</li>\n</ul>\n&nbsp;\n<ul>\n \t<li>While US-dominated financial institutions block international loans to Venezuela, the bill reverses the reality and \"Calls on Venezuelan President Maduro to permit humanitarian assistance, immediately release all political prisoners, and seek assistance from international financial institutions.\"</li>\n</ul>\n&nbsp;\n<ul>\n \t<li>The bill\_authorizes $10 million for the U.S. Department of State and the U.S. Agency for International Development (USAID) to provide \"humanitarian assistance\" which is code for funding the opposition, including the violent opposition.</li>\n</ul>\n&nbsp;\n<ul>\n \t<li>It backs OAS General Secretary Almagro’s campaign to invoke the OAS Democratic Charter against Venezuela as a means to directly intervene to allegedly \"restore democracy.\" Almagro’s campaign has failed to pass the OAS General Assembly and has resulted in Venezuela’s announcement to withdraw its membership from the OAS.</li>\n</ul>\n&nbsp;\n<ul>\n \t<li>The bill\_\"Authorizes $500,000 to support future OAS election observation missions and $9.5 million for democratic civil society organizations working to defend human rights.\" In effect, this means funding opposition parties in an\_OAS-controlled future Venezuela national election when in fact Venezuela’s electoral process is more tamper-proof than that of the US, therefore needing no international monitoring.</li>\n</ul>\n&nbsp;\n<ul>\n \t<li>Calls for a report on the \"involvement of Venezuelan government officials in corruption and the illicit drug trade,\" and calls for US sanctions which could be used as a tool to exclude Chavista leaders from international meetings and from running in future elections.</li>\n</ul>\n&nbsp;\n<h2 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=24777\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Act now to send a message to your Senators to keep their Hands Off Venezuela!</strong></a></h2>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+  field_mt_slideshow:
+    -
+      value: false

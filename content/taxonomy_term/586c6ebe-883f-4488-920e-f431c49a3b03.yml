@@ -1,0 +1,44 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: 586c6ebe-883f-4488-920e-f431c49a3b03
+  bundle: mt_collections
+  default_langcode: en
+  depends:
+    1de0aec7-8038-4b4a-87ab-e97181737d41: file
+    aa05df10-eb11-4da3-9abd-f2ff1bf0630a: file
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: Others
+  weight:
+    -
+      value: 3
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_collection_image:
+    -
+      entity: 1de0aec7-8038-4b4a-87ab-e97181737d41
+      alt: 'Product Group four'
+      title: ''
+      width: 750
+      height: 835
+  field_mt_wide_collection_image:
+    -
+      entity: aa05df10-eb11-4da3-9abd-f2ff1bf0630a
+      alt: 'Product Group four'
+      title: ''
+      width: 750
+      height: 401

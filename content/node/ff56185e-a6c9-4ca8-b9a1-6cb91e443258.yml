@@ -1,0 +1,47 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ff56185e-a6c9-4ca8-b9a1-6cb91e443258
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly 9.7.2018: Nicaragua response to UNHR report; Public Meeting with Cuban UN General Assembly delegation'
+  created:
+    -
+      value: 1536326953
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-972018-nicaragua-response-unhr-report-public-meeting-cuban-un-general
+      langcode: en
+      pathauto: 1
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

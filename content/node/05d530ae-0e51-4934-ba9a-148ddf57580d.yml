@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 05d530ae-0e51-4934-ba9a-148ddf57580d
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Resources
+  created:
+    -
+      value: 1385036916
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /resources-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Coalitions and Networks in which AfGJ Participates:</strong>\r\n\r\n<a href=\"https://sites.google.com/site/hondurassolidaritynetwork/\">Honduras Solidarity Network</a>\r\n\r\n<a href=\"http://libertadparalasmariposas.blogspot.com/2013/06/coalicion-larga-vida-las-mariposas.html\">Coalición Larga Vida las Mariposas (Long Live the Butterflies Coalition)</a>\r\n\r\n<a href=\"https://derechosdelospueblos.net/\">Coordinadora Americana por los Derechos Humanos y las Victimas de Prisión Política (American Coordination for Human Rights and the Victims of Political Imprisonment)</a>\r\n\r\n<a href=\"http://observatoriodederechoshumanosdelospueblos.org/\">Obersvatorio de Derechos Humanos de los Pueblos (Peoples Human Rights Observatory)</a>\r\n\r\n<a href=\"http://www.flushthetpp.org/\">Flush the TPP Campaign</a>\r\n\r\n<a href=\"http://globalclimateconvergence.org/\">Global Climate Convergence</a>\r\n\r\n<strong>International Partners and Friends:</strong>\r\n\r\n<a href=\"http://fensuagro.org/\">Fensuagro</a>\r\n\r\n<a href=\"http://fundacionlazosdedignidad.org/\">Lazos de Dignidad</a>\r\n\r\n<a href=\"http://fundacionlazosdedignidad.org/\">Marcha Patriótica</a>\r\n\r\n<a href=\"http://codepappo.org/\">Consejo de Derechos del Pueblo</a>\r\n\r\n<a href=\"http://mompade.blogspot.com/\">Movimiento Mexicano por la Paz y Desarrollo </a>\r\n\r\n<a href=\"http://limeddh.blogspot.com/\">Liga Mexicana por la Defensa de los Derechos Humanos</a>\r\n\r\n<a href=\"http://www.comitecerezo.org/?lang=es\">Comité Cerezo</a>\r\n\r\n<a href=\"http://www.psf.org.pe/institucional/\">Forum Solidaridad Perú</a>\r\n\r\n<a href=\"http://www.mocicc.org/\">Movimiento Ciudadano frente el Cambio Climático</a>\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''

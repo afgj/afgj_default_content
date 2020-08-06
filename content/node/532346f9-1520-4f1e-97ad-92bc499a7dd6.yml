@@ -1,0 +1,73 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 532346f9-1520-4f1e-97ad-92bc499a7dd6
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    c9b756ad-4294-4509-b39a-44b257904127: taxonomy_term
+    801e3bde-8887-4341-9509-1363185a5f6e: taxonomy_term
+    ff23272a-2c6a-4d3f-b137-4c19843845a6: taxonomy_term
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+    47dbf152-55af-48f9-b366-923795d9a8c9: taxonomy_term
+    f866b718-fd02-493f-8a4a-e61cfdc5f8da: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Stop the Nica Act - Send A Letter to Your Senator!'
+  created:
+    -
+      value: 1514900742
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /stop-nica-act-send-letter-your-senator
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25696\">This action call is a joint effort of </a><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25696\">Friends of the ATC ( ATC is Nicaragua's Rural Workers Assocation) and the\_Alliance for Global Justice</a></h2>\r\n<img class=\"size-full wp-image-8014 alignleft\" src=\"https://afgj.org/wp-content/uploads/2017/08/Picture1.jpg\" alt=\"\" width=\"277\" height=\"247\" />\r\n\r\n<img class=\"wp-image-8258 alignleft\" src=\"https://afgj.org/wp-content/uploads/2017/09/cropped-logofavicon-300x300.png\" alt=\"\" width=\"245\" height=\"245\" />\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\nOn Friday December 23<sup>rd</sup>, the day before the Congressional recess and on the same day that the US government congratulated Juan Orlando Hernandez as the new president of Honduras, the Nicaragua Investment Conditionality Act of 2017 (NICA Act) was introduced into the Senate. The NICA Act is no longer being simply promoted by the extreme right of the Republican Party and Cuban-Americans in the United States, as senators Leahy (D-VT) and Durbin (D-IL) were part of introducing the Act.\r\n<h3 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25696\">Tell your Senator - Don't pass the Nica Act!\_</a></h3>\r\nThe NICA Act, should it be passed, would mean that the US would vote against loans from international financial institutions until Nicaragua has, in the US government’s judgement, taken effective measures to \"<a href=\"https://www.govtrack.us/congress/bills/115/hr1918/summary\">combat corruption and promote democracy, free speech, civil society and rule of law</a>\". However, what exactly the specific instances of corruption, absence of democracy, free speech, etc., are unclear and completely unqualified.\r\n\r\nIntroduction of the NICA Act in the Senate should not be viewed as a surprising anomaly to US policy, nor an isolated act, but instead part of the larger imperialist project of the United States government to assert its control around the world. It joins a larger set of actions to weaken governments on the left in Latin America (such as what is occurring against Venezuela) or prevent progressive ones from coming into power (such as what has just occurred in Honduras).\r\n\r\nThese sorts of actions also get picked up by the US media to deceive and confuse the US public from all parts of the political spectrum, including self-identified progressives, which makes it difficult for our solidarity movements to mobilize.\r\n\r\nNicaragua has been able to make massive progress in the past decade in large part due to a government committed to eradicating poverty along with its ability to access international credit. It has extensive social programs such as free healthcare and education at all levels including university, the building of rural roads, electrification, new housing, support for small family business and the informal economy, hunger reduction programs, etc. This makes Nicaragua the safest country in Central America, with low levels of migration compared to the Northern Triangle countries. The sanctioning of Nicaragua would put a major roadblock on this progress, and would likely decrease the quality of life for Nicaraguans and increase migration to other countries including the United States.\r\n\r\nBased upon all of this information, we reject the claims made by the authors and promoters of the NICA Act and denounce the advancement that the NICA Act has made in Congress which passed the House in early fall. We call upon all of our brothers and sisters to mobilize and stand in solidarity with the Nicaraguan people.\r\n<p style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25696\"><strong>No to the NICA Act! No to US Empire! Yes to Nicaraguan sovereignty and peoples' solidarity!</strong></a></p>\r\n<p style=\"text-align: center;\"><img class=\"aligncenter wp-image-8262\" src=\"https://afgj.org/wp-content/uploads/2017/09/notothenicaactsmall.png\" alt=\"\" width=\"390\" height=\"367\" /></p>\r\n\r\n<h2 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25696\">Send the following letter to your Senator!</a></h2>\r\nDear Sen. ______________\r\n\r\nI am writing to express my opposition to the Nicaragua Investment Conditionality Act of 2017 (NICA Act). If the NICA Act becomes law, the US will vote against multilateral loans to Nicaragua. The purpose of the Act is based on the false premise that the Nicaraguan government is corrupt and commits human rights violations.\r\n\r\nIn fact:\r\n<ul>\r\n \t<li>The World Bank and IMF have praised Nicaragua’s management of aid projects as ranking among the best in the world.</li>\r\n \t<li>Nicaraguan police and military have prevented drug cartels from gaining a foothold in the country, unlike the other countries of Central America.</li>\r\n \t<li>Nicaragua has no political prisoners and no censorship of the press. All of the print media and most radio stations are owned by the opposition.</li>\r\n \t<li>The Organization of American States noted some deficiencies in Nicaragua’s recent municipal elections but said the flaws would not have changed the outcome. The Nicaraguan government has pledged to work with the OAS to continue to strengthen the institutionality and transparency of its election processes.</li>\r\n</ul>\r\nNicaragua was among the first countries in Latin America to achieve the UN Millennium Goals of reducing poverty. If Nicaragua were to lose access to multilateral loans, it would impact its ability to fund education, health care, and economic infrastructure, effectively cutting off at the knees the most productive economy in Central America. A flood of Nicaraguans attempting to cross the US-Mexico border would follow soon after.\r\n\r\nThe defeat of this Act is important to me as a constituent. I will be closely following this legislation. I would appreciate if you would make a public statement against the NICA Act and I would like a response to this email.\r\n\r\nSincerely,\r\n\r\nYOUR NAME\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: c9b756ad-4294-4509-b39a-44b257904127
+    -
+      entity: 801e3bde-8887-4341-9509-1363185a5f6e
+    -
+      entity: ff23272a-2c6a-4d3f-b137-4c19843845a6
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+    -
+      entity: 47dbf152-55af-48f9-b366-923795d9a8c9
+    -
+      entity: f866b718-fd02-493f-8a4a-e61cfdc5f8da
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

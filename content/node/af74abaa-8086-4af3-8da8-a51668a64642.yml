@@ -1,0 +1,85 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: af74abaa-8086-4af3-8da8-a51668a64642
+  bundle: mt_product
+  default_langcode: en
+  depends:
+    874b35fb-8f85-4ad4-8d53-79c7d3d41d27: taxonomy_term
+    586c6ebe-883f-4488-920e-f431c49a3b03: taxonomy_term
+    1af351b8-2765-45d5-baff-d34ef55b3931: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Third Product'
+  created:
+    -
+      value: 1465831692
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_prd_body:
+    -
+      value: "<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise <a href=\"#\">with competitive technologies</a>. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n\r\n<blockquote>\r\n<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies. Appropriately communicate adaptive imperatives rather than value-added potentialities.</p>\r\n</blockquote>\r\n\r\n<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise <a href=\"#\">with competitive technologies</a>. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_prd_buy_link:
+    -
+      uri: 'http://sites.fastspring.com/morethanthemes/product/fullbundlesubscription?option=show_contents'
+      title: 'Buy Now'
+      options: {  }
+  field_mt_prd_categories:
+    -
+      entity: 874b35fb-8f85-4ad4-8d53-79c7d3d41d27
+    -
+      entity: 586c6ebe-883f-4488-920e-f431c49a3b03
+  field_mt_prd_image:
+    -
+      entity: 1af351b8-2765-45d5-baff-d34ef55b3931
+      alt: 'Third Product'
+      title: 'Third Product'
+      width: 1280
+      height: 690
+  field_mt_prd_most_popular:
+    -
+      value: false
+  field_mt_prd_price:
+    -
+      value: $49.00
+  field_mt_prd_pricing_table_item:
+    -
+      value: 'Account Balance'
+    -
+      value: 'Online Interface'
+    -
+      value: 'Weekly Reports'
+    -
+      value: 'Email support'
+  field_mt_prd_subheader_body:
+    -
+      value: "<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies appropriately communicate.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_prd_tags:
+    -
+      target_id: 12

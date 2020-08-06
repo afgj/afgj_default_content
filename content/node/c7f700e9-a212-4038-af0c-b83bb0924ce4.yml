@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c7f700e9-a212-4038-af0c-b83bb0924ce4
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Connect: A Resource for Fiscally Sponsored Projects'
+  created:
+    -
+      value: 1398263293
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /connect-resource-fiscally-sponsored-projects
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"aligncenter size-medium wp-image-5621\" src=\"https://afgj.org/wp-content/uploads/2014/04/Connect-Logo1-300x69.jpg\" alt=\"Connect-Logo\" width=\"300\" height=\"69\" /></p>\r\nConnect is AfGJ's bimonthly newsletter for Fiscally Sponsored Projects. \_It's a place to share news, achievements, upcoming events and resources amongst our community of projects.\r\n\r\nView Issues:\r\n\r\n<a title=\"Connect: Issue 1\" href=\"https://org2.salsalabs.com/o/7315/images/issue%201%20v8.pdf\" target=\"_blank\" rel=\"noopener\">Issue 1</a>: April 2014\r\n<p style=\"text-align: center;\">Have content to share? \_Please email fiscalsponsorship@AFGJ.org</p>\r\n&nbsp;"
+      format: full_html
+      summary: ''

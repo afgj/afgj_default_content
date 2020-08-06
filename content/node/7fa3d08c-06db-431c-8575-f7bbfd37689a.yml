@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 7fa3d08c-06db-431c-8575-f7bbfd37689a
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela and ALBA Weekly: Bolivarian Gains Made in 2017 in Spite of US Economic War'
+  created:
+    -
+      value: 1515149783
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-and-alba-weekly-bolivarian-gains-made-2017-spite-us-economic-war
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-8804 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/01/image-2.png\" alt=\"\" width=\"519\" height=\"794\" />\r\n\r\n<hr />\r\n\r\n<b>Jan 5th, 2018</b>\r\n\r\nThis weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=4G62FrZLtKpw2pDTihLPd6j1FjKE8bC9\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=JbzVeknDe0hE4xsuH37RNKj1FjKE8bC9\">Venezuelanalysis.com</a>.\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: center;\"><strong>Featured Articles</strong></h2>\r\n<a href=\"https://mronline.org/wp-content/uploads/2017/09/THE-VISIBLE-HAND-OF-THE-MARKET.-ECONOMIC-WARFARE-IN-VENEZUELA.-PASQUALINA-CURCIO-C.pdf\" target=\"_blank\" rel=\"noopener\">Pasqualina Curcio \"The Visible Hand of the Market: Economic Warfare in Venezuela\"</a>\r\n\r\n<a href=\"https://chicagoalbasolidarity.wordpress.com/2018/01/05/pasqualina-curcio-the-visible-hand-of-the-market-an-invitation-to-a-debate-of-ideas/\" target=\"_blank\" rel=\"noopener\">Interview with Pasqualina Curcio about her book \"The Visible Hand of the Market: Economic Warfare in Venezuela\"</a>\r\n<p style=\"text-align: center;\"><strong><a href=\"https://venezuelanalysis.com/donate\" target=\"_blank\" rel=\"noopener\">Support, Donate to Venezuelanalysis</a></strong></p>\r\n\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: center;\">The News, This Week</h2>\r\n<strong><a href=\"https://www.telesurtv.net/english/news/Cubas-Infant-Mortality-Rate-at-Its-Lowest-in-Nations-History-20171229-0005.html\" target=\"_blank\" rel=\"noopener\">Cuba's Infant Mortality Rate at its Lowest in Nation's History</a></strong>\r\n\r\nCuba’s infant mortality rate hits a new low of 4.1 per 1000 live births. Meanwhile in the US, the richest country the world has ever known, the rate is 5.59. For an even better comparison with Cuba, the U.S. Virgin Islands rate is 6.38 and Puerto Rico is 7.14. If the U.S. had the same infant mortality rate as Cuba, an extra 6000 babies would be alive each year. Put the other way, 6000 American babies die each year because the U.S. has inferior medical care for expecting and delivering mothers than socialist Cuba.\r\n\r\n&nbsp;\r\n\r\n<a href=\"http://www.coha.org/eleven-years-of-the-process-of-change-in-evo-morales-bolivia/\" target=\"_blank\" rel=\"noopener\">Accomplishments of Eleven Years of the “Process of Change” in Evo Morales’ Bolivia</a>\r\n\r\n<a href=\"https://www.telesurtv.net/english/opinion/Lamenting-Venezuelas-Humanitarian-Crisis-While-Blocking-Its-Resolution-20180102-0010.html\" target=\"_blank\" rel=\"noopener\">New York Times: Lamenting Venezuela’s 'Humanitarian Crisis' While Blocking Its Resolution</a>\r\n\r\n<a href=\"https://venezuelanalysis.com/analysis/13578\" target=\"_blank\" rel=\"noopener\">Foreign Ministry Statement: Venezuela Rejects Violent Protests in Iran and Demands Respect for Iranian Sovereignty</a>\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Venezuelas-Maduro-Announces-new-Social-Benefits-to-Benefit-8-Million-Families-20180104-0040.html\" target=\"_blank\" rel=\"noopener\">Venezuela Announces New Social Benefits to Benefit 8 Million Families</a>\r\n\r\n<a href=\"http://www.venezuelasolidarity.co.uk/opinion-ignacio-ramonets-full-analysis-of-2017-in-venezuela/\" target=\"_blank\" rel=\"noopener\">Ignacio Ramonet’s Full Analysis of 2017 in Venezuela</a>\r\n\r\n<hr />\r\n\r\n<strong> Allied Events</strong>\r\n\r\n<a href=\"https://afgj.org/stop-nica-act-send-letter-senate\" target=\"_blank\" rel=\"noopener\">Stop the Nica Act – Send A Letter to Your Senator!</a>\r\n\r\n<a href=\"https://afgj.org/travel-to-colombia\">Peacemakers Delegation to Colombia with AfGJ, May 19-29</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

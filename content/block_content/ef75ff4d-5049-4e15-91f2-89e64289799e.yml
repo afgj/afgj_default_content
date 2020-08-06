@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: ef75ff4d-5049-4e15-91f2-89e64289799e
+  bundle: mt_tabs_block
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Sidebar tabs'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_block_reference:
+    -
+      target_id: businessplus_views_block__mt_latest_block_3
+    -
+      target_id: businessplus_views_block__mt_latest_block_1

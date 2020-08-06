@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d1869be5-8a26-49ad-af3c-f00be3648573
+  bundle: article
+  default_langcode: en
+  depends:
+    3088e77a-0a92-4e10-8b2f-1df4d6086cc2: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NATIONAL WEBINAR: NATO AND THE WAR ON VENEZUELA'
+  created:
+    -
+      value: 1553703099
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /national-webinar-nato-and-war-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter size-large wp-image-11557\" src=\"https://afgj.org/wp-content/uploads/2019/03/1vz1-e1553185307301-1024x450.jpg\" alt=\"\" width=\"752\" height=\"330\" />\r\n\r\nNational webinar on NATO in Colombia and its role in regime change, particularly the current efforts to intervene in Venezuela. Speakers are James Jordan of the Alliance for Global Justice and Eduardo Correa, a Colombian who runs the Human Rights department at the Autonomous University of Mexico City. Correa is an expert on US bases and NATO in Colombia.\r\n\r\nMarch 28, 2019 at 8:00 pm Eastern/5:00 pm Pacific\r\n\r\nREGISTER HERE:\_<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSenx_QSjNXEa9__k_jx94oFmKcJYoPHFbJn5CW7N7wPvbqJmA/viewform?fbclid=IwAR2yEMXM45ZsRDxi5s6aPBCN9VrkZCIvYNMMrCEZs5k5hlA12dYkfjrw_BE\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" data-lynx-mode=\"hover\" data-lynx-uri=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSenx_QSjNXEa9__k_jx94oFmKcJYoPHFbJn5CW7N7wPvbqJmA%2Fviewform%3Ffbclid%3DIwAR2yEMXM45ZsRDxi5s6aPBCN9VrkZCIvYNMMrCEZs5k5hlA12dYkfjrw_BE&amp;h=AT0jAmLgIUs3nloVFSG-nn4LF66l1pxNaJQGeYnhoHt4WVES7LDuvb3eIqOosC1zvPzzznsRVZZB5kbXmAtAbtoTwOk_JelPtBxZTIpbooMiCwD-9K2S66MCl0_eOWnZ6XOsnHd8v3WFTm5Ctw\">https://docs.google.com/forms/d/e/1FAIpQLSenx_QSjNXEa9__k_jx94oFmKcJYoPHFbJn5CW7N7wPvbqJmA/viewform</a>\r\n\r\nJoin the week of actions March 30 to April 4 around the NATO Anniversary. Here is the link to more information:\_<a href=\"https://popularresistance.org/no-to-nato-spring-actions-in-washington-dc/?fbclid=IwAR3h03zd0slJ7JLF4GygPsbVMTUckAGNScGOQLfEazjErNg8bw5u7VPqRCs\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" data-lynx-mode=\"hover\" data-lynx-uri=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fpopularresistance.org%2Fno-to-nato-spring-actions-in-washington-dc%2F%3Ffbclid%3DIwAR3h03zd0slJ7JLF4GygPsbVMTUckAGNScGOQLfEazjErNg8bw5u7VPqRCs&amp;h=AT3tBV1yWYaMSpA3LYqsCOayJVJ4ZRtE10y5a9D1AIdRHE655BqagzN94k3UOpNZc0IeVsCo3iTq8t60w86Ui7dAU6PQBHcTSstt-bfzXBZp_RPfdARCSaBNolUqtNRl3Zf4LI5XYDpMDH6UAQ\">https://popularresistance.org/no-to-nato-spring-actions-in-washington-dc/</a>\r\n\r\nNational webinar on NATO in Colombia and its role in regime change, particularly the current efforts to intervene in Venezuela. Speakers are James Jordan of the Alliance for Global Justice and Eduardo Correa, a Colombian who runs the Human Rights department at the Autonomous University of Mexico City. Correa is an expert on US bases and NATO in Colombia.\r\n\r\nMarch 28, 2019 at 8:00 pm Eastern/5:00 pm Pacific\r\n\r\nREGISTER HERE:\_<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSenx_QSjNXEa9__k_jx94oFmKcJYoPHFbJn5CW7N7wPvbqJmA/viewform?fbclid=IwAR2yEMXM45ZsRDxi5s6aPBCN9VrkZCIvYNMMrCEZs5k5hlA12dYkfjrw_BE\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" data-lynx-mode=\"hover\" data-lynx-uri=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSenx_QSjNXEa9__k_jx94oFmKcJYoPHFbJn5CW7N7wPvbqJmA%2Fviewform%3Ffbclid%3DIwAR2yEMXM45ZsRDxi5s6aPBCN9VrkZCIvYNMMrCEZs5k5hlA12dYkfjrw_BE&amp;h=AT0jAmLgIUs3nloVFSG-nn4LF66l1pxNaJQGeYnhoHt4WVES7LDuvb3eIqOosC1zvPzzznsRVZZB5kbXmAtAbtoTwOk_JelPtBxZTIpbooMiCwD-9K2S66MCl0_eOWnZ6XOsnHd8v3WFTm5Ctw\">https://docs.google.com/forms/d/e/1FAIpQLSenx_QSjNXEa9__k_jx94oFmKcJYoPHFbJn5CW7N7wPvbqJmA/viewform</a>\r\n\r\nJoin the week of actions March 30 to April 4 around the NATO Anniversary. Here is the link to more information:\_<a href=\"https://popularresistance.org/no-to-nato-spring-actions-in-washington-dc/?fbclid=IwAR3h03zd0slJ7JLF4GygPsbVMTUckAGNScGOQLfEazjErNg8bw5u7VPqRCs\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" data-lynx-mode=\"hover\" data-lynx-uri=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fpopularresistance.org%2Fno-to-nato-spring-actions-in-washington-dc%2F%3Ffbclid%3DIwAR3h03zd0slJ7JLF4GygPsbVMTUckAGNScGOQLfEazjErNg8bw5u7VPqRCs&amp;h=AT3tBV1yWYaMSpA3LYqsCOayJVJ4ZRtE10y5a9D1AIdRHE655BqagzN94k3UOpNZc0IeVsCo3iTq8t60w86Ui7dAU6PQBHcTSstt-bfzXBZp_RPfdARCSaBNolUqtNRl3Zf4LI5XYDpMDH6UAQ\">https://popularresistance.org/no-to-nato-spring-actions-in-washington-dc/</a>\r\n\r\n<a href=\"https://popularresistance.org/event/national-webinar-nato-and-the-war-on-venezuela/\">Republished from Popular Resistance, who are hosting the webinar</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 3088e77a-0a92-4e10-8b2f-1df4d6086cc2
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

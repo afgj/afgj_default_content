@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 49cf237a-5a80-499d-bced-23f14850ace4
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Fiscal Sponsorship'
+  created:
+    -
+      value: 1274366829
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /fiscal-sponsorship
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p><span style=\"color: #0070c0; font-size: 14pt;\"><strong><a href=\"https://afgj.org/wp-content/uploads/2013/04/FiscalProjects-graphic.png\"><img alt=\"\" class=\"alignright wp-image-4199\" height=\"262\" src=\"https://afgj.org/wp-content/uploads/2013/04/FiscalProjects-graphic-300x300.png\" title=\"FiscalProjects graphic\" width=\"262\" /></a></strong></span></p>\r\n\r\n<h2><span style=\"color: #800000;\"><strong>ABOUT FISCAL SPONSORSHIP</strong></span></h2>\r\n\r\n<p>The Alliance for Global Justice is a tax-exempt non-profit under section 501(c)(3) of the IRS Code. As such, donations to projects of the AFGJ are fully tax-deductible on the donor’s federal income tax. For an Administrative Fee of 7%-8% for check and online donations respectively, the Alliance for Global Justice offers fiscal sponsorship for grassroots non-profits which agree with our Vision and Mission Statements but do not have their own 501(c)(3) status, thus making donations to those projects tax-deductible to the donor as well. The AfGJ Board must approve all fiscal sponsorship requests. <strong>To apply, contact Elane Spivak Rodriguez at fiscalsponsorship@afgj.org for an application.</strong> If you are considering fiscal sponsorship, please read our <a href=\"https://afgj.org/about/our-principles\" rel=\"noopener noreferrer\" target=\"_blank\">Core Principles statement</a> to learn more about AfGJ. Please note that we do not provide fundraising assistance other than advice and we are not a grant making institution. We are a grassroots organization that raises money for its own core projects. We offer fiscal sponsorship services as a service to the progressive movement so that it might grow and gain more influence. We do not fiscally sponsor groups that participate in election campaigns or which endorse or oppose candidates for elected office. A limited amount of lobbying is permitted under section 501(c)(3). If your organization lobbies, we will need to coordinate so that we don’t go over the IRS lobbying limits.</p>\r\n\r\n<p><strong>SERVICES INCLUDED:</strong></p>\r\n\r\n<ul>\r\n\t<li>Completion of all federal tax forms</li>\r\n\t<li>Send IRS receipts for donations of $250 or more</li>\r\n\t<li>Receive foundation grants</li>\r\n\t<li>Process donation checks and crowdfunding donations</li>\r\n\t<li>Collection of credit card donations on an individualized secure donate page</li>\r\n\t<li>Payroll and independent contractor services</li>\r\n\t<li>Group Health Insurance (available to those on payroll)</li>\r\n\t<li>Monthly financial activity reports</li>\r\n\t<li>Weekly donation reports</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><a href=\"https://afgj.org/sponsored-projects/fiscally-sponsored-projects/fiscally-sponsored-projects\"><span style=\"color: #800080;\"><span style=\"color: #800000;\">List of AfGJ Fiscally Sponsored Projects</span></span></a></p>\r\n\r\n<p style=\"text-align: left;\"><a href=\"https://org2.salsalabs.com/o/7315/donate_page/fiscally-sponsored-projects\"><span style=\"color: #800000;\">Donate </span></a><span style=\"color: #800080;\"><a href=\"https://org2.salsalabs.com/o/7315/donate_page/fiscally-sponsored-projects\"><span style=\"color: #800000;\">to an AfGJ Fiscally Sponsored Project</span></a>.</span></p>\r\n\r\n<p>If you do not see a project listed on this donate page, please navigate to their website to find their donate page! &nbsp;</p>\r\n\r\n<hr />\r\n<h4>Support the \"Accounting Department\" for the Movement</h4>\r\n\r\n<p><i>by Elane Spivak-Rodriguez</i> Organized Movements in the US and across the globe are responding to these challenging times and dark days. As the fiscal sponsor for 130 projects, Alliance for Global Justice’s unique position allows us to witness and support this movement for liberation.&nbsp; We are inspired by their creative responses to protect our people and challenge the structures of injustice. Behind the frontlines of the fight for justice, AfGJ is honored to act as the accounting department for the movement for social change. We process donations, file all taxes, produce IRS donation letters, process payroll and health insurance, and produce bookkeeping records for our projects. This is a role that we are proud of, but it doesn’t come without its risks.&nbsp; We’ve faced attacks from the neo-fascist blogosphere for sponsoring anti-fascist organizing; been accused of being anti-Semitic for sponsoring Palestinian rights organizing; and faced down legal threats for sponsoring groups engaging in acts of civil disobedience that work to dismantle systems of oppression. We fiscally sponsor migrant bails funds, activist bails funds, rapid response networks, poor people organizing, Palestinian rights organizing, international solidarity initiatives, material aid campaigns, and much more. We at AfGJ are willing and able to fight alongside them. This is no time to play small. We will lean into risk-taking by continuing to sponsor the groups that no other fiscal sponsor will take on. AfGJ is here to help ensure that the movers and shakers organizing to build a better tomorrow have the structure and tools they need to act. Thank you for standing with us in 2019 and beyond.</p>\r\n\r\n<p><strong>To ensure we continue this work and maintain our low fees to serve the projects that most need it, <a href=\"https://afgj.org/donateafgj\">please consider tax-deductible donation to our fiscal sponsorship program</a>.</strong></p>\r\n"
+      format: full_html
+      summary: ''

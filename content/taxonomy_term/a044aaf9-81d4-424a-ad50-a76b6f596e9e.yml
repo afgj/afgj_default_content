@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: a044aaf9-81d4-424a-ad50-a76b6f596e9e
+  bundle: tags
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: 'climate justice'
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /climate-justice-0
+      langcode: en
+      pathauto: 1

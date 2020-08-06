@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: cf3352a9-565b-4619-a861-bd57b80359c1
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ CoSponsored: Delegation to Nicaragua: Food Sovereignty & Agroecology'
+  created:
+    -
+      value: 1456234152
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-cosponsored-delegation-nicaragua-food-sovereignty-agroecology
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><strong><img class=\"aligncenter size-full wp-image-6509\" src=\"https://afgj.org/wp-content/uploads/2016/02/Nicaragua-Delegation_Campo-Photo-2.jpg\" alt=\"Nicaragua Delegation_Campo Photo 2\" width=\"1296\" height=\"972\" /></strong></p>\r\n<p style=\"text-align: center;\"><strong>June 20 - July 1, 2016\r\n</strong></p>\r\nWhile mainstream US media tends to focus on the poverty in Nicaragua, social movements and local community organizing in this Central American nation are alive and well.\_ Nicaragua is the regional gathering place for La Via Campesina, a global movement made up of rural peoples, small farmers, and indigenous communities.\_ This movement coined the term “food sovereignty” in resistance to the corporatization and industrialization of the food system.\_ La Via Campesina sees agroecology, a form of low-input sustainable agriculture, as a pillar of building food sovereignty.\r\n\r\nOur delegation will include visits to peasant schools that provide political and technical training in agroecology, many of which are affiliated with the Asociación de Trabajadores del Campo, a member organization of La Via Campesina.\_ We will see agricultural cooperatives that sustain local communities and are addressing issues like gender equity and climate change. To understand the political context in which social movements in Nicaragua operate, including its revolutionary history and membership in ALBA, our delegation will also include visits with Nicaraguan officials and citizens.\r\n\r\n<strong>This delegation is organized in partnership through the Via Campesina organizations of Nicaragua, the Friends of the Asociación de Trabajadores del Campo (ATC), and the Alliance for Global Justice.\_</strong>\r\n\r\n<strong>Cost:</strong> $1250 plus airfare\r\n\r\n<em>Trip fee includes lodging, meals, in-country transport, translation, and staff coordination.\_ Scholarships are available (please contact us for more information).</em>\r\n\r\n<strong>For a flyer to print out and post, click here: </strong><a href=\"http://www.nicanet.org/images/nicaragua-delegation-flyer.pdf\"><strong>http://www.nicanet.org/images/nicaragua-delegation-flyer.pdf</strong></a>\r\n\r\n<strong>\_</strong><strong>For an application or more information, please contact:\_</strong><a href=\"msilto:erikatakeo.atc@gmail.com\">Erika Takeo</a>, Friends of the ATC National Coordinator\r\n\r\n<strong><a href=\"http://www.facebook.com/friendsatc\">www.facebook.com/friendsatc</a></strong>\r\n<div class=\"page\" title=\"Page 1\"></div>"
+      format: full_html
+      summary: ''

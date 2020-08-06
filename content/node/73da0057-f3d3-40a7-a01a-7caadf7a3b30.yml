@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 73da0057-f3d3-40a7-a01a-7caadf7a3b30
+  bundle: article
+  default_langcode: en
+  depends:
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Webinar: Berta Cáceres Human Rights act'
+  created:
+    -
+      value: 1554389692
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /webinar-berta-caceres-human-rights-act
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2><strong>Monday, April 8th at 4:30pm PT / 7:30pm ET</strong></h2>\r\n(Español abajo)\r\n\r\nThree years after Berta Cáceres murder, human rights abuses in Honduras have increased and the US-backed dictatorship of Juan Orlando Hernández has been granted impunity. The H.R. 1945, better known as the Berta Cáceres Human Rights in Honduras Act, would suspend military and police support to Honduras until human rights abuses committed by Honduran security forces cease and their perpetrators are brought to justice.\r\n\r\nWe'll be connecting live with Honduras human rights defenders and experts in Washington DC. Register here and join us on Monday, April 8:\_<a href=\"https://default.salsalabs.org/Td80b6a66-f9f5-47a4-a310-4dff6d632fca/dc5e948d-9bbf-4088-b2a5-983a70494ffd\" target=\"_blank\" rel=\"noopener nofollow noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Td80b6a66-f9f5-47a4-a310-4dff6d632fca/dc5e948d-9bbf-4088-b2a5-983a70494ffd&amp;source=gmail&amp;ust=1554500650039000&amp;usg=AFQjCNEpuAjU0_XRaiCCVpkcnDP4USI-ow\">https://zoom.us/webinar/<wbr />register/WN_jJdQoWXCTr-<wbr />jK6gwlQ6JZw</a>\r\n\r\nLivestream available in\_<a href=\"https://default.salsalabs.org/T548c7954-4ef1-486f-918e-10084c434275/dc5e948d-9bbf-4088-b2a5-983a70494ffd\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T548c7954-4ef1-486f-918e-10084c434275/dc5e948d-9bbf-4088-b2a5-983a70494ffd&amp;source=gmail&amp;ust=1554500650039000&amp;usg=AFQjCNFUW2xKHOMWNudT4qtULdK-NDYDng\">Honduras Solidarity Network</a>\r\n\r\n+++++++\r\n\r\n¡Únete al seminario virtual \"Acta por los Derechos Humanos Berta Cáceres 2019\"!\r\n\r\nTres años después del asesinato de Berta Cáceres, los abusos a los derechos humanos en Honduras se han incrementado y la dictadura de Juan Orlando Hernández, apoyada por los EEUU, ha sido garantizada impunidad. La H.R. 1945, mejor conocida como el Acta Berta Cáceres por los Derechos humanos en Honduras, suspendería apoyo militar y policial a Honduras hasta que cesen los abusos a los derechos humanos por parte de fuerzas de seguridad hondureñas y los perpetradores sean llevados ante la justicia.\r\n\r\nNos conectaremos en vivo con activistas hondureñxs y expertas en Washington DC. Regístrate y únete el lunes 8 de abril.\r\n<a href=\"https://default.salsalabs.org/T5c5ce93d-5db7-4349-87c0-d75feb61125a/dc5e948d-9bbf-4088-b2a5-983a70494ffd\" target=\"_blank\" rel=\"noopener nofollow noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T5c5ce93d-5db7-4349-87c0-d75feb61125a/dc5e948d-9bbf-4088-b2a5-983a70494ffd&amp;source=gmail&amp;ust=1554500650039000&amp;usg=AFQjCNHnkQN7CLAYp5ND6gLXbi6trZeiOA\">https://zoom.us/webinar/<wbr />register/WN_jJdQoWXCTr-<wbr />jK6gwlQ6JZw</a>\r\n\r\nTransmisión en vivo en\_<a href=\"https://default.salsalabs.org/T95734fe0-2977-4baf-87a1-ff41dfac758b/dc5e948d-9bbf-4088-b2a5-983a70494ffd\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T95734fe0-2977-4baf-87a1-ff41dfac758b/dc5e948d-9bbf-4088-b2a5-983a70494ffd&amp;source=gmail&amp;ust=1554500650039000&amp;usg=AFQjCNGpndSwlggcxnE4ggNyhXLm73sZ4g\">Honduras Solidarity Network</a>\r\n\r\n<img class=\"alignnone size-large wp-image-11572\" src=\"https://afgj.org/wp-content/uploads/2019/04/1-5-1024x1024.png\" alt=\"\" width=\"752\" height=\"752\" />\r\n\r\n<img class=\"alignnone size-large wp-image-11582\" src=\"https://afgj.org/wp-content/uploads/2019/04/2-5-1024x1024.png\" alt=\"\" width=\"752\" height=\"752\" />"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+  field_mt_slideshow:
+    -
+      value: false

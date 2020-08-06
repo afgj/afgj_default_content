@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c218da8a-04ef-4078-ad8a-388d82ba6703
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Donate to a Fiscally Sponsored Project'
+  created:
+    -
+      value: 1370443072
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /donate-fiscally-sponsored-project
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "If the project you want to donate to is not listed below, please go to their website.\r\n<div id=\"6803561c-a258-4df5-a09c-69858da94a5d\"><script type=\"text/javascript\" src=\"https://default.salsalabs.org/api/widget/template/f20cf93c-1d3c-4fd7-ae87-a4a6a315f1a8/?tId=6803561c-a258-4df5-a09c-69858da94a5d\" ></script></div>\r\n"
+      format: full_html
+      summary: ''

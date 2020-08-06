@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: 8ec8e0dc-b6ed-4683-a718-bd2452edec59
+  bundle: categories
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: 'End Venezuela Sanctions'
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /end-venezuela-sanctions
+      langcode: en
+      pathauto: 1

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 07baf0e2-b673-4a83-bce0-f90182e35d7f
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Non Discrimination Policy'
+  created:
+    -
+      value: 1521529826
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /non-discrimination-policy
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<span style=\"font-weight: 400;\">Alliance for Global Justice employees and applicants for employment are protected by federal laws, Presidential Executive Orders, and state and local laws designed to protect employees and job applicants from discrimination on the bases of race, religion, color, sex (including pregnancy, gender identity, and sexual orientation), parental status, national origin, age, disability, family medical history or genetic information, political affiliation, military service, or other non-merit based factors. These protections extend to all management practices and decisions, including recruitment and hiring practices, appraisal systems, promotions, and training and career development programs.</span>\r\n\r\n<span style=\"font-weight: 400;\">AFGJ employees and applicants are also protected against retaliation. Consistent with federal laws, acts of retaliation against an employee who engages in a protected activity, whistle blowing, or the exercise of any appeal or grievance right provided by law will not be tolerated. AFGJ collective members have a responsibility to prevent, document, and promptly correct harassing conduct in the workplace, and AFGJ employees are reminded of their duty to avoid harassing behavior and to report such conduct. Any employee or applicant who believes he or she has been subject to discrimination or retaliation should contact the board/staff collective at 202-540-8336. </span>"
+      format: full_html
+      summary: ''

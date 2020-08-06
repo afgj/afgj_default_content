@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 1095b191-b590-4db3-8021-af3b7bc02bb9
+  bundle: mt_background_video_block
+  default_langcode: en
+  depends:
+    dd9666c5-21af-4066-b94e-fc05ec5e4cd3: file
+    ae94b07d-b0fe-4c47-8d77-d85047115017: file
+    71578498-16d1-4f3a-bb4e-aed3396c4623: file
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Video background block'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_block_reference:
+    -
+      target_id: highlights
+  field_mt_bv_layout_mode:
+    -
+      value: container
+  field_mt_bv_overlay_color:
+    -
+      value: 'region--dark-typography region--gray-background'
+  field_mt_bv_overlay_opacity:
+    -
+      value: 65
+  field_mt_bv_poster:
+    -
+      entity: dd9666c5-21af-4066-b94e-fc05ec5e4cd3
+      alt: 'video poster'
+      title: ''
+      width: 1920
+      height: 1080
+  field_mt_bv_video_mp4:
+    -
+      entity: ae94b07d-b0fe-4c47-8d77-d85047115017
+      display: true
+      description: ''
+  field_mt_bv_video_webm:
+    -
+      entity: 71578498-16d1-4f3a-bb4e-aed3396c4623
+      display: true
+      description: ''

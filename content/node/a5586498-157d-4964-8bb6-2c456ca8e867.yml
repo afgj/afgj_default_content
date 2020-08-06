@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a5586498-157d-4964-8bb6-2c456ca8e867
+  bundle: article
+  default_langcode: en
+  depends:
+    196ada50-d89c-465a-9c41-f44a9feaaead: taxonomy_term
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    ff23272a-2c6a-4d3f-b137-4c19843845a6: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Interview: Venezuela crisis continues as Juan Guaido tries to usurp power with U.S. backing'
+  created:
+    -
+      value: 1548765810
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /interview-venezuela-crisis-continues-juan-guaido-tries-usurp-power-us-backing
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "From <a href=\"https://www.spreaker.com/user/radiosputnik/venezuela-crisis-continues-as-juan-guaid\">Sputnik Radio</a>:\r\n\r\nThe political crisis in Venezuela deepened over the weekend following Juan Guaido’s self-proclamation as Interim President. The main institutions of government remain loyal to President Nicolas Maduro, but the United States, along with allies like the UK, are turning up the economic pressure. What’s next for Venezuela? Chuck Kaufman, the National Co-Coordinator of the Alliance for Global Justice, joins the show.\r\n\r\n<a class=\"spreaker-player\" href=\"https://www.spreaker.com/user/radiosputnik/venezuela-crisis-continues-as-juan-guaid\" data-resource=\"episode_id=16866874\" data-theme=\"light\" data-autoplay=\"false\" data-playlist=\"false\" data-cover=\"https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/85e6638b7d41165440f3341132c2796b.jpg\" data-width=\"100%\" data-height=\"400px\">Listen to \"Venezuela crisis continues as Juan Guaido tries to usurp power with U.S. backing\" on Spreaker.</a><script async src=\"https://widget.spreaker.com/widgets.js\"></script>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 196ada50-d89c-465a-9c41-f44a9feaaead
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: ff23272a-2c6a-4d3f-b137-4c19843845a6
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

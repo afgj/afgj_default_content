@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3054c7e7-7797-4d7c-9a42-a5e482ccc1b6
+  bundle: article
+  default_langcode: en
+  depends:
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Partner Delegation: Agrarian & Worker Struggle in Nicaragua: Celebrating the ATC’s 40th Anniversary'
+  created:
+    -
+      value: 1513185192
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /partner-delegation-agrarian-worker-struggle-nicaragua-celebrating-atcs-40th-anniversary
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"alignleft size-full wp-image-9003\" src=\"https://afgj.org/wp-content/uploads/2017/12/Delegation_40-Years-ATC_JUNE.png\" alt=\"Nicaragua Human Rights Farmers Delegation\" width=\"1275\" height=\"876\" />\n<p style=\"text-align: center;\">JUNE 18- 28, 2018</p>\n<p style=\"text-align: center;\"><strong>Honor the History of Worker Struggles for Land and Dignity in Nicaragua!</strong></p>\n<p style=\"text-align: center;\"><a href=\"https://afgj.org/wp-content/uploads/2017/12/Delegation-Flyer_40-Years-ATC.pdf\" target=\"_blank\" rel=\"noopener\">Download a Flyer</a></p>\nNicaragua’s Rural Workers’ Association, or Asociación de Trabajadores del Campo (ATC), was founded in 1978 by landless farmworkers who, inspired by liberation theology, decided to change their lives and defend their rights in the midst of the 45-year Somoza regime. The ATC would become a major force for worker power in the Sandinista Revolution, through continuous farmworker literacy programs, collective bargaining, and women’s worker councils. The ATC is now a strong voice for food sovereignty and agroecology, both in Nicaragua and internationally as a member organization of the Latin American Coordination of Organizations from the Countryside (CLOC) and the global peasant movement, <a href=\"https://viacampesina.org/en/\" target=\"_blank\" rel=\"noopener\">La Via Campesina.</a>\n\nJoin the ATC as it celebrates 40 years of struggle for dignity, health, land, water, seeds and social justice. The anniversary party will take place at a site in Granada, and the delegation will also tour ATC cooperatives and labor unions in Estelí, as well as the ATC’s autonomous schools. Learn from the Via Campesina’s processes of popular peasant education, feminism and agroecology.\n\nDon’t miss the opportunity to spend time with Via Campesina peasant organizations from Central America and the Caribbean, ATC founders and special guests who will be at the ATC’s 40th anniversary celebration. Delegates are also invited to play an important role in building international solidarity through the creation of a declaration upon conclusion of the delegation to share with the broader solidarity community in the US and beyond.\n\nThis delegation being organized in collaboration between the <a href=\"http://facebook.com/atcnicaragua\" target=\"_blank\" rel=\"noopener\">ATC</a>, the <a href=\"http://friendsatc.org/\" target=\"_blank\" rel=\"noopener\">Friends of the ATC</a>, and the Alliance for Global Justice.\n\n<hr />\n\n<strong>Trip fee</strong>: $1200. Trip fee includes lodging, meals, in-country transport, translation, and staff coordination. You are responsible for international arrival (or other travel plans to Nicaragua) and personal expenses.\n\n<strong>To apply:</strong> All persons interested in participating in the delegation must fill out a delegation application. For an application or more information, please email Erika Takeo (National Coordinator of Friends of the ATC) at<a href=\"mailto:erikatakeo.atc@gmail.com.\"> erikatakeo.atc@gmail.com.</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,70 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8fbfdd39-66c4-4e8e-b978-b47a7b74db3c
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    1c0c4377-b739-4293-a00a-331346b8aa16: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Spaces Still Open for AfGJ Colombia Delegation, June 30-July 10, 2017'
+  created:
+    -
+      value: 1495975049
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /spaces-still-open-afgj-colombia-delegation-june-30-july-10-2017
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Join the Alliance for Global Justice in a very special visit to Colombia June 30-July 10, 2017 as part of an international project of verification of the peace accords. ACT NOW! TIME IS RUNNING OUT!\n<h2 style=\"text-align: center;\"><span style=\"color: #ff0000;\">SEND AN EMAIL TO <a style=\"color: #ff0000;\" href=\"mailto:DELEGATIONS@AFGJ.ORG\">DELEGATIONS@AFGJ.ORG</a> TO GET YOUR APPLICATION!</span></h2>\n<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-4555\" src=\"https://afgj.org/wp-content/uploads/2013/05/Peace-for-Colombia.jpg\" alt=\"\" width=\"494\" height=\"494\" /></p>\nThe civil war in Colombia began 53 years ago on May 27, 1964. The Colombian government, urged on by the United States, launched an all-out assault against the autonomous zone of Marquetalia. Just six months ago, accords ending the war were implemented. We now have a chance to visit a Colombia on the road to peace, as part of an independent verification project with the Americas Coordination in Defense of Human Rights and the Victims of Political Imprisonment.\n\nWe will begin in the capitol city of Bogotá with presentations from human rights defenders, union and student leaders, former political prisoners and government representatives. We will visit rural transition zones in the Departments of Tolima and La Guajira to interview political prisoners and prisoners of war being reintegrated into civil society. We will also take ample opportunity to enjoy cultural events and learn about the histories of places we visit.\n\nThe peace process is moving forward. However, it faces many threats. Paramilitary assaults continue at alarming rates. Colombia’s ultra-right is doing what it can both legally and illegally to sabotage the accords. There remain problems in achieving full compliance with the agreements. US policies that prioritize repression over resolution exacerbate the situation.\n\nInternational awareness, accompaniment and verification are key to defending and advancing the peace. In collaboration with partners from Argentina, Chile, Colombia, Venezuela, Mexico and the United States, AfGJ will produce a bilingual report in Spanish and English that will constitute an important resource for advocates of a durable and just resolution to Colombia’s armed conflict.\n<h3 style=\"text-align: center;\"><span style=\"color: #ff0000;\">Come be a part of this historic effort! Send an email today to <a style=\"color: #ff0000;\" href=\"mailto:Delegations@AFGJ.org\">Delegations@AFGJ.org to request your application</a></span></h3>\n<h3 style=\"text-align: center;\"><span style=\"color: #0000ff;\"><a style=\"color: #0000ff;\" href=\"https://org2.salsalabs.com/o/7315/donate_page/afgj-nicanet\">You can also click here to donate towards scholarships for students and workers who want to participate in the delegation but cannot afford the cost. Write COLOMBIA in the designation code space.</a></span></h3>\nDELEGATION PRICE: $1,200 which covers lodging, in-country travel, two meals a day, translation and other delegation-related expenses. <strong>GET YOUR APPLICATION IN ASAP BEFORE ALL SPACES ARE GONE OR DELEGATION PRICE GOES UP!!!</strong>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 1c0c4377-b739-4293-a00a-331346b8aa16
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

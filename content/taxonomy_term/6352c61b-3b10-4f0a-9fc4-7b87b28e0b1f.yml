@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+  bundle: categories
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: democracy
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /democracy-1
+      langcode: en
+      pathauto: 1

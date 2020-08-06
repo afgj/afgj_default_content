@@ -1,0 +1,68 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 255e9af6-d8ce-49bd-80d1-b2abb6a61ffc
+  bundle: article
+  default_langcode: en
+  depends:
+    e10df76b-d801-467c-8614-53c128a2fe8e: file
+    b4a3739d-0fd2-41c9-9b20-acdece4e9181: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Third Article'
+  created:
+    -
+      value: 1465328829
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /third-article
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise <a href=\"#\">with competitive technologies</a>. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n\r\n<blockquote>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies. Appropriately communicate adaptive imperatives rather than value-added potentialities.</blockquote>\r\n\r\n<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise <a href=\"#\">with competitive technologies</a>. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n\r\n<h3>Lorem ipsum dolor sit amed consetatur</h3>\r\n\r\n<p>Compellingly <a href=\"#\">recaptiualize enterprise-wide web-readiness</a> for robust strategic theme areas. Synergistically reconceptualize user-centric functionalities via revolutionary strategic theme areas. Progressively transition out-of-the-box leadership skills rather than top-line and <a href=\"#\">this is a hover link</a>.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_image:
+    -
+      entity: e10df76b-d801-467c-8614-53c128a2fe8e
+      alt: 'Third Article'
+      title: 'Third Article'
+      width: 750
+      height: 500
+  field_mt_slideshow:
+    -
+      value: false
+  field_mt_slideshow_image:
+    -
+      entity: b4a3739d-0fd2-41c9-9b20-acdece4e9181
+      alt: 'Third Article'
+      title: 'Third Article'
+      width: 1920
+      height: 650
+  field_mt_slideshow_text:
+    -
+      value: "<p>Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n"
+      format: basic_html
+  field_mt_video:
+    -
+      value: 'https://www.youtube.com/watch?v=kLtpcxtk4HI'

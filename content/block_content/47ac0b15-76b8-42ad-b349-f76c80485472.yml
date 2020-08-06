@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 47ac0b15-76b8-42ad-b349-f76c80485472
+  bundle: basic
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Contact Info (Header)'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"row text-lg-right\">\r\n<div class=\"col-md-7 col-xl-8 xs-text-center\">\r\n<ul class=\"inline-list\">\r\n\t<li class=\"inline-list__item\"><i class=\"inline-list__icon fas fa-map-marker\"><span class=\"sr-only\">map-marker</span></i> 3246 Sussex Court, Jonesboro, TX 76538</li>\r\n\t<li class=\"inline-list__item\"><i class=\"inline-list__icon fas fa-phone\"><span class=\"sr-only\">phone</span></i> (012) 555-123-4567</li>\r\n</ul>\r\n</div>\r\n\r\n<div class=\"col-md-5 col-xl-4 text-center text-md-right\"><a class=\"button button--colored button--no-margins\" href=\"#\"><i class=\"fas fa-envelope mr-2\"></i> Contact Us</a></div>\r\n</div>\r\n"
+      format: full_html
+      summary: ''

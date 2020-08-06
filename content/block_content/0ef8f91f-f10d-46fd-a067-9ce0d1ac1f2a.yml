@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 0ef8f91f-f10d-46fd-a067-9ce0d1ac1f2a
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Info text'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<p>Free Shipping Over $50 &amp; Free In-Store Returns</p>\r\n"
+      format: basic_html
+      summary: ''

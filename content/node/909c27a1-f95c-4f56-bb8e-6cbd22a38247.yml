@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 909c27a1-f95c-4f56-bb8e-6cbd22a38247
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Projects
+  created:
+    -
+      value: 1262977862
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /projects
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "The Alliance for Global Justice has a number of core and fiscally sponsored projects. To read more about each, please follow the links below:\r\n\r\n<a href=\"https://afgj.org/?page_id=560\">Core Projects</a>\r\n<a href=\"https://afgj.org/?page_id=524\">Fiscally Sponsored Projects</a>\r\n\r\nCoalitions"
+      format: full_html
+      summary: ''

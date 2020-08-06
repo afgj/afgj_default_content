@@ -1,0 +1,89 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c4dcda10-fd3b-4d2f-b158-4f1e31f5313e
+  bundle: mt_album
+  default_langcode: en
+  depends:
+    09d3fa80-b228-44e4-b51f-17d93a9ef97f: file
+    69232634-879a-4876-97f3-1f6a5de2ccb4: file
+    15937324-6767-4854-b28b-d7bf2aff10a8: file
+    3aa0b78e-faa5-4ab4-ab17-4b53154c4839: file
+    618ed997-bf2e-448f-8ad0-caab283847bc: file
+    3269248c-5693-479b-844b-f9655654b5bc: file
+    ab8c4a64-b651-4b5d-8df1-1d47a42d61f9: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Album One'
+  created:
+    -
+      value: 1516375782
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_alb_body:
+    -
+      value: "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_alb_image:
+    -
+      entity: 09d3fa80-b228-44e4-b51f-17d93a9ef97f
+      alt: album
+      title: ''
+      width: 1280
+      height: 690
+    -
+      entity: 69232634-879a-4876-97f3-1f6a5de2ccb4
+      alt: album
+      title: ''
+      width: 1280
+      height: 690
+    -
+      entity: 15937324-6767-4854-b28b-d7bf2aff10a8
+      alt: album
+      title: ''
+      width: 1280
+      height: 690
+    -
+      entity: 3aa0b78e-faa5-4ab4-ab17-4b53154c4839
+      alt: album
+      title: ''
+      width: 1280
+      height: 690
+    -
+      entity: 618ed997-bf2e-448f-8ad0-caab283847bc
+      alt: album
+      title: ''
+      width: 1280
+      height: 690
+    -
+      entity: 3269248c-5693-479b-844b-f9655654b5bc
+      alt: album
+      title: ''
+      width: 1280
+      height: 690
+  field_mt_alb_tags:
+    -
+      entity: ab8c4a64-b651-4b5d-8df1-1d47a42d61f9

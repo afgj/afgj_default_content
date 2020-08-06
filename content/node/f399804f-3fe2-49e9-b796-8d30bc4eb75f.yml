@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f399804f-3fe2-49e9-b796-8d30bc4eb75f
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: false
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'The Border, Repression and Human Rights'
+  created:
+    -
+      value: 1360252699
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /border-repression-and-human-rights
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2></h2>\r\n[caption id=\"attachment_3382\" align=\"alignleft\" width=\"560\"]<a href=\"https://afgj.org/wp-content/uploads/2013/01/crosses-kazis.jpg\"><img class=\" wp-image-3382 \" title=\"crosses-kazis\" src=\"https://afgj.org/wp-content/uploads/2013/01/crosses-kazis.jpg\" alt=\"\" width=\"560\" height=\"420\" /></a> Crosses representing some of the recovered migrant remains from the Sonoran Desert. Those marked \"desconocido\" are for remains that have not been identified. Photo by Sophie Kazis[/caption]\r\n<h2></h2>\r\n<h2></h2>\r\n<h2></h2>\r\n<h2></h2>\r\n<h2></h2>\r\n<h2></h2>\r\n<h2></h2>\r\n<h2></h2>\r\n<h2></h2>\r\n<h2></h2>\r\n<h2></h2>\r\n<h2></h2>\r\n<h2></h2>\r\n<h2></h2>\r\n<h2><strong>Preface</strong></h2>\r\n&nbsp;\r\n<h2><strong>Death as ‘Deterrence’: the Desert as a Weapon</strong></h2>\r\nby Gabe Shivone\r\n\r\n&nbsp;\r\n\r\n[caption id=\"attachment_3278\" align=\"alignleft\" width=\"648\"]<a href=\"https://afgj.org/wp-content/uploads/2012/12/hb_all_deaths_20120428_web_small.png\"><img class=\" wp-image-3278 \" title=\"Migrant Deaths\" src=\"https://afgj.org/wp-content/uploads/2012/12/hb_all_deaths_20120428_web_small.png\" alt=\"\" width=\"648\" height=\"370\" /></a> A graph detailing the number and locations of immigrant deaths along the Arizona border between 1999 and 2011[/caption]\r\n\r\nA March 2010 Congressional Research Service report entitled “Border Security: the Role of the Border Patrol” candidly details government policy goals and strategies in recent history. In 1994, the report explains, the U.S. adopted a “new policy” of militarizing urban border areas in order to reroute and steer anticipated human migration into “geographically harsher,” “more remote and hazardous border regions” (mostly through the Arizona desert), as a way of “deterring” migrants from crossing.\r\n\r\nThe new “vision” of the deterrence strategy to bring the border “under control” is outlined in a July 1994 Border Patrol planning document entitled “Border Patrol Strategic Plan: 1994 and Beyond”. The perception of the border environment is explicitly used to demonstrate that migrants “crossing through remote, uninhabited expanses of land and sea along the border can find themselves in mortal danger.” The document bases the strategy on the “prediction” that migrant “traffic will be deterred, or forced over more hostile terrain, less suited for crossing and more suited for enforcement.”\r\n\r\nForgoing any subtly, “enforcement,” in this instance, is a euphemism for “mortal danger” as a premeditated method of death by example to deter human beings from crossing unauthorized into the US. \_<a href=\"https://afgj.org/death-as-deterrence-the-desert-as-a-weapon\">Read more...</a>\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''

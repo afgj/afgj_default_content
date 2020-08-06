@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ab2c76f3-3207-445b-b366-1890e69bb2b8
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'The Environmental Effects of Militarization: Opportunities for Awakening from the Dream of Privilege'
+  created:
+    -
+      value: 1310744438
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /environmental-effects-militarization-opportunities-awakening-dream-privilege
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Course:</strong> The Environmental Effects of Militarization: Opportunities for Awakening from the Dream of Privilege\r\n<strong>Instructor:</strong> Elizabeth Adams\r\n<strong>Duration:</strong> 5 weeks, online\r\n<a href=\"https://org2.democracyinaction.org/o/7315/t/13086/shop/shop.jsp?storefront_KEY=430\">Click here to register now!</a>\r\n\r\n<strong>Description:</strong> \r\nThis course will examine historical factors involved with the spread of militarization and the function of the military industrial complex in the USA and allies either by intimidation or coercion with an eye toward possibilities for transformation. The course will review literature, media and film resources that promote creative and nonviolent responses and new initiatives toward an equitable, sustainable future.  \r\n\r\n<strong>Skills/understanding that activists will have for organizing and opposing militarism after taking this course:</strong>\r\n<ul>\r\n\t<li>Knowledge of how militarism impacts the environment</li>\r\n\t<li>An understanding of how historical factors led to the military industrial complex as well as current issues with the environment</li>\r\n\t<li>Knowledge of existing movements and those working for environmental justice as related to militarism</li></ul>\r\n\r\n<strong>About the Instructor: Meet Elizabeth Adams</strong>\r\nGrowing up \"among the birch and pine\" in northern Minnesota, Beth Adams, is a life-long, committed peace and environmental organizer-activist dedicated to inspiring uplifting, spontaneous, and persistent nonviolent strategies, (incorporating the arts if possible) in order to transform a culture which produces hierarchy and oppression to a society which values and respects all living beings, including Mother Earth. \r\n \r\nA published writer, poet and songwriter, Beth has co-founded non-profit organizations, organized Walks (the most recent to stop clear-cutting in a Watershed), lead delegations and currently hosts a weekly community radio show and a monthly community television interview show, \"We Are the Ones, featuring community leaders pointing the way to a sustainable future for our children, grandchildren and the next seven generations.\""
+      format: full_html
+      summary: ''

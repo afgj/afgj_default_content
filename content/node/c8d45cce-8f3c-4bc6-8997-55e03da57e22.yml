@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c8d45cce-8f3c-4bc6-8997-55e03da57e22
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Days of Action'
+  created:
+    -
+      value: 1386759671
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /days-action
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "The People's Power Assemblies were tasked with discussing the issues then creating nationally coordinated local days of action for the upcoming year.\r\n\r\n<b>Do you or your organization want to join the conversation regarding any of these days of action?\_ Please email</b><a href=\"mailto:daniele@afgj.org?subject=Continue%20the%20Conversation&amp;body=Hi!%0A%0AI%20am%20____%20and%20I%20work%20with%20______%20organizations!%20%20I%20would%20like%20to%20join%20the%20conversation%20on%20days%20of%20action%20on%20the%20following%20topics%3A%0A%0A%0AThanks!\"><b> Daniele@afgj.org </b></a><b>and indicate which one(s). \_</b>\r\n<div dir=\"ltr\">\r\n<h2>TEAR DOWN THE WALLS NATIONAL DAYS OF LOCAL ACTION</h2>\r\nMarch 8: <b>Anti-repression &amp; Prison Industrial Complex:</b> International Women's Day: How prison system affects families.\r\n\r\nApril 14-15: <b>US Imperialism &amp; \_Anti Militarism:</b> Global Day of Action on Military Spending: <a href=\"http://demilitarize.org/\">http://demilitarize.org/</a>\r\n<p dir=\"ltr\">April 22- May 1: <b>Economic Justice:</b> Global Climate Convergence: Earth Day to May Day: <a href=\"http://globalclimateconvergence.org/\">http://globalclimateconvergence.org/</a></p>\r\nAugust 23: <b>Anti-repression &amp; Prison Industrial Complex:</b> National day of solidarity with US political prisoners and prisoners of empire.\r\n<p dir=\"ltr\">September 2014: <b>Ecology and Empire:</b> Supporting and attending gathering of indigenous people on Diné reservation.</p>\r\n<p dir=\"ltr\">December 10-18: <b>Immigration &amp; Border Militarization:</b> Human Rights Day to International Migrants Day:</p>\r\nDrug War &amp; Drug War Prisoners: Date not yet chosen, the LASC Drug War Working Group will be continuing discussion.\r\n<h2><strong>People's Power Assemblies\r\n</strong></h2>\r\n<b>Immigration &amp; Border Militarization:</b>\r\n\r\nDecember 10 - December 18, 2014\r\n\r\nHuman Rights Day-Global Day for Migrants and Refugees\r\n\r\n<b>US Imperialism &amp; \_Anti Militarism:</b>\r\n\r\nApril 14-15 Tax day\r\n\r\nFocus: Cutting the pentagon budget.\r\n\r\n<b>Anti-repression &amp; Prison Industrial Complex:</b>\r\n\r\nMarch 8 - (International Womens Day) How prison system affects families\r\n\r\nPossibly: Participate in events planned, add materials and speakers.\r\n\r\nAugust 23 - National day of solidarity with US political prisoner and prisoners of empire\r\n\r\nAdditional Idea! Putting together a bus caravan.\r\n\r\n<b>Ecology and Empire:</b>\r\n\r\nHelping to organize and mobilize a series of Ecological Truth Commissions over the next year to lead up to and build for campaign of actions for 2015. Doing first ones on Earth Day as part of Take Back Earth Day activities.\r\n\r\nSeptember 2014: Supporting and attending gathering of indigenous people on Diné reservation\r\n\r\nStart: Preparing for and building a national campaign of direct actions to demand climate justice leading up to and concurrent with the 2015 UN Climate Summit in Paris.\r\n\r\n<b>Economic Justice:</b> Spring into Action\r\n\r\nMarch 8 - April 22 - May 1\r\n\r\nInternational Womens Day- Mother Earth Day-May Day.\r\n\r\n<b>Drug War &amp; Drug War Prisoners:\_</b>\r\n\r\nDate not yet chosen.\r\n\r\nThe Drug War Working Group &amp; Latin America Solidarity Coalition will be continuing discussion.\r\n\r\n</div>"
+      format: full_html
+      summary: ''

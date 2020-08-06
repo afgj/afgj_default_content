@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 7c4c09b8-9650-4fc0-a40a-ea3f4c667971
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: IMG_49688_0.png
+  uri:
+    -
+      value: 'public://2020-06/IMG_49688_0.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 273469
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1591191501

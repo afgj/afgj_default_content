@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5d8f0cbd-65de-4180-b13b-dc26b015c52a
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly 9.28.2018: Cuba and Venezuela Presidents at Riverside Church; latest Steve Ellner tour schedule on impact of US-Canada sanctions on Venezuela'
+  created:
+    -
+      value: 1538086358
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-9282018-cuba-and-venezuela-presidents-riverside-church-latest-steve-ellner
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "https://chicagoalbasolidarity.wordpress.com/2018/09/28/venezuela-alba-weekly-9-28-2018-cuba-and-venezuela-presidents-at-riverside-church-updated-steve-ellner-tour-schedule-on-the-hardships-imposed-on-venezuela-by-us-canada-sanctions/\r\n<h2>The News This Week</h2>\r\n<div>\r\n<div>\r\n<div>\r\n\r\n&nbsp;\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Maduro-Diaz-Canel-Talk-Economic-Sanctions-Politics-in-Harlem-20180926-0032.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.telesurtv.net/english/news/Maduro-Diaz-Canel-Talk-Economic-Sanctions-Politics-in-Harlem-20180926-0032.html&amp;source=gmail&amp;ust=1538802550843000&amp;usg=AFQjCNEMrK3uyu_XlZ2Es8cNhJ8hlCDlJA\"><span class=\"il\">Venezuela</span>’s Maduro, Cuba’s Diaz-Canel Talk about Economic Sanctions, Politics in Harlem</a>\r\n\r\n<a href=\"https://www.telesurtv.net/english/search.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.telesurtv.net/english/search.html&amp;source=gmail&amp;ust=1538802550843000&amp;usg=AFQjCNG7n4iOPd3ZB35o8myw-4PLD01N8A\">Internet access to TeleSur being blocked?</a>\r\n\r\n<a href=\"https://chicagoalbasolidarity.wordpress.com/2018/09/27/the-hardship-imposed-on-the-venezuelan-people-by-us-canadian-sanctions-steve-ellners-fall-speaking-tour/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://chicagoalbasolidarity.wordpress.com/2018/09/27/the-hardship-imposed-on-the-venezuelan-people-by-us-canadian-sanctions-steve-ellners-fall-speaking-tour/&amp;source=gmail&amp;ust=1538802550843000&amp;usg=AFQjCNGoCcX1ALG8V81sOK6J0_kwkaTUJA\">Updated October-December Schedule for Steve Ellner Speaking Tour on the Hardship Imposed on the\_<span class=\"il\">Venezuelan</span>\_people by US-Canadian Sanctions</a>\r\n\r\n&nbsp;\r\n\r\n<span class=\"il\">Venezuela</span>\r\n\r\n<a href=\"https://www.facebook.com/teleSUREnglish/videos/173511926829957/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.facebook.com/teleSUREnglish/videos/173511926829957/&amp;source=gmail&amp;ust=1538802550844000&amp;usg=AFQjCNEapGYoTCJGcaQGn_aZKjdNk80jog\"><span class=\"il\">Venezuela</span>\_President Maduro Speech to UN General Assembly</a>\r\n\r\n<a href=\"https://venezuelanalysis.com/news/14070\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://venezuelanalysis.com/news/14070&amp;source=gmail&amp;ust=1538802550844000&amp;usg=AFQjCNGVOubgjtu6X7E-_hFtqDcAE6LHYw\">Trump Sets Sights on\_<span class=\"il\">Venezuela</span>\_with New Sanctions and Coup Threats</a>\r\n\r\n<a href=\"https://venezuelanalysis.com/analysis/14073\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://venezuelanalysis.com/analysis/14073&amp;source=gmail&amp;ust=1538802550844000&amp;usg=AFQjCNGMo-fEA41JoiqhE2VNWFBz130t4A\">Trump’s Economic Sanctions Have Cost\_<span class=\"il\">Venezuela</span>\_About $6 billion in one year</a>\r\n\r\n<a href=\"https://www.thecanary.co/global/2018/09/15/trumps-venezuela-coup-plotting-is-just-the-latest-move-in-a-long-history-of-us-hypocrisy/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.thecanary.co/global/2018/09/15/trumps-venezuela-coup-plotting-is-just-the-latest-move-in-a-long-history-of-us-hypocrisy/&amp;source=gmail&amp;ust=1538802550844000&amp;usg=AFQjCNEnvyGYmKM7hwAfP9KrVLAq1TvWTA\">Trump’s\_<span class=\"il\">Venezuela</span>\_coup plotting is just the latest move in a long history of US foreign policy hypocrisy</a>\r\n\r\n&nbsp;\r\n\r\nCuba\r\n\r\n<a href=\"http://en.granma.cu/mundo/2018-09-26/president-miguel-diaz-canel-bermudez-addresses-the-un-general-assembly\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=http://en.granma.cu/mundo/2018-09-26/president-miguel-diaz-canel-bermudez-addresses-the-un-general-assembly&amp;source=gmail&amp;ust=1538802550844000&amp;usg=AFQjCNHFoJC2gDAO32VqQ3WCiqsa8MmJsg\">Cuban President Miguel Díaz-Canel Bermúdez address to the UN General Assembly</a>\r\n\r\n<a href=\"http://en.granma.cu/cuba/2018-09-21/under-siege-more-democracy\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=http://en.granma.cu/cuba/2018-09-21/under-siege-more-democracy&amp;source=gmail&amp;ust=1538802550844000&amp;usg=AFQjCNGf67MazWD9MI65Y6CCqa9UXu_SKA\">Cuban Democracy Under Renewed Siege by US</a>\r\n\r\n&nbsp;\r\n\r\nBolivia:\r\n\r\n<a href=\"https://www.bloomberg.com/news/articles/2018-09-26/bolivia-s-morales-slams-trump-to-his-face-at-un-security-council\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.bloomberg.com/news/articles/2018-09-26/bolivia-s-morales-slams-trump-to-his-face-at-un-security-council&amp;source=gmail&amp;ust=1538802550844000&amp;usg=AFQjCNEs-S9f84XQuKBxqZyvigEt9w0FRQ\">Bolivia's Evo \_Morales Slams Trump to His Face at UN Security Council</a>\r\n\r\n<a href=\"https://www.c-span.org/video/?c4751362/evo-morales-remarks-security-council\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.c-span.org/video/?c4751362/evo-morales-remarks-security-council&amp;source=gmail&amp;ust=1538802550844000&amp;usg=AFQjCNG0CViKELK1p4gxQqTX4cIXoQSlTA\">Full Evo Morales UN Security Council Speech</a>\r\n\r\n<a href=\"https://www.youtube.com/watch?v=5BBFOR_0CEQ\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5BBFOR_0CEQ&amp;source=gmail&amp;ust=1538802550844000&amp;usg=AFQjCNHXkY4lnUF3avZ9CTYD3ZhZleDVlg\">Evo Morales Speech at UN General Assembly</a>\r\n\r\n&nbsp;\r\n\r\nNicaragua\r\n\r\n<a href=\"https://afgj.org/urgent-tell-your-senator-dont-pass-the-nica-act\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://afgj.org/urgent-tell-your-senator-dont-pass-the-nica-act&amp;source=gmail&amp;ust=1538802550844000&amp;usg=AFQjCNHMryc8qGU1GjOAPEOzhzSvNd9B6g\">AFGJ: Take Action, contact your Senators to Oppose Sanctions,\_ Nica Act</a>\r\n\r\n<a href=\"https://off-guardian.org/2018/09/27/how-an-american-anthropologist-tied-to-us-regime-change-proxies-became-the-msms-man-in-nicaragua/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://off-guardian.org/2018/09/27/how-an-american-anthropologist-tied-to-us-regime-change-proxies-became-the-msms-man-in-nicaragua/&amp;source=gmail&amp;ust=1538802550844000&amp;usg=AFQjCNGpWVVdg2iDNlmxCe8vIG2pWfcngg\">Max Blumenthal: How an American Anthropologist Tied to US Regime-Change Proxies Became the Corporate Media’s Man in Nicaragua</a>\r\n\r\n</div>\r\n</div>\r\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

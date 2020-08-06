@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 46e1a781-729b-402b-a997-d357ac7e86f9
+  bundle: article
+  default_langcode: en
+  depends:
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Solidarity with Nicaragua! Webinar Series'
+  created:
+    -
+      value: 1555426897
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /solidarity-nicaragua-webinar-series
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>A webinar series for solidarity activists leading up to the July “Solidarity with Nicaragua!” delegation organized by AFGJ\_and the Friends of the ATC</strong>\r\n\r\n<strong>Wednesday, April 17th 3pm PST/6pm EST:</strong>\r\nReport back by delegates on the January 2019 Food Sovereignty &amp; Agroecology delegation to Nicaragua\r\n<a href=\"https://afgj.org/solidarity-with-nicaragua-webinar-delegation-report-back-video\">See the recorded video and other related links HERE.</a>\r\n\r\n<strong>Sunday, April 28th 11am PST/2pm EST:</strong>\r\nTracing the historic lines of international solidarity with Nicaragua. Webinar featuring AFGJ's Chuck Kaufman,\_Coleen Littlejohn, and Stephen Sefton.\r\n\r\nRegister\_<a href=\"https://zoom.us/webinar/register/WN_96avUE8-Rxy0WEZnJirgQA\" data-cke-saved-href=\"https://zoom.us/webinar/register/WN_96avUE8-Rxy0WEZnJirgQA\">HERE</a>\r\n\r\nFor more information on the July delegation to Nicaragua head to\_<a href=\"https://friendsatc.org/delegations\" data-cke-saved-href=\"https://friendsatc.org/delegations\">friendsatc.org/delegations</a>\r\n\r\n<a href=\"https://zoom.us/webinar/register/WN_DD8sBMPxRwySkYJic3QOgg\"><img class=\"alignnone size-large wp-image-11575\" src=\"https://afgj.org/wp-content/uploads/2019/04/nicaragua-flyer-9-791x1024.png\" alt=\"\" width=\"752\" height=\"974\" /></a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+  field_mt_slideshow:
+    -
+      value: false

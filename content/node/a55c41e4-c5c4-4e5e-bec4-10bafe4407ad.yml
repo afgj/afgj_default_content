@@ -1,0 +1,64 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a55c41e4-c5c4-4e5e-bec4-10bafe4407ad
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'LIVE BLOG: Yes to the Plebiscite, Yes to Peace!'
+  created:
+    -
+      value: 1474902346
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /live-blog-yes-plebiscite-yes-peace
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-7113 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2016/09/plebisciteliveblogimage.jpg\" alt=\"plebisciteliveblogimage\" width=\"644\" height=\"356\" />\n\nThe Alliance for Global Justice is in Colombia for the historic signing of the Peace Accords and for the referendum vote on October 2. The delegation will be in four areas of the country to provide international accompaniment on voting day at the request of National Unitary Federation of Agricultural Workers Unions (Fensuagro) and the Marcha Patriótica popular movement. Stay tuned for updates as the delegation observes the process.\n<div id=\"24lb_thread\" class=\"lb_1349783\"></div>\n<script type=\"text/javascript\">\n(function() {\nvar lb24 = document.createElement('script'); lb24.type = 'text/javascript'; lb24.id = '24lbScript'; lb24.async = true; lb24.charset=\"utf-8\";\nlb24.src = '//v.24liveblog.com/embed/24.js?id=1349783';\n(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(lb24);})();\n</script>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

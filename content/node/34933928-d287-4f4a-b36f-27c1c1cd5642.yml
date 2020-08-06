@@ -1,0 +1,64 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 34933928-d287-4f4a-b36f-27c1c1cd5642
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    ca4e52ca-2d48-486f-8d00-3553c0a7f296: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Colombia''s Elections Strengthen Oligarchs at the Left''s Expense'
+  created:
+    -
+      value: 1446040047
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /colombias-elections-strengthen-oligarchs-lefts-expense
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"alignnone\" src=\"http://risaraldahoy.com/wp-content/uploads/2015/10/delitos-electorales-2015.png\" alt=\"\" width=\"540\" height=\"274\" /></p>\nWhat do Colombia's recent elections tell us about the prospects for a successful and just peace accord?<a href=\"http://www.telesurtv.net/english/opinion/Colombias-Elections-Strengthen-Oligarchy-at-the-Lefts-Expense-20151027-0049.html\"> Read this analysis by AfGJ's James Jordan published in Telesur English.</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: ca4e52ca-2d48-486f-8d00-3553c0a7f296
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

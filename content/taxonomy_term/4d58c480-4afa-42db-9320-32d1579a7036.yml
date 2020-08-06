@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: 4d58c480-4afa-42db-9320-32d1579a7036
+  bundle: categories
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: 'Political Prisoners'
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /political-prisoners
+      langcode: en
+      pathauto: 1

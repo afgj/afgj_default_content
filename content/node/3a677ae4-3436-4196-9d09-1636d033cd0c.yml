@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3a677ae4-3436-4196-9d09-1636d033cd0c
+  bundle: article
+  default_langcode: en
+  depends:
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela Weekly: Resources to Combat US Spin on their Coup and possible Intervention'
+  created:
+    -
+      value: 1549027464
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-weekly-resources-combat-us-spin-their-coup-and-possible-intervention
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p dir=\"ltr\"><a href=\"https://www.facebook.com/NicolasMaduro/videos/2069679193125346/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.facebook.com/NicolasMaduro/videos/2069679193125346/&amp;source=gmail&amp;ust=1549133782127000&amp;usg=AFQjCNGCtWdWIqE82NSsGAGTO46rGHYJkg\">President Nicolas Maduro message to the US People: Struggle to Avoid a \_New Vietnam</a></p>\r\n<p dir=\"ltr\"><a href=\"https://afgj.org/activist-tool-kit-us-hands-off-venezuela\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://afgj.org/activist-tool-kit-us-hands-off-venezuela&amp;source=gmail&amp;ust=1549133782127000&amp;usg=AFQjCNFSAsQBF8ocqcJ52k-S2GuachtRVQ\">Activist Tool Kit: US Hands Off Venezuela, with Q &amp; A concerning US spin on Venezuela</a></p>\r\n<p dir=\"ltr\"></p>\r\n<p dir=\"ltr\">The “international community” that recognizes Guaido as president (16 countries):</p>\r\n<p dir=\"ltr\">\r\nUnited States, Canada, \_Israel, Argentina, Chile, Colombia, Costa Rica, Ecuador, Guatemala, Panama, Paraguay, Brazil, Peru, St. Lucia, Guyana, Georgia.</p>\r\n<p dir=\"ltr\">Ambiguous is Australia. Some European countries say they may later.</p>\r\n<p dir=\"ltr\"><a href=\"https://www.democracynow.org/2019/1/24/former_un_expert_the_us_is?autostart=true\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.democracynow.org/2019/1/24/former_un_expert_the_us_is?autostart%3Dtrue&amp;source=gmail&amp;ust=1549133782127000&amp;usg=AFQjCNGIOcmbRl7wVb3IMDyJEKPxg2lg4g\">Former U.N. Expert Alfred de Zayas: The U.S. Is Violating International Law by Attempting a Coup in Venezuela</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/stansfield.smith/videos/2580552525305268/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.facebook.com/stansfield.smith/videos/2580552525305268/&amp;source=gmail&amp;ust=1549133782127000&amp;usg=AFQjCNF2SJ8X0xAUf4__ab2cTx2ngPAQBA\">Venezuela news report: Arrest of man with bombs, guns, etc with plans for violence and killings to be blamed on Venezuelan government</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.democracynow.org/2019/1/30/allan_nairn_trump_s_venezuela_envoy\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.democracynow.org/2019/1/30/allan_nairn_trump_s_venezuela_envoy&amp;source=gmail&amp;ust=1549133782127000&amp;usg=AFQjCNF5LLfJ8SiPz6r19Q1MjRLzUoMe_Q\">Allan Nairn: Trump’s Venezuela Envoy Elliott Abrams Is a War Criminal </a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.sacbee.com/news/news-services/article225330140.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.sacbee.com/news/news-services/article225330140.html&amp;source=gmail&amp;ust=1549133782127000&amp;usg=AFQjCNFxKtkD0Ym7gRmAj3DxyjzNzLCG1Q\">Mark Weisbrot: Trump’s efforts to oust Maduro are illegal and will kill more Venezuelans</a></p>\r\n<p dir=\"ltr\"><a href=\"https://grayzoneproject.com/2019/01/29/the-making-of-juan-guaido-how-the-us-regime-change-laboratory-created-venezuelas-coup-leader/?fbclid=IwAR1vZYzNUDU8ow3qETZeK_qg7CNtUeQ1uvEGg_m34_ZiNq4mRH8-Jn8_0Dg\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://grayzoneproject.com/2019/01/29/the-making-of-juan-guaido-how-the-us-regime-change-laboratory-created-venezuelas-coup-leader/?fbclid%3DIwAR1vZYzNUDU8ow3qETZeK_qg7CNtUeQ1uvEGg_m34_ZiNq4mRH8-Jn8_0Dg&amp;source=gmail&amp;ust=1549133782127000&amp;usg=AFQjCNGK6hQM360Hh6Y3Hdb-qPQhyqgPdw\">Dan Cohen, Max Blumenthal: The Making of Juan Guaidó: How the US Regime Change Laboratory Created Venezuela’s Coup Leader</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.ueunion.org/political-action/2019/us-labor-against-the-war-condemns-coup-in-venezuela\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.ueunion.org/political-action/2019/us-labor-against-the-war-condemns-coup-in-venezuela&amp;source=gmail&amp;ust=1549133782127000&amp;usg=AFQjCNEc9LWXBRTGkCex4DrV40gSaqW5sA\">United Electrical Workers Union \_and U.S. Labor Against the War Condemn Coup in Venezuela</a></p>\r\n<p dir=\"ltr\"><a href=\"https://venezuelanalysis.com/news/14282\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://venezuelanalysis.com/news/14282&amp;source=gmail&amp;ust=1549133782127000&amp;usg=AFQjCNHkHf8-VBRvnl10lAnwXw-eCcatAQ\">US Rejects Dialogue Conference; Chavista and anti-Chavista Marches Scheduled for Saturday</a></p>\r\n<p dir=\"ltr\"></p>\r\n<p dir=\"ltr\">Delegation to Venezuela ( a few places still left)</p>\r\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/EndVenezuelaSanctionsDelegation/posts/502604040236799\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.facebook.com/EndVenezuelaSanctionsDelegation/posts/502604040236799&amp;source=gmail&amp;ust=1549133782127000&amp;usg=AFQjCNEotrT-C7QCkyN5VZAub888fz9Q9A\">Delegation to Venezuela, March 17-24, 2019</a></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

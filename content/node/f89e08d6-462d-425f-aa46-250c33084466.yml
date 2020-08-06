@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f89e08d6-462d-425f-aa46-250c33084466
+  bundle: mt_canvas_page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Slideshow Boxed Width'
+  created:
+    -
+      value: 1529401543
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /slideshow-boxed-width
+      langcode: en
+      pathauto: 1

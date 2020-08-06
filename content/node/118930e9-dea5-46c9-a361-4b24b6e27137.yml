@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 118930e9-dea5-46c9-a361-4b24b6e27137
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    cb4617c7-3c39-4ae4-a5e6-a44b174be3d3: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Live Blogging: Colombia''s National Strike, Venezuela vs. the Empire'
+  created:
+    -
+      value: 1556495068
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /live-blogging-colombias-national-strike-venezuela-vs-empire
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<div>\r\n\r\nLive Blogging: Colombia's National Strike, Venezuela vs. the Empire\r\n\r\nSimón Bolívar, \"the Great Liberator\", had a\_ dream of liberation from Empire and slavery, of just peace, of a united and soverign people throughout South America. Especially he fought for the people of Gran Colombia, today's nations of Venezuela, Colombia, and Ecuador. The dream and the people are being targeted by a US government that wants to get rid of Bolivar's dream in favor of a new colonialism. In Colombia, the White House is doing everything it can to destroy the country's peace Accord. In Venezuela, social movements are locked in a do or die fight against US efforts to bring down their popular democracy. And Ecuador is ruled by a traitor who has turned his back on his own people to collaborates with Empire's efforts to put the whole region under the Yankee boot heel.\r\n\r\nBut the resistance of Bolivar's children stays strong. In Colombia, indigenous, labor, and social protests are demanding land rights and an end to political violence. In Venezuela, popular movements have held at bay US-led attempts to overthrow the elected government.\r\n\r\nOver the next two weeks, the Alliance for Global Justice and the Venezuela Strategy Group will have people on the ground in both Colombia and Venezuela live blogging about the people's resistance in both countries. In Colombia,\_ we will accompany union members and social movement leaders in Cauca and Valle de Cauca in the region most affected by military and paramilitary. We will also go to the north to Cesar and La Guajira, along the border with Venezuela. We will hear from solidarity activists in Venezuela where the nation continues to defend it's sovereignty. We will compare and contrast the situation in both these sister countries.\r\n\r\nWe know as US-ers that our presence is not just an act of international solidarity. Our own liberation is bound to the liberation of our South American allies. Real democracy can never coexist in a world run by oligarchs. So stay tuned and follow these reports as we stand strong with our sisters and brothers in struggle.\r\n\r\n</div>\r\n<div id=\"arena-live\" data-publisher=\"afgj.org\" data-event=\"1556520076218\" data-version=\"2\"></div>\r\n<script src=\"https://go.arena.im/public/js/arenalib.js?p=afgj.org&e=1556520076218\"></script>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: cb4617c7-3c39-4ae4-a5e6-a44b174be3d3
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

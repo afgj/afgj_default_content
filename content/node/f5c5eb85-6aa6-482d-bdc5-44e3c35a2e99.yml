@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f5c5eb85-6aa6-482d-bdc5-44e3c35a2e99
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela Webinar: Sept. 25, 5pm PT/8pm ET Venezuela Webinar: Examining the effect of sanctions on human rights in Venezuela with SURES'
+  created:
+    -
+      value: 1537441526
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-webinar-sept-25-5pm-pt8pm-et-venezuela-webinar-examining-effect-sanctions-human-rights
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><strong>Watch now: Examining the effect of sanctions on human rights in Venezuela with SURES</strong></p>\r\n<p style=\"text-align: center;\"><iframe src=\"https://www.youtube.com/embed/1UFRI3QDMXM\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\r\nSURES recently released a 30 page study investigating how sanctions, also known as unilateral coercive measures deprive the population of basic products which are important for every day life. They will share their findings from the study and provide some recommendations from their prospective as a Venezuelan human rights organization.\r\n\r\n<a href=\"https://default.salsalabs.org/T8d393b75-a7ac-4bea-9599-705b9eddaed7/a5679586-18f8-4166-93cb-03d8690363aa\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T8d393b75-a7ac-4bea-9599-705b9eddaed7/a5679586-18f8-4166-93cb-03d8690363aa&amp;source=gmail&amp;ust=1537549068385000&amp;usg=AFQjCNEQw_du3Xld4Q0SOz1udZx2YcXpJQ\">Special Report: Unilateral Coercive Measures Against Venezuela and it's Impact On Human Rights</a>\r\n<p style=\"text-align: center;\"><strong>Speakers</strong>:</p>\r\n\r\n\r\n[caption id=\"attachment_10775\" align=\"alignleft\" width=\"209\"]<img class=\"wp-image-10775 size-full\" src=\"https://afgj.org/wp-content/uploads/2018/09/Maria-Lucrecia-Hernandez.jpg\" alt=\"\" width=\"209\" height=\"180\" /> Maria Lucrecia Hernadez Director @SURES Maria Lucrecia Hernadez is a lawyer and a graduate from the University of Buenos Aires with master's degrees in human rights, criminal and procedural law from the University of Barcelona, Spain and the Latin American Council of Social Sciences, CLACSO. She has been a consultant for United Nations organizations, UNICEF and United Nations Development Programme. She has been Vice Chancellor of the National Experimental Security University and is currently director SURES.[/caption]\r\n\r\n[caption id=\"attachment_10778\" align=\"alignright\" width=\"289\"]<img class=\"size-full wp-image-10778\" src=\"https://afgj.org/wp-content/uploads/2018/09/Aura-Rosa-Hernandez.jpg\" alt=\"\" width=\"289\" height=\"244\" /> Aura Rosa Hernandez<br />Training Coordinator @SURES<br />Aura Rosa Hernandez is a political scientist graduating from the Central University of Venezuela. She received a master's degrees in constitutional law from the University of Valencia and a master's degree in political science from the Simon Bolivar University in Venezuela. She has been a consultant on women's rights for the Venezuelan government and is currently the Training Coordinator for SURES.[/caption]"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

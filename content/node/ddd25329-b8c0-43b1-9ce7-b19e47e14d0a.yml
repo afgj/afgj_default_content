@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ddd25329-b8c0-43b1-9ce7-b19e47e14d0a
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Call or Email WOLA Today to Protest  Their Statement on Venezuela!'
+  created:
+    -
+      value: 1429093512
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /call-or-email-wola-today-protest-their-statement-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\" aligncenter\" src=\"http://org2.salsalabs.com/o/7315/images/Maduro.jpg\" alt=\"\" width=\"384\" height=\"253\" />\n<table cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"td1\" valign=\"top\">\n<p class=\"p1\">Friends,</p>\n<p class=\"p2\">We urge you to call or write the Washington Office on Latin America (WOLA) to protest their interventionist statement, \_issued on the eve of the April 10-11 Summit of the Americas, repeating US slanders against the government of Venezuela.</p>\n<p class=\"p2\">The statement/op-ed is here:</p>\n<p class=\"p4\"><span class=\"s1\"><a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=2%2FCpZY6%2BL8plGjgi8EBFXsHTxaLa%2Bfwm\">http://fpif.org/strengthening-multilateral-defense-of-human-rights-in-the-americas/</a></span></p>\n<p class=\"p2\">The op-ed statement repeats false accusations \_of \"harrassment of human rights defenders\" and suggests Venezuela needs \"help\" to \"find a path to democratic stability and respect for human rights\".</p>\n<p class=\"p2\">It is important they hear from us because WOLA is considered by liberals in Congress to be the authoritative voice on Latin America. As such, their position is much more dangerous than those of admitted right-wing organizations.</p>\n<p class=\"p2\">The statement is co-signed by PROVEA and other USA/Western funded NGOs in Venezuela.</p>\n<p class=\"p2\">We are happy to note that the countries of Latina American and the Caribbean have already unanimously condemned\_ U.S. sanctions against Venezuela and have also unanimously called on President Obama to revoke his Executive Order calling Venezuela an \"extraordinary threat to U.S. national security.\"</p>\n<p class=\"p2\">Related reference material and WOLA contact information \_is below.</p>\n<p class=\"p2\">Please call\_ or email today and let WOLA know we object to their distortions and parroting of US State Department allegations.</p>\n<p class=\"p2\">Muchas Gracias Amigos,</p>\n<p class=\"p2\">Chuck Kaufman, Alliance for Global Justice</p>\n<p class=\"p2\">Stan Smith, Chicago ALBA Solidarity Committee</p>\n<p class=\"p2\">Roger Harris, President, Task Force on the Americas</p>\n<p class=\"p2\">Charlie Hardy</p>\n<p class=\"p2\">Lee Artz, Media Studies, Purdue University Calumet</p>\n<p class=\"p2\">************************</p>\n<p class=\"p2\">1. Contact information for WOLA</p>\n<p class=\"p2\">WOLA Tel: (202) 797-2171 \_<a href=\"mailto:press@wola.org\"><span class=\"s2\">press@wola.org</span></a></p>\n<p class=\"p2\">2. Who signed the statement? :</p>\n<p class=\"p2\">Joy Olson is the executive director of the Washington Office on Latin America (WOLA).</p>\n<p class=\"p2\">Juana Kweitel is a program director at Conectas Human Rights.</p>\n<p class=\"p2\">Marino Alvarado Betancourt is a member of the Permanent Commission at the Venezuelan Program for Education and Action in Human Rights (PROVEA).</p>\n<p class=\"p2\">Gastón Chillier is the executive director of the Center for Legal and Social Studies (CELS).</p>\n<p class=\"p2\">Vera Jarach is a member of Madres de la Plaza de Mayo, Linea Fundadora.</p>\n<p class=\"p2\">3.\_ Regarding ProVEA</p>\n<p class=\"p2\">“Romero, ProVEA and other Maduro critics are relentless in their claims that armed motorcyclists allied with the administration are perpetrating violence against peaceful opposition members.”</p>\n<p class=\"p4\"><span class=\"s1\"><a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=gEp3kAd2EZuV2PCZuGxjocHTxaLa%2Bfwm\">http://venezuelanalysis.com/analysis/10725</a></span></p>\n<p class=\"p2\">4. Regarding ProVea funding:</p>\n<p class=\"p2\">\_“Our challenge is how not to disappear,” said Marino Alvarado, who heads Provea, a human rights group that relies almost exclusively on overseas funds, including donations from the European Union and US-based NGOs but not the US government. “</p>\n<p class=\"p4\"><span class=\"s1\"><a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=tYbndk74UTS33arMf2abEMHTxaLa%2Bfwm\">http://www.buenosairesherald.com/article/58157/ch%C3%A1vez%E2%80%99s-new-threat-funding-at-risk-for-activists</a></span></p>\n<p class=\"p2\">see also:</p>\n<p class=\"p4\"><span class=\"s1\"><a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=PIbp7OD%2Fz8OkZTV%2B5hSPa8HTxaLa%2Bfwm\">http://venezuelawearewithyou.blogspot.com/2010/12/ngo-provea-in-venezuela-paid-in-us.html</a></span></p>\n<p class=\"p2\">\_5. Regarding Latin American and Caribbean statement denouncing US sanctions against Venezuela at CELAC meeting.</p>\n<p class=\"p4\"><span class=\"s1\"><a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=yB49ZPeW9MRMFjNWG%2BM5JcHTxaLa%2Bfwm\">http://venezuelanalysis.com/news/11178</a></span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+  field_mt_slideshow:
+    -
+      value: false

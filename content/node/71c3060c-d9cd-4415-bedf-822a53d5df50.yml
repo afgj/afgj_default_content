@@ -1,0 +1,64 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 71c3060c-d9cd-4415-bedf-822a53d5df50
+  bundle: article
+  default_langcode: en
+  depends:
+    559721eb-b73d-4d86-a9b5-58f46584daa3: taxonomy_term
+    e2cd83a2-4ff6-40be-8260-0b38e269f80f: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Register Now! January Conference on U.S. Foreign Military Bases'
+  created:
+    -
+      value: 1513246071
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /register-now-january-conference-us-foreign-military-bases
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter\" src=\"https://ci6.googleusercontent.com/proxy/VLpifQz1yGuNSeENZjYyPtZ2owg-DeY3Wtnejvkjpuw5Ksz_l5Rfw_JHDLQ_UGFRAFIxrlM2wQC-wY7eLfK2CNOnBdPpoBbdiBiw69KmxkzVyLi3wJ4RxaCXRn1ROd3TMDtUCSLhxKcZNAITooWhwXM-FrtUxH63XPxWS6Y=s0-d-e1-ft#https://gallery.mailchimp.com/ccd625b69dbee766fcef0d707/images/134bb23c-8e0a-4bdc-9355-d038f70ccd28.jpg\" width=\"577\" height=\"249\" />\n<h1><strong>Conference on U.S. Foreign Military Bases</strong>\n<strong>January 12 - 14, 2018, University of Baltimore</strong>\n<strong>Learning Commons Town Hall,</strong>\_<strong>Baltimore, Maryland</strong>\n<strong>Organized by: Coalition Against U.S. Foreign Military Bases</strong></h1>\n<p style=\"font-weight: 400;\">Thirteen prominent peace, justice and environmental organizations in the United States are collectively organizing a 3-day national conference on U.S. Foreign Military Bases on January 12-14, 2018, at the University of Baltimore, Maryland: • Alliance for Global Justice • Black Alliance for Peace • CODEPINK • Global Network Against Weapons and Nuclear Power in Space • International Action Center • MLK Justice Coalition • Nuclear Age Peace Foundation • Popular Resistance • United National Antiwar Coalition • U.S. Peace Council • Veterans For Peace • Women’s International League for Peace and Freedom • World Beyond War.</p>\n<p style=\"font-weight: 400;\">You can join and support this Conference by:\_<img class=\"alignright wp-image-8588\" src=\"https://afgj.org/wp-content/uploads/2017/12/NO-Bases.jpg\" alt=\"\" width=\"240\" height=\"317\" /></p>\n\n<ol style=\"font-weight: 400;\">\n \t<li>Registering and attending the Conference.</li>\n \t<li>Having your organization endorse the Conference.</li>\n \t<li>Placing an ad or a solidarity message from your group in the Conference Journal.</li>\n</ol>\n<p style=\"font-weight: 400;\"><a href=\"https://hr258.us15.list-manage.com/track/click?u=ccd625b69dbee766fcef0d707&amp;id=13253d4aa6&amp;e=a894dfe8f4\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://hr258.us15.list-manage.com/track/click?u%3Dccd625b69dbee766fcef0d707%26id%3D13253d4aa6%26e%3Da894dfe8f4&amp;source=gmail&amp;ust=1513353458786000&amp;usg=AFQjCNHL5y-xAhGT-nXjTek4pdN05j8sMQ\"><strong>Click Here for Conference Details, Registration and Endorsement</strong></a></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 559721eb-b73d-4d86-a9b5-58f46584daa3
+    -
+      entity: e2cd83a2-4ff6-40be-8260-0b38e269f80f
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

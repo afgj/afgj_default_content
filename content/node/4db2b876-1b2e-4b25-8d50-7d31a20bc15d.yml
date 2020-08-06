@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4db2b876-1b2e-4b25-8d50-7d31a20bc15d
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela ALBA Weekly 4.20.2018 Reports and Speeches from Summit of Americas and Peoples Summit'
+  created:
+    -
+      value: 1524380654
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-alba-weekly-4202018-reports-and-speeches-summit-americas-and-peoples-summit
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter size-full wp-image-9641\" src=\"https://afgj.org/wp-content/uploads/2018/04/image.png\" alt=\"Evo Morales Venezuela Weekly\" width=\"950\" height=\"468\" />\r\n<h2 style=\"text-align: center;\">The News This Week</h2>\r\n<a href=\"https://venezuelanalysis.com/analysis/13769\" target=\"_blank\" rel=\"noopener\">Final Declaration of the 2018 Peoples’ Summit in Lima, Peru</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://misionverdad.com/MV-IN-ENGLISH/where-the-international-front-against-venezuela-is-heading\" target=\"_blank\" rel=\"noopener\">Lima Summit of Americas: US, its Neo-Colonial Allies and Vz Opposition Agree on More Sanctions, divided on US Intervention</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/News/13768\" target=\"_blank\" rel=\"noopener\">VenAnalysis on Americas Summit: Cuba &amp; Bolivia Stand by Venezuela Amid US Threats</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://en.granma.cu/cuba/2018-04-20/the-communist-party-will-resolutely-support-and-back-the-new-president\" target=\"_blank\" rel=\"noopener\">Raul Castro's Final Speech as Head of State of Cuba</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://libya360.wordpress.com/2018/04/18/cuba-us-governments-moral-vacuum-cannot-be-a-point-of-reference-for-latin-america/\" target=\"_blank\" rel=\"noopener\">Cuba'a Bruno Rodriguez at Summit of Americas: “The US is the Author of all Despotic Regimes in Latin America and Their Crimes”</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Bolivia-Assumes-Pro-Tempore-Presidency-of-Unasur-20180418-0004.html\" target=\"_blank\" rel=\"noopener\">Bolivia Assumes Presidency of UNASUR</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Evo-Morales-US-is-Greatest-Threat-to-Freedom-Democracy-20180414-0023.html\" target=\"_blank\" rel=\"noopener\">Evo Morales \"The biggest threat against freedom, against democracy, against Mother Earth and against multilateralism is the United States\"</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Venezuela-Tackles-Bolivar-Exchanger-Mafias-on-Colombian-Border-20180418-0020.html\" target=\"_blank\" rel=\"noopener\">Venezuela Acts against Bolivar Exchange Mafias on Colombian Border</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://mailchi.mp/mppre/venezuela-briefing20-de-abril-de-2018?e=5c9b8627ef\" target=\"_blank\" rel=\"noopener\">Venezuela Embassy: Venezuela Briefing April 20, 2018</a>\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: center;\"><strong>Delegations</strong></h2>\r\n<a href=\"https://revolucionalimentaria.org/2018/04/09/urgent-call-for-solidarity-delegation-to-venezuela-may-16-24-2018/\" target=\"_blank\" rel=\"noopener\">Solidarity Delegation to Venezuela, May 16-24 (during Presidential Election</a>)\r\n\r\n<a href=\"https://afgj.org/travel-to-colombia\" target=\"_blank\" rel=\"noopener\">Peacemakers Delegation to Colombia with AfGJ, May 19-29</a>\r\n\r\n<a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\">Agrarian &amp; Worker Struggle in Nicaragua: Celebrating the ATC’s 40th Anniversary June 18-28</a>\r\n\r\n<a href=\"https://afgj.org/artist-delegation-nicaragua\" target=\"_blank\" rel=\"noopener\">Artists’ Delegation to Nicaragua August 1 through 10, 2018</a>\r\n\r\n<hr />\r\n\r\n\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: center;\"><strong>About the Weekly</strong></h2>\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

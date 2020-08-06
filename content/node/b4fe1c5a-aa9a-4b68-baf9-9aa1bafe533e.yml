@@ -1,0 +1,70 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b4fe1c5a-aa9a-4b68-baf9-9aa1bafe533e
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    ca4e52ca-2d48-486f-8d00-3553c0a7f296: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Will Sunday bring a new era to Colombia?'
+  created:
+    -
+      value: 1475294723
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /will-sunday-bring-new-era-colombia
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "by James Patrick Jordan\n\n(Follow the <a href=\"https://afgj.org/colombialiveblog\">LIVE BLOG</a> on October 2nd for on the ground reporting from AfGJ's International Accompaniment delegation.)\n\n<img class=\"wp-image-7133 size-medium alignleft\" src=\"https://afgj.org/wp-content/uploads/2016/10/James-t-shirts-001-225x300.jpg\" alt=\"Misión Victor Julio Garzon\" width=\"225\" height=\"300\" />\n\n<img class=\"alignleft wp-image-7132 size-medium\" src=\"https://afgj.org/wp-content/uploads/2016/10/James-lunch-001-300x177.jpg\" alt=\"James and Dan in Colombia\" width=\"300\" height=\"177\" />Today I feel like I am completing a circle--a circle of peace. This is indeed an emotional moment for me and for everyone who has labored and longed for peace in Colombia and the world. Especially meaningful for me is that I am headed, along with Dan Kovalik, of the United Steelworkers, to Corinto, Cauca to accompany affiliates of the Fensuagro agricultural workers union and the Marcha Patriótica popular movement for a just peace.\n\nBack in 2009, I lead the first delegation to Colombia for the Alliance for Global Justice, and the first place we visited was Corinto. We were hosted by Fensuagro and Lazos de Dignidad (Links of Dignity) human rights organization. Specifically, our host in Corinto was Hubert Ballesteros, who was Fensuagro's Vice President. We visited Corinto and one of its nearby villages, Miranda. There we heard testimonies about repression and the abuses of a war that was being paid for and advised by the US government. Over and over again, the people we heard from urged us not only to press for changes in US policies toward Colombia, but to advocate for dialogue and negotiations to end this war. No one was more passionate about this than Hubert, who urged us to dedicate ourselves to advocating for peace in the war torn country. At that time, they believed that an exchange of prisoners between the Colombian government and the FARC (Revolutionary Armed Forces of Colombia) could be an important first step towards that peace. And we took up that call, joining in an international movement for the release of prisoners on both sides as a good faith gesture towards ending this war. Shortly after, the FARC began releasing its prisoners, but the government did not respond in kind.\n\nThe testimonies we heard were deeply moving. We spoke to a mother who brought us pictures of her daughter, at the time only 13 years old. The child had disappeared two years earlier and the mother believed it was in retaliation for their refusing to give false testimony against other community members as being part of the insurgency. The mother wanted us to do anything we could to help them find her daughter. Of course, after two years, there was little we could do, although we did write some letters of inquiry about her case. We heard another man tell us for the first time ever about the murder of his son by paramilitaries. He had never spoken publicly about this before out of fear. But that day, he could be silent no more.\n\nIt is all the more poignant because last night, I received a salutation from \_Hubert who is now himself a political prisoner, held in jail for the terribly vague charge of Rebellion, a charge that has been used repeatedly to try and silence unionists and other popular movement activists. Despite the peace coming to Colombia, he remains in jail, but is hopeful that this process will see him soon freed.\n\nJust a few days ago, we received the sad news of yet another political murder in Corinto, the assassination of Cecilia Coicue, a local indigenous leader of the Fensuagro affiliate. She was the owner of land that is being used as the local place where the insurgents will be turning over their weapons as part of the peace process. Her murder was a direct attack on the peace. And this is why we are going to Corinto now, as international accompaniment in areas where paramilitaries, enemies of the peace are threatening to intimidate voters in tomorrow's October 2nd national peace referendum, the final step that will make this peace a reality.\n\nWe are part of the Misión Victor Julio Garzon, a project of the Alliance for Global Justice and Fensuagro which also includes the National Lawyers Guild, Pan Left Video Collective, Peoples Human Rights Observatory, the American Coordination in Defense of Human Rights and the Victims of Political Imprisonment, Lazos de Dignidad and the Marcha Patriótica. Victor Julio Garzón was the General Secretary of Fensuagro. He was assassinated in the offices of the labor federation in Bogotá on the 7th of March, 1997. He is one of many lives given who today we honor as one of the seeds bearing fruit in this much hoped for end of the civil war. We are proud to carry out this work in his name and memory.\n\nOur delegation is going to four different areas of the country where advocates of the peace are under threat and paramilitaries have said they would try and disrupt the peace vote. We are going to Viotá, Cundinamarca; Planadas and Natagaima, Tolima; La Guajira; y por supuesto, Corinto, Cauca.\n\nThere are many circles being completed here besides the one in Corinto. Even before we took our first delegation to Colombia, we began our relationship with Fensuagro in 2008 when Raquel Mogollón, of Pan Left, and I visited their retreat center in Viotá. Viotá is a historic municipality which is where the first meeting occurred to unify Liberal Party insurgents defending themselves from the war against the Conservative Party in the late 40s and 50s. It was also where the founding convention of the Colombian Communist Party took place.\n\nTolima has been the department where we of AfGJ have had the strongest relationship with a Fensuagro affiliate. We have visited there on every visit we have taken to this country and it is something of a second home. Today one of our teams is headed to the area of Planadas and Natagaima, where paramilitaries are massing to intimidate participation in tomorrow's referendum. That area is located in the place where the civil war all began when government troops attacked the autonomous zone of Marquetalia in May of 1964.\n\nOur fourth team is on its way to Riohacha, La Guajira. La Guajira is on the Atlantic Coast where there is a heavy paramilitary presence. It is a place of drought and excruciating poverty, where mining companies like the US based Drummond Coal have been responsible for much displacement and many abuses. La Guajira is the home of the Wayuu people, Colombia's largest indigenous nation. Poverty in La Guajira is so band that malnutrition is widespread and thousands of children have lost their lives as a result. It is also an area where AfGJ is developing a relationship similar to the one we have in Tolima.\n\nWe hope that tomorrow will bring a new era to Colombia, closing the circles of war and repression to draw new circles of peace, justice and inclusion.\n\nLast night as I was saying goodbye to July Henriquez of Lazos de Dignidad after a delegation supper in Bogotá with our hosts, I had to call her back for one more hug. I told her, \"I hope this is our last hug and goodbye in this time of war and that when I come back on Monday that I can give you our first hug in a new time of peace.\"\n\nMay all of Colombia and the entire world soon celebrate and say together a resounding yes to the peace of this beautiful country."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: ca4e52ca-2d48-486f-8d00-3553c0a7f296
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

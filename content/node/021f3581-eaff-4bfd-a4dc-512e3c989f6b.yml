@@ -1,0 +1,67 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 021f3581-eaff-4bfd-a4dc-512e3c989f6b
+  bundle: article
+  default_langcode: en
+  depends:
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    cd0b4a40-9b03-4048-a812-892416542fb4: taxonomy_term
+    ca4e52ca-2d48-486f-8d00-3553c0a7f296: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    e568c438-8e8f-470a-9bbe-547eb756ef7e: taxonomy_term
+    ba842cf2-7a7d-4535-9c55-44b659434c8d: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Protests against Peru''s Tia Maria Mine and International Solidarity'
+  created:
+    -
+      value: 1434044798
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /protests-against-perus-tia-maria-mine-and-international-solidarity
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "by James Jordan\n<img class=\" aligncenter\" src=\"http://www.peoplesworld.org/assets/Uploads/agrosi520.jpg\" alt=\"\" width=\"462\" height=\"265\" />\n<div class=\"articleContent\">\n\nWhat does it take to stop a transnational corporate giant in its tracks when it threatens workers, farmers and communities? The people of Arequipa, Peru have an answer.\n<p style=\"text-align: center;\"><a href=\"http://www.peoplesworld.org/protests-against-peru-s-tia-maria-mine-bolstered-by-international-solidarity/\"><em><strong>Originally published in the Peoples World</strong></em></a></p>\nUnionists, rural workers, popular movements, and environmentalists are coming together in this region of southern Peru to halt the proposed Tia Maria copper mine. The mine project belongs to Southern Copper Corporation, a subsidiary of Grupo Mexico.\n\nMine opponents are demanding respect for workers rights, community democracy and involvement in development decisions and protection for the ecosystem and rural farmers. Tia Maria would be a large pit mine projected to have a 20 year life span. Protesters are concerned about the likelihood of contamination of the region's water supply.\n\nThe federal government has declared martial law and sent troops into the region. It has also called for a 60-day pause in mine development.\n\nPolice forces are under contract with Southern Copper to protect the mine, which places in question their commitment to public safety. So far three protesters have been killed in demonstrations against the mine, and more than 200 have been wounded.\n\nGrupo Mexico is a transnational corporation operating mines in Peru, Chile, Mexico and the United States. It is the world's third largest copper producer. Its subsidiaries include Southern Copper Corporation, with offices in the US, Mexico and Peru, and the U.S.- based ASARCO mining corporation.\n\nGrupo Mexico has a history of anti-union activities including the violent suppression of the strike in Cananea, Mexico where it has brought in scab workers and facilitated the formation of a fake company union. Common practices on the part of Grupo Mexico and Southern Copper in both Peru and Mexico include mass firings of workers, replacement with \"temporary\" and contract workers, violent suppression of protests and unsafe working conditions. In the United States, ASARCO is refusing to negotiate in good faith with the union at its copper mine near Tucson, Arizona.\n\nGrupo Mexico's environmental record is truly abysmal. Its subsidiary ASARCO has been found responsible by the Environmental Protection Agency for 20 superfund sites in the United States. (Superfunds are sites recognized by the US government for their dangerous levels of contamination. They are cleaned with taxpayer money, another exaple of privatizing profits while socializing debt.)\n\nIn Mexico, on August 6, 2014, Southern Copper Corporation's Cananea mine spilled 10.5 million gallons of sulfuric acid and heavy metals into the watershed of the Rio Sonora, the largest environmental disaster in Mexico's modern history. The company did not alert the local community for two full days, and then only after the river's water began to turn orange and residents started to develop rashes and show evidence of exposure to contaminants. Juan Rebolledo, Grupo Mexico's vice president of international relations denied the toxicity of the acid and even declared \"there's no problem, nor any serious consequence for the population.\"\n\n<a href=\"http://www.actualidadambiental.pe/?p=29542\">A report</a> by the Peruvian Society for Environmental Law cites \"six reasons why the mining company Southern has generated distrust in Arequipa\" including repeated instances of contamination of waterways and its constant release of sulfuric dioxide into the air at rates up to four and a half times those permitted. The report notes that Southern is one of the ten most fined extractive companies by the Peruvian government's Organism for Environmental Evaluation and Assessment (OEFA), which has sanctioned Southern twelve times since 2008.\n\nGrupo Mexico and its subsidiaries may be transnational, but they do not have a monopoly on globalism. International solidarity among working people can mount powerful challenges against those who put profits before people and planet\n\nAn example is the May 18, 2015 statement of solidarity with Peru's mining union by the United Steelworkers (USW), representing US and Canadian workers, and the National Union of Mine, Metal, Steel and Related Workers of the Mexican Republic (SNTMMSSRM). <a href=\"http://www.usw.ca/community/global/news?id=0064\">The statement</a> calls for worker safety, an increase in wages for contract workers, an end to mass firings and other measures to improve work conditions. It closes declaring that,\n\n\"As representatives of workers and communities that have suffered vicious anti-union repression and environmental catastrophe due to the actions of Grupo Mexico, the owner of Southern Copper in Peru and Asarco in the United States, we join with the FNTMMSP [National Federation of Mine, Metal and Steel Workers of Peru] in condemning the brutal military repression directed by the Peruvian government and Grupo Mexico/Southern Copper against the people of Arequipa who oppose the Tía María mining project.\_ The mineral wealth of a country should be used to benefit the people, including the workers, and not to destroy the environment for the benefit of corporations and politicians.\n\nYou can count on our solidarity in this strike and in all of your struggles.\"\n\nEqually important to international worker solidarity is the intersection of labor movements with environmentalists, community democracy advocates and farming families. Historically this kind of coalition has achieved tremendous successes and mounted a challenge capable of shaking the foundations of big corporations.\n\nA well known example is the labor-environmental unity against the World Trade Organization during its meetings in Seattle in 1999. A more recent manifestation has been the blue-green unity developing around the struggle for climate justice.\n\nJust as workers and popular movements have temporarily halted development of the Tia Maria mine in Southern Peru, a coalition of farmers, community activists, environmentalists and striking union members were able to halt production last April at Southern's Cananea mine.\n\nCross movement and international worker solidarity is especially important now, given the possible passage of the Trans-Pacific Partnership (TPP). The TPP includes the U.S., Mexico and Peru and nine other Pacific rim countries. The agreement would seriously hurt workers rights and the ability for nations to pass and enforce environmental protection laws.\n\nWhen asked \_how the TPP would affect movements like those against Grupo Mexico's Southern Copper Corporation, Arthur Stamoulis of the Citizen's Trade Campaign responded,\n\n\"The TPP seeks to further cut the legs out from under labor, environmental and social movements against unfettered corporate greed and destruction.\_ There warning signs throughout Latin America of just how dangerous these neoliberal trade agreements are to sustainability, to democracy and to life itself.\_ Thankfully, there is a transnational movement-of-movements working hard to derail the TPP.\"\n\nTransnational corporations have many obstacles to throw in the way of workers and popular movements. What they cannot control is the power of an awakened movement of workers and their allies. To this end, Peruvian unions and social movements are calling for a national strike to take place on July 9, 2015. That strike will not take place in isolation. From Tucson, Arizona, where ASARCO miners are demanding a fair deal from Grupo Mexico, to Cananea, Sonora to Arequipa, Peru, miners, farmers, front line communities and environmentalists are demanding with one voice a better deal for workers and respect for communities and the ecosystems where they live.\n\n<em>James Jordan is national coordinator of the Alliance for Global Justice.</em>\n\n<em>Photo: Street protest against Peru's Tia Maria mining project. \_| \_<a href=\"http://globalvoicesonline.org/\">Global Voices Online</a>\_(CC)</em>\n\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: cd0b4a40-9b03-4048-a812-892416542fb4
+    -
+      entity: ca4e52ca-2d48-486f-8d00-3553c0a7f296
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: e568c438-8e8f-470a-9bbe-547eb756ef7e
+    -
+      entity: ba842cf2-7a7d-4535-9c55-44b659434c8d
+  field_mt_slideshow:
+    -
+      value: false

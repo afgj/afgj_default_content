@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b304b84b-71e1-475b-ab74-a6eacdbc6382
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NicaNotes: Guest Blog: Farmers Adapting to Climate Change and Improving Crop Yields'
+  created:
+    -
+      value: 1484753524
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-guest-blog-farmers-adapting-climate-change-and-improving-crop-yields
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"aligncenter wp-image-6975 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"nicanotesbannerwbyline\" width=\"579\" height=\"195\" /></a>\n<p class=\"p1\">Today’s guest blog is a reprint of an article from Nicaragua Now (Issue 7, Fall/Winter 2016/7), the publication of our\_United Kingdom sister solidarity organization, Nicaragua Solidarity Campaign. The author, Liz Light , is the NSC’s\_staff person stationed in Nicaragua.</p>\n\n\n<hr />\n<p class=\"p1\" style=\"text-align: center;\"><strong>Farmers Adapting to Climate Change and Improving Crop Yields</strong></p>\n<p class=\"p1\" style=\"text-align: center;\">Liz Light visited San Francisco Libre to find out how farmers are</p>\n<p class=\"p1\" style=\"text-align: center;\">adapting their agricultural practices.</p>\n<p class=\"p1\" style=\"text-align: center;\"><img class=\"aligncenter size-medium wp-image-7494\" src=\"https://afgj.org/wp-content/uploads/2017/01/Saya-Coronado-225x300.jpg\" alt=\"Saya Coronado\" width=\"225\" height=\"300\" /></p>\n<p class=\"p1\" style=\"text-align: center;\"><em>Sayda Coronado </em></p>\n<p class=\"p1\">Nicaragua epitomises the vulnerability of developing countries to the major threat we all face: climate change. While\_Nicaragua is responsible for only 0.3% of global carbon emissions, it is committed to a comprehensive programme to\_reduce these emissions, implementing mitigation and adaptation measures, and taking a strong stand internationally\_to put pressure on the largest emitters.</p>\n<p class=\"p1\">‘The technology exists, the capital exists, the urgency exists, what is lacking is greater political will on the part of the\_largest emitters.’ Paul Oquist, Nicaraguan Minister for Public Policy.</p>\n<p class=\"p1\">Confronting climate change: the example of San Francisco Libre San Francisco Libre with its 12,000 inhabitants runs\_along the northern shoreline of Lake Xolotlán (Lake Managua). The area has been badly affected by climate change\_related weather extremes and massive deforestation.</p>\n<p class=\"p1\">With the support of a government agency, the Nicaragua Institute of Agricultural Technology (INTA) farmers are\_changing their practices through an agricultural adaptation programme.</p>\n<p class=\"p1\">Sayda Coronado is a member of a women’s farming cooperative. She is also the local co-ordinator of government\_programmes such as zero hunger, food package distribution, and a project to encourage healthy eating through\_backyard vegetable gardens.</p>\n<p class=\"p1\">‘Traditionally this is an area of cattle farming, basic grains, sorghum, corn, beans, and vegetables. The Sandinista\_Revolution reforms gave land to small scale farmers and we now have more opportunities as producers, as women\_and as co-operatives. I’m a member of Bello Amanecer, one of five women’s agricultural co-ops in the area.</p>\n<p class=\"p1\">‘We’ve had three years of drought made worse by deforestation. The wells and rivers have been drying up and the\_lake level has dropped considerably. So we’ve had to change our production methods, analyse how to relieve\_poverty and to generate more income.</p>\n<p class=\"p1\">‘Corn and sorghum production costs were very high and the intermediaries would end up with all the profit. We still\_plant some of these crops but now diversify our production. For example, instead of planting eight acres of corn or\_sorghum we plant one of melon, one of squash, and a half of pepper. We have established a secure market for\_selling to a company that supplies the supermarkets. This is more regulated so we can sell at a higher price and\_have seen our incomes improve.</p>\n<p class=\"p1\">‘My farm is an INTA Rural School where young producers come for training in soil management, pest control, and\_organic farming methods. We have learned different methods, such as drip feed irrigation systems that conserve\_water; spacing plants differently; and using compost as fertiliser. We use wind breaks, and plant hedges and other\_barriers to prevent parasites and pests. Animal manure is used to create organic fertiliser and compost and to make\_natural insecticides. We also build earth barriers to prevent the soil being washed away and dig pits or small lagoons\_to harvest water during the rainy season. We apply all these techniques to conserve the soil.’</p>\n\n\n<hr />\n<p class=\"p1\"><strong>BRIEFS</strong></p>\n\n<ul>\n \t<li class=\"p1\">Daniel Ortega was inaugurated for his fourth term as president (1984-1990 and 2007-2022). In addition to\_the 14 heads of state who attended in person, Pablo Gutierrez, former director of the Organization of American\_States (OAS) Electoral Office praised the electoral process and high level of civic commitment. “The electoral\_process was carried out in peace and ended in peace. This is how democracy works, respecting the will of the\_people,” he said. UN Secretary General Antonio Guterres also extended his congratulations and affirmed his\_commitment to strengthen cooperation with the people and government of Nicaragua. President of the European\_Council Donald Tusk also talked about strengthening cooperation. \"We are pleased to reaffirm our commitment to\_Nicaragua and to reiterate our desire to work together with your government on all issues pertaining to our shared\_interest,\" he said. Japanese Emperor Akihito and Prime Minister Shinzo Abe sent congratulatory messages to\_President Ortega, expressing their best wishes and reiterating the willingness to strengthen cooperation. And Spain’s\_foreign aid agency announced a new US$22.8 million grant to support agricultural development in 11 municipalities\_in the Chontales department and the Southern Caribbean Autonomous Region (RACS). The purpose of the funding\_is to strengthen capabilities in areas such as climate change mitigation, food security and empowerment of women.\_(Nicaragua News, Jan. 11, 12)</li>\n</ul>\n<ul>\n \t<li class=\"p1\">Nicaragua Vice President, Rosario Murillo, announced that this year more than 1.2 million students will\_benefit from the School Meal Program. She added that 10,400 tons of nutritious food is being distributed including\_fortified cereal, dates, wheat flour, among others.\_(Nicaragua News, Jan. 13)</li>\n</ul>\n<ul>\n \t<li class=\"p1\">A Central Bank report released yesterday states that in 2016 Nicaragua registered 4.2% growth in energy\_generation and that as a result, 9 out of 10 people now have access to quality low cost electricity service. The report\_also noted that greater hydro and geothermal production was responsible for the increase in energy generation.\_(Nicaragua News, Jan. 13)</li>\n</ul>\n<ul>\n \t<li class=\"p1\">The Nicaragua Institute of Urban and Rural Housing (INVUR) announced that more than 120 thousand new\_homes will be built with public-private investments during the next five years. The goal of the Housing Plan is to\_double the number of houses built over the last ten years, offering favorable loans and expanding coverage for\_affordable housing programs.\_(Nicaragua News, Jan. 11)</li>\n</ul>\n<ul>\n \t<li class=\"p1\">The Nicaragua Central Bank announced that formal employment grew 8.5% during the first 11 months of\_2016. The report also noted that more than 877,000 workers are enrolled in the Social Security Institute (INSS).\_Sectors such as construction, transportation, commerce, manufacturing and finance were among the main drivers of\_this growth in formal employment.\_(Nicaragua News, Jan. 11)</li>\n</ul>\n<ul>\n \t<li class=\"p1\">During his investiture as President of the Republic, Daniel Ortega declared the tripartite model of national\_dialogue between government, business, and labor to be one of the “pillars” of his administration. The model has\_resulted in years of labor stability, a rising minimum wage, and growth of international investment. COSEP, the\_leading big business association, also reiterated its willingness to work with the government. The dialogue has in\_most cases resulted in a consensus minimum wage increase between business and labor every six months since\_2007 with talks overseen by the government. When no consensus is reached, the government declares the new\_minimum wage.\_(El Nuevo Diario, Jan. 11)</li>\n</ul>\n<ul>\n \t<li class=\"p1\">The National Assembly held its first session, swearing in new and reelected Deputies for the new term. By\_consensus the Deputies elected Gustavo Porras as President of the National Assembly, replacing long-time\_president Rene Nuñez who died in September. Others elected to the Assembly leadership were Maritiza Espinales,\_first vice-president, Gladys Baez, second vice-president, and Maria Haydee Osuna of the Constitutional Liberal\_Party, third vice-president. Raquel Dixon was elected first secretary, Wilfredo Navarro, second secretary, and\_Alejandro Mejia Ferreti of the National Liberal Alliance-Independent Liberal Party, third secretary. Nuñez, Baez,\_Dixon, are from the majority Sandinista Party and Navarro is allied. Four of the seven officers are women.\_(El Nuevo\_Diario, Jan. 10)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

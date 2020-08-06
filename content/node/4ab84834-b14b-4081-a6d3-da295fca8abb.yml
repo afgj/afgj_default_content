@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4ab84834-b14b-4081-a6d3-da295fca8abb
+  bundle: article
+  default_langcode: en
+  depends:
+    2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Register for AfGJ''s National Call:  What''s Going on In Honduras & the Importance of International Solidarity and Human Right accompaniment'
+  created:
+    -
+      value: 1464085144
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /register-afgjs-national-call-whats-going-honduras-importance-international-solidarity-and-human
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2 style=\"text-align: center;\">Thurs, May 26 4:30pm PT / 7:30pm ET</h2>\n<h2 style=\"text-align: center;\"><a href=\"http://www.anymeeting.com/PIID=EC55D68188473C\" target=\"_blank\">Register Here</a></h2>\n<img class=\"aligncenter wp-image-6670\" src=\"https://afgj.org/wp-content/uploads/2016/05/Honduras-webinar.jpg\" alt=\"Honduras webinar\" width=\"591\" height=\"546\" />\n<table border=\"0\" width=\"600\" cellspacing=\"14\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"mainbar\" align=\"left\" valign=\"top\" width=\"500\">\n<div>Ever since a popular president was overthrown by a US supported military coup the majority working and farming population of Honduras have been under severe attack by the oligarchy controlled Honduran Government, and their military and paramilitary thugs. This worsening horror is taking place under the watchful, and approving, eye of US imperialism.</div>\n<div></div>\n<div></div>\n<div>The Alliance for Global Justice is taking a <a href=\"https://afgj.org/honduras-delegation-2016\" target=\"_blank\">Delegation to Honduras</a> (June 27- July 6) to provide human rights accompaniment at a critical time when social movements are under attack, specifically journalists exposing the human rights situation, students, campesinos, and indigenous communities fighting for their land. This call is primarily for individuals considering applying for the <a href=\"https://afgj.org/honduras-delegation-2016\" target=\"_blank\">AfGJ Delegation</a>, but is open to anyone interested in an update on the situation.</div>\n<div>\n<h2>Speakers Include:</h2>\n<ul>\n\t<li>Honduras Solidarity Network Co-Coordinator\_<b>Karen Spring</b>\_will speak about the current situation in Honduras and the worsening conditions since indigenous leader, Berta Caceres was assassinated.</li>\n</ul>\n<ul>\n\t<li><b>Chuck Kaufman</b>, National Co-Coordinator of the Alliance for Global Justice and a frequent visitor to Honduras will discussion AfGJ's role in human rights accompaniment and the importance of the US-Canada Honduras Solidarity Network.</li>\n</ul>\n<ul>\n\t<li><b>Medea Benjamin</b>\_is the co-founder of the women-led peace group CODEPINK and will be joining AfGJ’s delegation this summer. CODEPINK has extensive experience with human rights accompaniment all over the world. Hear why they are going to Honduras now.</li>\n</ul>\n<ul>\n\t<li><b>Elane Spivak Rodriguez</b>, who will lead the delegation will moderate and, together with Karen Spring will answer questions about the delegation.</li>\n</ul>\n<p style=\"text-align: center;\">Contact info@AFGJ.org with questions</p>\n\n</div>\n<h2 style=\"text-align: center;\"><a href=\"http://www.anymeeting.com/PIID=EC55D68188473C\" target=\"_blank\">Register for the Call!</a></h2>\n</td>\n</tr>\n</tbody>\n</table>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

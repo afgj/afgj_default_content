@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3cb91c20-ac4a-46d3-9e7d-6dc88bd4f2af
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Next Venezuela Webinar: June 26, 8pm Eastern'
+  created:
+    -
+      value: 1529496002
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /next-venezuela-webinar-june-26-8pm-eastern
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p dir=\"ltr\"><img class=\"alignleft size-full wp-image-7078\" src=\"https://afgj.org/wp-content/uploads/2016/09/VSN-webinar.jpg\" alt=\"Venezuela Monthly Webinar Series\" width=\"960\" height=\"510\" /></p>\r\n<p dir=\"ltr\" style=\"text-align: center;\">Alliance for Global Justice</p>\r\n<p dir=\"ltr\" style=\"text-align: center;\"><a href=\"http://Register Now!\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://org2.salsalabs.com/dia/track.jsp?key%3D-1%26url_num%3D3%26url%3Dhttp%253A%252F%252Fwww.anymeeting.com%252FPIID%253DED55D784824A3C&amp;source=gmail&amp;ust=1529607148939000&amp;usg=AFQjCNGuuUDyxy80xG14hmLRfy7eFD_uKw\">Venezuela Webinar Invitation</a><b></b></p>\r\n<p dir=\"ltr\" style=\"text-align: center;\"><span class=\"aBn\" tabindex=\"0\" data-term=\"goog_787395451\"><span class=\"aQJ\">Tuesday, June 26, 2018 \_\_8pm EDT</span></span> / <span class=\"aBn\" tabindex=\"0\" data-term=\"goog_787395452\"><span class=\"aQJ\">5pm PDT</span></span></p>\r\n<p dir=\"ltr\" style=\"text-align: center;\"><img class=\"CToWUd a6T\" tabindex=\"0\" src=\"https://ci6.googleusercontent.com/proxy/gzwd_H-AvaENNnSkLjQqj0lulph1vHTWcxX51_5j4WNwKw8UIsAZ9wdoCum0lrKxIzap6Hztz6udSdOPxPWX6_PczTNtj92x-VlxXlX2OJ0vx1VXirU3oINc4zviZ8JaZFLLgi6VqL7XuuYSuxS7ZbwnOw=s0-d-e1-ft#https://pbs.twimg.com/profile_images/2678904134/5dc28074434c756e0c9df2e4ac6e188e_400x400.jpeg\" alt=\"\" /></p>\r\n<p dir=\"ltr\" style=\"text-align: center;\">Featuring</p>\r\n<p dir=\"ltr\" style=\"text-align: center;\">William Camacarro<b></b></p>\r\n<p dir=\"ltr\">William Camacarro is a political analyst/radio personality/activist who is Venezuelan and living in New York City. William has led many delegations to Venezuela and has just returned from an extended stay there. He will talk about the political and economic situation highlighting changes since the May presidential election won convincingly by President Nicolas Maduro.</p>\r\n\r\n\r\n<hr />\r\n\r\n<h1 style=\"text-align: center;\"><b id=\"m_12318802559240747docs-internal-guid-05106bb4-1e82-b3f1-c98e-a91d152f3d69\"><a href=\"http://org2.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=4&amp;url=http%3A%2F%2Fwww.anymeeting.com%2FPIID%3DED55D784824A3C\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://org2.salsalabs.com/dia/track.jsp?key%3D-1%26url_num%3D4%26url%3Dhttp%253A%252F%252Fwww.anymeeting.com%252FPIID%253DED55D784824A3C&amp;source=gmail&amp;ust=1529607148940000&amp;usg=AFQjCNHLrqHNnoHyNBRvLuqnmdqdOgC2lw\">Register Now!</a>\_ Please share this announcement with your friends.</b></h1>\r\n<h1></h1>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

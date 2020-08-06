@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4d3ecad5-3be0-4495-9613-86554f927349
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Albuquerque: Bus'
+  created:
+    -
+      value: 1381258654
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /albuquerque-bus
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<span style=\"letter-spacing: 0.05em; line-height: 1.6875;\">-Depart: Friday, Nov. 1st: Albuquerque 8:00 AM</span>\r\n\r\n-Return: Sunday, Nov 3rd: Leaving Tucson 4PM, arriving Abq approx 11:30 PM\r\n\r\nMeet up/drop off location:\r\n\r\nANSWER NM Office\r\n\r\n305 Washington Street SE\_(Between Central &amp; Zuni)\r\n\r\n-Tickets: $50 Round Trip\_(sliding scale available)\r\n\r\nBus information: (505) 268-2488\r\n\r\nFor Tickets, please contact:\_<a href=\"mailto:abq@answercoalition.org\">abq@answercoalition.org</a>"
+      format: full_html
+      summary: ''

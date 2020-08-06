@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 0fec2ce1-845b-4528-8a43-5e5480eca545
+  bundle: article
+  default_langcode: en
+  depends:
+    2ddd12f9-0ac5-430e-884a-ce6ee8811df6: taxonomy_term
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicanotes: An Appeal for Support'
+  created:
+    -
+      value: 1482918267
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-appeal-support
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"aligncenter wp-image-6975 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"nicanotesbannerwbyline\" width=\"579\" height=\"195\" /></a>\n\nThe Alliance for Global Justice started its activist life as the Nicaragua Network way back in February, 1979, six months before the Triumph of the Sandinista Revolution. During the 1980s we took thousands of people to Nicaragua to pick coffee, build health centers and schools, plant trees, and generally witness for themselves the reality of <em>Nicaragua Libre</em> and the death and suffering caused by Reagan’s Contra War. In the US we mobilized hundreds of thousands against that immoral war.\n\nIn the 1990s we fought with Nicaraguans to preserve the gains of the Sandinista Revolution after the 1990 electoral loss. We joined, and held leadership positions in, the anti-sweatshop movement and the movement to abolish the World Bank and IMF which were the main international enforcers of neoliberal economics which was devastating the economies of Nicaragua and the Global South.\_ In 1998, we changed our name to Alliance for Global Justice to reflect the broader arena we were working in.\n\nToday, Nicaragua is not in the very crosshairs of US foreign policy objectives, but it is still a target. Just in the last few months the US House of Representatives passed a bill called the NICA Act that would have cut off all international loans to Nicaragua. It did not reach the floor of the Senate, and we can hope that President Obama would not have signed it if it had. But it can be reintroduced in the new Congress and if it should pass both houses, it could actually become law with devastating consequences for Nicaragua’s economy.\n<p style=\"text-align: center;\"><strong>So, Nicaragua Network/Alliance for Global Justice still needs to mobilize in support of Nicaragua’s sovereignty, and we need your help to do so. </strong></p>\n<p style=\"text-align: center;\"><strong><a href=\"http://bit.ly/afgjeoy\">Won’t you please make a tax-deductible donation today?</a></strong></p>\nFor many years, Nicaragua Network/AfGJ has been the only regular source of English-language news from Nicaragua with our Hotline, News Service, and up until mid-2016 the Nicaragua News Bulletin. With the retirement of long-time National Co-Coordinator Katherine Hoyt, our information format has changed once again. Co-Coordinator Chuck Kaufman now writes a weekly blog called NicaNotes. The blog, written by Chuck or guest bloggers, usually takes a single topic and writes about it more in-depth than the News Bulletin could, and it includes some short news briefs at the end.\n\nEven though Nicaragua isn’t receiving the regime change attention that Venezuela gets in US foreign policy priorities, it is still important to US activists and to the world. Because Nicaragua is once again what Oxfam UK called it in the 1980s, “the threat of a good example.” Even though it is the second poorest country in the hemisphere, Nicaragua is able to feed and clothe and educate its children. It has the fastest growing economy in Central America. It is the safest country in Central America. It achieved the UN Millennium Goals of halving poverty by 2015 before just about any country in Latin America. It did that because the Sandinista government since 2007, when President Daniel Ortega came back into office through elections, has had what liberation theology calls “a preferential option for the poor.” Nicaragua is a threat because it shows what even a poor country can do if it has the will.\n\nMany people who have visited Nicaragua have had their lives changed by the experience. In February, Nicaragua Network will celebrate its 38<sup>th</sup> birthday. Through revolution, through a terrorist war, through neoliberal starvation, through the resurgence of Sandinista hope, the Nicaragua Network has walked alongside Nicaraguans in their struggles.\n<p style=\"text-align: center;\"><strong><a href=\"http://bit.ly/afgjeoy\">Please help us continue to walk the path of solidarity with your generous donation today.</a></strong></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 2ddd12f9-0ac5-430e-884a-ce6ee8811df6
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

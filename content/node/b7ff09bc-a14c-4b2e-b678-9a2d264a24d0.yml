@@ -1,0 +1,127 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b7ff09bc-a14c-4b2e-b678-9a2d264a24d0
+  bundle: mt_product
+  default_langcode: en
+  depends:
+    874b35fb-8f85-4ad4-8d53-79c7d3d41d27: taxonomy_term
+    7df3b1d8-3d73-4f65-9128-3548911a09cd: file
+    cd8b5e50-b3fb-4010-b20f-4e7c8821e464: file
+    7bbe83d7-25c6-49af-a59c-c0ac886ccb0c: file
+    ba51b850-d17a-4f76-a106-4c03ca0f832c: file
+    52cd0574-a287-48fd-8d2e-a2e9f3f6bda9: file
+    2bc4b5e8-2858-4576-ad8a-05f02ae78254: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Second Product'
+  created:
+    -
+      value: 1465831746
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_prd_availability:
+    -
+      value: in_stock
+  field_mt_prd_body:
+    -
+      value: "<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise <a href=\"#\">with competitive technologies</a>. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n\r\n<blockquote>\r\n<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies. Appropriately communicate adaptive imperatives rather than value-added potentialities.</p>\r\n</blockquote>\r\n\r\n<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise <a href=\"#\">with competitive technologies</a>. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_prd_buy_link:
+    -
+      uri: 'http://sites.fastspring.com/morethanthemes/product/fullbundlesubscription?option=show_contents'
+      title: 'Buy Now'
+      options: {  }
+  field_mt_prd_categories:
+    -
+      entity: 874b35fb-8f85-4ad4-8d53-79c7d3d41d27
+  field_mt_prd_image:
+    -
+      entity: 7df3b1d8-3d73-4f65-9128-3548911a09cd
+      alt: 'Second Product'
+      title: 'Second Product'
+      width: 1280
+      height: 690
+    -
+      entity: cd8b5e50-b3fb-4010-b20f-4e7c8821e464
+      alt: 'Second Product'
+      title: 'Second Product'
+      width: 1280
+      height: 690
+    -
+      entity: 7bbe83d7-25c6-49af-a59c-c0ac886ccb0c
+      alt: 'Second Product'
+      title: 'Second Product'
+      width: 1280
+      height: 690
+    -
+      entity: ba51b850-d17a-4f76-a106-4c03ca0f832c
+      alt: 'Second Product'
+      title: 'Second Product'
+      width: 1280
+      height: 690
+    -
+      entity: 52cd0574-a287-48fd-8d2e-a2e9f3f6bda9
+      alt: 'Second Product'
+      title: 'Second Product'
+      width: 1280
+      height: 690
+    -
+      entity: 2bc4b5e8-2858-4576-ad8a-05f02ae78254
+      alt: 'Second Product'
+      title: 'Second Product'
+      width: 1280
+      height: 690
+  field_mt_prd_most_popular:
+    -
+      value: true
+  field_mt_prd_price:
+    -
+      value: $29.00
+  field_mt_prd_pricing_table_item:
+    -
+      value: 'Account Balance'
+    -
+      value: 'Online Interface'
+    -
+      value: 'Investment Monitoring'
+    -
+      value: 'Weekly Reports'
+    -
+      value: 'One-on-one consultation'
+  field_mt_prd_product_code:
+    -
+      value: '800413'
+  field_mt_prd_subheader_body:
+    -
+      value: "<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies appropriately communicate.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_prd_tags:
+    -
+      target_id: 11
+    -
+      target_id: 12

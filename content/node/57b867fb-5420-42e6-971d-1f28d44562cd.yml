@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 57b867fb-5420-42e6-971d-1f28d44562cd
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela-ALBA Weekly 3.30.2018 UN Human Rights Council Condemns Sanctions on Venezuela'
+  created:
+    -
+      value: 1522475177
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-alba-weekly-3302018-un-human-rights-council-condemns-sanctions-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter wp-image-9454 \" src=\"https://afgj.org/wp-content/uploads/2018/03/ven-weeklyn-march-31.png\" alt=\"Venezuela Solidarity\" width=\"410\" height=\"256\" />\r\n<h1 style=\"text-align: center;\">The News This Week</h1>\r\n<strong><a href=\"https://www.telesurtv.net/english/news/UN-Human-Rights-Council-Condemns-Sanctions-Against-Venezuela-20180324-0001.html\" target=\"_blank\" rel=\"noopener\">UN Human Rights Council Condemns Sanctions Against Venezuela</a></strong>\r\n\r\n<hr />\r\n\r\nTeleSur interviews Danny Glover in Caracas\r\n\r\nhttps://www.youtube.com/watch?v=HrzSZVL9FDE&feature=share\r\n\r\n<hr />\r\n\r\nNicanotes: Venezuela Solidarity is Nicaragua Solidarity\r\n\r\nhttps://afgj.org/venezuela-solidarity-is-nicaragua-solidarity\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Intellectuals-Demand-Internet-Access-for-Julian-Assange-20180330-0005.html\" target=\"_blank\" rel=\"noopener\">Chomsky, Others Demand Ecuador #ReconnectJulian, Respect Assange's 'Right to Freedom of Speech'</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://morningstaronline.co.uk/article/f-venezuela-350-0\" target=\"_blank\" rel=\"noopener\">Venezuelan Ex-Minister Rodriguez Torres Arrested Over Links to Terrorists and US</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.anymeeting.com/WebConference/RecordingDefault.aspx?c_psrid=E957DE89854C30\" target=\"_blank\" rel=\"noopener\">AFGJ Venezuela Webinar recording of reportback on Todos Somos Venzuela Conference, March 2018</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/United-States-Continues-Warmonger-Stance-Schedules-Military-Exercises-Off-Venezuelan-Coast-20180324-0002.html\" target=\"_blank\" rel=\"noopener\">United States Warmongering: Schedules Military Exercises Off Venezuelan Coast</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/ANALYSIS/13745\" target=\"_blank\" rel=\"noopener\">Alfred De Zayas: Venezuela should take the US to the International Court of Justice</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://canadiandimension.com/articles/view/un-independent-expert-sanctions-must-be-terminated-and-economic-war-must-en\" target=\"_blank\" rel=\"noopener\">UN Independent Expert: Venezuela Sanctions Must be Terminated and Economic War Must End</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://www.thedawn-news.org/2018/01/22/aleida-guevara-in-cuba-the-people-are-the-only-masters-we-serve/\" target=\"_blank\" rel=\"noopener\">Aleida Guevara: “In Cuba, the People are the Only Masters we Serve”</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Cuba-Economic-Reforms-Bring-FirstWholesale-Food-Market-20180317-0006.html\" target=\"_blank\" rel=\"noopener\">Cuba: Economic Reforms Bring First Wholesale Food Market</a>\r\n\r\n<hr />\r\n\r\n<strong>Other Issues:</strong>\r\n\r\n<a href=\"http://theinternationalcommittee.org/support-colombian-political-prisoner-simon-trinidad-held-at-us-maximum-security-prison/\" target=\"_blank\" rel=\"noopener\">Support US Political Prisoner Simon Trinidad</a>\r\n\r\n<a href=\"http://www.prolibertad.org/ana-belen-montes\" target=\"_blank\" rel=\"noopener\">The ProLibertad Freedom Campaign: Free Ana Belen Montes</a>\r\n\r\n<hr />\r\n\r\n<strong>Delegations</strong>\r\n\r\n<a href=\"https://afgj.org/hondurasdelegation2018\" target=\"_blank\" rel=\"noopener\">April Human Rights Delegation to Honduras</a>\r\n\r\n<a href=\"https://afgj.org/travel-to-colombia\" target=\"_blank\" rel=\"noopener\">May Peacemakers Delegation to Colombia</a>\r\n\r\n<a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\">June Agrarian &amp; Worker Struggle Delegation to Nicaragua</a>\r\n\r\n<a href=\"https://afgj.org/artist-delegation-nicaragua\" target=\"_blank\" rel=\"noopener\">August Artist Delegation to Nicaragua</a>\r\n\r\n<hr />\r\n\r\n&nbsp;\r\n\r\n<strong>About the Weekly</strong>\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

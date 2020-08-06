@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c691e0b4-8928-4b40-8935-2a55fff56fd1
+  bundle: article
+  default_langcode: en
+  depends:
+    3ad1f134-ace5-4b4d-bdb3-efff4e632423: taxonomy_term
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicanotes: Family Remittances: An Important Part of the Economy'
+  created:
+    -
+      value: 1523442501
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-family-remittances-important-part-economy
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-7994 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/08/nicanotesbannerwbyline2.jpg\" alt=\"Nincanotes : A blog about nicaragua by solidarity activists\" width=\"594\" height=\"196\" />\r\n<p style=\"text-align: center;\">By Chuck Kaufman</p>\r\n\r\n<h2>In 2017 Nicaraguans sent $1.3 billion in remittances to family back home. That’s a lot of money. It is half as much as the whole economy was worth 30 years ago during the time of the Revolutionary government when I got involved.</h2>\r\nThe most recent US census (2010) determined that there were 348,202 Nicaraguans in the US. I don’t know how they determined this since I can’t find a question about national origin on the 2010 census form, but let’s assume the census number is accurate. I wouldn’t anticipate that the numbers are much higher now given the last decade of economic growth and the recuperation of economic and social rights Nicaraguans lost during the neoliberal years starting in 1990. I should footnote here that the census number is a count of people. It says nothing about whether they are US citizens or what kind of immigration status they have or don’t have.\r\n\r\nSo using the unproven assumption that the Nicaraguan population in the US has stayed stable, dividing $1.3 billion by 348,202 people means that on average each Nicaraguan in the US sent home to family in Nicaragua, $3,733.47.\r\n\r\nI don’t know about you, but I didn’t save $3,733.47 last year. Most working class USers didn’t. Granted that a small number of Nicaraguans came here with ill-gotten wealth because they were part of the Somoza dictatorship or high-ranking officers in the National Guard, Somoza’s army, but I doubt that increases the average amount of remittance by more than a few bucks.\r\n\r\nNicaraguans who didn’t come here with wealth, often came here with nothing at all, like other migrants from Central America and Mexico. The 2,500 here with Temporary Protected Status (TPS), which Trump recently stripped from them, were lucky to have the shirts on their backs following losing everything to Hurricane Mitch in 1999. And the fraction of Nicaraguans who are here without papers are probably not earning even minimum wage.\r\n\r\nYet combined, they sent home to their families $1.3 billion. I can only imagine the hard work and the hardship they endured to provide for their families at home. Actually I can imagine because I live in the Arizona border region and I can see how my Mexican neighbors and friends who were forced to migrate when NAFTA forced a million small farms out of production. Those farmers couldn’t earn a living, not because they were bad farmers but because they couldn’t compete against heavily tax-subsidized US agribusiness.\r\n\r\nIn order to send the amounts of money to support their families left behind, my neighbors from Mexico, and Nicaraguans too take any job they can find and are often cheated out of their already low wages. They often live with many people to a house so they can share the rent. They suffer other privations. Nicaraguans aren’t even unique. I could be writing a similar essay on the people from any country in the Global South.\r\n\r\nMost people in the US don’t know what life is like for people who have to leave their homes when they can no longer feed their families where they live. Thanks to the Sandinista government, in the past 11 years the number of Nicaraguans fleeing economic destitution has dropped to a trickle. But if Nicaragua’s almost $14 billion economy were deprived of the $1.3 billion their compatriots are sending home, it would cause a major recession.\r\n\r\nDue to institutional racism and the myth of US exceptionalism taught by our media and our schools, USers do not know why people come here for work. We don’t know how hard they work, and we don’t know how restricted their lives have to be in order for them to send money home so their families can eat.\r\n\r\nIt is a failure of the solidarity and immigrant rights movements that these stories aren’t told often enough. People who live in the United States need to know that most people in the world would rather stay home where they understand the culture and speak the language. Our families, friends and neighbors need to know that it is our trade policies, our military polices, our destruction of the environment, and our consumer culture that drives immigrants to migrate. It sends the wrong message to say that they migrate in search of a better life. It is more accurate to say they migrate for life itself.\r\n\r\n<hr />\r\n\r\n<strong>BRIEFS</strong>\r\n<ul>\r\n \t<li>Minister of Finance Iván Acosta announced that the Central American Bank for Economic Integration (CABEI) has approved a US$ 38.8 million loan for water and sanitation services in Bluefields municipality, Southern Caribbean Autonomous Region (RACS). The project, which will benefit 28,000 inhabitants, includes construction of a sewer and wastewater treatment system. (Nicaragua News, Apr. 9)</li>\r\n</ul>\r\n<ul>\r\n \t<li>Vice-President Rosario Murillo announced that the World Health Organization (WHO) has selected the Nicaraguan Maternity Wait Homes Strategy as a successful healthcare model. \"The WHO has endorsed the Nicaragua strategy as a successful model that saves lives. This valuable experience will be included in the Annual Report of this agency of the United Nations,\" the Nicaragua Vice President said. (Nicaragua News, Apr. 6)@ World Bank Representative Luis Constantino said Nicaragua has made significant progress in the fight against poverty through the successful management of projects financed by the Bank. \"Nicaragua has achieved tangible results through management of projects that have improved the quality of life of the people. From the World Bank perspective, we see the Nicaragua successes as positive examples that we want to continue to support,\" Constantino said as the government announced that the World Bank has approved a US$145 million loan to support the fight against poverty. \"The financing includes three loans: US$60 million for comprehensive healthcare services; US$35 million for highway infrastructure; and US$50 million for the Nicaragua Property Registration Program (PRODEP),\" Minister Ivan Acosta said. Vice President Rosario Murillo reaffirmed the commitment of the government to the strengthening of legal certainty and property rights in the country. \"This is a fundamental issue for our government. We are grateful for the support of the World Bank.” Murillo also announced a US$16.3 million loan from the Canadian government. (Nicaragua News, Apr. 3, 4)</li>\r\n</ul>\r\n<ul>\r\n \t<li>The World Bank Representative Luis Constantino said Nicaragua has maintained one of the highest economic growth rates in Latin America during the last few years. \"Nicaragua has been among the leading countries in the region with respect to economic growth and that is why our Country Strategy seeks to improve economic growth in the country,\" Constantino said. (Nicaragua News, Apr. 4)</li>\r\n</ul>\r\n<ul>\r\n \t<li>Jose Adan Aguerri, president of the Superior Council of Private Enterprise (COSEP), addressing the worsening deficit in the Social Secuity System (INSS), said, “We have been clear that we must resolve the sustainability of social insurance and there are three sectors that will pay the costs; we have to share.\" He was referring to the three sectors that have built a successful tripartite model for labor stability: private enterprise, labor unions, and the government. Aguerri proposed that those same groups meet to determine a solution to Social Security deficit. Roberto Gonzalez, general secretary of the Sandinista Workers Central labor federation (CST) wants to expand the negotiating group to include “economists, retiree associations, and academics who have a particular expertise in the area.” The IMF has been pressuring Nicaragua to solve the problem of the increasing social security deficit. (El Nuevo Diario, Apr. 4; Informe Pastran, Apr. 9)</li>\r\n</ul>\r\n<ul>\r\n \t<li>The Nicaraguan government has asked for international assistance to fight an out of control fire that has already grown to 3,500 hectares in the Indio-Maiz Nature Reserve. Mexico has provided a helicopter that has a water capacity of 450 gallons. A total of 800 personnel are fighting the fire from the Humanitarian Rescue Unit (UHR), Civil Defense, and volunteers of the National System for the Prevention, Mitigation and Attention of Disasters (Sinapred). (El Nuevo Diario, Apr. 9)</li>\r\n</ul>\r\n<ul>\r\n \t<li>The Ecological Battalion of the Army seized 70,000 board feet of wood in a crack-down on an illegal logging operation near Rosita in the “mining triangle” of the North Caribbean Autonomous Region. Most of the captured wood is mahogany which is worth US$3-4 per board foot. (El Nuevo Diario, Apr. 10)</li>\r\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 3ad1f134-ace5-4b4d-bdb3-efff4e632423
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: fc19f502-568e-48b7-ba99-b409a1766a9c
+  bundle: article
+  default_langcode: en
+  depends:
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly 10.19. 2018: Organizing against US Provocations against Cuba and Venezuela'
+  created:
+    -
+      value: 1539942127
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-1019-2018-organizing-against-us-provocations-against-cuba-and-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2>The News This Week</h2>\r\n<div>\r\n\r\n&nbsp;\r\n\r\n<a href=\"https://default.salsalabs.org/T472c2a80-488c-42ad-a758-298b18726524/244fbaf5-6a71-45ba-9853-cab1159308e0\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T472c2a80-488c-42ad-a758-298b18726524/244fbaf5-6a71-45ba-9853-cab1159308e0&amp;source=gmail&amp;ust=1540052607906000&amp;usg=AFQjCNHIYLf04RAlyytsl3RxJaDyy5A0HA\">Steve Ellner speaks on opposing US Sanctions against Venezuela, this week in Winnipeg, Vancouver, Sacramento, San Francisco</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T1b51c3b7-b1ae-40f4-926b-e17a9a2d6870/244fbaf5-6a71-45ba-9853-cab1159308e0\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T1b51c3b7-b1ae-40f4-926b-e17a9a2d6870/244fbaf5-6a71-45ba-9853-cab1159308e0&amp;source=gmail&amp;ust=1540052607906000&amp;usg=AFQjCNFY0fTPTrihlaDlktlEIdys0NxE2g\">October 20 rally in NYC against US Blockade of Cuba and US Aggression against Venezuela</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T5f7055b6-394e-4c48-880d-2005c860e929/244fbaf5-6a71-45ba-9853-cab1159308e0\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T5f7055b6-394e-4c48-880d-2005c860e929/244fbaf5-6a71-45ba-9853-cab1159308e0&amp;source=gmail&amp;ust=1540052607906000&amp;usg=AFQjCNEhyfo9kv8gXefanvtnK0CDGQSkdw\">Washington, DC: Oct. 27 forum with Cuba first secretary Miguel Fraga; Rally Oct. 28 against US Blockade of Cuba</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T24ac7868-1797-4594-a225-ff9cb41f0f1e/244fbaf5-6a71-45ba-9853-cab1159308e0\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T24ac7868-1797-4594-a225-ff9cb41f0f1e/244fbaf5-6a71-45ba-9853-cab1159308e0&amp;source=gmail&amp;ust=1540052607906000&amp;usg=AFQjCNE0NH6TonmUFrvuasoOsppoBwhpxA\">Cuba and Venezuela Solidarity Committee tour to Cuba December 29- January 9</a>\r\n\r\n&nbsp;\r\n\r\nCuba\r\n\r\n<a href=\"https://default.salsalabs.org/T9236b4fb-3fb0-42da-8eef-e0bfddc4aa23/244fbaf5-6a71-45ba-9853-cab1159308e0\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T9236b4fb-3fb0-42da-8eef-e0bfddc4aa23/244fbaf5-6a71-45ba-9853-cab1159308e0&amp;source=gmail&amp;ust=1540052607906000&amp;usg=AFQjCNFuacC5YBw5lLVr_gi7GI5jjIPySw\">Permanent Mission of Cuba to the United Nations: Cuba rep to UN denounces new \_US anti-Cuban smear</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tc39d0193-c284-4073-b208-216d0417f1d7/244fbaf5-6a71-45ba-9853-cab1159308e0\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tc39d0193-c284-4073-b208-216d0417f1d7/244fbaf5-6a71-45ba-9853-cab1159308e0&amp;source=gmail&amp;ust=1540052607906000&amp;usg=AFQjCNFXz2oGImJt_h97MClUcXe1vQvI3A\">The United States orchestrates unprecedented provocation against Cuba in the United Nations</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T360cc3dc-d857-4ca7-b827-53ed3e9a67c5/244fbaf5-6a71-45ba-9853-cab1159308e0\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T360cc3dc-d857-4ca7-b827-53ed3e9a67c5/244fbaf5-6a71-45ba-9853-cab1159308e0&amp;source=gmail&amp;ust=1540052607906000&amp;usg=AFQjCNGT7FXI8fpa-fYLWZ5opTNYgCLm0g\">‘No Moral Authority’: Cuba Denounces Hypocritical US ‘Jailed For What?’ Campaign</a>\r\n\r\n&nbsp;\r\n\r\nVenezuela\r\n\r\n<a href=\"https://default.salsalabs.org/Te6d911bd-32b9-4e98-9c4e-827d11efa9ce/244fbaf5-6a71-45ba-9853-cab1159308e0\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Te6d911bd-32b9-4e98-9c4e-827d11efa9ce/244fbaf5-6a71-45ba-9853-cab1159308e0&amp;source=gmail&amp;ust=1540052607906000&amp;usg=AFQjCNHli9RhGzXwYZOr387m9Zi905hhdA\">Wolf at the Door: Prospects of US Military Intervention in Venezuela</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T90744a99-5350-4e77-a216-e7760ad278bd/244fbaf5-6a71-45ba-9853-cab1159308e0\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T90744a99-5350-4e77-a216-e7760ad278bd/244fbaf5-6a71-45ba-9853-cab1159308e0&amp;source=gmail&amp;ust=1540052607906000&amp;usg=AFQjCNHDVQ3ViJd1nrJElpkEQhoRcXlbcQ\">Venezuelan Ambassador Expelled from Ecuador</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Te5b9af1a-9625-4da3-9854-86286a982544/244fbaf5-6a71-45ba-9853-cab1159308e0\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Te5b9af1a-9625-4da3-9854-86286a982544/244fbaf5-6a71-45ba-9853-cab1159308e0&amp;source=gmail&amp;ust=1540052607906000&amp;usg=AFQjCNFnoLGgR7AB_hZkYi0zM9lm8RNxIw\">Venezuela Ditches Dollar as US Sanctions Hit Private Sector</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tb38d7ec4-f07e-4970-aa07-238d053b5241/244fbaf5-6a71-45ba-9853-cab1159308e0\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tb38d7ec4-f07e-4970-aa07-238d053b5241/244fbaf5-6a71-45ba-9853-cab1159308e0&amp;source=gmail&amp;ust=1540052607906000&amp;usg=AFQjCNGTIHSKasUyusT_5nDBCcHRihUJfw\">Fire This Time: Why is the CBC Lying About Venezuela? Anna Maria Tremonti Manufactures Dissent</a>\r\n\r\n&nbsp;\r\n\r\nNicaragua\r\n\r\n<a href=\"https://default.salsalabs.org/T91882610-3f0f-4d86-a775-4b6bded7e460/244fbaf5-6a71-45ba-9853-cab1159308e0\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T91882610-3f0f-4d86-a775-4b6bded7e460/244fbaf5-6a71-45ba-9853-cab1159308e0&amp;source=gmail&amp;ust=1540052607906000&amp;usg=AFQjCNHwSJTqz8n8YFHsE7U0t27on7ev-Q\">Chuck Kaufman: Humanitarian Intervention, A False Doctrine</a>\r\n\r\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

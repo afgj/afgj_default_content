@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ebd9f73d-868a-4c07-82bb-7ea8587f738f
+  bundle: article
+  default_langcode: en
+  depends:
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: '[Webinar] Refugee Caravan: Violence and exodus made in the US'
+  created:
+    -
+      value: 1541531158
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /webinar-refugee-caravan-violence-and-exodus-made-us
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1><iframe src=\"https://www.youtube.com/embed/LApacbUx8dw\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></h1>\r\n\r\n<hr />\r\n\r\n<h1>Thursday, November 8th at 5:30pm PT/6:30pm MT/7:30pm CT/8:30pm ET.</h1>\r\nWe had a Honduras Solidarity Network webinar to understand the origins of the Refugee Caravan, which finds its roots on the US interventionist policies in the region, to hear from the current situation of the more than 7 thousand people that are part of the caravan, and to find out ways to join in solidarity.\_President Trump's announcement to send more armed forces to the already militarized US/Mexico border, as a response to the caravan of Central American refugees, must be confronted with active and informed solidarity for the hundreds of thousand of Central Americans that were forced to leave their homelands because of US intervention.\r\n\r\n<a href=\"https://zoom.us/webinar/register/WN_t3yBoBgJQLSRi_cjnnchiA\"><img class=\"alignnone wp-image-10967 size-medium\" src=\"https://afgj.org/wp-content/uploads/2018/11/Honduras-Solidarity-Network-presents1-1-225x300.png\" alt=\"\" width=\"225\" height=\"300\" /></a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+  field_mt_slideshow:
+    -
+      value: false

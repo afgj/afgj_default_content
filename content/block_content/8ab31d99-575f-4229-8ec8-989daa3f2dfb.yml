@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 8ab31d99-575f-4229-8ec8-989daa3f2dfb
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Contact Details'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<h2 class=\"block-title\">Contact Details</h2>\r\n\r\n<p>Email us with any <strong>questions or inquiries</strong> or use our contact data. We would be happy to answer your questions.</p>\r\n\r\n<ul class=\"contact-info\">\r\n\t<li><i class=\"fas fa-map-marker\"><span class=\"sr-only\">map-marker</span></i>1673 Nutters Barn Lane Des Moines, IA 503043</li>\r\n\t<li><i class=\"fas fa-phone\"><span class=\"sr-only\">phone</span></i> Ph: (012) 345 - 6789<br />\r\n\tFa: 555 - 674 5534</li>\r\n\t<li><i class=\"fas fa-envelope\"><span class=\"sr-only\">envelope</span></i> businessplus@contact.com<br />\r\n\tbusinessplus@sales.com</li>\r\n</ul>\r\n"
+      format: full_html
+      summary: ''

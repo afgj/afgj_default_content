@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 16bfee61-962c-41dd-9787-496d7269accb
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Travel
+  created:
+    -
+      value: 1377764102
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /travel
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h3 style=\"text-align: left;\" align=\"center\">Are you coming from Los Angeles, Albuquerque, Denver, Olympia, or S.F. Bay Area? Join the groups traveling to Tucson for Tear Down the Walls!</h3>\r\n<p style=\"text-align: left;\" align=\"center\"><strong>Los Angeles</strong>\r\nMike Prysner mikeprys@hotmail.com 813-785-3179</p>\r\n<strong>Albuquerque</strong>\r\nPreston Woods: presw9@gmail.com 505-554-8344\r\n<ul>\r\n\t<li>Join the Albuquerque bus, click <a href=\"https://afgj.org/tear-down-the-walls/albuquerque\">here</a>.</li>\r\n</ul>\r\n<strong>Denver</strong>\r\nIrene Rodriguez: irenerodriguez000@yahoo.com\r\n\r\n<strong>Olympia/Seattle/Portland</strong>\r\nBruce Wilkinson: bruce@AFGJ.org 360-742-0864\r\n\r\n<strong>S.F. Bay Area</strong>\r\nCatie Tombs: catie.tombs@gmail.com\r\n<ul>\r\n\t<li>Join the group traveling by van! (travel subsidized down to $99)</li>\r\n\t<li>Get in touch with others driving from the Bay Area!</li>\r\n</ul>\r\n<strong>Chicago</strong>\r\nStan Smith: stansfieldsmith@yahoo.com 773-340-6720\r\n\r\n<strong>New York</strong>\r\nDaniele Kohn: daniele@afgj.org 202-540.8336 X7\r\n<h2><strong>Air Travel</strong></h2>\r\nTucson is a hub for Delta Airlines and is served by most of the major carriers. Folks traveling by air should also check prices for flights into the <a href=\"http://skyharbor.com/\">Phoenix airport</a> (a 1.5 to 2 hour drive from Tucson) and some discount airlines like <a href=\"http://www2.allegiantair.com/\">Allegiant </a>fly into <a href=\"http://www.phxmesagateway.org/\">Mesa/Phoenix Airport</a>. TDTW will help with shuttling for groups. Individuals will need to use commercial shuttle services. The closest airport to the Tucson Convention Center is <a href=\"http://www.flytucson.com/\">Tucson International Airport</a>.\r\n\r\n&nbsp;\r\n\r\nOnce you arrive at the Tucson International Airport, go to the bottom level and out the front entrance, then turn to your right and walk all the way to the end of the sidewalk, where there is a bus stop for the #6 bus. \_In order to find out when and if the bus is riding, you can go to the following link and download schedule information for the #6 Sun Tran bus line: \_<a href=\"http://www.suntran.com/routes.php\">http://www.suntran.com/routes.php</a>\r\n\r\n&nbsp;\r\n<h2><strong>From the Airport...</strong></h2>\r\nTake the #6 route to the Ronstadt Transit Center downtown. \_DON'T GET OFF AT THE LAOS TRANSIT CENTER! \_The Laos center is a major bus interchange, and you might get it confused with the Ronstadt Center, which comes a number of stops after you arrive at the Laos Center.\r\n\r\nOnce you arrive at the Ronstadt Center, you are only a few blocks from the Tucson Convention Center, which is located at 260 South Church. \_If you want to take a taxi from there, it should cost somewhere around $5 or 10. \_Coming there by taxi from the airport will be around $20 to $25.\r\n\r\nYou can also walk to Congress Street, on the South end of the Ronstadt Center, and turn to your right--or turn West--and walk about three blocks to Church Street, and turn South (or Left) and the Tucson Convention Center will be another couple of blocks, to the West (on your Right).\r\n<h2><strong>Bus and Train</strong></h2>\r\nTucson has both an Amtrak and a Greyhound station. From some cities, particularly east of the Mississippi, scheduling a round-trip to Flagstaff, AZ may cut as much as a full day of travel time. TDTW will assist with shuttling groups from Flagstaff and Tucson if needed. It is about a four hour drive."
+      format: full_html
+      summary: ''

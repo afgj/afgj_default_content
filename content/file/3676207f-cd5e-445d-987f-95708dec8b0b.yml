@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 3676207f-cd5e-445d-987f-95708dec8b0b
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: background-image-clients-carousel.jpg
+  uri:
+    -
+      value: 'public://2017-01/background-image-clients-carousel.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 35130
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1485544123

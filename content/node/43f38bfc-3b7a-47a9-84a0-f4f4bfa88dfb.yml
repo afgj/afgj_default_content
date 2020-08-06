@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 43f38bfc-3b7a-47a9-84a0-f4f4bfa88dfb
+  bundle: article
+  default_langcode: en
+  depends:
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: '[Recording] January''s Venezuela Webinar with Charlie Hardy'
+  created:
+    -
+      value: 1549539786
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /recording-januarys-venezuela-webinar-charlie-hardy
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2><strong>Webinar took place Tuesday, January 29th at 5pm PT/8pm ET.\_</strong></h2>\r\nNo<strong>w is the time for action to condemn the overt and illegal U.S. intervention in Venezuela. Part of that action needs to be sharing narratives that are completely absent in corporate mainstream news.</strong>\r\n\r\n<strong>To that end we are excited to have Charlie Hardy join us for January's Venezuela Webinar for a presentation and Q&amp;A.. He regularly visits Venezuela, and has been there since the beginning of January, throughout this latest U.S. coup attempt.</strong>\r\n\r\n[caption id=\"attachment_11243\" align=\"alignleft\" width=\"300\"]<img class=\"wp-image-11243 size-medium\" src=\"https://afgj.org/wp-content/uploads/2019/01/unnamed-9-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" /> Venezuela: \"perhaps the world's best kept secret of democracy.\" - Charlie Hardy[/caption]\r\n\r\nCharlie Hardy is the author of Cowboy in Caracas, A North American's Memoir of Venezuela's Democratic Revolution. He arrived in Venezuela in 1985 as an associate priest of the Catholic Maryknoll Missionaries. For eight years he lived in a pressed-cardboard-and-tin shack in a Caracas barrio. He married in 1994 and continued to live in Venezuela until 2011 when he returned to the U.S. and became involved in national politics. He was the 2014 candidate of the Democratic Party in Wyoming for the U.S. Senate.\r\n<h1 style=\"text-align: center;\">Listen Now (<a href=\"https://www.facebook.com/Alliance4GlobalJustice/videos/333018917421312/\" target=\"_blank\" rel=\"noopener\">facebook livestream</a>)</h1>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

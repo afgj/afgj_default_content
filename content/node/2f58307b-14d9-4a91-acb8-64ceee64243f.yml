@@ -1,0 +1,61 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2f58307b-14d9-4a91-acb8-64ceee64243f
+  bundle: article
+  default_langcode: en
+  depends:
+    bce432a9-c8d4-4656-a968-f6cc71b1b890: taxonomy_term
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    8ec8e0dc-b6ed-4683-a718-bd2452edec59: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Upcoming Venezuela Delegation | Apply NOW!'
+  created:
+    -
+      value: 1558807852
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /upcoming-venezuela-delegation-apply-now
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1 style=\"text-align: center;\">Campaign to End US and Canada Sanctions Against Venezuela announces new delegation:</h1>\r\n<h1 style=\"text-align: center;\"><strong>SANCTIONS vs SOVEREIGNTY</strong></h1>\r\n<p style=\"text-align: center;\"><strong>Join us in Venezuela for Bolivarian Independence Day\_</strong></p>\r\n<p style=\"text-align: center;\"><strong>Join the Campaign to End US and Canada Sanctions Against Venezuela\_</strong>\r\n<strong>July 4 - 14, 2019</strong></p>\r\n<img class=\"aligncenter wp-image-11830 size-medium\" src=\"https://afgj.org/wp-content/uploads/2019/05/60342263_374162206535428_3821440180884078592_o-300x132.jpg\" alt=\"\" width=\"300\" height=\"132\" />\r\n<p style=\"text-align: left;\">At this critical moment affecting Venezuela and, perhaps, the entire international community, we will travel to Venezuela in an act of solidarity with the Venezuelan people and to celebrate their independence and sovereignty.\r\nThere will be special emphasis examining the effects of US and Canada sanctions against Venezuela, how the government is responding and how communities are exhibiting resolve and solutions.</p>\r\n<p style=\"text-align: left;\">This is a 10-day exploration including visits to Caracas, Lara and Vargas. \_The itinerary is best suited for academics, activists, journalists and students.</p>\r\n<p style=\"text-align: left;\">Cost is $1,000 per person plus international airfare.\_ There are still a number of airlines with connecting flights to Caracas.\_ We will assist US passport holders with the visa application process.</p>\r\n<p style=\"text-align: left;\">For additional information and/or an application please contact us at: EndVenezuelaSanctions@gmail.com</p>\r\n<img class=\"aligncenter wp-image-11228 size-large\" style=\"letter-spacing: 0.8px;\" src=\"https://afgj.org/wp-content/uploads/2019/01/Anti-Sanctions-banner-image-1024x238.jpg\" alt=\"\" width=\"752\" height=\"175\" />\r\n\r\n<hr />\r\n\r\n\r\n\r\n<hr />\r\n\r\n[Pictures]\r\n\r\n&nbsp;\r\n<h2><strong>Eyewitness Venezuela from March 26-April 7 Anti-Sanctions </strong></h2>\r\n<strong>[see more photos: <a href=\"https://www.facebook.com/pg/EndVenezuelaSanctions/photos/?tab=album&amp;album_id=380786065873042&amp;__xts__%5B0%5D=68.ARDUyc0yhIgGxA4hCT_h_4hV77L4pva_hq3oDqXCpdn4uCdnC4KGL59XlyZtkYUMxEJPvHMxvYCOOLlwSkLTCJpet2cOKJYVTsaCeJFhPi4QIlgBgirXXInl3OuEioVsF8cAGYqZBRHYI5EVp5pvHWxOp0fmw3GPTJqUa-iW3Em4enQTDATcdJ6maxrUwAEiKf0AI_zO5SFkp7SGiITt_jJAh3_hIJ76zZVF3PrO2eBqqMKWsr-qw9QbtirdPa6wrCGv8BptU8DWMVyUg0O6Dxg_BJR9KqbTG0v1MRq3FubwU3NuamJZ8bNxBsd5oW6MWulA0dK5b3C-naucdPIyeWvP9yiJtg&amp;__tn__=-UCH-R\" target=\"_blank\" rel=\"noopener noreferrer\">facebook</a>]</strong>\r\n\r\nFrom March 26-April 7, 2019 people from the U.S., Canada and Turkey were in Venezuela to observe and better understand the affects of sanctions on Venezuela’s economy, it’s people and institutions. The 12 participants represented many different backgrounds, experiences and geographic areas across the U.S., Canada, Costa Rica and Turkey.\r\n\r\nThe delegation went to Venezuela at a critical time, following the defeat of the U.S.-backed attempted coup d’état by Juan Guaido. While the delegation was in Venezuela, the U.S. government continued to escalate sanctions against Venezuela, and to state that, “all options are on the table,” referring to possible U.S. military action against the sovereign country.\r\n\r\nDuring the 10-day fact-finding delegation participants, including medical professionals, social justice activists and journalists, heard first-hand from government officials, community leaders, human rights organizations, journalists and grassroots organizations in both rural and urban Venezuela.\r\n\r\nWhat the delegation observed was that the economic sanctions, referred to as unilateral coercive economic measures in Venezuela, which illegal under the Organization of American States (OAS) and the United Nations (UN) charters, as well as the U.S. threats of war, have had a significant negative impact on the everyday lives of people in Venezuela.\r\n\r\nWe saw a very different Venezuela than what we are hearing, seeing and reading across mainstream media. We were eye-witness to the significant difficulties that Venezuela is facing due to the illegal U.S., Canada and European Union sanctions, but also to the many ways that the government and people of Venezuela are adapting and continuing to defend their sovereignty and self-determination.\r\n\r\nThe people in Venezuela that we met with and what we observed first-hand re-affirmed our responsibility as people living in North America to work to end war on Venezuela, end all sanctions, and call on the governments of the U.S. and Canada to respect the sovereignty of Venezuela.\r\n\r\nThe delegation was organized by the Campaign to End U.S. and Canada Sanctions on Venezuela. For more information contact: endvenezuelasanctions@gmail.com"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bce432a9-c8d4-4656-a968-f6cc71b1b890
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: 8ec8e0dc-b6ed-4683-a718-bd2452edec59
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

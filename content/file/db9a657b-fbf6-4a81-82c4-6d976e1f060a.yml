@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: db9a657b-fbf6-4a81-82c4-6d976e1f060a
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: mt-product-1-banner-1.jpg
+  uri:
+    -
+      value: 'public://2018-02/mt-product-1-banner-1.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 30491
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1518714427

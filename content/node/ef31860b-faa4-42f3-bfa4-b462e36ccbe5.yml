@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ef31860b-faa4-42f3-bfa4-b462e36ccbe5
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Register for Webinars Tonight and Tomorrow!'
+  created:
+    -
+      value: 1522062319
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /register-webinars-tonight-and-tomorrow
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2><img class=\"alignright size-full wp-image-7078\" src=\"https://afgj.org/wp-content/uploads/2016/09/VSN-webinar.jpg\" alt=\"Venezuela Monthly Webinar Series\" width=\"960\" height=\"510\" /></h2>\r\n<h2 style=\"text-align: center;\">Report-back from Venezuela: We Are All Venezuela Conference\r\nTuesday, March 27, 8pm ET / 5pm PT</h2>\r\n<h2 style=\"text-align: center;\"><a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED54D883814739\" target=\"_blank\" rel=\"noopener\">Register Now!</a></h2>\r\nRoundtable discussion with some of the US and Canadian delegates to the “Global Session of Solidarity with the Bolivarian Revolution: We are all Venezuela” conference in Caracas March 5-7 honoring the late President Hugo Chavez on the fifth anniversary of his death. The conference brought together 300 solidarity activists from around the world to discuss Venezuela’s latest challenges in the face of economic warfare from the US and Canada and threats of military intervention by the United States.\r\n\r\nLearn what internationalists in the rest of the world are doing to defend the Bolivarian revolution and discuss what else we in North America might do to end sanctions and US/Canadian threats against the people of Venezuela.\r\n<h2>The Presenters:</h2>\r\n<strong>Alison Bodine</strong> is a social justice activist, writer and researcher in Vancouver, Canada. She is coordinator of the Fire This Time Movement for Social Justice Venezuela Solidarity Campaign and on the Editorial Board of the Fire This Time Newspaper. Alison is the author of an upcoming book \"Revolution and Counter-Revolution in Venezuela\" (Battle of Ideas Press, 2018). Alison is a member of the core leadership of the Venezuela Strategy Group.\r\n\r\n<strong>Tamara Hansen</strong> is the author of \"Five Decades of the Cuban Revolution: The Challenges of an Unwavering Leadership\" (Battle of ideas Press). She is a member of the editorial board of the Fire This Time Newspaper, and coordinator of Vancouver Communities in Solidarity with Cuba. She is also a high school teacher.\r\n\r\n<strong> Dakotah Lilly</strong> is a political activist and the co-founder of Students and Youth For a New America. His most recent article is \"The ICC Plays Scripted Role in Regime Change Plot Against Venezuela\" in mintpressnews.com. As a high school student he appeared on the Tucker Carlson show, defending Venezuela against a FOX News smear job on the country.\r\n\r\n<strong>Gloria La Riva</strong> is a leader of the Party for Socialism and Liberation and a long-time Cuba activist. She was the 2016 candidate of the Peace and Freedom Party for president. She is a member of the core leadership of the Venezuela Strategy Group.\r\n<h2 style=\"text-align: center;\">\r\n<strong>You must register in advance to participate.\r\n<a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED54D883814739\" target=\"_blank\" rel=\"noopener\">Click here to register!</a></strong></h2>\r\n\r\n<hr />\r\n\r\n<h1 style=\"text-align: center;\">TONIGHT, MARCH 26, 8:00pm EDT\r\nMarch for Our Lives 2018 from Philly to DC, June 2nd - 12th</h1>\r\n<h2 style=\"text-align: center;\">\r\n<strong>To find out more about the March, join us for a webinar on Monday, March 26th, 8pm EST. <a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED54D98983463D\" target=\"_blank\" rel=\"noopener\">Register Here</a></strong></h2>\r\nWe will talking about the planning and organizing of the March for Our Lives 2018 on June 2 to 12.\r\n\r\nOn June 2nd, poor families from across the U.S and abroad will gather in the Kensington neighborhood of Philadelphia, the poorest district in Pennsylvania, to march to Washington D.C. in the March for Our Lives.\r\n\r\nThis march will mark the 50th anniversary of Dr. Martin Luther King Jr.’s Poor People’s Campaign and Resurrection City erected in 1968 on the National Mall. The march will begin on June 2nd from the Kensington neighborhood of Philadelphia and end on June 12th at the National Mall in Washington, D.C.\r\n\r\nThe webinar will not just focus on logistic information related to the March, but also the strategic significance of the poor to continue to organize and speak for ourselves - not just domestically but internationally - especially at a time when the the lived reality of the poor is increasingly erased by the media.\r\n\r\n<strong>Presenters i</strong>nclude Cheri Honkala, Galen Tyler, and Tara Colon - members of the Poor People's Economic Human Rights Campaign who are currently living below the poverty line, formerly homeless, and raising children with disabilities.\r\n<p style=\"text-align: center;\"><a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED54D98983463D\" target=\"_blank\" rel=\"noopener\"><strong>Register Now</strong></a></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

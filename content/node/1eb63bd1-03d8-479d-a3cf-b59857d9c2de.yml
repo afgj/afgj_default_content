@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 1eb63bd1-03d8-479d-a3cf-b59857d9c2de
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly 12.28.2018 Statements from ALBA 16th Summit'
+  created:
+    -
+      value: 1546008604
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-12282018-statements-alba-16th-summit
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter wp-image-11092 size-full\" src=\"https://afgj.org/wp-content/uploads/2019/01/Venezuela-Weekly-12-28-18.jpg\" alt=\"\" width=\"620\" height=\"411\" />\r\n\r\n<a href=\"http://en.granma.cu/cuba/2018-12-17/the-greater-homeland-calls-us-to-unite-and-continue-forging-our-second-definitive-independence\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"http://en.granma.cu/cuba/2018-12-17/the-greater-homeland-calls-us-to-unite-and-continue-forging-our-second-definitive-independence\">In ALBA Summit, Cuban President Miguel Díaz-Canel highlights the achievements of ALBA, stands with Venezuela and Nicaragua, calls for a united front against imperialist aggression </a><a href=\"http://reinounido.embajada.gob.ve/index.php?option=com_content&amp;view=article&amp;id=969%3Adeclaration-of-the-xvi-alba-tcp-summit-held-in-havana&amp;catid=3%3Anoticias-de-venezuela-en-el-mundo&amp;Itemid=19&amp;lang=en\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"http://reinounido.embajada.gob.ve/index.php?option=com_content&amp;view=article&amp;id=969%3Adeclaration-of-the-xvi-alba-tcp-summit-held-in-havana&amp;catid=3%3Anoticias-de-venezuela-en-el-mundo&amp;Itemid=19&amp;lang=en\">Final Declaration of the XVI ALBA-TCP Summit held in Havana, December 15, \_2018</a>/\r\n\r\n<strong>Venezuela</strong>\r\n\r\n<a href=\"https://orinocotribune.com/government-of-venezuela-delivers-toys-for-millions-of-children\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"https://orinocotribune.com/government-of-venezuela-delivers-toys-for-millions-of-children\">Government of Venezuela Delivers Toys for 10 Million Children</a>\r\n\r\n<a href=\"https://indefenseofhumanity.org/2018/12/call-to-respect-the-sovereignty-of-the-people-of-venezuela/\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"https://indefenseofhumanity.org/2018/12/call-to-respect-the-sovereignty-of-the-people-of-venezuela/\">Network in Defense of Humanity: Call to Respect the Sovereignty of the People of Venezuela</a>\r\n\r\n<a href=\"https://www.telesurenglish.net/news/Russia-Debates-Sending-Second-Military-Group-to-Venezuela-20181226-0017.html\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"https://www.telesurenglish.net/news/Russia-Debates-Sending-Second-Military-Group-to-Venezuela-20181226-0017.html\">Russia Debates Sending Second Military Group to Venezuela</a>\r\n\r\n<a href=\"https://www.telesurenglish.net/news/Venezuela-US-Comments-on-Guyana-Affair-are-Interventionist-20181226-0006.html\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"https://www.telesurenglish.net/news/Venezuela-US-Comments-on-Guyana-Affair-are-Interventionist-20181226-0006.html\">Venezuela Warns US To STOP Interference After Intercepting Invading ExxonMobil Vessel </a>\r\n\r\n<a href=\"https://www.facebook.com/VenSolidarity/videos/2107827806101146/\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"https://www.facebook.com/VenSolidarity/videos/2107827806101146/\">Former London Mayor Ken Livingstone shares his reflections on meeting and working with Hugo Chavez</a>\r\n\r\n<strong>Nicaragua</strong>\r\n\r\n<a href=\"https://www.globalresearch.ca/oas-amnesty-international-killing-torturing-sandinistas-ok/5664040?fbclid=IwAR1yiFp2LBw5NMiwGvenfgj89Tvh9tkiP5Nq1cukMIeIlZIIitD7nqSId6g\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"https://www.globalresearch.ca/oas-amnesty-international-killing-torturing-sandinistas-ok/5664040?fbclid=IwAR1yiFp2LBw5NMiwGvenfgj89Tvh9tkiP5Nq1cukMIeIlZIIitD7nqSId6g\">Failed Regime Change in Nicaragua. OAS and Amnesty International: Killing, Torturing Sandinistas Is OK</a>\r\n\r\n<strong>Cuba</strong>\r\n\r\n<a href=\"https://www.telesurenglish.net/news/Cuban-Lawmakers-Approve-Revised-Draft-of-New-Constitution--20181223-0005.html\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"https://www.telesurenglish.net/news/Cuban-Lawmakers-Approve-Revised-Draft-of-New-Constitution--20181223-0005.html\">Cuban Lawmakers Approve Revised Draft of New Constitution; goes to national referendum in February</a>\r\n\r\n<strong>Bolivia</strong>\r\n\r\n<a href=\"https://orinocotribune.com/evo-morales-us-retreat-from-syria-is-a-victory-of-the-syrian-people?fbclid=IwAR1gdu4GbJ-gfkxoRQMxq_VslR8uoBG243a85Xp43T1aO3rNaUUtItnuGOE\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"https://orinocotribune.com/evo-morales-us-retreat-from-syria-is-a-victory-of-the-syrian-people?fbclid=IwAR1gdu4GbJ-gfkxoRQMxq_VslR8uoBG243a85Xp43T1aO3rNaUUtItnuGOE\">Evo Morales: US Retreat from Syria is a Victory for the Syrian People</a>\r\n\r\n<a href=\"https://www.telesurenglish.net/news/Bolivia-Leads-Latin-America-in-Economic-Growth-UN-Report-20181226-0013.html\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"https://www.telesurenglish.net/news/Bolivia-Leads-Latin-America-in-Economic-Growth-UN-Report-20181226-0013.html\">Bolivia is a Latin American Leader in Economic Growth: UN Report</a>\r\n\r\n<a href=\"https://www.facebook.com/events/489047691620430/\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"https://www.facebook.com/events/489047691620430/\">Toronto, January 5: Celebrate 60th Anniversary of the Cuban Revolution, with Cuban Ambassador Josefina Vidal</a>\r\n\r\n<strong>Delegations </strong>\r\n\r\n<a href=\"https://mailchi.mp/fffeb7b4b6a4/cuban-american-youth-orchestra-oct-594413?e=e07f029ac0&amp;fbclid=IwAR1Czf2oxyaHFErglwJrOT6t4uoazWbNa2AtQh3cEE-RqC4r6jtTg86o75w\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"https://mailchi.mp/fffeb7b4b6a4/cuban-american-youth-orchestra-oct-594413?e=e07f029ac0&amp;fbclid=IwAR1Czf2oxyaHFErglwJrOT6t4uoazWbNa2AtQh3cEE-RqC4r6jtTg86o75w\">14th May Day International Volunteer Work Brigade in Solidarity with Cuba, April 21 to May 5, 2019</a>\r\n\r\n<a href=\"http://files.constantcontact.com/06e3aea9301/459a34e2-3a5e-4063-9ee1-4be03818e720.pdf\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"http://files.constantcontact.com/06e3aea9301/459a34e2-3a5e-4063-9ee1-4be03818e720.pdf\">IFCO/Pastors for Peace delegations to Cuba</a>\r\n\r\n<a href=\"https://www.facebook.com/EndVenezuelaSanctionsDelegation/posts/502604040236799\" target=\"_blank\" rel=\"noopener\" data-cke-saved-href=\"https://www.facebook.com/EndVenezuelaSanctionsDelegation/posts/502604040236799\">Delegation to Venezuela, March 17-24, 2019</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

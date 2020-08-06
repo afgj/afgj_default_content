@@ -1,0 +1,467 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 855a0103-2cab-4e72-beb8-ac3a74e70372
+  bundle: mt_product
+  default_langcode: en
+  depends:
+    db9a657b-fbf6-4a81-82c4-6d976e1f060a: file
+    4b91c923-f807-48ac-9917-34b4bedd24bc: file
+    8a6bdbc5-92ca-4e23-ad9c-51408fcb6b68: file
+    874b35fb-8f85-4ad4-8d53-79c7d3d41d27: taxonomy_term
+    7685b74e-7da4-41cf-9ea3-0100a3337f07: taxonomy_term
+    0f64574e-345c-427b-b5a2-a794adc27e2a: file
+    1f59ae01-ac79-4af7-a135-c2f1b48ed986: file
+    ea5c5f93-5923-42f6-b3f2-e92d7479d29c: file
+    dccb53aa-aa42-4500-99f1-1eabc37463e0: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'First Product'
+  created:
+    -
+      value: 1465831991
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_prd_additional_features:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 6f985d96-d68b-4336-b7ba-b10e46a3393c
+          bundle: mt_additional_feature
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1517487480
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_adf_body:
+            -
+              value: "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>\r\n"
+              format: basic_html
+          field_mt_adf_fa_icon:
+            -
+              icon_name: road
+              style: fas
+              settings:
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''
+          field_mt_adf_title:
+            -
+              value: 'Looking For Your Dvd Printing Solution'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 19eaea6f-eaf3-4119-ba1d-429673dd172a
+          bundle: mt_additional_feature
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1517487496
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_adf_body:
+            -
+              value: "<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>\r\n"
+              format: basic_html
+          field_mt_adf_fa_icon:
+            -
+              icon_name: signal
+              style: fas
+              settings:
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''
+          field_mt_adf_title:
+            -
+              value: 'Becoming A Dvd Repair Expert Online'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: c4f7427f-cbb6-4023-afea-d5500eae18e2
+          bundle: mt_additional_feature
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1517487512
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_adf_body:
+            -
+              value: "<p>Cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\r\n"
+              format: basic_html
+          field_mt_adf_fa_icon:
+            -
+              icon_name: fire
+              style: fas
+              settings:
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''
+          field_mt_adf_title:
+            -
+              value: 'Are You Ready To Buy A Home Theater Audio System'
+  field_mt_prd_availability:
+    -
+      value: in_stock
+  field_mt_prd_banner_carousel:
+    -
+      entity: db9a657b-fbf6-4a81-82c4-6d976e1f060a
+      alt: 'Banner Image One'
+      title: 'Title of first banner image'
+      width: 1920
+      height: 650
+    -
+      entity: 4b91c923-f807-48ac-9917-34b4bedd24bc
+      alt: 'Banner Image Two'
+      title: 'Title of second banner image'
+      width: 1920
+      height: 650
+    -
+      entity: 8a6bdbc5-92ca-4e23-ad9c-51408fcb6b68
+      alt: 'Banner Image Three'
+      title: 'Title of third banner image'
+      width: 1920
+      height: 650
+  field_mt_prd_body:
+    -
+      value: "<div class=\"row\">\r\n<div class=\"col-lg-8 ml-lg-auto mr-lg-auto\">\r\n<blockquote>\r\n<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies. Appropriately communicate adaptive imperatives rather than value-added potentialities.</p>\r\n</blockquote>\r\n</div>\r\n</div>\r\n\r\n<h2 class=\"title text-center\">Enjoy a Gorgeous Look and Feel.</h2>\r\n\r\n<p class=\"large text-center\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>\r\n\r\n<div class=\"text-center\"><a class=\"button\" href=\"#\">Free Trial</a></div>\r\n"
+      format: full_html
+      summary: '<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies appropriately communicate.</p>'
+  field_mt_prd_buy_link:
+    -
+      uri: 'http://sites.fastspring.com/morethanthemes/product/fullbundlesubscription?option=show_contents'
+      title: 'Buy Now'
+      options: {  }
+  field_mt_prd_categories:
+    -
+      entity: 874b35fb-8f85-4ad4-8d53-79c7d3d41d27
+    -
+      entity: 7685b74e-7da4-41cf-9ea3-0100a3337f07
+  field_mt_prd_content_tabs:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 38c870d1-fddf-4633-ac1f-d6fa0d4a08b0
+          bundle: mt_tab
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1517575777
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_tab_content:
+            -
+              value: "<p>Excepteur sint occaecat cupidatat non</p>\r\n\r\n<ul>\r\n\t<li>Lorem ipsum dolor sit amet&nbsp;</li>\r\n\t<li>Consectetur adipisicing elit, sed do eiusmod</li>\r\n\t<li>Tempor incididunt ut labore</li>\r\n\t<li>Quis nostrud exercitation ullamco</li>\r\n\t<li>Laboris nisi ut aliquip ex ea commodo</li>\r\n\t<li>Duis aute irure dolor in reprehenderit</li>\r\n</ul>\r\n"
+              format: basic_html
+          field_mt_tab_title:
+            -
+              value: Product
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 479387f6-0bf1-4c98-8aff-44b3a0805b36
+          bundle: mt_tab
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1517575795
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_tab_content:
+            -
+              value: "<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\r\n"
+              format: basic_html
+          field_mt_tab_title:
+            -
+              value: Information
+  field_mt_prd_highlight:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: c17a0584-a6fa-48f9-9485-9c9cc1c9f80d
+          bundle: mt_highlight
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1517507421
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_highlight_body:
+            -
+              value: "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>\r\n"
+              format: basic_html
+          field_mt_highlight_image:
+            -
+              entity: 0f64574e-345c-427b-b5a2-a794adc27e2a
+              alt: 'Highlight One'
+              title: 'Highlight One'
+              width: 850
+              height: 460
+          field_mt_highlight_link:
+            -
+              uri: 'internal:/node/23'
+              title: 'Learn More'
+              options: {  }
+          field_mt_highlight_title:
+            -
+              value: 'Name of first feature'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 62c694ff-2c8a-41e4-9341-dc6dda9f92e0
+          bundle: mt_highlight
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1517507465
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_highlight_body:
+            -
+              value: "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>\r\n"
+              format: basic_html
+          field_mt_highlight_image:
+            -
+              entity: 1f59ae01-ac79-4af7-a135-c2f1b48ed986
+              alt: 'Highlight Two'
+              title: 'Highlight Two'
+              width: 850
+              height: 460
+          field_mt_highlight_link:
+            -
+              uri: 'internal:/node/23'
+              title: 'Learn More'
+              options: {  }
+          field_mt_highlight_title:
+            -
+              value: 'Name of Second Feature'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: b0fbf9d4-65bd-439c-981d-eb07858d2d54
+          bundle: mt_highlight
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1517507506
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_highlight_body:
+            -
+              value: "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>\r\n"
+              format: basic_html
+          field_mt_highlight_image:
+            -
+              entity: ea5c5f93-5923-42f6-b3f2-e92d7479d29c
+              alt: 'Highlight Three'
+              title: 'Highlight Three'
+              width: 850
+              height: 460
+          field_mt_highlight_link:
+            -
+              uri: 'internal:/node/23'
+              title: 'Learn More'
+              options: {  }
+          field_mt_highlight_title:
+            -
+              value: 'Name of third feature'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 8790a56a-72d7-4293-a5e9-fdb8d7009a05
+          bundle: mt_highlight
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1517507545
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_highlight_body:
+            -
+              value: "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>\r\n"
+              format: basic_html
+          field_mt_highlight_image:
+            -
+              entity: dccb53aa-aa42-4500-99f1-1eabc37463e0
+              alt: 'Highlight Four'
+              title: 'Highlight Four'
+              width: 850
+              height: 460
+          field_mt_highlight_link:
+            -
+              uri: 'internal:/node/23'
+              title: 'Learn More'
+              options: {  }
+          field_mt_highlight_title:
+            -
+              value: 'Name of fourth feature'
+  field_mt_prd_most_popular:
+    -
+      value: false
+  field_mt_prd_price:
+    -
+      value: $12.00
+  field_mt_prd_pricing_table_item:
+    -
+      value: 'Account Balance'
+    -
+      value: 'Online Interface'
+    -
+      value: 'Weekly Reports'
+  field_mt_prd_product_code:
+    -
+      value: '800413'
+  field_mt_prd_subheader_body:
+    -
+      value: "<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies appropriately communicate.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_prd_tags:
+    -
+      target_id: 10
+  field_mt_prd_video:
+    -
+      value: 'https://www.youtube.com/watch?v=T7SqK5RizWY'

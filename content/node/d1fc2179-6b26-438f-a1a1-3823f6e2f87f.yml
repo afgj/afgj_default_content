@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d1fc2179-6b26-438f-a1a1-3823f6e2f87f
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: "NicaNotes: Guest Post: Nicaragua at Peace, in Relative Prosperity Before November 6th\_Landslide Re-Election of Daniel OrtegaNicaragua at Peace, in Relative Prosperity Before November 6th\_Landslide Re-Election of Daniel Ortega"
+  created:
+    -
+      value: 1478091823
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-guest-post-nicaragua-peace-relative-prosperity-november-6th-landslide-re-election-daniel
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter wp-image-6975 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"nicanotesbannerwbyline\" width=\"579\" height=\"195\" />\n<p style=\"text-align: center;\"><strong>Guest Post by Larry Fisk</strong></p>\nHaving been in Nicaragua during elections in 1990, 2011 and 2012, I arrived in Managua on Friday, October 28 to be present for the current electoral process.\n\nAmong the first things I noticed was that Managua seems cleaner than I have ever seen it. A campaign promoting clean living as healthy living seems to be having an effect. People generally look good,\_well- clothed and busy in the parts of Managua, Sebaco and Esteli in which I have spent time.\n\nOn Sunday, November 6 Nicaraguans will elect their president, legislature and representatives to the Central American Parliament. Approximately 3.8 million voters are registered (voting age is 16) and authorities expect the turnout may be as high as 80%.\n\nIn contrast to some elections in the past, the atmosphere is one of peace and calm. Though the 75 day campaign period ends\_tomorrow, activities in many areas were completed earlier. I will attend a Frente Sadinista de Liberacion Nacional (FSLN) campaign closing march in Esteli today. The electoral campaign seems very low key with the Frente Sandinista showing no outward signs of triumphalism before what will be profound victories in the presidency and legislature. This is consistent with the Sandinista policy of reconciliation and their attempts to govern by consensus.\n\nCurrently the Sandinistas hold a\_strong\_\_majority in the legislature and control an overwhelming majority of the 153 municipalities.\n\nWhy are\_a president and party, the FSLN, enjoying such support after ten years of governance?\_\_The Nicaraguan people have experienced a century of hardship, US Marine occupation, dictatorship, protracted and bloody revolution, terrorist Contra War, economic war and neoliberal governments, disastrous for the humble Nicaraguan population. They now live in peace, relative prosperity, and with one of the most dynamic economies in Latin America.\n\nThough still poor, the population has access to free health care and education, subsidized transportation and electricity, greater access to potable water, improved housing and a wide variety of social programs which have improved the economic wellbeing of children, women and men. These services, though perhaps not at developed world standards, represent great strides forward for the people. Conditions have obviously improved by almost any measure for Nicaraguans during the almost ten years since Daniel Ortega regained the presidency in 2007.\n\nNicaragua produces, mostly through cooperative enterprises, 90% of the foods that it consumes. Seventy percent of the population participates in an informal economy of family businesses, cooperatives or other small enterprises which produce 60% of domestic product.\n\nThis will be the first election in which the candidate slates of all political parties must have gender equity by law. Nicaragua is already among the top ten nations in female legislative participation. Women have benefited greatly from government policies and constitute a significant majority of voters. Laws and campaigns to combat machismo and gender violence, though not without problems and controversy, exist to improve security, respect and social status of women.\n\nIn September, the US House of Representatives passed unanimously the egregious Nicaraguan Investment Conditionality Act (NICA)\_\_sponsored by Florida Republican Rep. Ileana Ros-Lehtinen to “stop Ortega from accessing international funds until he adopts reforms that promote democracy, strengthen the rule of law, respect human rights, and celebrate free, fair, and transparent elections supervised by electoral observers” by requiring the US to oppose loans to Nicaragua from international lending agencies. This act is based on lies, challenges Nicaragua sovereignty and is an attempt to intervene in the internal affairs and electoral process of the country.\n\nSectors of the Nicaraguan\_opposition, including members of\_the MRS (Movimiento Renovador Sandinista), lobbied for the passage of\_NICA. As Chuck Kaufman has recently stated so well, those MRS folks are not Sandinistas.\n\nThe government recently announced after negotiations that the Organization of American States will send a delegation to Nicaragua from November 5-7 to be present during the elections. There was already scheduled accompaniment of 100 invitees consisting of\_individuals and groups with Latin American electoral expertise. There will also be accompaniment by 500 representatives of the national university organization. Also 226,000 electoral functionaries including 88,638 from the various political parties will be present at the 14,581 voting stations. Seven political parties and alliances will participate.\n\nPresident Daniel Ortega with his running mate and wife, Rosario Murillo, will win in a landslide. With polls showing them with extremely high approval ratings and an unpopular, fractious opposition, only the magnitude of the victory is in question.\n\nI hope to attend the post-election gathering in the Plaza of the Revolution in Managua on the day after the election.\n\n&nbsp;\n\n<hr />\n\n<strong>BRIEFS</strong>\n<ul>\n \t<li>The Supreme Electoral Council (CSE) issued a call for all Nicaraguan citizens to participate in the November 6 elections. The CSE noted that more than 5,000 students and teachers, 4,300 human rights defenders, 100 international electoral experts, 30,000 electoral policemen and poll watchers from the 7 political parties are participating in the Nov. 6 elections. Likewise, in response to an invitation extended by the Nicaragua government, a mission from the Organization of American States (OAS) will be in Nicaragua on November 5, 6 and 7 to accompany the electoral process. <em>(Nicaragua News, 10/31)</em></li>\n</ul>\n<ul>\n \t<li>President Daniel Ortega delivered eight communal property titles to 17,257 indigenous and Afro-descendant families of the Nicaragua Caribbean Coast, covering 15,347 square kilometers. \"Today we are pleased and honored to be fulfilling an historic pledge made to our brothers and sisters of the Nicaragua Caribbean Coast,\" President Ortega said. <em>(Nicaragua News, 10/31)</em></li>\n</ul>\n<ul>\n \t<li>The Central American Bank for Economic Integration (BCIE) reported that more than US$380 million has been approved to support the fight against poverty in Nicaragua this year. Sectors such as transportation, infrastructure, healthcare, education, agricultural production and climate change mitigation are among the main areas being financed by BCIE in Nicaragua. <em>(Nicaragua News, 10/31)</em></li>\n</ul>\n<ul>\n \t<li>An M&amp;R poll found that more than 78.5% of Nicaraguans have a high level of confidence in the electoral process and are ready to vote in the November 6 elections. The study also noted that 87.3% of registered voters know the location of their assigned polling station and 73.4% are fully committed to the candidate and political party they support. The survey was carried out October 19-23 this year and is based on interviews with 2000 individuals nationwide. <em>(Nicaragua News, 10/28)</em></li>\n</ul>\n<ul>\n \t<li>In the same poll, President Daniel Ortega and his running mate Rosario Murillo enjoy the support of 66.3% of voters in the November 6 Nicaragua election. Ortega and Murillo are also leading the ranking of most popular public figures with 79.3% and 77.8% respectively. More than 61% of respondents affirmed that the situation in the country will continue to improve under a Sandinista government. <em>(Nicaragua News, 10/28)</em></li>\n</ul>\n<ul>\n \t<li>The new World Economic Forum’s Global Gender Gap Report ranked Nicaragua in the number one position in the Western Hemisphere and number 10 worldwide in female empowerment. The parameters of the study include access to education, healthcare, economic opportunities and female participation in politics. <em>(Nicaragua News, 10/27)</em></li>\n</ul>\n<ul>\n \t<li>The Inter-American Development Bank (IDB) country representative, Carlos Melo, reaffirmed the commitment of the IDB to support efforts undertaken by the Nicaragua government in the fight against poverty. He added that this year the IDB approved more than US$225 million and next year this figure is projected to reach US$260 million. Sectors such as healthcare, education, transportation and renewable energy are among the main priorities of the IDB cooperation in Nicaragua. <em>(Nicaragua News, 10/27)</em></li>\n</ul>\n<ul>\n \t<li>An Advanced Course on Labor Management for Workers of the Textile Industry, jointly organized by the Better Work Program - Nicaragua and the Central American University (UCA), was inaugurated in Managua yesterday. Blanca Peralta, Coordinator of the Better Work Program – Nicaragua, said the purpose of the course is to strengthen capabilities of managers and supervisors to ensure protection of labor rights in the Free Trade Zone Sector, in compliance with the standards established by the International Labor organization (ILO). <em>(Nicaragua News, 10/25)</em></li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: bd13a809-de56-4d8b-a6e7-56faadc77228
+  bundle: article
+  default_langcode: en
+  depends:
+    3ad1f134-ace5-4b4d-bdb3-efff4e632423: taxonomy_term
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicanotes: Venezuela Solidarity is Nicaragua Solidarity'
+  created:
+    -
+      value: 1522240000
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-venezuela-solidarity-nicaragua-solidarity
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"size-full wp-image-7994 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/08/nicanotesbannerwbyline2.jpg\" alt=\"Nincanotes : A blog about nicaragua by solidarity activists\" width=\"594\" height=\"196\" />\r\nBy Chuck Kaufman</p>\r\nLast week the US Office of Foreign Asset Control (OFAC), the agency that enforces the US economic blockade of Cuba, informed the Nicaragua business and banking communities that sanctions against Venezuela and the Venezuelan state oil company PDVSA, apply as well to Albanisa in Nicaragua. Albanisa is a public/private company, 51% owned by PDVSA, that channels Venezuela oil assistance into poverty elimination programs in Nicaragua. Last August, President Donald Trump declared unilateral sanctions against Venezuela including, for the first time, against PDVSA.\r\n\r\n<a href=\"https://www.elnuevodiario.com.ni/nacionales/459260-embajada-ee-uu-acciones-pdvsa-se-aplican-albanisa/\" target=\"_blank\" rel=\"noopener\">\"The actions against PDVSA probably have the most relevance here in Nicaragua, because the sanctions are applied to Albanisa</a>,\" said William Muntean, economic advisor to the US Embassy, after participating in a videoconference with OFAC representatives. Directors of the Chamber of Energy of Nicaragua (CEN) also participated in the videoconference.\r\n<h1 style=\"text-align: center;\">What are the sanctions?</h1>\r\nFirst, let’s be clear about one thing. Unilateral sanctions are illegal under international law so Trump’s sanctions against Venezuela, and those of President Obama before him are illegal, just as is the US embargo of Cuba.\r\n\r\nThe Alliance for Global Justice and the Venezuela Strategy Group which we chair, recently issued<a href=\"https://afgj.org/endsanctions\" target=\"_blank\" rel=\"noopener\"> an open letter to US and Canadian officials signed by over 154 prominent individuals and organizations</a> calling for an end to sanctions and support for mediation among Venezuelans. Noam Chomsky and Danny Glover led off an impressive list of union, religious, and popular movement leaders who signed the letter.\r\n\r\nThe actual sanctions only apply to US citizens and businesses. They prohibit extending or receiving more than short-term credit from the Venezuelan government and PDVSA. Venezuela’s oil aid to Nicaragua is in the form of sales with 50% paid up front and the other 50% paid over 20 years at 2% interest with a portion of that forgiven if spent on poverty reduction programs. That extended credit puts Albanisa squarely within US sanctions meaning that US individuals and companies cannot do business with Albanisa without risking serious penalties and even criminal charges from OFAC.\r\n\r\nCesar Zamora, president of the Nicaraguan Chamber of Energy (CES), also participated in the teleconference and had a different take on the effects on Nicaragua than Muntean did. Zamora said, “The United States doesn’t want to affect the Nicaraguan energy market; that is not their intention. Nor do they want to affect the [Nicaraguan] people. They’ve made that clear to us. They want those North American citizens who have investments in Nicaragua to comply with the law.”\r\n\r\nThe illegal US and Canadian sanctions against Venezuela are intended to topple the democratically elected government of President Nicolas Maduro. It remains to be seen whether Nicaragua and other ALBA countries will be drawn in as unwilling accomplices in the US scheme to reassert its political and economic hegemony over Latin America.\r\n\r\nOver a decade ago, I was talking with Nicaraguan poet and Sandinista militant Roberto Vargas who at the time was involved with Citgo gas’s project to supply free heating oil to US tribes and inner city neighborhoods. (Citgo is owned 100% by PDVSA.) At the time, there was some difference of opinion among Nicaragua Network/Alliance for Global Justice activists as to whether we should expand our work to include Venezuela solidarity.\r\nFor me, Roberto settled that issue once and for all when he said. “Venezuela solidarity is Nicaragua solidarity because if Venezuela falls, we all fall.” That statement is as true in 2018 as it was in 2006.\r\n<h1 style=\"text-align: center;\">Venezuela Solidarity is Nicaragua Solidarity.</h1>\r\n\r\n<hr />\r\n\r\n<h2>BRIEFS</h2>\r\n<ul>\r\n \t<li>LAFISE Group President Roberto Zamora announced that the World Bank International Finance Corporation has approved a US$115 million loan to support Small and Medium Size Businesses (SMEs) and housing projects in Nicaragua. \"The small business sector plays a key role in the creation of employment and this loan ensures more resources for the development of small businesses and improvement of the quality of life of the Nicaraguan people,” Zamora said. (Nicaragua News, Mar. 23)</li>\r\n</ul>\r\n<ul>\r\n \t<li>Polaris Energy of Canada announced that the San Jacinto-Tizate geothermal plant generated more than US$60.1 million in revenue last year, representing a 10% growth over the amount registered in 2016. \"Geothermal power generation grew from 52MW to 56MW and greater growth is being projected for this year.\" Polaris Energy said. (Nicaragua News, Mar. 23)</li>\r\n</ul>\r\n<ul>\r\n \t<li>An article published this week by Spanish News Agency EFE states that Nicaragua is the safest country in Central America. The article also noted that Nicaragua has implemented social programs to fight poverty, ensuring access to education and promoting sports activities among young people. \"In 2017, Nicaragua reported a homicide rate of 7 per 100,000 inhabitants, the lowest in Central America. Nicaragua continues to be a country free from gangs and violent crimes,\" EFE said. (Nicaragua News, Mar. 21)</li>\r\n</ul>\r\n<ul>\r\n \t<li>In the latest M&amp;R Consultants public opinion poll, a near unanimous 96.9% of those polled consider it necessary “to strengthen the legal, technical, procedural, technological, and human aspects of the electoral process in accord with the agreements reached between the government and the Organization of American States (OAS). (El Nuevo Diario, Mar. 23)</li>\r\n</ul>\r\n<ul>\r\n \t<li>US Ambassador Laura Dogu announced that the $1.3 trillion budget adopted by the US Congress includes “almost $10 million” in aid for Nicaragua. She said Trump’s budget proposal included zero for Nicaragua but that Congress has the final word. Dogu did not describe what programs will be funded by the miniscule US aid amount or even whether the aid will go through the Nicaraguan government or will instead fund civil society groups hostile to the government. [Of course Dogu said nothing about the $17 billion in reparations owed to Nicaragua since the 1986 World Court order for deaths and damages caused by the US-funded Contra War.] (El Nuevo Diario, Mar. 24)</li>\r\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 3ad1f134-ace5-4b4d-bdb3-efff4e632423
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

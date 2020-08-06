@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5fa90a13-1462-48b0-9ce9-e992175ab9a6
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Benjamin Linder, Presente!'
+  created:
+    -
+      value: 1493214392
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /benjamin-linder-presente
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p class=\"p1\"><a href=\"https://afgj.org/nicanotes\"><img class=\"aligncenter size-full wp-image-6794\" src=\"https://afgj.org/wp-content/uploads/2016/06/NicaNotesBanner.jpg\" alt=\"\" width=\"579\" height=\"181\" /></a></p>\n<p class=\"p1\">April 28\_marks the 30th\_anniversary of the murder of solidarity activist Benjamin Linder by the US-funded Contras. Ben was shot at\_short range along with his two Nicaraguan co-workers who were surveying to construct a small hydroelectric system to bring\_electricity to the village of San Jose de Bocay. Ben was the only US citizen who was killed in the Contra war of terror against the\_people of Nicaragua. In Nicaragua\_tonight\_friends and Nicaragua residents, both Nicaraguan and foreigners, will gather at the\_Casa Ben Linder in Managua for a pot-luck dinner and sharing.\_Tomorrow\_many people will travel to San Jose de Bocay and will\_stay over\_Friday, April 28\_to commemorate this sad day in the history of people-to-people solidarity with Nicaragua’s Sandinista\_Revolution.</p>\n<p class=\"p1\">Below is a personal reflection by Brian Moore who is a University of Oregon Spanish instructor who got to know Ben Linder in\_Nicaragua in 1984.</p>\n\n\n<hr />\n<p class=\"p1\" style=\"text-align: center;\"><strong><span class=\"s1\">Benjamin Linder, Presente!</span></strong></p>\n<p style=\"text-align: center;\">\"He did not come with a planeload of guns;</p>\n<p style=\"text-align: center;\"><span class=\"s1\">he came with a planeload of dreams\"</span></p>\n<p style=\"text-align: center;\"><span class=\"s1\">- Nicaraguan President Daniel Ortega, April 1987</span></p>\n<p class=\"p1\">April 28th\_marks the 30th anniversary of the death of Ben Linder, mechanical engineer from Portland, Oregon, who in 1983 went to\_Nicaragua to work on hydroelectric projects that today provide energy to the community, schools, clinics, and campesinos. \_While\_working on a small dam in the remote northern region of San José de Bocay, performing the miracle of transforming \"water into\_light\", Ben and two other Nicaraguan co-workers, were killed by Contra forces armed and paid for by the US government.</p>\n<p class=\"p1\">In 1984, I had the opportunity to meet Ben Linder in Nicaragua while I was at the national university. Ben, like myself, was one of\_many thousands of young volunteers from the United States and other parts of the world who wanted to witness and contribute to\_the rebuilding process in Nicaragua following the triumph of the Sandinista Revolution over the repressive Somoza dictatorship. It\_was a time of amazing hope, dreams and struggle; it was a time of unnecessary war, pain and suffering.</p>\n<p class=\"p1\">When I met Ben, I was moved, in fact a little jealous, by his enthusiasm as he described the work he was doing and how truly\_happy he was in Nicaragua. I was intrigued by the simplicity and perfection of his work and the difference it could make in the lives\_of poor farmers who were trapped in a war zone. \_Both Ben and I were deeply opposed to US policy, yet Ben had a unique ability\_to rise above despair and dedicate himself to improve the lives of the poor. Ben was not trying to be a hero, he sincerely wanted to\_make a difference in making the world a better place. If one could visit Nicaragua today and see the work that Ben started, one\_would see beautiful results of people working and producing for their families and communities with a great sense of pride, dignity\_and optimism for the future. Ben would be happy.</p>\n<p class=\"p1\">In this painful time of renewed violence and frightening uncertainty we can look to Ben Linder as an inspiration to not only stand up\_in resistance but also to work to transform horrific violence into peace, prosperity and justice. During the 80's with our nation's\_shameless acts of aggression against the people of Nicaragua and other Central American countries, Ben stated, \"I wish I could\_take the children to a safe place until the war ends\". \_Yet, he always worked to bring happiness and safety to children in the midst\_of unimaginable conditions imposed by U.S. military intervention. A few weeks ago I had the opportunity to accompany a group of\_Oregon high school student leaders in Nicaragua at Ben's grave. I was truly moved by their tears and joy, feeling their commitment\_as young people, a new generation inspired by Ben's legacy, to work to make a positive difference in the world. Ben would be\_proud.</p>\n<p class=\"p1\">Ben was also a very talented clown, juggler and unicyclist bringing joy to many. Just as he used laughter to mobilize small children\_in vaccination campaigns; just as he offered his intellect as an engineer to bring development to remote areas; just as he\_accompanied the most vulnerable during times of suffering; just as Ben gave his knowledge, energy, humor and love to Nicaragua\_and the world -- let us follow his example and celebrate the life and mission of Ben Linder.</p>\n<p class=\"p1\" style=\"text-align: center;\"><span class=\"s1\">\_</span></p>\n<p class=\"p1\" style=\"text-align: center;\"><strong><span class=\"s1\">\" La luz que encendió brillará para siempre\"</span></strong></p>\n<p class=\"p1\" style=\"text-align: center;\"><strong><span class=\"s1\">The light he lit will shine forever.</span></strong></p>\n<p class=\"p1\" style=\"text-align: center;\"><span class=\"s1\">(Epitaph carved on Ben’s grave marker in the city of Matagalpa)</span></p>\n\n\n<hr />\n<p class=\"p1\" style=\"text-align: left;\"><strong>BRIEFS</strong></p>\n\n<ul>\n \t<li class=\"p1\">An IMF delegation conducting an annual review of the Nicaraguan economy, reported in a meeting with the president of\_the Central Bank and other government officials including Presidential Economic Advisor Bayardo Arce, that the economy could\_exceed the 4.5% growth projected by the IMF because the economic reforms of recent years are still “bearing fruit.” The delegation\_also stated that although aid from Venezuela has fallen “in a significant way” in the last two years, it has “so far not generated a\_problem.”\_(El Nuevo Diario, Apr. 24)</li>\n \t<li class=\"p1\">A new M&amp;R poll published has found that fewer Nicaraguans want to migrate to another country. Sixty-three percent\_(63%) of respondents said they are not planning to leave the country and expressed great confidence in a better future. The\_survey was carried out between April 4-12 and is based on interviews with 1,600 individuals nationwide.\_(Nicaragua News,\_Apr. 24)</li>\n \t<li class=\"p1\">Vice President Rosario Murillo announced that this year more than 1.2 million students will benefit from the School\_Meal Program. She added that 192,000 hundredweights of nutritious food are being distributed including fortified cereal, dates,\_and wheat flour, among others. Many schools have also planted gardens as a community project with fruit trees and\_vegetables to supplement the School Meal Program food.\_(Nicaragua News, Apr. 24)</li>\n \t<li class=\"p1\">Jose Adan Aguerri, president of the Superior Council of Private Enterprise (COSEP), said that the positive economic\_growth projections announced by the World Bank and the International Monetary Fund (IMF), reaffirm the successful results of\_the cooperation between business, government, and labor. \"These multilateral agencies are projecting a 4.5% economic\_growth in Nicaragua this year, one of the highest rates in Central and Latin America”, Aguerri said. Nicaragua is followed by\_followed by Costa Rica with a 4.1% projected growth; Honduras with 3.4%; Guatemala with 3.3%; and El Salvador with 2.3%.\_(Nicaragua News, Apr. 20, 19)</li>\n \t<li class=\"p1\">The President of the Superior Council of Private Enterprise (COSEP), José Adán Aguerri said the Tripartite Alliance\_Model between government, employers and labor has contributed to the growth in formal employment and the greater\_purchasing power of workers in Nicaragua. \"In 2016 minimum wage grew 6.3% and formal employment 10.8%,\" Aguerri said.\_(Nicaragua News, Apr. 18)</li>\n \t<li class=\"p1\">Deputy Director of the National Police, Commissioner Francisco Díaz, announced that Nicaragua reported the lowest\_number of homicides in Central America during Holy Week. \"Nicaragua continues to be the safest country in the region. \_The\_number of homicides reported during Holy Week was 50% lower in comparison to the regional average,\" Commissioner Diaz\_said.\_(Nicaragua News, Apr. 19)</li>\n \t<li class=\"p1\">The Board of Directors of the World Bank announced the approval of a US$ 55 million loan for the Nicaragua Quality\_Education Alliance Program. The purpose of this initiative is to continue strengthening teaching capabilities and improve\_infrastructure conditions in the rural schools of the country, primarily those that are most vulnerable to the effects of climate\_change.\_(Nicaragua News, Apr. 17)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

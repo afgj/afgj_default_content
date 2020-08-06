@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e8a23281-b221-420f-bc0b-1e795d469c57
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Links and Resources'
+  created:
+    -
+      value: 1342188058
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /links-and-resources
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<span style=\"text-decoration: underline;\"><strong>Coalitions AfGJ Participates in:</strong></span>\r\n\r\n<a href=\"http://www.lasolidarity.org/\">Latin America Solidarity Coalition (LASC)</a>\r\n\r\n<a href=\"http://newprioritiesnetwork.org/\">New Priorities Network</a>\r\n\r\n<a href=\"http://hondurasresists.blogspot.com/2010/09/honduras-solidarity-network-denounces.html\">Honduras Solidarity Network</a>\r\n\r\n<a href=\"http://www.inspp.org/\">International Network in Solidarity with the Political Prisoners of Colombia</a>\r\n\r\n&nbsp;\r\n\r\n<span style=\"text-decoration: underline;\"><strong>Friends and Allies:</strong></span>\r\n\r\n<a href=\"http://derechoshumanosaz.net/\">Coalición de Derechos Humanos</a>\r\n\r\n<a href=\"www.traspasalosmuros.\">Traspasa los Muros</a>\r\n\r\n&nbsp;\r\n\r\n<span style=\"text-decoration: underline;\"><strong>Activist Resources:</strong></span>\r\n\r\n<a href=\"https://afgj.org/focus-areas/militarism\">Constant War in Latin America Poster/Hand-Out</a>"
+      format: full_html
+      summary: ''

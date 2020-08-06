@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 9a042cfa-7621-4cf0-a378-a2837f57948b
+  bundle: article
+  default_langcode: en
+  depends:
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly 1.18.2019 US Planning Oil Embargo on Venezuela, Moves to Recognize, then Defend Opposition US Puppet Government'
+  created:
+    -
+      value: 1547822191
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-1182019-us-planning-oil-embargo-venezuela-moves-recognize-then-defend
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Venezuela\r\n\r\n<a href=\"https://default.salsalabs.org/T40f2809f-b3cd-4753-8b2c-6254d1545c2a/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T40f2809f-b3cd-4753-8b2c-6254d1545c2a/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048873000&amp;usg=AFQjCNG5v5Ap1Ee6xxVf3kMIANfWysTbag\">Democracy Now interview with Venezuela Foreign Minister Jorge Arreaza</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T2972e440-659b-48f1-987c-16dfe0415448/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T2972e440-659b-48f1-987c-16dfe0415448/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048874000&amp;usg=AFQjCNG3arhxIXGvP00S8XhlBljQOXp3Tg\">FAIR interview with Alex Main: 'US Administrations Have Been Intervening in Venezuela Since at Least the Early 2000s'</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Ta2f9cc37-85d4-4aa8-afed-ab8fff898fb6/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Ta2f9cc37-85d4-4aa8-afed-ab8fff898fb6/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048874000&amp;usg=AFQjCNHGORKWN6fGcCEEEM7i8mfZijFR1w\">Pompeo says Venezuela's Maduro government is 'illegitimate,\" threatens to be \"a force for good\" to \"restore democracy\"</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T6410c44b-81ce-488c-81cf-18511506a60f/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T6410c44b-81ce-488c-81cf-18511506a60f/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048874000&amp;usg=AFQjCNEx7FWU4hur2oC9CC7ljovqBiAWWA\">US Planning to Recognize National Assembly Opposition leader Guaido as president?</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T196b73e6-b8d1-4f57-9f07-cd298f378ae2/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T196b73e6-b8d1-4f57-9f07-cd298f378ae2/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048874000&amp;usg=AFQjCNGXI6Ktk440V9bAKXfNy8aZxoyeFA\">Don't meddle in Venezuela, Moscow tells coup-cheering Washington</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Te8e889b6-27ce-4c6c-ba8e-6f6e119c36a5/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Te8e889b6-27ce-4c6c-ba8e-6f6e119c36a5/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048874000&amp;usg=AFQjCNGLE_6cw7rxmx-UXpoLiv5OpNhyvA\">United States considers hitting Venezuela with oil embargo</a>\r\n\r\n&nbsp;\r\n\r\nCuba\r\n\r\n<a href=\"https://default.salsalabs.org/Ta0875386-eeb9-484a-9595-ecd3258f1138/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Ta0875386-eeb9-484a-9595-ecd3258f1138/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048874000&amp;usg=AFQjCNFaqSwRLOxOji73wW5TZ-oMTZSbRg\">Democracy in Cuba: A Referendum on a New Constitution</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T21cf2982-764a-426c-9ead-640a026f53d6/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T21cf2982-764a-426c-9ead-640a026f53d6/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048874000&amp;usg=AFQjCNGkUVyAU4Uu58GeU7w_B6BJxCgJCQ\">Cuba infant mortality rate at 4.0 per 1000 live births\_</a>;\_<a href=\"https://default.salsalabs.org/T94a47b24-4b17-4e57-a148-bfcd331f872a/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T94a47b24-4b17-4e57-a148-bfcd331f872a/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048874000&amp;usg=AFQjCNGmGdJk_VsWVjfy8oQgLmEQrCjRuQ\">US rate at 5.9</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T18204752-4dfa-4e4d-bf41-948c16ab5a1d/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T18204752-4dfa-4e4d-bf41-948c16ab5a1d/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048874000&amp;usg=AFQjCNHeT5Qmbs-UbUcJGj8Jel4GtaDHYg\">10th Minnesota Cuban Film Festival</a>\r\n\r\n&nbsp;\r\n\r\nBolivia\r\n\r\n<a href=\"https://default.salsalabs.org/Td73a0428-45f2-4a2a-95b9-a932394e46c0/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Td73a0428-45f2-4a2a-95b9-a932394e46c0/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048874000&amp;usg=AFQjCNEXGrMU2GKsPSF_oTQpAVs_1a7t5g\">Bolivia Denounces Brazil's State Racism</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T94178021-c5fc-49da-b756-37a8c898f46f/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T94178021-c5fc-49da-b756-37a8c898f46f/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048874000&amp;usg=AFQjCNFgPcuTZERq0wEN-lDY8o2lfWfWFw\">Historic Economic Improvement Under President Evo Morales</a>\r\n\r\n&nbsp;\r\n\r\nNicaragua\r\n\r\n<a href=\"https://default.salsalabs.org/T78099e3e-2014-4042-ad11-274af34ac886/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T78099e3e-2014-4042-ad11-274af34ac886/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048874000&amp;usg=AFQjCNGbAifGfJoZaEJFadhtQ6AQt_RO8Q\">Interview with Nicaraguan Foreign Minister</a>\r\n\r\n&nbsp;\r\n\r\n<strong>Delegations</strong>\r\n\r\n<a href=\"https://default.salsalabs.org/Tc12dd625-441e-448f-8807-11051bb1b019/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tc12dd625-441e-448f-8807-11051bb1b019/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048874000&amp;usg=AFQjCNEmnbaTH0TLxSvrZmisA44jt7Y7SA\">Delegation to Venezuela, March 17-24, 2019</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T13495dfc-0636-40cf-b215-ab7ac33e6492/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T13495dfc-0636-40cf-b215-ab7ac33e6492/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048874000&amp;usg=AFQjCNFQsAIB8NeNmeERjmHBKinMPs_i9w\">14th May Day International Volunteer Work Brigade in Solidarity with Cuba</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tc64235ce-3eba-45e8-befd-342431be28fd/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tc64235ce-3eba-45e8-befd-342431be28fd/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048874000&amp;usg=AFQjCNGDGMfEjrnkGXw7dDOUS-ei0gINSA\">April 21 to May 5, 2019</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T8efd1f49-b9ad-40ac-a022-df0202d6082b/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T8efd1f49-b9ad-40ac-a022-df0202d6082b/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048874000&amp;usg=AFQjCNHnI919OLopPCXTuoSWG96a76XHEA\">50th Venceremos Brigade Delegation to Cuba</a>\_and \_<a href=\"https://default.salsalabs.org/T976560f9-25f8-41e0-8563-87f23903c396/9c321561-6167-450d-912a-cd875d12b467\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T976560f9-25f8-41e0-8563-87f23903c396/9c321561-6167-450d-912a-cd875d12b467&amp;source=gmail&amp;ust=1547930048874000&amp;usg=AFQjCNGOPccrOEu8muXjMDZ6FEFEMfU8TA\">IFCO/Pastors for Peace delegations to Cuba</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

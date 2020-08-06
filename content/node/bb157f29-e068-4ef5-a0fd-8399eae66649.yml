@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: bb157f29-e068-4ef5-a0fd-8399eae66649
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NicaNotes: A Quick Update'
+  created:
+    -
+      value: 1476358206
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-quick-update
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"aligncenter wp-image-6975 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"nicanotesbannerwbyline\" width=\"579\" height=\"195\" /></a>\nI’ve been unable to write a substantive post this week due to Alliance for Global Justice’s involvement in the SOA Watch Border Convergence in Southern Arizona to protest border militarization and US migrant/refugee policies. Nicaraguans are not among the Central Americans who now make up two-thirds of the refugees apprehended crossing the border in Arizona. The largest number are from Honduras. I marched in the Saturday Veterans for Peace-led march along the wall in Nogales, AZ while people also marched along the Mexican side of the border wall. The picture shows me in the middle along with Honduras Solidarity Network’s Honduras-based coordinator Karen Spring, and Sui Hin Lee, director of the National Immigrant Rights Network, a project of the AfGJ. It occurred to me, while holding the banner, that one of the reasons Nicaraguans aren’t fleeing to the US is because there are no political or drug killings in Nicaragua like the assassination of Lenca indigenous leader Berta Caceres.\n\nThe contrast between Nicaragua and Honduras is stark. Join me as I lead a compare and contrast delegation to Nicaragua and Honduras February 17-26, co-sponsored by Code Pink. We’ll visit the north of Nicaragua and the south of Honduras comparing the two on rural development, citizen security, the role of women, and other important issues that affect the quality of life in each country. For information, send an email to <a href=\"mailto:Delegations@AFGJ.org\">Delegations@AFGJ.org</a>\n\n<hr />\n<p class=\"p1\"><span class=\"s1\"><b>Briefs</b></span></p>\n\n<ul>\n<li class=\"p1\">Nicaragua has the fastest growing economy in Central America. The IMF has projected 3.9% growth in Gross Domestic Product (GDP) for the whole of Central America but projects that Nicaragua’s GDP will grow 4.5% this year and 4.3% next year. <i>(El Nuevo Diario, Oct. 5)</i></span></li>\n</ul>\n<ul>\n <li class=\"p1\">The National Assembly approved the Law of Secured Transactions that, once the regulations have been written, will allow micro, small and medium businesses access to bank loans secured by collateral. Few small businesses have had access to general bank credit up to this point. According to the Nicaragua Central Bank at the end of 2015 there were 106,619 micro and small enterprises, and 14,492 medium size businesses that will now be able to put up collateral to secure bank loans. <i>(El Nuevo Diario, Oct. 6)</i></span></li>\n</ul>\n<ul>\n<li class=\"p1\">The Supreme Electoral Council (CSE) began the two week ballot printing process in the presence of electoral observers from the 16 political parties. CSE Director Julio Acuña said, “Electoral observers from each party will designate a coordinator, two ballot inspectors, and a legal representative to accompany the inspection, printing and distribution of the electoral ballots.” <i>(Nicaragua News, Oct. 6)</i></span></li>\n</ul>\n<ul>\n<li class=\"p1\">Evangelical church leaders made clear that they do not support the US NICA Act which would dictate that the US vote against loans for Nicaragua from multilateral lending institutions like the World Bank. Rafael Arista, president of the Assemblies of God said, “Adoption of the NICA Act would affect the poorest”… “We are praying that the government of the United States does not pass this bill because it would really affect almost all Nicaraguans.” \_The Assemblies of God may not speak for all evangelical churches since they were expelled from the US-based denomination in the 1980s because they did not oppose the Sandinista government. <i>(Informe Pastran, Oct. 10)</i></span></li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

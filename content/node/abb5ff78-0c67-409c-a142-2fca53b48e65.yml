@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: abb5ff78-0c67-409c-a142-2fca53b48e65
+  bundle: article
+  default_langcode: en
+  depends:
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Join an AFGJ Delegation!'
+  created:
+    -
+      value: 1523975395
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /join-afgj-delegation
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"alignleft size-full wp-image-9614\" src=\"https://afgj.org/wp-content/uploads/2018/04/Delegations-2018.jpg\" alt=\"\" />\r\n<h1 style=\"text-align: center;\"></h1>\r\n\r\n<hr />\r\n\r\n<h1 style=\"text-align: center;\"><a href=\"https://afgj.org/wp-admin/upload.php?item=9605\" target=\"_blank\" rel=\"noopener\">Download the Flyer</a></h1>\r\n\r\n<hr />\r\n\r\n<h1 style=\"text-align: center;\"></h1>\r\n<h2 style=\"text-align: center;\">Learn More About Each Delegation by Clicking on the Links Below:</h2>\r\n<h3><a href=\"https://afgj.org/hondurasdelegation2018\">Human Rights Delegation to Honduras</a>\r\nApril 8-15, 2018</h3>\r\n<h3><a href=\"https://afgj.org/travel-to-colombia\">Peacemakers Delegation to Colombia with AfGJ\r\nMay 19 - 29</a></h3>\r\n<h3><a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\">\_Agrarian and Worker Struggle in Nicaragua\r\n</a>June 18-28</h3>\r\n<h3><a href=\"https://afgj.org/artist-delegation-nicaragua\" target=\"_blank\" rel=\"noopener\">Artists' Delegation Nicaragua</a>\r\nAug 1-10</h3>\r\n\r\n<hr />\r\n\r\n<h1 style=\"text-align: center;\"></h1>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

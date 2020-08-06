@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4f219b73-503d-4805-94a0-8d4703153c52
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Border Militarization Glossary'
+  created:
+    -
+      value: 1359889272
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /border-militarization-glossary
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "(definitions added with the release of each new lesson)\r\n\r\n<strong>Fascism</strong> - Fascism is a political and economic system that utilizes authoritarianism and brutal repression in order to promote and protect the concentration of corporate wealth in the hands of a small class of people.\_ Important components include the complementary use of both paramilitary shock troops along with military and police to keep popular forces and movements at bay and to repress any threat or challenge to the power of the few and the subservience of the many.\_ Patriotism is extolled as a virtue above all others, superseding\_ any competing values, morals or considerations.\_ The repression of targeted class, ethnic, religious, political or sexual-gender communities is employed to ensure a false sense of \"purity\" that aimed at intimidating and crushing anything that deviates from a narrowly defined norm and that could be a source of possible resistance to the status quo.\_ The power of the state is ubiquitous and final and is always wielded to reinforce privilege and control for the corporate and political elite.\_ Fascism is directed toward the complete subjugation of workers as pawns and servants of the wealthy.\r\n\r\n<strong>Free Trade Agreements</strong> - FTAs are international trade treaties and accords that remove tariffs, quotas, subsidies, etc. that are meant to protect certain national industries, resources, agricultural producers and so on.\_ It was the removal of such restrictions that enabled the US government to dump stored reserves of over 86 million tons of corn, over 15 million tons of sorghum, and almost 6 million tons of barley into the Mexican market following the passage of NAFTA (the North American Free Trade Agreement), decimating the ability of Mexican farms to compete and destroying rural communities throughout the nation.\_ It was also on the basis of NAFTA that US auto jobs lost their protections and were relocated to other countries where wages and benefits are significantly lower.\r\n\r\n<strong>Funneling Effect</strong>\_<span style=\"font-size: 13px; line-height: 19px;\">- Free trade creates massive displacement and forced migration because of the destruction of locally and regionally based rural economies. \_Undocumented workers and their families who are crossing the US-Mexico border in search of jobs are diverted to the harshest and least populated areas of the desert because of border militarization taking place in larger population centers. \_The intentional link between free trade and militarization is exposed by the fact that as the North American Free Trade Agreement (NAFTA) was being implemented, the first sections of the border wall were being built at the two largest border crossing points-the Tijuana/San Diego and Juarez/El Paso ports of entry.</span>\r\n\r\n<strong>Neoliberalism</strong> - Neoliberalism is a political and economic philosophy that prioritizes the right to accumulate and exploit private property and resources over and above community or national interests.\_ The main purpose of government and the military is seen as promoting and protecting the rights of corporations and the wealthy and freeing the interests of capital from all restraints, including the limitations of national sovereignty.\_ In practice, neoliberalism has mainly served to advance the profits and power of transnational companies while destroying cooperative, community-based economies and economies built around the strength of small businesses and family farms.\r\n\r\n<strong>Operation Streamline</strong> - According to a fact sheet from No More Deaths, \"<span style=\"font-size: 13px; line-height: 19px;\">Operation Streamline is an initiative of the Department of Homeland Security and the Department of Justice begun in 2005 with the intention of establishing “zero-tolerance” immigration enforcement zones along the U.S.-Mexico border. Under Operation Streamline, unauthorized migrants face criminal prosecution and potential prison sentences in addition to formal deportation and removal from the United States. Operation Streamline has drastically increased immigration prosecutions, making ‘Illegal Re-entry’ the most-commonly filed federal charge. In Arizona, Operation Streamline annually costs some $120 million in court proceedings2 and over $50 million for detention and incarceration....</span><span style=\"font-size: 13px; line-height: 19px;\">Operation Streamline has resulted in hundreds of thousands of\_</span><span style=\"font-size: 13px; line-height: 19px;\">undocumented immigrants sentenced to prison terms for violating immigration law. In Texas,\_</span><span style=\"font-size: 13px; line-height: 19px;\">the number of people sentenced to prison terms for illegal entry increased from 7,000 in 2005 to\_</span><span style=\"font-size: 13px; line-height: 19px;\">37,000 by 2010. In 2009 alone, a total of nearly five million nights in detention were handed\_</span><span style=\"font-size: 13px; line-height: 19px;\">down for unauthorized entries. \_</span><span style=\"font-size: 13px; line-height: 19px;\">Increased migrant deaths: Zero-tolerance enforcement zones and the threat of criminal\_</span><span style=\"font-size: 13px; line-height: 19px;\">prosecution and imprisonment if apprehended compel migrants to attempt crossings in more\_</span><span style=\"font-size: 13px; line-height: 19px;\">remote and dangerous terrain, inevitably increasing the risk of suffering and death during their </span><span style=\"font-size: 13px; line-height: 19px;\">journey. In fact, since Operation Streamline was first introduced in 2005, the border death rate\_</span><span style=\"font-size: 13px; line-height: 19px;\">has increased 127 percent from 52 deaths per 100,000 apprehensions to 118 per 100,000\_</span><span style=\"font-size: 13px; line-height: 19px;\">apprehensions in 2010.\" \_<a href=\"http://www.cultureofcruelty.org/content/uploads/2012/03/nmd_fact_sheet_operation_streamline.pdf\">Click Here for a PDF of the fact sheet this is taken from.</a></span>\r\n\r\n<strong><strong>SB1070</strong> </strong>- SB1070 is Arizona's harshly anti-immigrant and anti-Latino law.\_ Among many negative aspects, the law legalizes and encourages racial profiling of anyone who might be suspected of being undocumented--for instance, anyone with brown skin who happens to be speaking Spanish.\r\n\r\n<strong>Secure Communities and 287g</strong> - These are programs overseen by the Department of Homeland Security that integrate local, state and regional bodies into the enforcement of federal immigration law."
+      format: full_html
+      summary: ''

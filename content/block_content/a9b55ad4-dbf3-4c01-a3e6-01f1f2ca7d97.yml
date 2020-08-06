@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: a9b55ad4-dbf3-4c01-a3e6-01f1f2ca7d97
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Products Layout Switcher (Grid active)'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"layout-switcher\">\r\n<ul class=\"inline-list\">\r\n\t<li class=\"inline-list__item active\"><a href=\"products-3-col\" title=\"Grid Layout\"><i class=\"fas fa-th fa-sm\"><span class=\"sr-only\">th</span></i></a></li>\r\n\t<li class=\"inline-list__item\"><a href=\"products-list\" title=\"List Layout\"><i class=\"fas fa-list fa-sm\"><span class=\"sr-only\">list</span></i></a></li>\r\n</ul>\r\n</div>\r\n"
+      format: full_html
+      summary: ''

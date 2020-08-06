@@ -1,0 +1,53 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ddc5f968-b276-494a-afc3-2d8c9054b981
+  bundle: mt_testimonial
+  default_langcode: en
+  depends:
+    335e2c88-c21f-4961-9e45-079abe228533: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'John Smith'
+  created:
+    -
+      value: 1465837360
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_tst_body:
+    -
+      value: "<p>In voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident. Lorem ipsum dolor sit amet, consectetur.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_tst_subtitle:
+    -
+      value: 'Founder & CEO, Company name'
+  field_mt_tst_testimonial_image:
+    -
+      entity: 335e2c88-c21f-4961-9e45-079abe228533
+      alt: 'Testimonial image'
+      title: ''
+      width: 750
+      height: 750

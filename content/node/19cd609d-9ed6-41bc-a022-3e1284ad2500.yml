@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 19cd609d-9ed6-41bc-a022-3e1284ad2500
+  bundle: article
+  default_langcode: en
+  depends:
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Sandino Vive! Delegation Begins'
+  created:
+    -
+      value: 1581519041
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /sandino-vive-delegation-begins
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "From the 13<sup>th</sup> to the 23<sup>rd</sup> of February, the Friends of the ATC is hosting its “Sandino Vive!” solidarity delegation in Nicaragua, with participation from solidarity organizers and food systems advocates from the US and Canada, plus youth representatives from the ATC, IALA Ixim Ulew, and La Vía Campesina Central American region. We will be sharing updates throughout the delegation. You can also\_follow the delegation on our\_<a href=\"https://friendsatc.us14.list-manage.com/track/click?u=0e3a6633f93744d26cfd448fd&amp;id=414d836106&amp;e=73a352b66e\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://friendsatc.us14.list-manage.com/track/click?u%3D0e3a6633f93744d26cfd448fd%26id%3D414d836106%26e%3D73a352b66e&amp;source=gmail&amp;ust=1581626322086000&amp;usg=AFQjCNG2PIeDbaibil5ITf_xhLMlNQBkfQ\">blog</a>,\_<a href=\"https://friendsatc.us14.list-manage.com/track/click?u=0e3a6633f93744d26cfd448fd&amp;id=2e216ca07a&amp;e=73a352b66e\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://friendsatc.us14.list-manage.com/track/click?u%3D0e3a6633f93744d26cfd448fd%26id%3D2e216ca07a%26e%3D73a352b66e&amp;source=gmail&amp;ust=1581626322087000&amp;usg=AFQjCNGkzWDwaxUVmUuDMdtRsRYfizJOVA\">Facebook page</a>,\_and with #friendsatc.\r\n\r\nOur delegation will meet with different sectors of the Nicaraguan population, including workers, farmers, women, youth, and journalists. A significant part of the delegation will be spent in rural areas in communities organized by the Rural Workers’ Association (<em>Asociación de Trabajadores del Campo</em> [ATC]), which is a founding member of the global peasant movement La Via Campesina. We will also visit important sites of the Sandinista Revolution as part of our efforts to preserve the historic memory of this nation’s long struggle for sovereignty. On February 21<sup>st</sup>, we will remember the 86<sup>th</sup> anniversary of the assassination of Augusto C. Sandino, the “General of Free Women and Men”, who has inspired decades of anti-imperialist struggle in Nicaragua and around the world.\r\n\r\nThis delegation is co-sponsored by the\_<a href=\"https://friendsatc.us14.list-manage.com/track/click?u=0e3a6633f93744d26cfd448fd&amp;id=a1c3d18d9b&amp;e=73a352b66e\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://friendsatc.us14.list-manage.com/track/click?u%3D0e3a6633f93744d26cfd448fd%26id%3Da1c3d18d9b%26e%3D73a352b66e&amp;source=gmail&amp;ust=1581626322087000&amp;usg=AFQjCNEUZ_qmUNroxGFkNqF7t33bovRFOQ\">Friends of the ATC solidarity network</a>,\_La Via Campesina Nicaragua, and\_<a href=\"https://friendsatc.us14.list-manage.com/track/click?u=0e3a6633f93744d26cfd448fd&amp;id=4d5a2c5fc3&amp;e=73a352b66e\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://friendsatc.us14.list-manage.com/track/click?u%3D0e3a6633f93744d26cfd448fd%26id%3D4d5a2c5fc3%26e%3D73a352b66e&amp;source=gmail&amp;ust=1581626322087000&amp;usg=AFQjCNEY6D2zGVpESlFSnelrNCZBjE6zTg\">Alliance for Global Justice</a>."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+  field_mt_slideshow:
+    -
+      value: false

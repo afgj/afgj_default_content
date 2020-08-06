@@ -1,0 +1,59 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f75eeecd-7052-4f6f-80a8-ed272cc3820f
+  bundle: mt_team_member
+  default_langcode: en
+  depends:
+    345d7e0b-68e0-4dae-b646-8ac6aa183d5d: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Chuck Kaufman'
+  created:
+    -
+      value: 1591127762
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /team/chuck-kaufman
+      langcode: en
+      pathauto: 1
+  field_mt_tmm_body:
+    -
+      value: "<p><strong>Chuck Kaufman</strong> is National Co-Coordinator of the Alliance for Global Justice. He has been a leader of the Central and Latin America solidarity movements since joining the staff of the Nicaragua Network in 1987. He gave up his successful advertising business out of disgust at Congress’ cowardice during the Iran-Contra scandal. He went on his first coffee picking brigade to Nicaragua that same year. Chuck has been in the front ranks of the movements to support the right of people in Latin America and the Caribbean to dignity, sovereignty, and self-determination. He has led delegations to Nicaragua, Venezuela, Haiti and Honduras.</p>\r\n\r\n<p>Chuck has written and spoken often about US democracy manipulation programs through the National Endowment for Democracy and US Agency for International Development as well as what he calls the need to look to the Abolition Movement as our inspiration to change the culture of US militarism. He is a board member of the Latin America Solidarity Coalition and a leader of the LASC’s effort to build a stronger movement to oppose US militarism and the militarization of relations with Latin America. He was a founder of the Act Now to Stop War and End Racism (ANSWER) Coalition and has spoken at most of the major Washington, DC anti-war demonstrations. He is a board member of the Honduras Solidarity Network and a founder of the Venezuela Solidarity Network. He has a B.A. in Government and Politics from George Mason University. His first political activism was as a high school student in 1969 when he organized student walk-out in four county high schools in his native Indiana.</p>\r\n"
+      format: full_html
+      summary: ''
+  field_mt_tmm_facebook_account:
+    -
+      value: 'https://www.facebook.com/chuck.kaufman.9'
+  field_mt_tmm_featured:
+    -
+      value: false
+  field_mt_tmm_member_photo:
+    -
+      entity: 345d7e0b-68e0-4dae-b646-8ac6aa183d5d
+      alt: Chuck
+      title: ''
+      width: 1536
+      height: 2048
+  field_mt_tmm_subtitle:
+    -
+      value: 'National Co-Coordinator'

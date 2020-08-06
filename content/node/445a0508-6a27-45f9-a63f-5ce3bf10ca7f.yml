@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 445a0508-6a27-45f9-a63f-5ce3bf10ca7f
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    8ec8e0dc-b6ed-4683-a718-bd2452edec59: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Call for International Days of Action Against Sanctions & Economic War: March 13 – 15, 2020'
+  created:
+    -
+      value: 1575292997
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /call-international-days-action-against-sanctions-economic-war-march-13-15-2020
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<em>Sanctions Kill!</em>\r\n<em>Sanctions are War!</em>\r\n<em>End Sanctions Now!</em>\r\n\r\n<strong>Please add your endorsement and help spread the word</strong>\r\n\r\n<a href=\"https://solidaritycenter.ourpowerbase.net/sites/all/modules/civicrm/extern/url.php?u=1642&amp;qid=2259655\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://solidaritycenter.ourpowerbase.net/sites/all/modules/civicrm/extern/url.php?u%3D1642%26qid%3D2259655&amp;source=gmail&amp;ust=1575397805678000&amp;usg=AFQjCNH2nuo1SNBtLIgQpiNFu0eiBeuuLA\"><strong>Sign on - click here</strong></a>\r\n\r\nSanctions are imposed by the United States and its junior partners against countries that resist their agendas.\_ They are a weapon of Economic War, resulting in chronic shortages of basic necessities, economic dislocation, chaotic hyperinflation, artificial famines, disease, and poverty.\_ In every country, the poorest and the weakest – infants, children, the chronically ill and the elderly – suffer the worst impact of sanctions.\r\n\r\nUS imposed sanctions, violate international law and are a tool of regime change. They impact a third of humanity in 39 countries.\_ They are a crime against humanity used, like military intervention, to topple popular governments and movements.\_ \_They provide economic and military support to pro-US right-wing forces.\r\n\r\nThe US economic dominance and its +800 military bases worldwide demands all other countries participate in acts of economic strangulation.\_ They must end all normal trade relations, otherwise they risk having Wall Street’s guns pointed at them.\_ The banks and financial institutions that are responsible for the devastation of our communities at home drive the plunder of countries abroad.\r\n\r\nMany organizations have been fighting Sanctions and Economic War for some time.\_ NOW is an opportunity to combine efforts to raise consciousness on this crucial issue.\r\n\r\nThis broad campaign will include protests and demonstrations, lobbying, petition drives and all forms of educational efforts.\r\n\r\n<strong>As an initial step for this campaign we encourage mobilizations and educational efforts to be organized for the International Days of Action against US imposed Sanctions and Economic War on March 13-15.</strong>\r\n\r\n<span id=\"m_-2988767964494918934m_-5711992211598902764m_-5082807242982075320_mce_caret\"></span><strong>Please add your endorsement and help spread the word</strong>\r\n\r\n<a href=\"https://solidaritycenter.ourpowerbase.net/sites/all/modules/civicrm/extern/url.php?u=1642&amp;qid=2259655\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://solidaritycenter.ourpowerbase.net/sites/all/modules/civicrm/extern/url.php?u%3D1642%26qid%3D2259655&amp;source=gmail&amp;ust=1575397805678000&amp;usg=AFQjCNH2nuo1SNBtLIgQpiNFu0eiBeuuLA\"><strong>Sign on - click here</strong></a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: 8ec8e0dc-b6ed-4683-a718-bd2452edec59
+  field_mt_slideshow:
+    -
+      value: false

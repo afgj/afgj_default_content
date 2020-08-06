@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a68d40c6-e52d-42f7-bb8a-d79a6e259cc0
+  bundle: article
+  default_langcode: en
+  depends:
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Emergency Support Needed at the Venezuela Embassy! Help send the #Poorpeoplesarmy'
+  created:
+    -
+      value: 1557409802
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /emergency-support-needed-venezuela-embassy-help-send-poorpeoplesarmy
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "\"Their coups failed in Venezuela so they are trying one here.\" - Embassy Protection Collective.\_\_Don't let them succeed!\r\n\r\nCan you get to DC now?\_ If so, make your way there!\_ The Embassy Protection Collective is calling for emergency support as their electricity gets cut off in another illegal act to force an eviction. They have been putting their bodies on the line for the past 30 days to prevent an escalation of violence in Venezuela. They are demanding that the US Administration respect international law and stop the attacks on legal tenants of the Venezuela Embassy in DC.\r\n\r\nWhile the protectors inside are blockaded from food, supplies and now electricity, Embassy Protectors outside are facing virulent mobs of pro Coup/pro Guaidó individuals who continue to physically, verbally, physiologically attack people who are saying, \"No War in Venezuela.\" Base on their verbal assaults, these are homophobic, racist, and misogynist individuals.\_They need our urgent and immediate support outside the embassy while those inside stand strong.\_ They say via live stream this morning that their resolve to stand in solidarity with the legitimate government of Venezuela has only deepened.\r\n\r\n<strong>If you can't get there in person, support the Poor People's Army which is on their way there right now.\_</strong>\r\n\r\n<em><strong>#PPEHRC #Poorpeoplesarmy Mother's Day brigade headed to Venezuela embassy to bring food and power packs.</strong></em>\r\n\r\n<em>The original meaning of Mother's Day was to promote peace and we as poor families intend to carry that tradition forward! Today! We need to move quickly, night is coming soon and we as poor people know what it's like to sit in the dark. It is terrifying to sit in the dark with the military outside your door and have no way to communicate with the world.\_ We have a responsibility to move quickly and to provide the resources they need. #PPEHRC #Poorpeoplesarmy is ready to do this we just need to raise $600.00 to make it happen!</em>\r\n<h3><a href=\"https://default.salsalabs.org/Te2d97241-3fa1-4c1e-a928-3eb980781141/951eb5f7-3beb-4dc4-82f0-84d551de38a5\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Te2d97241-3fa1-4c1e-a928-3eb980781141/951eb5f7-3beb-4dc4-82f0-84d551de38a5&amp;source=gmail&amp;ust=1557521220926000&amp;usg=AFQjCNGwXtM7A1WLWnA0y64TiV6Org3X-Q\"><strong>Donate to support the\_#Poorpeoplesarmy who is headed there now.</strong></a></h3>\r\n<hr />\r\nAlliance for Global Justice and the Venezuela Strategy Group are organizing a webinar,\_<a href=\"https://default.salsalabs.org/T1ab14e5a-d08e-4954-89a6-d4fb03b695e4/951eb5f7-3beb-4dc4-82f0-84d551de38a5\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T1ab14e5a-d08e-4954-89a6-d4fb03b695e4/951eb5f7-3beb-4dc4-82f0-84d551de38a5&amp;source=gmail&amp;ust=1557521220926000&amp;usg=AFQjCNFckxoP3tq6h-CD1kW3cEiqZsYAcA\">Inside and Out: Live from the Siege at the Venezuela Embassy in DC</a>\_on\_Friday, May 10 at 8pm EDT / 5pm PDT.\r\n\r\nPlans to have speakers from\_<em>inside\_</em>the embassy might not be possible given the recent developments, however we will have presenters that can give first hand accounts of the situation on the ground. Please register and share widely.\r\n\r\n<hr />\r\n<strong>Additional actions you can take today!\_\_</strong>\r\n\r\n\"Our power was cut off, so we are counting on you.\" The Embassy Protection Collective is asking for you to make calls.\r\n\r\n--Call the Secret Service at (202) 406-8800. They are the ones that ordered the power to be cut last night.\_ They are not guaranteeing public safety."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

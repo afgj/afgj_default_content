@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 306ef013-73ef-4124-994b-99fd6216ab61
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicanotes: NICA Act passes the House. Now What?'
+  created:
+    -
+      value: 1507728800
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-nica-act-passes-house-now-what
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-7994 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/08/nicanotesbannerwbyline2.jpg\" alt=\"Nincanotes : A blog about nicaragua by solidarity activists\" width=\"594\" height=\"196\" />\n<div style=\"text-align: center;\">By Chuck Kaufman</div>\n<div></div>\n<div>The NICA Act passed the House of Representatives last Wednesday by unanimous consent.\_This is the bill that is intended to block Nicaragua from access to multilateral loans from the\_World Bank, IMF, and others. Thank you to readers who <a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25371\" target=\"_blank\" rel=\"noopener\">responded to our Alert and contacted\_their Representatives.</a> I’m particularly angry that the Act passed by unanimous consent voice\_vote meaning not a single Congresscritter, Democrat or Republican, who was contacted raised\_an objection to a level which would have forced the Act to be voted on with a quorum present. It\_is likely that only the Majority and Minority Leaders were even on the floor of the House when it\_was “voted” on. The unanimous consent docket is made up of bills that the two parties’\_leadership consider uncontroversial and therefore don’t even require that a quorum be present\_to actually vote.</div>\n<div></div>\n<div>The only Member of Congress that we know spoke publicly against the NICA Act was\_Texas\_Rep. Vicente Gonzalez objected that passage of the bill could strain relations with Nicaragua\_and lead to instability, irregular migration to the United States through his Texas district, and\_increase criminal activity in the area.Gonzalez added that Nicaragua has its economic and\_political challenges but it has advanced toward the resolution of poverty, climate change and\_economic growth.”</div>\n<div></div>\n<div>My only hopeful conclusion about the silence from the liberal wing of the House Democrats is\_that none of our “friends” in the House thought the Act would go anywhere in the Senate, so\_they didn’t see any point in fighting it. I hope that is right, and think that it probably is. Still, for it\_to pass by unanimous consent after we made an issue of it shows how little our individual\_voices as voters matter to the men and women who supposedly represent us in Congress.</div>\n<div></div>\n<div>As I wrote previously, Rochester, NY Democratic Rep. Louise Slaughter, told one of our board\_members she thought the NICA Act would pass as a going away present to Republican\_Congresswoman Ileana Ros-Lehtinen the ex-Cuban gusano from Miami who sponsored the bill.\_I find the thinking behind that to be so jaw-dropping incomprehensible that I wonder if our\_elected officials are still altogether human. (I don’t include Slaughter in that assessment as she\_has been supportive for many years.)</div>\n<div></div>\n<div>But the fact is that Democrats, for over 30 years, have ceded US Latin America policy to a cabal\_of right-wing and former Cuban Members of Congress and State Department career diplomats.\_It hasn’t mattered which party controlled the White House, the Cold Warriors ran hemispheric\_foreign policy. This latest retirement present to a Congresswoman who has been among the\_most hostile to anything in Latin America that improved the lives of ordinary people, is why I\_personally have no more use for Democrats than I do for Republicans. When it comes to Latin\_America, there simply is no difference between the two parties.</div>\n<h2 style=\"text-align: center;\"><strong>So where do things stand now?</strong></h2>\n<div>We should remember that the NICA Act also passed the House by unanimous consent last year\_and the Senate never even held hearings on it. It seems like that is the expectation this year.\_US Ambassador to Nicaragua Laura Dagu has made clear that the Trump administration has\_shown no interest in the Act to date. All sectors of Nicaraguan society, with the notable\_exception of the Monealegre faction of the Liberals and the Sandinista Renovation Movement\_(MRS), are totally against the NICA Act recognizing the fact that it would hurt the economy, cost\_jobs, cut social spending by the government, and increase out migration, much of which would\_head for the US border.</div>\n<div></div>\n<div>It is hard to see how the former US embassy darling, banker Eduardo Montealegre, and his\_partners in the MRS, can hold on to even the single digit voter support they had. Traveling to a\_foreign country and lobbying for an economic boycott of your own country would be considered\_a crime in many countries. While no legal actions against them are contemplated in Nicaragua,\_voters there are pretty savvy about voting in favor of their own interests rather than those of the\_United States.</div>\n<div></div>\n<div>I find it interesting that the World Bank and IMF, where US officials would vote against future\_loans to Nicaragua, haven’t talked about the NICA Act and indeed have announced new loan\_packages for the coming year while being quite effusive in their praise for Nicaragua’s effective\_use of past loans. Moody and Fitch sovereign credit rating agencies both just recently\_reaffirmed Nicaragua’s international credit rating and specifically cited a stable economic\_outlook. Neither mentioned the NICA Act as a possible destabilizer. I think that has to be\_significant.</div>\n<div></div>\n<div>While we can’t just sit back and assume we’ve heard the last of the NICA Act, I am cautiously\_optimistic. We’ll keep an eye out to see if the Senate Foreign Relations Committee schedules a\_hearing. If so, we’ll mobilize so that people can send messages to their Senators. In the normal\_course of things, I don’t pay much attention to what is going on in Congress.</div>\n<div></div>\n<div>Nicaragua\_Network/Alliance for Global Justice was never an “inside-the-beltway” organization even when,\_prior to 2013, we had our office inside the beltway.</div>\n<div></div>\n<div>Our position always was to provide the organizing tools for grassroots activists to lobby their\_own elected officials. I’d be happy to have some help from some of you political junkies who\_follow Congress. Please send me an email at <a href=\"mailto:Chuck@AFGJ.org\">Chuck@AFGJ.org\_</a>if you can help monitor the\_Senate Foreign Relations Committee hearing schedule or if you have a Senate aide who would\_do it and agree to give you a heads up if it looks like anything is going to happen in the Senate.\_In the meantime, not just Nicaragua is under assault by the US government, Venezuela and\_Cuba are focal points of US intervention right now, with Bolivia and Ecuador not far behind.</div>\n<div></div>\n<h2 style=\"text-align: center;\"><span style=\"letter-spacing: 0.05em;\">We\_need to stand in solidarity with all progressive forces in Latin America </span><span style=\"letter-spacing: 0.05em;\">and the Caribbean. And\_we will.</span></h2>\n<div>\n\n<hr />\n\n<strong>BRIEFS</strong>\n\n</div>\n<ul>\n \t<li>Hurricane Nate, which was still a tropical storm when it passed over Central\_America, brought heavy rains, mudslides and flooding to Nicaragua and the deaths of 15\_people. Hardest hit were the Department of Rivas, Nandaime and Ochomogo in the\_Department of Granada, Cusmapa in Esteli and Ciudad Dario and the northern part of the\_Department of Matagalpa. Vice-President Rosario Murillo said the government was\_mobilized to rescue people and tens of thousands of food packages have been handed out\_in the most affected areas. 252 health brigades have been mobilized involving 1,400 health\_workers and 31 mobile clinics. Home visits total 14,000 so far and over 20,000 patients have\_been treated. In total 8,236 families were displaced due to flooding, including 300 families in\_Cusmapa due to mud slides. (Informe Pastran, Oct. 9)</li>\n</ul>\n<ul>\n \t<li>The Nicaragua Center for Exports (CETREX) announced that exports totaled\_US$2.1 billion during the first nine months of this year, 17.6% over the same period of 2016.\_Sectors such as coffee (US$466.9 million); beef (US$394.6 million); gold (US$241 million);\_and sugar (US$175 million) were among the main drivers of this growth. (Nicaragua News,\_Oct. 6)</li>\n</ul>\n<ul>\n \t<li>A recent study published by Vanderbilt University ranks President Daniel Ortega as\_the third most popular president in Latin America. The report states that the Guyana President\_David Granger obtained 72.8% popular support, followed by President Danilo Medina of the\_Dominican Republic with 69.2%. Nicaragua President Daniel Ortega came in at 68.9%\_followed by President Lenin Moreno of Ecuador with 62.9% favorable opinion. (Nicaragua\_News, Oct. 5)</li>\n</ul>\n<ul>\n \t<li>The Inter-American Development Bank (IDB) announced the approval of a US$65\_million loan to support the Nicaragua Energy Development Action Plan. The Plan covers\_aspects such as universal access to electricity service, promotion of energy efficiency and\_diversification of the national energy matrix. (Nicaragua News, Oct. 3)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

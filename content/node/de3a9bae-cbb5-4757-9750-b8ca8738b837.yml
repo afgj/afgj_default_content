@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: de3a9bae-cbb5-4757-9750-b8ca8738b837
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Groups Participating in Tear Down the Walls'
+  created:
+    -
+      value: 1379923374
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /groups-participating-tear-down-walls
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>\_</strong>\r\n\r\nAction LA Network\r\nAfrican Awareness\r\nAlianza Indigena Sin Fronteras\r\nAll African Peoples Revolutionary Party\r\nANSWER Coalition\r\nAZ4NORML\r\nCampaign to End the New Jim Crow\r\nChiapas Support Committee of Oakland\r\nChicago Committee to Free the Cuban Five\r\nCindy’s Soapbox\r\nCoalicion de Derechos Humanos\r\nCoalition to Repeal and Resist SB1070\r\nCoalitions of Mutual Endeavor\r\nCode Pink\r\nCommittee to Stop FBI Repression\r\nCourage to Resist\r\nCreating A Culture of Peace\r\nDrug War Working Group \_(LASC)\r\nEco-Solidarity Project\r\nEnd Streamline Coalition\r\nFellowship of Reconciliation\r\nFood Not Bombs\r\nGlobal Exchange\r\nGlobal Justice Ecology Project\r\nInternational Action Center\r\nInteroccupy\r\nIt’s Our Economy\r\nJavier Sicilia\r\nJustice4Families\r\nLabor Party Advocates - Tucson\r\nLajee Center\r\nLatin America Solidarity Coalition\r\nLive from Lockdown\r\nMalintzine\r\nMarin Task Force on the Americas\r\nMove To Amend\r\nNational Immigrant Solidarity Network\r\nNational Network on Cuba\r\nNetwork in Solidarity with the People of Guatemala (NISGUA)\r\nNicaragua Network\r\nNo More Deaths\r\nNonviolence Legacy Project\r\nOccupy Tucson\r\nPan Left Productions\r\nPan-African Roots\r\nPeople’s Puppets\r\nPoor People’s Economic Human Rights Campaign\r\nProgressive Democrats of America-Tucson\r\nProject Safe Haven\r\nRed Bird Prison Abolition\r\nRicardo Soberon\r\nRochester (NY) Committee on Latin America\r\nSalt of the Earth Labor College\r\nSchool of the Americas Watch\r\nSierra Club\r\nThe International Campaign for Justice in Bhopal, North America (ICJB-NA)\r\nTucson Anti-Authoritarian Network\r\nUS Labor Against the War (USLAW)\r\nUS Social Forum\r\nVenezuela Solidarity Network\r\nWorld Can’t Wait"
+      format: full_html
+      summary: ''

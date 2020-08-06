@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: fb8267bf-cb58-431b-8ed4-643404078ff2
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: ' Participant Registration'
+  created:
+    -
+      value: 1372650515
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /participant-registration
+      langcode: en
+      pathauto: 1

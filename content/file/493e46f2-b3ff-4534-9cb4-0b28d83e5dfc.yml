@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 493e46f2-b3ff-4534-9cb4-0b28d83e5dfc
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: mt-team-member-landscape-5.jpg
+  uri:
+    -
+      value: 'public://2018-05/mt-team-member-landscape-5.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 14937
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1525441937

@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 63d02daa-3eee-4303-92fd-e7a9c197ea89
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA News, July 6, 2018: Ecuadorans Protest Against Lula-style frame-up of Rafael Correa'
+  created:
+    -
+      value: 1530873618
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-news-july-6-2018-ecuadorans-protest-against-lula-style-frame-rafael-correa
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-10329 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/07/Correa-march.jpg\" alt=\"\" width=\"640\" height=\"352\" />\r\n\r\n&nbsp;\r\n<p dir=\"ltr\"><strong>Ecuador</strong>:</p>\r\n<p dir=\"ltr\"><a href=\"https://www.telesurtv.net/english/news/Ecuador-Rafael-Correa-Supporters-March-To-Protest-Detention--20180705-0019.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Ecuador-Rafael-Correa-Supporters-March-To-Protest-Detention--20180705-0019.html&amp;source=gmail&amp;ust=1530984782418000&amp;usg=AFQjCNFaVYpIiTph3TedrCubZq54-VeSgA\">Ecuador: Rafael Correa Supporters March To Protest His Frame-up</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.telesurtv.net/english/news/Latin-American-International-Leaders-Back-Rafael-Correa-After-Court-Orders-Arrest-20180704-0007.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Latin-American-International-Leaders-Back-Rafael-Correa-After-Court-Orders-Arrest-20180704-0007.html&amp;source=gmail&amp;ust=1530984782418000&amp;usg=AFQjCNHj09aBlwoChTgg7DgLsbUzppE7vw\">Latin American, International Leaders Back Rafael Correa As Ecuador Court (after Pence’s visit) Tries to Frame him Lula-style</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.rt.com/news/431731-correa-arrest-allegations-interview/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.rt.com/news/431731-correa-arrest-allegations-interview/&amp;source=gmail&amp;ust=1530984782418000&amp;usg=AFQjCNFLCrYWS7Fqm4SDVCez7usPMj089w\">‘They want me dead’: Rafael Correa defies arrest order &amp; talks ‘lawfare’ in RT interview</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.telesurtv.net/english/news/Rivadeneira-Justice-is-Being-Manipulated-Against-Rafael-Correa-20180704-0030.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Rivadeneira-Justice-is-Being-Manipulated-Against-Rafael-Correa-20180704-0030.html&amp;source=gmail&amp;ust=1530984782418000&amp;usg=AFQjCNH_jcM-qcAQ2XdS0oEGveYWNLJoDw\">Rivadeneira: Justice is Being Manipulated Against Rafael Correa</a></p>\r\n<b>\r\n</b><strong>Nicaragua</strong>:\r\n<p dir=\"ltr\"><a href=\"http://en.granma.cu/mundo/2018-06-29/nicaragua-unraveling-a-plot\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://en.granma.cu/mundo/2018-06-29/nicaragua-unraveling-a-plot&amp;source=gmail&amp;ust=1530984782418000&amp;usg=AFQjCNEkGTDQViCZQG7nduOGn1bp8p_jWA\">US National Endowment for Democracy distributed some $4.2 million \_in Nicaragua, between 2014 and 2017, to train “new leaders” to overthrow the Sandinista government</a></p>\r\n<p dir=\"ltr\">I<a href=\"https://www.investigaction.net/en/nicaragua-terrorism-as-an-art-of-demonstrating/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.investigaction.net/en/nicaragua-terrorism-as-an-art-of-demonstrating/&amp;source=gmail&amp;ust=1530984782418000&amp;usg=AFQjCNE1gG7legJ_X7tHt-Q5zSPw7NRIXg\">nvestigaction: Nicaragua - Media Disinformation presents terrorism as demonstrating for democracy</a></p>\r\n<p dir=\"ltr\"><a href=\"https://afgj.org/armed-aiolence-in-nicaragua-an-imported-product\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/armed-aiolence-in-nicaragua-an-imported-product&amp;source=gmail&amp;ust=1530984782418000&amp;usg=AFQjCNE51cp6Be5YFXTW_fINWhRAG3WGZA\">Mision Verdad: The Role of Central American gangs in the Nicaragua violence</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.telesurtv.net/english/opinion/Nicaragua-Legitimacy-And-Human-Rights-20180704-0034.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/opinion/Nicaragua-Legitimacy-And-Human-Rights-20180704-0034.html&amp;source=gmail&amp;ust=1530984782418000&amp;usg=AFQjCNEjgq26ISucms9a2ekSmU_Mxvmc0w\">Tortilla con Sal: Defeated Nicaragua opposition leaders hoped to impose their coup, failed because they lacked popular support, resorted to widespread violence and destruction</a></p>\r\n<p dir=\"ltr\"><a href=\"https://mailchi.mp/263e14f74899/tfa-fall-newsletter-is-out-824969?e=deff4c8dd5\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://mailchi.mp/263e14f74899/tfa-fall-newsletter-is-out-824969?e%3Ddeff4c8dd5&amp;source=gmail&amp;ust=1530984782418000&amp;usg=AFQjCNFq2eyV0BoR9OCfxwSv05ORUlJD_g\">Task Force on the Americas: What’s Happening in Nicaragua</a></p>\r\n<p dir=\"ltr\"><strong>Venezuela</strong>:</p>\r\n<p dir=\"ltr\"><a href=\"http://resumen-english.org/2018/07/pence-another-tour-for-the-monroe-doctrine/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://resumen-english.org/2018/07/pence-another-tour-for-the-monroe-doctrine/&amp;source=gmail&amp;ust=1530984782418000&amp;usg=AFQjCNGPrZ2lrMgzL8vLwDcYjyZVxEdEpQ\">Pence’s Latin America tour aimed at removing Venezuela government and destroying the popular continental movement against neoliberalism and neocolonialism</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.bloomberg.com/news/articles/2018-06-27/inside-the-failed-plot-to-overthrow-venezuelan-president-nicolas-maduro\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.bloomberg.com/news/articles/2018-06-27/inside-the-failed-plot-to-overthrow-venezuelan-president-nicolas-maduro&amp;source=gmail&amp;ust=1530984782418000&amp;usg=AFQjCNEJbNUHNDzV_I3Q_0Rgp9iJ3kcHRw\">Inside the Failed Plot to Overthrow Venezuelan President Nicolás Maduro</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.yahoo.com/news/m/ef7c5350-bbe4-3822-a2f4-27478839dbe9/ss_us-official%3A-trump-pressed.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.yahoo.com/news/m/ef7c5350-bbe4-3822-a2f4-27478839dbe9/ss_us-official%253A-trump-pressed.html&amp;source=gmail&amp;ust=1530984782419000&amp;usg=AFQjCNGEyjbpt0BpVRxLq1a9HBbFub7_xA\">Trump pressed aides on Venezuela invasion, US official says</a></p>\r\n<p dir=\"ltr\"><a href=\"http://theprisma.co.uk/2018/07/02/venezuela-weapons-against-the-economic-war/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://theprisma.co.uk/2018/07/02/venezuela-weapons-against-the-economic-war/&amp;source=gmail&amp;ust=1530984782419000&amp;usg=AFQjCNH8YWnUUlk9kCGiFCY24PIRVDqOiA\">Venezuela: weapons against the economic war</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.telesurtv.net/english/news/China-Approves-US5Bn-Loan-For-Venezuelan-Oil-Development-20180703-0036.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/China-Approves-US5Bn-Loan-For-Venezuelan-Oil-Development-20180703-0036.html&amp;source=gmail&amp;ust=1530984782419000&amp;usg=AFQjCNHGjoYu_LC41XY94FlmfBpMp2cgjg\">In Slap at the West, China Approves $5Bn Loan For Venezuelan Oil Development</a></p>\r\n<b>\r\n</b><strong><a href=\"https://afgj.org/call-foraugust-7-international-day-for-peace-in-colombia-against-state-and-paramilitary-terror\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/call-foraugust-7-international-day-for-peace-in-colombia-against-state-and-paramilitary-terror&amp;source=gmail&amp;ust=1530984782419000&amp;usg=AFQjCNFZulNF9ehgDxVlEQ6weTvXXM07iQ\">AFGJ Calls for <span class=\"aBn\" data-term=\"goog_588860817\"><span class=\"aQJ\">August 7</span></span> International Day for Peace in Colombia, against State and Paramilitary Terror</a></strong>\r\n\r\n<hr />\r\n\r\n<h2 id=\"m_777319361513180780gmail-m_-4546164052145643394gmail-m_8774691331061159411gmail-m_-8213335874581264356gmail-m_-2776178258433599685gmail-m_-9020789454698019944gmail-m_6252858159261738354DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\"><strong>About the Weekly</strong></h2>\r\n<div>\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n</div>\r\n<div class=\"sharedaddy sd-sharing-enabled\"></div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

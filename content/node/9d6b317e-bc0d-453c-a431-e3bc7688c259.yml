@@ -1,0 +1,77 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 9d6b317e-bc0d-453c-a431-e3bc7688c259
+  bundle: mt_service
+  default_langcode: en
+  depends:
+    f6256fe9-1b87-4a29-8325-cd3b9e569e24: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Support those arrested resisting police repression and racism-Resource Guide'
+  created:
+    -
+      value: 1592255849
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_srv_body:
+    -
+      value: "<p>At least 5,600 persons have been arrested in the nationwide uprisings against police repression and racism, many facing serious charges. We already see racist patterns to police violence and detentions. We believe this repression could produce a new wave of US political prisoners. We must do all we can to prevent that. Whether or not we endorse or agree with their tactics, we must recognize that their cases require a political solution, not a criminal one.</p>\r\n\r\n<p>The Alliance for Global Justice is committed to&nbsp;the struggle against mass incarceration and politically motivated arrests both inside the US and around the world. We maintain one of the most complete lists of <a href=\"https://afgj.org/politicalprisonersusa\">US Political Prisoners</a>. Our <a href=\"https://afgj.org/prison-imperialism\">Prison Imperialism</a> project reveals the spread of mass incarceration internationally. Our Fiscal Sponsorship program provides financial services for several organizations involved in prisoner rights and anti-racist movements. In every area, we strive to oppose the racism that is at the heart of police repression and mass incarceration.</p>\r\n\r\n<p>We are listing below a kind of “tool kit” of ways you can learn about and take action to support those arrested during this uprising.</p>\r\n\r\n<h2><strong>UPRISING DETAINEE SUPPORT RESOURCES</strong></h2>\r\n\r\n<h3><span><strong>Follow these links to contribute to pay bail bonds for those arrested in demonstrations:</strong></span></h3>\r\n\r\n<ul>\r\n\t<li><strong>Action Bail Fund (NYC)&nbsp;</strong><a href=\"https://afgj.salsalabs.org/actionbailfund/index.html\">https://afgj.salsalabs.org/actionbailfund/index.html</a></li>\r\n\t<li><strong>Bukit Bail Fund of Pittsburgh (PA)</strong>&nbsp;<a href=\"https://www.bukitbailfund.org/donate\">https://www.bukitbailfund.org/donate</a></li>\r\n\t<li><strong>Colorado Freedom Fund&nbsp;</strong><a href=\"https://fundly.com/coloradofreedom\">https://fundly.com/coloradofreedom</a></li>\r\n\t<li><strong>Louisville (KY) Bail Fund</strong>&nbsp;<a href=\"https://afgj.salsalabs.org/louisvillebailfund\">https://afgj.salsalabs.org/louisvillebailfund</a></li>\r\n</ul>\r\n\r\n<h3><span>Report those who are jailed during the uprising and not being released</span></h3>\r\n\r\n<p>While we cannot list all who have been arrested or jailed for short periods, we want to be able to include on our US Political Prisoner list those who are being held with no imminent release in sight, who are facing serious charges related to the uprising, and how people can support their cases. Send reports to <a href=\"mailto:James@AFGJ.org\">James@AFGJ.org</a></p>\r\n\r\n<h3><span><a href=\"http://alabamavidette.tripod.com/webonmediacontents/Where%20are%20the%20demonstrations.pdf\"><strong>Click here to download this well-researched information guide developed by our intern Natalia Schuurman that will help any who want to understand better the scope of the uprising and the repression against it. </strong></a></span></h3>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_srv_highlight:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: c5cfa2dd-1cf8-45f2-b635-cde2da1f714d
+          bundle: mt_highlight
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1592255921
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+  field_mt_srv_image:
+    -
+      entity: f6256fe9-1b87-4a29-8325-cd3b9e569e24
+      alt: Protesters
+      title: ''
+      width: 560
+      height: 747
+  field_mt_srv_subheader_body:
+    -
+      value: "<p><strong>“As city after city in the United States experiences their own insurrectionary social explosion in the face of police violence and the militarization of State repression, we must all unite to follow the lead and to defend those who are the main targets of oppression…. The political and corporate elites will double down on the violence, targeting black and brown bodies. Thousands more will be arrested for exercising their First Amendment rights to gather, to protest, and to speak truth to power.” </strong></p>\r\n\r\n<p><strong>–from the <a href=\"https://afgj.org/we-are-all-george-floyd-we-are-all-tupac-amaru\">Alliance for Global Justice statement (We Are All George Floyd; We Are All Tupac Amaru)</a></strong></p>\r\n"
+      format: basic_html
+      summary: ''

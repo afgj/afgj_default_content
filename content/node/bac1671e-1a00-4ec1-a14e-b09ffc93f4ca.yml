@@ -1,0 +1,87 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: bac1671e-1a00-4ec1-a14e-b09ffc93f4ca
+  bundle: article
+  default_langcode: en
+  depends:
+    77f43458-1677-4786-8c13-4dd667975438: file
+    ca07cad4-406d-4f0d-950a-c59d6a03aeb3: file
+    1306e589-1ead-47d2-9ff1-70912c4c4e3d: file
+    e09dfd17-ab2b-46b7-8277-fdc80e405651: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Second Article'
+  created:
+    -
+      value: 1465328881
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /second-article
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise <a href=\"#\">with competitive technologies</a>. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n\r\n<blockquote>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies. Appropriately communicate adaptive imperatives rather than value-added potentialities.</blockquote>\r\n\r\n<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise <a href=\"#\">with competitive technologies</a>. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n\r\n<h3 class=\"description-title\">Lorem ipsum dolor sit amed consetatur</h3>\r\n\r\n<p>Compellingly <a href=\"#\">recaptiualize enterprise-wide web-readiness</a> for robust strategic theme areas. Synergistically reconceptualize user-centric functionalities via revolutionary strategic theme areas. Progressively transition out-of-the-box leadership skills rather than top-line and <a href=\"#\">this is a hover link</a>.</p>\r\n"
+      format: full_html
+      summary: '<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies appropriately communicate.</p>'
+  field_image:
+    -
+      entity: 77f43458-1677-4786-8c13-4dd667975438
+      alt: 'Second Article'
+      title: 'Second Article'
+      width: 750
+      height: 500
+  field_mt_banner_image:
+    -
+      entity: ca07cad4-406d-4f0d-950a-c59d6a03aeb3
+      alt: 'slide one'
+      title: ''
+      width: 1920
+      height: 650
+    -
+      entity: 1306e589-1ead-47d2-9ff1-70912c4c4e3d
+      alt: 'slide two'
+      title: ''
+      width: 1920
+      height: 650
+  field_mt_slideshow:
+    -
+      value: false
+  field_mt_slideshow_image:
+    -
+      entity: e09dfd17-ab2b-46b7-8277-fdc80e405651
+      alt: 'Second Article'
+      title: 'Second Article'
+      width: 1920
+      height: 650
+  field_mt_slideshow_text:
+    -
+      value: "<p>Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n"
+      format: basic_html
+  field_mt_subheader_body:
+    -
+      value: "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>\r\n"
+      format: basic_html
+  field_mt_video:
+    -
+      value: 'https://www.youtube.com/watch?v=T7SqK5RizWY'

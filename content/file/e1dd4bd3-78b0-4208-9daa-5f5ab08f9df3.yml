@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: e1dd4bd3-78b0-4208-9daa-5f5ab08f9df3
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: mt-showcase-6.jpg
+  uri:
+    -
+      value: 'public://2018-05/mt-showcase-6.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 28656
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1527152461

@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 1f064fcd-fae9-44c3-8867-bcbd2884341f
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NicaNotes: Education: A Right Recuperated'
+  created:
+    -
+      value: 1486564487
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-education-right-recuperated
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p class=\"p1\"><a href=\"https://afgj.org/nicanotes\"><img class=\"aligncenter wp-image-6975 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"nicanotesbannerwbyline\" width=\"579\" height=\"195\" /></a></p>\n<p class=\"p1\">An El Nuevo Diario article on Feb. 6 reported that\_as of Feb. 1, over 1.5 million students were registered for public\_school as\_the new school year is about to\_start. The article estimated there would be 1.7\_million students in the public\_school system by the end of February.</p>\n<p class=\"p1\">I thought back to the state of education in\_Nicaragua ten years ago when Daniel Ortega received the presidential\_sash and,\_as his first act, declared an end\_to school fees. Seventeen years of neoliberal\_governments, since the\_Sandinista electoral defeat in 1990, had decimated the\_public school system. Under\_IMF structural adjustment\_prescriptions, which\_presidents Chamorro, Aleman, and Bolaños followed slavishly, money was withheld\_from\_maintenance and\_infrastructure, teachers were the lowest paid in Central\_America, and parents had to pay monthly\_fees plus fees for school uniforms,\_tests, janitorial\_services, certificates of grade completion, and more.</p>\n<p class=\"p1\">If memory serves, there were about 700,000 children in\_school in 2006. Many more were in the streets, laboring in\_the fields, working\_in the informal\_economy to help their family survive. When the school doors\_opened in February\_2007, over 100,000 children who hadn’t been previously\_enrolled showed\_up. There weren’t enough classrooms.\_There weren’t enough\_desks. There sure weren’t enough teachers! It was a year of improvisation and\_I’m sure it is\_not a year that any professional teacher would ever want to\_repeat!</p>\n<p class=\"p1\">The return of the Sandinista government meant a\_return of the revolutionary ideals that said every person had the\_right to\_education. Health care is a right.\_Dignified housing is a right. Proper\_nutrition is a right. The new government\_set about restoring the rights that\_the Nicaraguan people had won with so much\_blood when they overthrew the\_Somoza\_dictatorship. Rights that were only partially fulfilled during the\_revolutionary years because so much of the\_national\_treasure – material and\_human – was diverted to fighting the Contra War imposed by the government of\_the\_United States.</p>\n<p class=\"p1\">The government of President Daniel Ortega knew it\_wasn’t enough just to make education free. They had to build\_schools. They had\_to repair classrooms.\_They had to buy a massive number of desks, and books. And\_they set about\_doing that. Nicaragua is the second poorest country in the\_hemisphere, but\_each year it has increased the money\_spent on education – on\_the physical plant, on the students, and on teacher pay and training.</p>\n<p class=\"p1\">But even that wasn’t enough. Parents couldn’t send\_their children to school if they had no clothes, if they could not\_afford a\_pencil and a notebook, if the\_child’s labor was needed for the family to eat.</p>\n<p class=\"p1\">So like all of the brilliant poverty reduction programs\_implemented since the Sandinistas returned to office, what\_became known as the\_Fight for the Sixth\_Grade was an integrated program. (Fight for the Sixth Grade\_was a program\_to achieve at least a sixth grade education level not just for\_every child, but for\_every Nicaraguan, so adult education\_programs also became\_part of the mix.)</p>\n<p class=\"p1\">Rhey initiated a government program to provide\_uniforms for the poorest of the poor. The government provided a\_back pack\_stuffed with school supply\_necessities at the beginning of the year. But\_probably the greatest single thing\_the government did to keep the children in\_school was the school meal\_program. (In some schools it’s breakfast; in\_others\_lunch).</p>\n<p class=\"p1\">And what a brilliant and multi-level program it is.\_Not only does it feed the kids, but it is also a component of a\_revitalized\_peasant agricultural sector.\_Neoliberalism had no place in its plans for\_peasant agriculture, and yet that\_sector represented historically something\_like 60% of GDP. With the school\_lunch program, small farmers had a\_guaranteed\_market through the government for their basic subsistence crops like beans,\_corn, and rice. Many poor\_families sent their kids to school just so they could\_get one decent meal a day.</p>\n<p class=\"p1\">The school meal program was already a community\_affair with volunteers preparing the meals for students, but then\_the\_government took it another step\_farther. They began providing the inputs and\_training for school gardens\_including vegetables and fruit trees. Even more of\_the community got involved and\_part of each child’s education\_became learning\_how to grow the food they ate.</p>\n<p class=\"p1\">One historical nutritional weakness in Nicaragua has\_been a very conservative diet relying heavily on beans, rice,\_and corn\_tortillas. The really poor often\_had to get by on just tortilla with salt.\_(Inspiration for the name of the excellent\_political analysis website\_tortillaconsal.com.) Through the school gardens,\_students and their parents\_were exposed\_to fruits, leafy vegetables and root crops that they didn’t normally\_eat – and they were taught how to prepare\_delicious and varied meals.</p>\n<p class=\"p1\">I’m overusing the word brilliant in this essay, but\_isn’t that brilliant? How many times have foreign do-gooders gone\_into\_communities with the determination\_that they were going to show them how to eat\_better. How many of those\_community gardens were still maintained a year after\_the foreigners left? Not so\_with the school gardens. The entire\_community can\_see the benefits. The approach allowed the concept of a varied diet to grow\_organically into the\_community consciousness, not to be grafted on from the\_outside and then allowed to wither away.</p>\n<p class=\"p1\">with other programs, the Sandinista government has not forgotten the\_rural areas of the country, unlike all the\_governments that preceded them. They\_have focused on building and renovating rural schools, and in 2016, the\_Institute\_of National Technology (INATEC) opened 40 more technology centers in\_rural\_areas, adding to the 40 it had\_already set up. Government spokeswoman Rosario Murillo\_said that they were “fully furnished technology\_centers,\_equipped with computers and their accessories, to develop computer\_courses in the countryside.” \_She added that\_the centers would contribute\_to the\_eradication of rural poverty. Telemaco Talavera, President of the National\_Council\_of Universities (CNU), noted that in recent years the number of\_Nicaraguan graduates in technical careers has grown\_from\_17,000 to 27,000.</p>\n<p class=\"p1\">All this is not to say that Nicaragua has developed\_the nirvana of educational systems. Don’t pull your kids out of\_school and ship\_them to Nicaragua just yet.\_Enrollment is in the mid-90th\_percentile, but retention is still a struggle. A\_lot of money has been spent on\_building and repairing schools and classrooms, but\_overcrowding and class size\_is\_still a problem. Curriculum reforms have been put in place but most teachers\_were taught in the recitation and\_regurgitation\_old-style of education so\_change comes slowly.</p>\n<p class=\"p1\">But oh my. Isn’t it better to have 1.5 million\_students in school than to have 700,000? Isn’t it better to have a\_commitment\_to universal, free education than to\_say that poor people, especially the rural\_poor, do not need an\_education? I think the answer is a resounding yes. The\_current government may not be\_revolutionary enough for\_some of us in the\_privileged North. But don’t try to tell me that awakening the mind of a child\_is not a revolutionary\_act. Because\_without that first step, none of the\_subsequent steps are possible.</p>\n\n\n<hr />\n<p class=\"p1\">BRIEFS</p>\n\n<ul>\n \t<li class=\"p1\">OAS Secretary\_General Luis Almagro said the Nicaragua government has a strong commitment to\_democracy and the rule of law. \"The constructive\_dialogue between\_Nicaragua and the OAS is moving ahead. We\_will sign a three year Memorandum of\_Understanding to strengthen the democratic system\_and the rule of law, as\_well\_as to ensure free, fair, and transparent elections,\" he said.\_\_El Nuevo Diario reported final election\_turn-out\_figures of 63%. A poll\_of non-voters determined that they didn’t vote\_either because they “didn’t like the candidates”\_or “because elections don’t\_change anything.”\_(Nicaragua\_News, Jan.\_30; El Nuevo Diario, Feb. 1)</li>\n</ul>\n<ul>\n \t<li class=\"p1\">Presidential\_advisor Orlando Núñez,\_reported that the government will not allow Uber to enter the country so\_as to\_avoid conflicts with the guild of\_taxi drivers. In return he asked transport\_cooperatives to improve the service\_they offer. \"There is no provision to\_open the doors to Uber. They (the taxi\_drivers) are worried that Uber can enter\_Nicaragua and we are worried because it can generate a conflict. What we tell\_the carriers is that in exchange\_for us\_preventing the entry of Uber, they have to improve their service to the\_population,\" said Núñez.\_(El Nuevo Diario, Jan.\_31)</li>\n</ul>\n<ul>\n \t<li class=\"p1\">Nicaragua Army Chief, Gen. Julio César\_Avilés, announced that the Ecological Battalion is strengthening the\_protection\_of forestry resources\_nationwide. \"We have established five new\_Departments of the Ecological Battalion\_on the Nicaragua Caribbean Coast and in\_the northern part of the\_country. The goal is to provide greater protection of\_our natural resources, particularly our forests,\" he said.\_(Nicaragua News, Feb. 3)</li>\n</ul>\n<p class=\"p1\"><span class=\"s1\">\_</span></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 8ae599d5-eb79-453b-8a69-f81c755e0934
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: honduraspageimage.png
+  uri:
+    -
+      value: 'public://2020-06/honduraspageimage.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 291389
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1591190676

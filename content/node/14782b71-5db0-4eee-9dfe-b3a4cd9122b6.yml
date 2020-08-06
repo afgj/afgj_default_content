@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 14782b71-5db0-4eee-9dfe-b3a4cd9122b6
+  bundle: article
+  default_langcode: en
+  depends:
+    cd0b4a40-9b03-4048-a812-892416542fb4: taxonomy_term
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NicaNotes: Guest Post: Nicaragua Signs Paris Climate Agreement'
+  created:
+    -
+      value: 1508938372
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-guest-post-nicaragua-signs-paris-climate-agreement
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<div style=\"text-align: center;\">\n\n<img class=\"size-full wp-image-7994 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/08/nicanotesbannerwbyline2.jpg\" alt=\"Nincanotes : A blog about nicaragua by solidarity activists\" width=\"594\" height=\"196\" />\n\n<strong>Guest Post by\_By John Perry</strong>\n\n<hr />\n\n</div>\n<div><a href=\"https://www.lrb.co.uk/blog/2017/10/03/john-perry/the-us-is-out-nicaraguas-in/\" target=\"_blank\" rel=\"noopener\">The US is Out, Nicaragua’s In</a></div>\n<div>\n\nThis article was first published in the London Review of Books blog on Oct. 3, 2017 and is reprinted with\_permission of the author. Nicaragua signed the Paris Agreement on Oct. 23, 2017.\n\n<hr />\n\n</div>\n<div>\n\nWhile Donald Trump gives the appearance of wavering over his decision to pull the US out of the Paris\_Climate Agreement, Nicaragua has decided to sign it. It was one of only two countries not to sign in Paris\_last year; the other was Syria. Nicaragua abstained out of principle: the agreement didn’t go far enough.\_The target – to keep the average global temperature no more than 2ºC above pre-industrial levels – was\_insufficient, and in any case unlikely to be met. An unfair burden was being put on developing nations\_and not enough money was being promised to help them build low carbon economies.I met Nicaragua’s climate change negotiator, Paul Oquist, in June, a few days after Trump announced his\_decision to withdraw from the Paris Agreement. I suggested it would be an excellent moment for\_Nicaragua to change its mind, though claim no credit for the subsequent decision; I can’t have been the\_only one to think so.\n\nWhen Daniel Ortega returned to power in 2007 after 16 years of neoliberal governments, most of\_Nicaragua’s electricity was produced by burning oil. Shortages led to daily blackouts. Nicaragua was the\_poorest country in Central America but had the highest electricity prices.\_Ten years later, blackouts are\_much less frequent, prices have stabilized and more than half the electricity comes from renewable\_sources, with a realistic aim of reaching 90 per cent by 2020. Costa Rica has already exceeded that\_target, but three-quarters is via hydroelectricity, which may be vulnerable as climate change speeds up.\_Nicaragua’s energy matrix is more balanced, using wind, geothermal, solar and biomass alongside hydro.\n\nLatin America has plentiful renewable sources for electricity generation; the next challenge in reducing\_emissions will be transport. Even in the bigger cities, public transport is often inadequate and unattractive\_to the growing numbers who can afford cars. Weaning people off petrol or diesel cars and onto public\_transport means a major change in mindset for an elite whose point of reference is Miami. In a continent\_where railways have fallen into disuse and only the poor take buses, infrastructure investment currently\_means building more roads.\n\nLatin America is a major supplier of ‘ecosystem services’, principally the huge tropical forests that absorb\_carbon. North of the Amazon, Nicaragua has the biggest area of tropical forest in the hemisphere, but it is\_under constant threat from settlement, especially for cattle ranching. Ortega has granted a Chinese\_company the rights to build an inter-oceanic canal, rivalling Panama, on the grounds that it’s the only way\_to conserve the rainforest. The income from the canal, he argues, combined with the need to guarantee\_its water sources, will enable Nicaragua to defend the remaining forests and replant the areas now given\_over to cattle. The canal company, which has yet to start digging, has just announced a big tree-planting\_scheme.\n\nNicaragua has suffered several years of limited rainy seasons; the prognosis is for the droughts to get\_worse. Coffee production and other crops are threatened by rising temperatures. Yet the country\_generates only 0.03 per cent of global carbon emissions, a paltry 0.8 metric tons per head annually.\_Costa Rica produces twice that amount per head, the UK eight times and the US twenty times. If\_developed countries (the US excepted) are serious about the Paris Agreement, they’ll put money into\_helping poor countries achieve higher living standards without raising emissions. Even the IMF thinks\_they should do this. But Nicaragua’s skepticism about the likelihood of it happening is more than justified,\_even if, as an ‘act of solidarity’ with the poorest and most vulnerable nations, it goes ahead and signs.\n\n<hr />\n\nBRIEFS\n<ul>\n \t<li>President Daniel Ortega acknowledged the valuable cooperation of Taiwan and US Major\_League Baseball, during opening remarks at the inauguration of the Denis Martinez National Baseball\_Stadium in Managua last Thursday. \"The people of Taiwan donated US$30 million to make this dream\_come true and US experts ensured that the stadium meets the highest international quality\_standards,\" Ortega said. The dedication was a far cry from the dedication of its predecessor in 1948\_by the Dictator Anastasio\_Somoza. When Somoza threw the switch to light up the stadium, the\_electricity in most of Central America went out! Since the return of the Sandinistas to government in\_2007 Nicaragua is on the way to full electrification, greatly increased production which will soon\_achieve 80% generation from renewable energy sources. Rolling blackouts which were an everyday\_occurrence in 2006, are now a thing of the past. For example, in the past week electrical substations\_have been inaugurated in the northern rural department of Nueva Segovia which will serve 62,000\_people, in Leon that will serve 26,000 people, in Chinandega that will serve 43,000 people, and two\_new substations in Jinotega serving over 130,000 people. (Nicaragua News,\_Oct. 17, 19, 20; Informe\_Pastran, Oct. 20)</li>\n</ul>\n<ul>\n \t<li>The Communications Officer of the Organization of American States (OAS) in Managua,\_Clara González, announced that this week that the mobile team of the Electoral Accompaniment\_Mission visited seven departments in Nicaragua. She noted that the team met with representatives of\_all political parties participating in the\_Nov. 5\_municipal elections, as well as with magistrates of the\_Supreme Electoral Council. (Nicaragua News, Oct. 19)</li>\n</ul>\n<ul>\n \t<li>An M&amp;R poll found that President Daniel Ortega has 80% popular support among the\_Nicaraguan people. Eighty-one-point five percent (81.5%) of respondents said the situation in\_Nicaragua has improved during the last 6 years and 79.1% believe that President Ortega promotes\_unity and reconciliation in the country. The survey was carried out between Sept. 28-Oct. 11 this year\_and is based on interviews with 1,600 individuals nationwide. (Nicaragua News, Oct. 19)</li>\n</ul>\n<ul>\n \t<li>The Ortega administration presented to the National Assembly its proposal for the 2018\_General Budget of the Republic. The budget includes US$1.6 billion for social spending, representing\_an increase of 9.1% over the budget of the previous year.(Nicaragua News, Oct. 18)</li>\n</ul>\n<ul>\n \t<li>Several international airlines are expanding air service to Nicaragua. The Mexican budget\_airline Volaris next month will begin offering a new Tijuana-San Salvador-Managua flight three days a\_week for US$338. The airline is expecting US passengers to use the flight as well. The Spanish airline\_Iberia announced that it will return to Nicaragua next year with a Madrid-Managua flight also three\_days a week. Superior Council of Private Enterprises (COSEP) President\_José Adán Aguerri noted\_that the Iberia flight (and Volaris as well), will allow passengers an option besides passing through US\_Customs in Miami. (El Nuevo Diario, Oct. 23)</li>\n</ul>\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cd0b4a40-9b03-4048-a812-892416542fb4
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

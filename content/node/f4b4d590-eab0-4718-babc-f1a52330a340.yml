@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f4b4d590-eab0-4718-babc-f1a52330a340
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'En Español'
+  created:
+    -
+      value: 1483384595
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /en-espanol
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"wp-image-5577 alignleft\" src=\"https://afgj.org/wp-content/uploads/2014/03/Ven-pro-maduro-protest.jpg\" alt=\"Ven pro maduro protest\" width=\"324\" height=\"216\" /></p>\r\n\r\n<h5 style=\"text-align: left;\"><span lang=\"ES-MX\">Esta página contiene artículos que hemos publicado en español sobre una variedad de temas. También incluye noticias en español de campañas y coaliciones internacionales en que participamos.\_</span></h5>\r\n<h5><span lang=\"ES-MX\">La Alianza por la Justicia Global tiene sus raíces en la Red de Solidaridad con Nicaragua (Nicaragua Network), la primera organización estadounidense en solidaridad con las Sandinistas incluso antes de la revolución de julio del 1979. La Red usó los recursos de su organización para iniciar otras organizaciones populares y movimientos de solidaridad. En 1998, estos proyectos y organizaciones se consolidaron para establecer la Alianza por la Justicia Global. Nos inspiran los movimientos populares, izquierdistas y socialistas de América Latina y las lecciones que le han dado al mundo. Tenemos un compromiso especial de solidaridad y por lo mismo, abogamos por un cambio en las políticas estadounidense que afectan a esta región. La Alianza esta vinculada con los movimientos anti-imperialistas, por la paz con justicia social y por la sostenibilidad ambiental. En nuestro propio país, los Estados Unidos, abogamos por la democracia participativa y popular y por un fin a la oligarquía militar y capitalista.</span></h5>\r\n<h6>Para mas información: James@AFGJ.org</h6>\r\n<h2>Campañas y Recursos Corriente y Recientes:</h2>\r\n<ul>\r\n \t<li><strong><img class=\"alignleft size-thumbnail wp-image-12616\" src=\"https://afgj.org/wp-content/uploads/2020/03/56db7e0b-3d5b-43d0-acd3-362d12fd7b81-150x150.png\" alt=\"\" width=\"150\" height=\"150\" /><a href=\"https://afgj.org/carta-abierta-encarcelamientos-masivos-y-coronavirus\">Respaldar la carta abierta: coronavirus, encarcelamiento masivo e imperialismo penitenciario de EE. UU.</a></strong></li>\r\n</ul>\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n<ul>\r\n \t<li><strong><a href=\"https://afgj.org/bolivia-updates-actualizaion-bolivia\"><img class=\"alignleft wp-image-12490 size-thumbnail\" src=\"https://afgj.org/wp-content/uploads/2020/02/astracan-alert-1-150x106.jpg\" alt=\"\" width=\"150\" height=\"106\" />Hace Clic para nuestro Blog de Actualizaciones sobre los paros nacionales y mobilizaciones masivas en Latinoamérica contra neoliberalismo y el Imperio</a></strong></li>\r\n</ul>\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n<ul>\r\n \t<li><a href=\"https://afgj.org/prisioneros-politicos-de-los-estados-unidos\"><strong><img class=\"alignleft size-thumbnail wp-image-11059\" src=\"https://afgj.org/wp-content/uploads/2018/12/image-8-150x150.png\" alt=\"\" width=\"150\" height=\"150\" />Listado de los Prisioneros Políticos de los Estados Unidos</strong></a></li>\r\n</ul>\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n<ul>\r\n \t<li><a href=\"https://afgj.org/prisioneros-politicos-de-los-estados-unidos\"><strong><img class=\"alignleft size-thumbnail wp-image-12020\" src=\"https://afgj.org/wp-content/uploads/2019/08/oie_3PQfMpSMPkh9-150x53.jpg\" alt=\"\" width=\"150\" height=\"53\" />Advertencia Popular para Viajeros a Colombia</strong></a></li>\r\n</ul>\r\n&nbsp;\r\n\r\n&nbsp;\r\n<ul>\r\n \t<li><a href=\"http://Viendo Nicaragua Por Primera Vez: Un Nuevo Sentido del Internacionalismo.\"><strong><img class=\"alignleft size-thumbnail wp-image-12243\" src=\"https://afgj.org/wp-content/uploads/2019/11/download-150x97.jpg\" alt=\"\" width=\"150\" height=\"97\" />Viendo Nicaragua Por Primera Vez: Un Nuevo Sentido del Internacionalismo.</strong></a></li>\r\n</ul>\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n<ul>\r\n \t<li><strong><a title=\"\" href=\"https://afgj.org/que-esta-haciendo-el-centro-de-solidaridad-de-la-afl-cio-en-venezuela-tenemos-el-derecho-a-saber\" rel=\"bookmark\"><img class=\"alignleft size-thumbnail wp-image-11197\" src=\"https://afgj.org/wp-content/uploads/2019/01/Imperialismo-1-150x100.jpg\" alt=\"\" width=\"150\" height=\"100\" />¿Qué está haciendo el Centro de Solidaridad de la AFL-CIO en Venezuela?: ¡Tenemos el derecho a saber!</a></strong></li>\r\n</ul>\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n<h2 style=\"text-align: center;\"><span style=\"color: #ff0000;\"><a style=\"color: #ff0000;\" href=\"http://elobservatoriodhpueblos.org/\">Por favor viste la página del Observatorio de Derechos Humanos de los Pueblos, una coalición internacional que incluye la Alianza por la Justicia Global y SOA Watch (Observatorio por el Cierre de la Escuela de las Américas)</a></span></h2>\r\n&nbsp;\r\n<h2 style=\"text-align: center;\"><span style=\"color: #008000;\"><a style=\"color: #008000;\" href=\"https://afgj.org/category/espanol\">Hace clic acá para mirar nuestros archivos de artículos en Español</a></span></h2>\r\n&nbsp;\r\n\r\n<header></header>&nbsp;"
+      format: full_html
+      summary: ''

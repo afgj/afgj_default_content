@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d720b6c4-c0d1-46eb-9a0a-69b0a78746b3
+  bundle: mt_canvas_page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Full Screen Slideshow'
+  created:
+    -
+      value: 1529401711
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /full-screen-slideshow
+      langcode: en
+      pathauto: 1

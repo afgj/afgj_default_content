@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 1ff2a34d-0b1e-4d66-963b-78c08bf57aaa
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Popular Sales (Static)'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"static-promoted-images-grid\">\r\n  <div class=\"row\">\r\n    <div class=\"col-md-3\">\r\n      <div class=\"static-promoted-images-item\">\r\n        <div class=\"overlay-container\">\r\n          <span class=\"overlay overlay--white\">\r\n            <a class=\"overlay-target-link\" href=\"node/23\"></a>\r\n            <span class=\"overlay-inner\">\r\n              <a class=\"button button--black overlay-animated overlay-fade-bottom\" href=\"node/23\"><i class=\"fas fa-shopping-bag\"></i> Shop Now</a>\r\n            </span>\r\n          </span>\r\n          <img src=\"https://mttprojects.s3.amazonaws.com/demo.morethanthemes.com/businessplus/placeholders/static-masonry-block-1.jpg\" alt=\"\">\r\n        </div>\r\n      </div>\r\n    </div>\r\n    <div class=\"col-md-4\">\r\n      <div class=\"static-promoted-images-item\">\r\n        <div class=\"overlay-container\">\r\n          <span class=\"overlay overlay--white\">\r\n            <a class=\"overlay-target-link\" href=\"node/22\"></a>\r\n            <span class=\"overlay-inner\">\r\n              <a class=\"button button--black overlay-animated overlay-fade-bottom\" href=\"node/22\"><i class=\"fas fa-shopping-bag\"></i> Shop Now</a>\r\n            </span>\r\n          </span>\r\n          <img src=\"https://mttprojects.s3.amazonaws.com/demo.morethanthemes.com/businessplus/placeholders/static-masonry-block-2.jpg\" alt=\"\">\r\n        </div>\r\n      </div>\r\n    </div>\r\n    <div class=\"col-md-5\">\r\n      <div class=\"static-promoted-images-item\">\r\n        <div class=\"overlay-container\">\r\n          <span class=\"overlay overlay--white\">\r\n            <a class=\"overlay-target-link\" href=\"node/21\"></a>\r\n            <span class=\"overlay-inner\">\r\n              <a class=\"button button--black overlay-animated overlay-fade-bottom\" href=\"node/21\"><i class=\"fas fa-shopping-bag\"></i> Shop Now</a>\r\n            </span>\r\n          </span>\r\n          <img src=\"https://mttprojects.s3.amazonaws.com/demo.morethanthemes.com/businessplus/placeholders/static-masonry-block-3.jpg\" alt=\"\">\r\n        </div>\r\n      </div>\r\n    </div>\r\n    <div class=\"clearfix\"></div>\r\n    <div class=\"col-md-9\">\r\n      <div class=\"static-promoted-images-item\">\r\n        <div class=\"overlay-container\">\r\n          <span class=\"overlay overlay--white\">\r\n            <a class=\"overlay-target-link\" href=\"node/20\"></a>\r\n            <span class=\"overlay-inner\">\r\n              <a class=\"button button--black overlay-animated overlay-fade-bottom\" href=\"node/20\"><i class=\"fas fa-shopping-bag\"></i> Shop Now</a>\r\n            </span>\r\n          </span>\r\n          <img src=\"https://mttprojects.s3.amazonaws.com/demo.morethanthemes.com/businessplus/placeholders/static-masonry-block-4.jpg\" alt=\"\">\r\n        </div>\r\n      </div>\r\n    </div>\r\n    <div class=\"col-md-3\">\r\n      <div class=\"static-promoted-images-item\">\r\n        <div class=\"overlay-container\">\r\n          <span class=\"overlay overlay--white\">\r\n            <a class=\"overlay-target-link\" href=\"node/19\"></a>\r\n            <span class=\"overlay-inner\">\r\n              <a class=\"button button--black overlay-animated overlay-fade-bottom\" href=\"node/19\"><i class=\"fas fa-shopping-bag\"></i> Shop Now</a>\r\n            </span>\r\n          </span>\r\n          <img src=\"https://mttprojects.s3.amazonaws.com/demo.morethanthemes.com/businessplus/placeholders/static-masonry-block-5.jpg\" alt=\"\">\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>"
+      format: raw_html
+      summary: ''

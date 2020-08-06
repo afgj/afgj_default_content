@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 17c12704-fe76-474a-9589-5440a7a74edf
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+    2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela and ALBA Weekly 12.8.2017 UN Expert States No Humanitarian Crisis in Venezuela, but Economic War and Corruption'
+  created:
+    -
+      value: 1512751047
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-and-alba-weekly-1282017-un-expert-states-no-humanitarian-crisis-venezuela-economic-war
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-8557 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/12/venweekly-dec-8-copy.jpg\" alt=\"\" width=\"480\" height=\"360\" />\n\nThis weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\n\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\n\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\n\n<hr />\n\n<h2 style=\"text-align: center;\">The News from Venezuela and Alba This Week</h2>\n<strong>Featured Article:<a href=\"https://venezuelanalysis.com/news/13533\" target=\"_blank\" rel=\"noopener\"> UN Expert, No Humanitarian Crisis in Venezuela</a></strong>\n\nUN Expert: “I agree with the FAO and CEPAL that the so-called humanitarian crisis does not exist in Venezuela, although there are shortages, scarcity, and distribution delays,.What is\_important is to get to know the causes and take measures against contraband, monopolies, hoarding, corruption, manipulation of the currency and the distortions in the economy caused by\_an economic and financial war which includes [the effects of international] sanctions and pressure.\"\n\n<hr />\n\n<a href=\"https://www.seattletimes.com/nation-world/trump-administration-praises-honduras-amid-election-crisis/\" target=\"_blank\" rel=\"noopener\">US Government Praises \"Human Rights Progress\" in Honduras Amid Election Theft and Police Violence</a>\n\n<a href=\"https://venezuelanalysis.com/news/13531\" target=\"_blank\" rel=\"noopener\">Maduro Blasts Electoral Fraud in Honduras “Behind the Fraud in Honduras, is the Imperialist Government of the United States”</a>\n\n<a href=\"http://fair.org/home/wapos-one-sided-cheerleading-for-coup-and-intervention-in-venezuela/\" target=\"_blank\" rel=\"noopener\">FAIR: Washington Post Cheerleading for Coup and Intervention in Venezuela</a>\n\n<a href=\"https://www.investigaction.net/en/bolivias-tipnis-dispute-example-of-how-liberal-left-alternative-media-becomes-a-conveyor-belt-for-us-regime-change-propaganda/\" target=\"_blank\" rel=\"noopener\">Bolivia’s TIPNIS Dispute: Example of How Liberal-Left Alternative Media Becomes a Conveyor Belt for US Regime Change Propaganda</a>\n\n<a href=\"http://eeuu.embajada.gob.ve/index.php?option=com_content&amp;view=article&amp;id=771%3A2017-12-07-14-24-11&amp;catid=2%3Anoticias-de-venezuela-en-eeuu&amp;Itemid=18&amp;lang=en\" target=\"_blank\" rel=\"noopener\">Venezuela Condemns US Decision to Recognize Israel Occupied Jerusalem as its Capital</a>\n\n<a href=\"https://venezuelanalysis.com/video/13536\" target=\"_blank\" rel=\"noopener\">Venezuela: New National Humanized Childbirth Plan Revolutionizing Maternity Care</a>\n\n<a href=\"https://www.telesurtv.net/english/news/Step-Forward-Bolivia-Eases-Legal-Restrictions-on-Abortion-20171206-0033.html\" target=\"_blank\" rel=\"noopener\">Bolivia Broadens Legal Access to \_Abortion</a>\n\n<a href=\"https://www.telesurtv.net/english/news/Cuba-World-Should-Pay-Off-Historical-Debt-to-Palestine-20171130-0032.html\" target=\"_blank\" rel=\"noopener\">Cuba: 'World Should Pay Off Historical Debt to Palestine'</a>\n\n<a href=\"https://www.telesurtv.net/english/opinion/From-the-Plan-of-the-Homeland-to-a-Plan-for-the-Planet-20171208-0010.html\" target=\"_blank\" rel=\"noopener\">Report on Eco-Socialism Conference in Venezuela</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+    -
+      entity: 2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 3269248c-5693-479b-844b-f9655654b5bc
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: mt-album-1-6.jpg
+  uri:
+    -
+      value: 'public://2018-01/mt-album-1-6.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 28656
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1517414726

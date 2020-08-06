@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 95155286-47c0-4562-bfe5-9147fdc8889c
+  bundle: article
+  default_langcode: en
+  depends:
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly 12.14.2018 Broadening US Aggression Against the Peoples of the Americas'
+  created:
+    -
+      value: 1544811896
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-12142018-broadening-us-aggression-against-peoples-americas
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://default.salsalabs.org/Tf4b200a0-529f-47ba-9da7-63ab5e12aa63/e01380e1-98c9-4bd6-a8f6-8eb87528d55d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tf4b200a0-529f-47ba-9da7-63ab5e12aa63/e01380e1-98c9-4bd6-a8f6-8eb87528d55d&amp;source=gmail&amp;ust=1544919762703000&amp;usg=AFQjCNGw2pKs_lgclgCI9wMam3Pr4vstuA\">John Bolton, Brazil's Bolsonaro and what the US plans for Latin America</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T9776bceb-478f-4472-b09d-1de21d9047cb/e01380e1-98c9-4bd6-a8f6-8eb87528d55d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T9776bceb-478f-4472-b09d-1de21d9047cb/e01380e1-98c9-4bd6-a8f6-8eb87528d55d&amp;source=gmail&amp;ust=1544919762703000&amp;usg=AFQjCNE27s4_f8F39XTcaV-6z7yNG71a5g\">Two Years and Colombia's Peace Agreement is in Shreds</a>\r\n\r\n&nbsp;\r\n\r\nVenezuela\r\n\r\n<a href=\"https://default.salsalabs.org/Te812f5d2-d570-4ad9-85e2-19340ce9dc42/e01380e1-98c9-4bd6-a8f6-8eb87528d55d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Te812f5d2-d570-4ad9-85e2-19340ce9dc42/e01380e1-98c9-4bd6-a8f6-8eb87528d55d&amp;source=gmail&amp;ust=1544919762703000&amp;usg=AFQjCNGBqhPPZXB2zAzYRPeRkus1ryIaFg\">Interview with Elías Jaua, former Minister of Chavez and Maduro on Chavismo today</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tdf01b866-daec-4f61-ac59-e8fce9fd9174/e01380e1-98c9-4bd6-a8f6-8eb87528d55d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tdf01b866-daec-4f61-ac59-e8fce9fd9174/e01380e1-98c9-4bd6-a8f6-8eb87528d55d&amp;source=gmail&amp;ust=1544919762703000&amp;usg=AFQjCNGcN9szDZeG2kOP59JsfC6hxn904Q\">How Reuters Slandered Venezuela's Social Benefits Card</a>\r\n<a href=\"https://default.salsalabs.org/Te54ad7b7-8769-4842-8dd7-16d23c3bf8d4/e01380e1-98c9-4bd6-a8f6-8eb87528d55d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Te54ad7b7-8769-4842-8dd7-16d23c3bf8d4/e01380e1-98c9-4bd6-a8f6-8eb87528d55d&amp;source=gmail&amp;ust=1544919762703000&amp;usg=AFQjCNF0SMqU2UPk_bn_9oY-7XxO_nixMQ\">President Maduro Accuses John Bolton of Plotting to Assassinate Him</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tdf26fb65-dae1-456d-9606-cdf19e8f9d84/e01380e1-98c9-4bd6-a8f6-8eb87528d55d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tdf26fb65-dae1-456d-9606-cdf19e8f9d84/e01380e1-98c9-4bd6-a8f6-8eb87528d55d&amp;source=gmail&amp;ust=1544919762703000&amp;usg=AFQjCNFW8QwPtYm2Lu5vJF2U259S6cptkA\">Venezuela and Russia to Hold Joint Operational Military Exercises</a>\r\n\r\n&nbsp;\r\n\r\nNicaragua\r\n\r\n<a href=\"https://default.salsalabs.org/Te257ff26-c6df-4e51-84b6-2e1b24265c74/e01380e1-98c9-4bd6-a8f6-8eb87528d55d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Te257ff26-c6df-4e51-84b6-2e1b24265c74/e01380e1-98c9-4bd6-a8f6-8eb87528d55d&amp;source=gmail&amp;ust=1544919762703000&amp;usg=AFQjCNFsrH0KulLOQUxUi3_W-x2DpYdtPQ\">The Return of the Nicaraguan Contras, and the Rise of the Pro-Contra Left</a>\r\nCuba\r\n\r\n<a href=\"https://default.salsalabs.org/T87f97e43-0a6b-4f81-afa1-3d843a46054a/e01380e1-98c9-4bd6-a8f6-8eb87528d55d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T87f97e43-0a6b-4f81-afa1-3d843a46054a/e01380e1-98c9-4bd6-a8f6-8eb87528d55d&amp;source=gmail&amp;ust=1544919762703000&amp;usg=AFQjCNEVgxMef201r2LRcaQR21KRugSJMw\">Luis Almagro, the US' John Bolton at the OAS, says it's time to go after \"the oldest dictatorship\" in the Americas</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tb396ea1a-6a78-4cfb-b00e-02b2b04168e3/e01380e1-98c9-4bd6-a8f6-8eb87528d55d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tb396ea1a-6a78-4cfb-b00e-02b2b04168e3/e01380e1-98c9-4bd6-a8f6-8eb87528d55d&amp;source=gmail&amp;ust=1544919762703000&amp;usg=AFQjCNFg2efX48ga000XxajU8XJtNGORqw\">Cuba Commemorates its Achievements on Human Rights Day</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T07473904-9d05-42c5-bacf-b3ddfe0f3016/e01380e1-98c9-4bd6-a8f6-8eb87528d55d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T07473904-9d05-42c5-bacf-b3ddfe0f3016/e01380e1-98c9-4bd6-a8f6-8eb87528d55d&amp;source=gmail&amp;ust=1544919762703000&amp;usg=AFQjCNEJHL5v6-M4IZezoOwslQr3cEn4lw\">Surviving Hurricanes Cuban Style</a>\r\n\r\n&nbsp;\r\n\r\nBolivia\r\n\r\n<a href=\"https://default.salsalabs.org/T23e3c6c6-9454-4de7-a2ea-c02c68fe840f/e01380e1-98c9-4bd6-a8f6-8eb87528d55d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T23e3c6c6-9454-4de7-a2ea-c02c68fe840f/e01380e1-98c9-4bd6-a8f6-8eb87528d55d&amp;source=gmail&amp;ust=1544919762703000&amp;usg=AFQjCNFC5LO6QWH7uYw3IZJ6L1lmNDRihQ\">Bolivia has one of the Highest Economic Growth Rates in the Americas</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T9f44e214-1fe8-450f-8fc8-21a8e4358337/e01380e1-98c9-4bd6-a8f6-8eb87528d55d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T9f44e214-1fe8-450f-8fc8-21a8e4358337/e01380e1-98c9-4bd6-a8f6-8eb87528d55d&amp;source=gmail&amp;ust=1544919762703000&amp;usg=AFQjCNHoo7NTJv9aynLuYdxaYCkVdVWDnQ\">Bolivian Guarimbas: \_Opposition Protesters Set Electoral Court on Fire</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Ta652ffd6-603e-41b2-929e-c3fec3f03bd3/e01380e1-98c9-4bd6-a8f6-8eb87528d55d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Ta652ffd6-603e-41b2-929e-c3fec3f03bd3/e01380e1-98c9-4bd6-a8f6-8eb87528d55d&amp;source=gmail&amp;ust=1544919762703000&amp;usg=AFQjCNHbQGMrvVtgY_lPUeKGlf3bLl60BA\">2019 Presidential elections in Bolivia</a>\r\nEcuador and Julian Assange\r\n\r\n<a href=\"https://default.salsalabs.org/T1e9086cb-2081-4ba0-b4f0-ad5a4a471c72/e01380e1-98c9-4bd6-a8f6-8eb87528d55d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T1e9086cb-2081-4ba0-b4f0-ad5a4a471c72/e01380e1-98c9-4bd6-a8f6-8eb87528d55d&amp;source=gmail&amp;ust=1544919762704000&amp;usg=AFQjCNFTuflN_4XVjOPEUUihwU9Iz9VGpQ\">Assange: Ecuador Engaging in Espionage, Funnels Info to FBI</a>\r\nDelegations\r\n\r\n<a href=\"https://default.salsalabs.org/T0b4ade65-cd1d-4eb0-85de-78693c6b2a57/e01380e1-98c9-4bd6-a8f6-8eb87528d55d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T0b4ade65-cd1d-4eb0-85de-78693c6b2a57/e01380e1-98c9-4bd6-a8f6-8eb87528d55d&amp;source=gmail&amp;ust=1544919762704000&amp;usg=AFQjCNGITOBS8iA8NJUHY_dbL_Ut7WokBA\">14th May Day International Volunteer Work Brigade in Solidarity with Cuba\r\nApril 21 to May 5, 2019</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T03ecbf3f-82fb-4690-bbd6-1699d190bc0b/e01380e1-98c9-4bd6-a8f6-8eb87528d55d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T03ecbf3f-82fb-4690-bbd6-1699d190bc0b/e01380e1-98c9-4bd6-a8f6-8eb87528d55d&amp;source=gmail&amp;ust=1544919762704000&amp;usg=AFQjCNERQotidnghgdYPPtqn0eH508onjA\">IFCO/Pastors for Peace delegations to Cuba</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T5d567024-b202-4f23-b2f5-8d0f05164edf/e01380e1-98c9-4bd6-a8f6-8eb87528d55d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T5d567024-b202-4f23-b2f5-8d0f05164edf/e01380e1-98c9-4bd6-a8f6-8eb87528d55d&amp;source=gmail&amp;ust=1544919762704000&amp;usg=AFQjCNHMj1EGTeOvqe0shdvrlAii1gl8cQ\">Delegation to Venezuela, March 17-24, 2019</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2ba82807-c48a-41dc-af86-496141c95cdc
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: false
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Fiscally Sponsored Project Highlights'
+  created:
+    -
+      value: 1348491438
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /fiscally-sponsored-project-highlights
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<table width=\"750\" border=\"1\" cellspacing=\"1\" cellpadding=\"1\">\r\n<tbody>\r\n<tr>\r\n<td style=\"text-align: center;\" bgcolor=\"#cccccc\"><span style=\"font-family: Courier New;\"><strong><span style=\"font-size: x-large;\">New Global Justice Monitor Feature:</span></strong></span></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nFiscally sponsored project highlights are a new feature of our monthly web magazine, Global Justice Monitor.\_ We introduce a new organization each edition to share with our networks the important work they are doing.\_ It is also an opportunity to see where our missions overlap and where our work can be expanded to new places and networks!\r\n\r\nIf you have any questions regarding AfGJ fiscal sponsorship, please contact Elane Spivak Rodriguez (fiscalsponsorship@afgj.org).\r\n\r\n&nbsp;\r\n<ul>\r\n\t<li>\r\n<h4>September/October 2012 Edition: <em><strong><span style=\"color: #000000;\"><a href=\"https://afgj.org/sponsored-projects/fiscally-sponsored-projects/national/courage-to-resist\"><span style=\"color: #000000;\">Courage to Resist</span></a></span> <img class=\"alignright\" title=\"Courage to Resist logo\" src=\"http://org2.democracyinaction.org/o/7315/images/CTRlogo-150.jpg\" alt=\"\" width=\"118\" height=\"118\" />\r\n</strong></em></h4>\r\n</li>\r\n</ul>\r\n<p style=\"padding-left: 30px;\">Courage to Resist joined the Alliance for Global Justice fiscal sponsorship network from their former sponsor, the International Humanities Center.\_ Many people in the fiscal sponsorship world recognize that name as the organization that went under last year and collectively lost over a million dollars of their projects’ money. <a href=\"https://afgj.org/sponsored-projects/fiscally-sponsored-projects/national/courage-to-resist\"><span style=\"color: #0000ff;\">Continue reading...</span></a></p>\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n<h2><span style=\"color: #800000;\"><strong>Sign up for the <a href=\"http://org2.democracyinaction.org/o/7315/p/salsa/web/common/public/signup?signup_page_KEY=6020\"><span style=\"color: #800000;\">Global Justice Monitor </span></a></strong></span></h2>"
+      format: full_html
+      summary: ''

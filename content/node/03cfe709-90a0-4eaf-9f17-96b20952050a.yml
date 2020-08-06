@@ -1,0 +1,79 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 03cfe709-90a0-4eaf-9f17-96b20952050a
+  bundle: article
+  default_langcode: en
+  depends:
+    559721eb-b73d-4d86-a9b5-58f46584daa3: taxonomy_term
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    1c0c4377-b739-4293-a00a-331346b8aa16: taxonomy_term
+    cd0b4a40-9b03-4048-a812-892416542fb4: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'National Strike for Peace in Colombia - A Call for Solidarity'
+  created:
+    -
+      value: 1509647016
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /national-strike-peace-colombia-call-solidarity
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"alignleft size-full wp-image-8391\" src=\"https://afgj.org/wp-content/uploads/2017/11/astracan-alert-1.jpg\" alt=\"\" width=\"403\" height=\"286\" />A National Strike for Peace in Colombia has been called in Colombia to demand steps to protect peace accords that are in danger of failure. The strike was called at the end of a particularly bloody October, with 23 activists killed in 23 days. The death toll includes <a href=\"https://afgj.org/urgent-colombias-national-strike-attack-catatumbo-please-act-now\">11 peaceful protesters attacked on October 5 by the National Police</a>’ Mobile Anti-Disturbance Squad (ESMAD). President Juan Manuel Santos and the Revolutionary Armed Forces of Colombia – People’s Army [FARC-EP] signed peace accords on November 24, 2016, ending more than 52 years of civil war. Since then, 130 social movement leaders and 35 ex-insurgents have been killed in political violence at the hands of private death squads and the Colombian Armed Forces. In 2016, there were 116 political assassinations. 2017 has seen the highest rate of political killings in seven years.\n\nThe peace accords are also threatened by the Colombian government’s failure to meet its obligations. The government has not fulfilled agreements covering the release of political prisoners and prisoners of war, with 1,000 still languishing in Colombian jails. Agreements to return land to displaced farming families and establish peasant zones are not proceeding according to schedule and, in fact, since the peace process began, 17,000 rural Colombians have been displaced each month. The government is also not meeting commitments regarding infrastructure and crop substitution development in exchange for voluntary eradication of illicit crops. The US government is urging Colombia to forego these commitments altogether in favor of forced eradication, which has led to violent and deadly repression.\n\nThe National Strike for Peace in Colombia is called by FENSUAGRO (National Unitary Federation of Agricultural Unions), the Marcha Patriótica (Patriotic March), ANZORC (National Association of Peasant Reserve Zones), CONPI (National Coordination of Indigenous Peoples, CONAFRO (National Coordination of Afro-descendants), and COCCAM (National Coordination of Coca, Poppy, and Marijuana Growers).\n<h2>The goals of the strike are:</h2>\n<ul>\n \t<li>Implementation of the Havana Peace Accords;</li>\n \t<li>Support for local and territorial demands and fulfillment of governmental pacts with the communities;</li>\n \t<li>Guarantees of safety to rural communities as they exercise their rights to political organization and social protest.</li>\n</ul>\n<h2 style=\"text-align: center;\">What you and your organization can do to help</h2>\n<ul>\n \t<li>The National Strike committee is asking grassroots groups, labor organizations, church committees, and NGOs to send declarations of solidarity with the strike. Statements can be in English or Spanish, although Spanish is best if possible. Please send to <a href=\"mailto:James@AFGJ.org\">James@AFGJ.org</a> and we will pass them immediately to the strike committee.</li>\n \t<li>Organize a demonstration, vigil, or other public event for the International Days of Solidarity with Colombia’s National Strike for Peace on November 15 and 16, 2017. These days of actions are called by the Observatorio por los Derechos Humanos del Pueblo, the Alliance for Global Justice, Marin Interfaith Task Force, International Action Center, Party for Socialism and Liberation, and Workers World. New endorsements are still being added. To include your organization’s endorsement, or to announce your event, send an email to <a href=\"mailto:James@AFGJ.org\">James@AFGJ.org</a> .</li>\n \t<li><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25430\"><strong>Send an email to the White House demanding it back the peace accords and stop pressuring Colombia to pursue forced eradication programs that result in state violence against rural communities.</strong></a></li>\n \t<li>Participate in an urgent phone meeting to discuss solidarity with the National Strike. The meeting is Friday, November 3, at 5:30pm Eastern, 4:30pm Central, 3:30p Mountain, 2:30p Pacific. The call-in number is 1-218-844-1930, and the participant access code is 281035.</li>\n</ul>\n<h2 style=\"text-align: center;\">From the National Strike Committee’s Call for International Solidarity</h2>\n\"Knowing the kind of government and State that Colombia has, we call on social organizations, political parties, and the people of the world to…send greetings and solidarity declarations to the National Indefinite Strike…demanding guarantees for the right to social protest, soliciting the Colombian State to fulfill all the Final Accord signed between the government of Juan Manuel Santos and the FARC-EP …[and] helping us make visible in your respective countries the actions of mobilization that are advancing in Colombia.\"\n<h2 style=\"text-align: center;\"><a href=\"https://afgj.org/urgent-colombias-national-strike-attack-catatumbo-please-act-now\">A Special Thank You and Update about the threat to strikers in the Catatumbo Region</a></h2>\nMany of you acted on our October 25, 2017 alert about the threat of assault by the Colombian National Police against strikers in the Catatumbo region. We are very happy to say that there were no casualties and that several of us received responses to emails we sent the authorities. International outcry and pressure does matter and can prevent massacres from happening, such as what occurred in Tumaco, Nariño on October 5, 2017 in a very similar situation. Thank you so much for doing your part as a peace maker!\n<h2 style=\"text-align: center;\"><span style=\"color: #993300;\">MARK YOUR CALENDARS: May 19-29, 2018 Delegation to Colombia! </span></h2>\n<h4 style=\"text-align: center;\"><span style=\"color: #993300;\">AfGJ will be leading a delegation of accompaniment to Colombia May 19 - 29, 2018. We will accompany targeted campaigns and communities during the lead up to the first round of presidential elections on May 27, 2018. Our delegation will be based out of Cali, and we will travel through the region of Valle de Cauca, Cauca, and Nariño, where political violence has been particularly sharp. For more information, send an email to DELEGATIONS@AFGJ.ORG\_ </span></h4>\n&nbsp;\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 559721eb-b73d-4d86-a9b5-58f46584daa3
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 1c0c4377-b739-4293-a00a-331346b8aa16
+    -
+      entity: cd0b4a40-9b03-4048-a812-892416542fb4
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

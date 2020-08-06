@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d48dc04d-7f93-4aa7-af88-f19dba14317b
+  bundle: article
+  default_langcode: en
+  depends:
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+    4d58c480-4afa-42db-9320-32d1579a7036: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Take Action - Contact Honduras Authorities'
+  created:
+    -
+      value: 1521273423
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /take-action-contact-honduras-authorities
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<div id="7f7572e8-77de-43ef-ba9d-1b1564b0cdf2"><script type="text/javascript" src="https://default.salsalabs.org/api/widget/template/a2eaecc0-b245-4af5-a145-808714726520/?tId=7f7572e8-77de-43ef-ba9d-1b1564b0cdf2" ></script></div>'
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+    -
+      entity: 4d58c480-4afa-42db-9320-32d1579a7036
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 30edea88-a532-448f-9e3b-9e1698a37385
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NicaNotes Archive'
+  created:
+    -
+      value: 1451044233
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-archive
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter wp-image-6975 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" width=\"579\" height=\"195\" />\n<p style=\"text-align: center;\"><strong><a href=\"https://afgj.org/nicanotesabout\">About</a>\_ \_ \_ \_<a href=\"http://org2.salsalabs.com/o/7315/signup_page/nicanotessubscribe\" target=\"_blank\" rel=\"noopener noreferrer\">Subscribe</a>\_ \_ \_ \_<a href=\"emailto:nicanet@afgj.org\">Contact</a></strong></p>\nNicaNotes is a blog for Nicaragua activists and those interested in Nicaragua, published by the <a href=\"http://www.nicanet.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Nicaragua Network</a>/<a href=\"https://afgj.org\">Alliance for Global Justice</a>. It provides news and analysis from the context of Nicaragua Network’s long history of struggle in solidarity with the Sandinista Revolution.\n\n<hr />\n\n&nbsp;\n\n&nbsp;\n\nhttps://afgj.org/nicanotes35\n\nhttps://afgj.org/nicanotes-guest-post-babar-the-elephant-in-sign-language\n\nhttps://afgj.org/nicanotes38\n\nhttps://afgj.org/nicanotes27\n\nhttps://afgj.org/nicanotes27\n\n&nbsp;\n\n&nbsp;\n\nhttps://afgj.org/nicanotes26\n\nhttps://afgj.org/nicanotes25\n\nhttps://afgj.org/nicanotes24\n\nhttps://afgj.org/nicanotes23\n\nhttps://afgj.org/nicanotesappeal\n\nhttps://afgj.org/nicanotes22\n\nhttps://afgj.org/nicanotes21\n\n&nbsp;\n\nhttps://afgj.org/guest-post-fidel-by-tortilla-con-sal-and-the-nicaragua-network\n\n&nbsp;\n\nhttps://afgj.org/nicanotes20\n\nhttps://afgj.org/nicanotes19\n\nhttps://afgj.org/nicanotes18\n\n&nbsp;\n\nhttps://afgj.org/nicanotes17\n\nhttps://afgj.org/nicanotes16\n\nhttps://afgj.org/nicanotes15\n\nhttps://afgj.org/nicanotes14\n\n&nbsp;\n\nhttps://afgj.org/nicanotes13\n\nhttps://afgj.org/nicanotes12\n\n&nbsp;\n\nhttps://afgj.org/nicanotes11\n\nhttps://afgj.org/nicanotes10\n\n&nbsp;\n\n&nbsp;\n\nhttps://afgj.org/nicanotes9\n\nhttps://afgj.org/nicanotes8\n\n&nbsp;\n\nhttps://afgj.org/nicanotes7\n\nhttps://afgj.org/nicanotes6\n\nhttps://afgj.org/to-hell-with-the-buck-the-planet-stops-here\n\nhttps://afgj.org/nicanotes5\n\nhttps://afgj.org/nicanotes4\n\nhttps://afgj.org/nicanotes3\n\nhttps://afgj.org/nicanotes2\n\n&nbsp;\n\nhttps://afgj.org/nicanotes1\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+  field_mt_slideshow:
+    -
+      value: false

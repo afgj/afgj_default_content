@@ -1,0 +1,70 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 560096fe-7e93-48e6-9b66-a2a02ec4e642
+  bundle: article
+  default_langcode: en
+  depends:
+    3468b7af-04af-4097-aa0f-28fcb8dcb1d5: taxonomy_term
+    d7484f78-fd8a-49f7-afcb-5b7fed9db70f: taxonomy_term
+    ca4e52ca-2d48-486f-8d00-3553c0a7f296: taxonomy_term
+    e2cd83a2-4ff6-40be-8260-0b38e269f80f: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    b2c352f2-62d9-485a-b8f0-d6687d083f48: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'El Martillo del Pueblo Puede Derribar Cualquier Pared en la Frontera'
+  created:
+    -
+      value: 1486052886
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /el-martillo-del-pueblo-puede-derribar-cualquier-pared-en-la-frontera
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-3222\" src=\"https://afgj.org/wp-content/uploads/2012/12/lovatopic.jpg\" alt=\"lovatopic\" width=\"550\" height=\"367\" /></p>\n<em>Traducido por Maria Rendón </em>\n\n<a href=\"https://afgj.org/the-peoples-hammer-can-tear-down-any-border-wall\"><em>Read post in English</em></a>\n\n<span lang=\"ES-CO\">El antídoto contra la clase gobernante es la unidad de los pueblos.</span><span lang=\"ES-CO\"> “El pueblo unido jamás será vencido,” debe ser más que un slogan, debe ser una realidad,</span><span lang=\"ES-CO\"> el martillo será el instrumento que usaremos para derribar las paredes y derrotar los ataques que estamos enfrentando.</span>\n\n<i>Para obtener información sobre la delegación de AfGJ que irá a México, del 10 al 20 de Marzo del 2017 envíe un correo electrónico a DELEGATIONS@AFGJ.ORG</i>\n\n<span lang=\"ES-CO\">Pensémoslo por un minuto. Donald Trump<b> </b>quiere construir y terminar su muro en la frontera con México. Y todos sabemos y escuchamos su afirmación de que, “Cuando México envía a su gente, están enviando gente que tiene muchos problemas, y están trayendo esos problemas con ellos. Traen drogas. Traen delincuencia. Son violadores.” </span>\n\n<span lang=\"ES-CO\">Pero uno cometería un error al pensar que Trump odia a todos los mexicanos. Trump se refirió a Carlos Slim, la persona más rica de México y del mundo, como \"Una gran persona\". Y Trump fue el único candidato presidencial invitado a reunirse con el presidente mexicano, Enrique Peña Nieto, antes de las elecciones. Peña Nieto tenía programada visitar la Casa Blanca la próxima semana, a tan solo dos semanas después del mandato de la nueva administración. Sin embargo, debido a la presión popular y la arrogante insistencia de Trump de que México pague por el muro fronterizo que Estados Unidos está construyendo, Peña Nieto ha mostrado una rara muestra de astucia y canceló su visita a Estados Unidos.</span>\n\n<span lang=\"ES-CO\">La presión para cancelar vino no sólo de los movimientos populares, sino de una amplia gama de políticos mexicanos de diversos partidos y antecedentes. Si bien esto puede significar una fisura en las relaciones entre Estados Unidos y México, es poco probable que se convierta en una ruptura a gran escala. Esperamos que México siga recibiendo financiamiento, asesoramiento y apoyo material del gobierno de Estados Unidos para las herramientas de represión que el gobierno usa contra su propio pueblo. A su vez, los Estados Unidos seguirán beneficiándose de la explotación de los recursos de México, incluyendo el trabajo de los indocumentados de los que depende nuestra economía nacional.</span>\n\n<span lang=\"ES-CO\">La realidad es que hay una unidad profunda y de gran alcance entre el 1% de los Estados Unidos y México. Cuando se trata de sus enemigos de clase (lo que significa el resto de nosotros), continuarán y aumentarán sus agresiones contra las familias trabajadoras y rurales y la gente pobre de ambos lados de la frontera, así como su campaña hacia la privatización y la ejecución de servicios sociales e inversiones.</span>\n\n<span lang=\"ES-CO\">El candidato de Trump a la Secretaría de Estado, Rex Tillerson, fue CEO de Exxon-Mobil del 2006 al 2016. En el 2014, Exxon firmó un acuerdo de cooperación con la petrolera mexicana PEMEX.</span> <span lang=\"ES-CO\">Y el 5 de Diciembre del 2016, Exxon, que ya es un importante exportador de petróleo a México, </span><span lang=\"ES-CO\">\_</span><span lang=\"ES-CO\">ganó una licitación para perforar petróleo crudo en aguas profundas en la costa de México, a menos de 200 millas al sur de Texas. </span>Todo esto es posible gracias a la ley firmada por Peña Nieto en 2013 que abrió los recursos petroleros de México al desarrollo privado. La propiedad pública de la producción de petróleo y la inversión social de los beneficios había sido uno de los logros más apreciados de la revolución mexicana.\n\n<span lang=\"ES-CO\">Mientras Estados Unidos está invirtiendo dinero para militarizar no sólo la frontera de Estados Unidos y México, sino que también está financiando la militarización fronteriza al sur de México e invirtiendo en los esfuerzos mexicanos para detener, aprehender y deportar inmigrantes de Centroamérica. Grupo México es una compañía transnacional de cobre que opera minas en México, Estados Unidos, Perú y España. También posee la mayoría de las vías del tren en México. Grupo México se ha metido en el plato de una manera particular para construir su propio muro especial anti-inmigrante. </span>\n\n<span lang=\"ES-CO\">Tamara Pearson explica en un artículo que escribió para Counterpunch, que \"Algunas paredes están hechas de concreto y alambre de púas. </span>Otras están hechas de soldados, violencia, burocracia y desinformación. Mientras que Grupo México ha construido un muro largo para detener a los migrantes de subir o bajar de su tren de larga distancia, \"La Bestia\", el Plan de Fronteras del Sur del gobierno mexicano también está haciendo mucho más difícil para los migrantes centroamericanos huir desesperadamente de la violencia y la pobreza para viajar por el país.”\n\n<span lang=\"ES-CO\">Pearson agrega que El Plan ha visto una mayor presencia de seguridad a lo largo de la frontera sur de México y a lo largo de las líneas de tren, resultando en un aumento de las deportaciones. El crimen contra los migrantes ha aumentado, incluyendo el robo, el asalto, asesinato y tráfico de seres humanos. Como parte del Plan; Grupo México ... construyó un muro para detener el acceso al tren. El muro, iniciado en el 2013 en Veracruz, cortó un pueblo a la mitad. </span>Hecho de hormigón grueso, de cinco metros de altura y con alambre de púas en la parte superior, hasta ahora la pared sólo hace más difícil para los migrantes cansados y heridos hacer su camino hacia el refugio local. Los lugareños que solían caminar por la línea de ferrocarril para llegar al mercado ahora tienen que coger un autobús alrededor de la pared.”\n\n<span lang=\"ES-CO\">De hecho, Grupo México es una corporación con sede en México que ya se estaba beneficiando de la exitosa campaña de Trump para la presidencia. Adam Williams, escribiendo para Bloomberg, señala que \"Grupo México SAB fue la única empresa que subió en el índice bursátil IPC de México desde las elecciones del 8 de Noviembre hasta el Miércoles, ya que la promesa de infraestructura de $550 millones de dólares de Trump promete ayudar a impulsar la mayor subida de los precios del cobre en siete años. Eso es un blindaje para proteger la empresa de propiedad del multimillonario Germán Larrea de las amenazas de Trump para construir una muralla fronteriza entre los países y reestructurar el acuerdo comercial de Nafta. Las preocupaciones de que el comercio será sofocado han hecho caer el peso y las acciones de otros títulos de México.”</span>\n\npor James Jordan\n\n<span lang=\"ES-CO\">Estos son sólo algunos ejemplos que nos dan alguna visión de cómo entrelazan las aspiraciones -y las ganancias- de las oligarquías estadounidenses y mexicanas. Desde el 2005, el gobierno de los Estados Unidos ha financiado la construcción de 13 de las 16 cárceles federales de México, incluyendo las primeras cárceles privadas de México con fines de lucro. Cada una de las prisiones federales de México y un número significativo de sus instituciones estatales ha recibido la acreditación de la Asociación Correccional Americana.</span>\n\n<span lang=\"ES-CO\">Cada año, México gasta miles de millones de dólares comprando armas de los Estados Unidos para sus policías y militares. Todo esto refleja la encarcelación masiva, el encarcelamiento político y la militarización policial en los Estados Unidos. </span>Las prisiones, la policía militarizada y las fronteras en Estados Unidos y México sirven para el mismo propósito: el control de la población y la represión de las masas. Y eso sirve para otro propósito: la protección de los grandes beneficios corporativos. \_A medida que las comunidades rurales y los ecosistemas son destruidos por la expansión y el dominio de los grandes desarrollos agroindustriales y extractivos, mientras tanto sindicalistas y otros trabajadores luchan contra una constante avalancha de agresiones, paredes de prisión, muros fronterizos y balas que son las herramientas utilizadas en ambos países contra los desplazados, los desesperados, los oprimidos y los disidentes.\n\n<span lang=\"ES-CO\">Por supuesto, cuando se trata de la lucha de clases y las aspiraciones de los oprimidos para la liberación, hay dos lados de la historia. En este momento, somos testigos de las revueltas populares tanto en Estados Unidos como en México. En Estados Unidos acabamos de ver manifestaciones militantes el Día de la Inauguración, seguidas por las Marchas Femeninas del 21 de enero en Washington, D.C., en todo el país y, de hecho, en todo el mundo. Estas fueron algunas de las mayores manifestaciones en la historia de los Estados Unidos. Así mismo, en México, estamos viendo levantamientos contra el gasolinazo, es decir, propuestas para elevar los precios de la gasolina, y por lo tanto, como resultado, los precios de los alimentos y otros productos básicos.</span>\n\n<span lang=\"ES-CO\">Millones de personas marchan y resisten a ambos lados de esa línea arbitraria que divide a nuestras naciones. Estas movilizaciones populares han sido precedidas por la enorme huelga de maestros en México y los movimientos Black Lives Matter y Standing Rock aquí en los Estados Unidos. Ese ímpetu debe seguir creciendo, y debemos alcanzarnos las manos unos a otros a través de la frontera para ponernos de pie decididamente a aquellos que quieren ponernos en el suelo</span><span lang=\"ES-CO\">.</span>\n\n<span lang=\"ES-CO\">Del 10 al 20 de marzo de 2017, AfGJ llevará una delegación a México que visitará Sonora, Oaxaca y Ciudad de México. Seremos anfitriones de varios sindicatos, activistas indígenas, ambientalistas, defensores de derechos humanos y líderes del movimiento popular. Tenemos dos objetivos con la delegación: 1) reforzar las conexiones entre los movimientos populares de México y Estados Unidos; 2) estudiar en profundidad los esfuerzos de los Estados Unidos para construir nuevas cárceles y militarizar la policía y las fronteras, tanto en Estados Unidos como en México. Sabemos que otras organizaciones y movimientos a ambos lados del muro también están reforzando y construyendo canales de contacto y lucha mutua. Estos tipos de enlaces deben ser replicados y alentados. Para los interesados en la delegación AfGJ, puede enviar un correo electrónico a DELEGATIONS@AFGJ.ORG para una solicitud.</span><span lang=\"ES-CO\"> Pero lo más importante de todo, es que esperamos verte en las calles. Nuestra lucha unificada es exactamente el tipo de martillo que se requiere para derribar todas las paredes construidas para mantenernos en el suelo y sacar provecho de nuestra miseria. </span>Vamos a levantar nuestro martillo alto juntos!"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 3468b7af-04af-4097-aa0f-28fcb8dcb1d5
+    -
+      entity: d7484f78-fd8a-49f7-afcb-5b7fed9db70f
+    -
+      entity: ca4e52ca-2d48-486f-8d00-3553c0a7f296
+    -
+      entity: e2cd83a2-4ff6-40be-8260-0b38e269f80f
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: b2c352f2-62d9-485a-b8f0-d6687d083f48
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

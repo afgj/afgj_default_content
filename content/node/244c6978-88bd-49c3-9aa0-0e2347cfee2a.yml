@@ -1,0 +1,77 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 244c6978-88bd-49c3-9aa0-0e2347cfee2a
+  bundle: mt_service
+  default_langcode: en
+  depends:
+    2348bb1a-1589-43ff-82d3-a4ff93ba9ce5: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Take the Pledge of Resistance for Venezuela'
+  created:
+    -
+      value: 1592256679
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_srv_body:
+    -
+      value: "<p>The United States government, in complete violation of international laws and norms has declared its intention to remove the democratically elected government of Venezuela and replace it with an unelected president, Juan Guaido, who never won a single vote in a national campaign. The US has illegally seized Venezuela’s foreign assets and claims to be making them available to the opposition, an act which, on top of the already severe and illegal sanctions, exacerbates the suffering of poor and working Venezuelans. Without regard to how we individually feel about Venezuelan President Nicolas Maduro and the Bolivarian Process put in place by the late President Hugo Chavez, those of us in the United States must oppose the illegal actions of our government.</p>\r\n\r\n<p><strong>We urge you to sign the Pledge of Resistance and to organize yourself with others in your community to respond within 24 hour with direct action if the US invades Venezuela or in response to a call for direct action from the combined co-sponsoring groups.</strong></p>\r\n\r\n<h2><strong><span>Pledge of Resistance:</span></strong></h2>\r\n\r\n<p>I pledge to join with others in my community to perform direct action and risk arrest if the US invades or otherwise overthrows the democratically elected government of Venezuela.</p>\r\n\r\n<h2><strong><span>Support Pledge for those who cannot risk arrest:</span></strong></h2>\r\n\r\n<p>I pledge to support people in my community who take action and risk arrest if the US invades or otherwise overthrows the democratically elected government of Venezuela</p>\r\n\r\n<p><a href=\"https://afgj.salsalabs.org/pledgeofresistance\">Take the Pledge of Resistance</a></p>\r\n\r\n<h2>Help promote the pledge!</h2>\r\n\r\n<p>Social media resources:</p>\r\n\r\n<ol>\r\n\t<li>Please change your Facebook Cover Photo and share the link to the pledge, TinyURL/PledgeofResistance (<a href=\"https://afgj.org/wp-content/uploads/2019/02/2019.-Pledge-fb-cover.png\">png</a>)</li>\r\n\t<li>Share on Instagram (<a href=\"https://afgj.org/wp-content/uploads/2019/02/Instagram.png\">png</a>)</li>\r\n\t<li>Use hashtag #PledgeOfResistance to connect with other folks taking the pledge</li>\r\n</ol>\r\n\r\n<p>Resources:</p>\r\n\r\n<p>Pledge to print: These images than can be used to print, sign and keep in pocket. They can be printed as small as the size of a wallet.</p>\r\n\r\n<p><img alt=\"Promo\" data-entity-type=\"file\" data-entity-uuid=\"2c5fe0ed-b2ec-465a-a285-f5b9b2fe52ef\" src=\"/sites/default/files/inline-images/Pledge-of-Resistance-promo.png\" /><img alt=\"Promo2\" data-entity-type=\"file\" data-entity-uuid=\"b408d24e-2b15-400f-86ed-b800564758a7\" src=\"/sites/default/files/inline-images/Pledge-of-Resistance-2-1.png\" /></p>\r\n\r\n<p>Scale-able flyer: This can be printed out as a poster flyer or a really tiny flyer. It works well to print 4 and 6 to a page.</p>\r\n\r\n<p><img alt=\"flyer\" data-entity-type=\"file\" data-entity-uuid=\"f7ccabfb-353c-4a58-a5c9-78936550fd39\" src=\"/sites/default/files/inline-images/2019.-Pledge-flyer.png\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_srv_highlight:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 5d0c8387-baf4-4854-9078-da14c51144b6
+          bundle: mt_highlight
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1592256714
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+  field_mt_srv_image:
+    -
+      entity: 2348bb1a-1589-43ff-82d3-a4ff93ba9ce5
+      alt: 'Pledge of Resistance'
+      title: ''
+      width: 820
+      height: 312
+  field_mt_srv_subheader_body:
+    -
+      value: "<h5><strong>The Pledge of Resistance is co-sponsored by Code Pink, Women’s March on the Pentagon,&nbsp;Committee for Peace and Human Rights, Popular Resistance and Alliance for Global Justice.</strong></h5>\r\n"
+      format: basic_html
+      summary: ''

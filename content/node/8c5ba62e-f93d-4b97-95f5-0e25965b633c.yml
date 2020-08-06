@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8c5ba62e-f93d-4b97-95f5-0e25965b633c
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    0dfdb011-9c82-4762-89a0-db01e08f9fe3: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Former Colombian guerrillas rearm as government undermines Peace Accords'
+  created:
+    -
+      value: 1567519401
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /former-colombian-guerrillas-rearm-government-undermines-peace-accords
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter \" src=\"https://www.liberationnews.org/wp-content/uploads/2019/09/mural-colombia-paz.jpg\" width=\"696\" height=\"488\" />\r\n\r\n<a href=\"https://www.liberationnews.org/former-colombian-guerrillas-rearm-as-government-undermines-peace-accords/\">Originally published in Liberation</a>\r\n\r\nA new phase of armed conflict in Colombia has emerged with the declaration by some former leaders of the FARC-EP (Revolutionary Armed Forces of Colombia — People’s Army) that they are reorganizing and rearming as an insurgent force. Iván Márquez (aka Luciano Marín Arango) made the announcement in a press conference Thursday, August 29, 2019. Among those appearing with Márquez were Jesús Santrich (aka Seuxis Pausias Hernández Solarte) and El Paisa (ala Hernán Darío Velásquez Saldarriga).\r\n\r\nMárquez had been a FARC-EP commander and lead negotiator of the peace accords implemented in 2016 between the FARC-EP and the Colombian government. Both Santrich and El Paisa, also FARC-EP officers, were part of the negotiating team. Márquez had already abandoned the peace process and his seat in the Congress to go into hiding in April 2018. He cited rising violence against social movements and former insurgents, the noncompliance of the government with the accords, and the arrest of Santrich for narco trafficking. That arrest was requested by the U.S. government, who petitioned for his extradition, based on unsubstantiated evidence and testimony of paid informants. It was perceived as a way to circumvent agreements about reincorporation of FARC-EP personnel into civilian life. Santrich was released from prison in May but went into hiding because of multiple threats against him.\r\n\r\nThe reformation of this new version of the FARC-EP represents a profound split among the former combatants. The new FARC (Revolutionary Alternative Force of the Common) political party has reiterated its commitment to the peace accord and nonviolent struggle. The National Political Council of the FARC released a statement in response to the Márquez declaration saying:\r\n\r\n<a href=\"https://www.liberationnews.org/former-colombian-guerrillas-rearm-as-government-undermines-peace-accords/\">Read more....</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: 0dfdb011-9c82-4762-89a0-db01e08f9fe3
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 941cbaca-d1e8-4cb8-a333-81b1b86a1841
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Honduras
+  created:
+    -
+      value: 1313569647
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /honduras
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: 'The Alliance for Global Justice is a founding member of the US Honduras Solidarity Network in solidarity with the Popular Resistance which is working nonviolently to "refound" the State on democratic principles. AFGJ takes periodic delegations to Honduras, recruits long-term human rights accompaniers, and mobilizes our base to respond to human rights emergencies caused by government and paramilitary forces.'
+      format: full_html
+      summary: ''

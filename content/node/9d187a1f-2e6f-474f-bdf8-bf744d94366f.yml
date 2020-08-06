@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 9d187a1f-2e6f-474f-bdf8-bf744d94366f
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Tell Congress to Support Dialogue in Nicaragua, not impose more sanctions'
+  created:
+    -
+      value: 1531484347
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /tell-congress-support-dialogue-nicaragua-not-impose-more-sanctions
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2 style=\"text-align: center;\"><strong>Quixote Center/Alliance for Global Justice Urgent Action</strong><strong>\_</strong></h2>\r\n<h2 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=26363\"><strong>Take Action</strong></a></h2>\r\n<h2 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=26363\"><strong>Tell Congress to Support Dialogue in Nicaragua, not impose more sanctions</strong></a></h2>\r\n<p style=\"text-align: center;\"><img class=\"aligncenter size-large wp-image-8134\" src=\"https://afgj.org/wp-content/uploads/2017/09/Image-6-Sandino-Vivesmall-1024x768.jpg\" alt=\"\" width=\"752\" height=\"564\" /></p>\r\nHouse Resolution 981 calls on the U.S. government to more aggressively employ the Magnitsky act as a means to sanction individual members of the Nicaraguan government, while also condemning violence in Nicaragua. The stated goal is to support democracy, but the text of the resolution is not based on a balanced accounting of what has transpired in the country over the last three months. If serious about supporting democracy in Nicaragua, congress should support the process of dialogue, and join with other international organizations in calling for “all political actors” to halt the violence and work toward a negotiated solution.\r\n\r\nContact your member of Congress and tell them to vote against H. Res 981 and allow the people of Nicaragua to determine their future without the further intervention of the United States.\r\n\r\n&nbsp;\r\n\r\n<strong>Background</strong>\r\n\r\n&nbsp;\r\n\r\nThe House International Affairs Subcommittee on the Western Hemisphere voted the Resolution out of Committee on July 12. It will be taken up by the full committee in the coming days before going to the House floor for a vote.\r\n\r\nThe Magnitsky Act is a mechanism that allows the Trump administration to level sanctions against individuals in other countries it determines have violated human rights or have been involved in corruption. The Magnitsky Act was first employed in Nicaragua to apply sanctions against Roberto Rivas, head of the Supreme Electoral Council last year (he has since resigned). Last week further sanctions were announced against Francisco Diaz, deputy chief of the national police, Antonio Moreno Briones, secretary of the Managua mayor’s office, and Francisco Lopez, vice president of Albanisa (joint venture between Nicaragua and Venezuela). The individuals sanctioned seem to have been targeted for the perception that they are close to Ortega - not because specific incidents they are directly responsible for during the last three months of turmoil.\r\n\r\nFor the past three months Nicaragua has been in the throes of political crisis unlike anything seen since the 1980s. While the spark for protests in April was an announced reform of the social security system, violence over the next several days led to the deaths of nearly 50 people. Though investigations of the violence make clear that police were not acting unilaterally - as opposition groups burned buildings throughout the country and fired upon police (one of the first deaths was a police officer killed by a shotgun blast), the media has continued to present all of the deaths as the result of state forces firing on peaceful demonstrations. The government annulled the reforms and launched a process of national dialogue, mediated by the Episcopal Conference of Bishops.\r\n\r\nAs the weeks have gone by, the dialogue has moved forward in fits and starts, with opposition groups blockading major roads and eventually building smaller blockades within cities \_throughout the country to impede travel and disrupt commerce. The blockades have become the sight of further violence. In international media accounts all of the violence has been blamed on the police and parapolice forces. However, it is clear that opposition forces have utilized extreme force as well. At least 20 police officers have been killed and hundreds wounded. A Sandinista student representative from the Polytechnic University who was taking part in the dialogue, was beaten, shot and left for dead in a ditch in Managua. Independent analysis of reported deaths over the past three months indicate that many are not related to the demonstrations at all, that opposition forces are responsible for dozens of killings, and that many people have died for simply being near skirmishes between opposition and pro-government groups.\r\n\r\nAgainst this backdrop the dialogue has made some progress. Agreements have been reached to allow investigators from the Inter-American Human Rights, UN High Commission for Human Rights and the European Union to work alongside domestic investigators to document violence. Agreement was reached to organize the dialogue around three tables of discussion - human rights, security, and democratization. While there are clearly major differences between groups at these tables about how to proceed, working through the process for as long as possible to reach agreement is the only way out of the crisis. The United States should not be adding to the polarization at this time, by taking a hardline position on the outcome."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

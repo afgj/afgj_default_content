@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 345d7e0b-68e0-4dae-b646-8ac6aa183d5d
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 133068_491521188150_6566152_o.jpg
+  uri:
+    -
+      value: 'public://2020-06/133068_491521188150_6566152_o.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 258774
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1591127778

@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 0fafefbc-d0a7-456f-a0b7-bf9c1a70ec5a
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: IMG_7959.png
+  uri:
+    -
+      value: 'public://2020-06/IMG_7959.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 151394
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1591196554

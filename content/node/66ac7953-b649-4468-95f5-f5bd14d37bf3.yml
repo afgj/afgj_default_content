@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 66ac7953-b649-4468-95f5-f5bd14d37bf3
+  bundle: article
+  default_langcode: en
+  depends:
+    2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Healing from the Trauma of Torture'
+  created:
+    -
+      value: 1498610554
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /healing-trauma-torture
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: left;\"><strong>By Carol Marujo</strong></p>\n\n\n[caption id=\"attachment_7912\" align=\"aligncenter\" width=\"3072\"]<img class=\"size-full wp-image-7912\" src=\"https://afgj.org/wp-content/uploads/2017/06/Hondurasbertaprotest-1.jpg\" alt=\"\" width=\"3072\" height=\"2304\" /> Protesters arrive at the Honduran embassy in San José and begin preparations to demand justice for Berta Cáceras.[/caption]\n\nThe gang of criminals herded the family of ten into the home to watch as they forced the grandmother to kneel on the floor and shot a bullet into her head. The illegitimate government of Honduras used gangs to terrorize the people who resisted after the 2009 military coup d’état. Not surprisingly, many Hondurans fled to Costa Rica seeking refuge. Some of the refugees received temporary housing and other support at the Friends Peace Center while the United Nations High Commission for Refugees processed their cases. I heard some of their stories.\n\nAlicia Neuburger, a psychologist from Argentina who specializes in to young men traumatized by the war over the Maldives (Falkland islands) and others traumatized during the brutal dictatorships of that era. She talked of the very difficult experiences in Argentina, of the fear and the terror.\n\nIn 1990 Dr. Neuburger moved to Costa Rica where she was on the them with the difficult process of testifying about the human rights abuses they experienced.\n\n“Trauma is an event that happens and finishes. But the effects mayorganizations or religion,” explained Neuburger. “Post Traumatic Stress Disorder is only a list of symptoms, but it does not express the whole of the changes in a person or in a community that has been traumatized. It changes the whole sense of life.”\n\n“Unlike accidents or natural disasters, the fact that another healing much more difficult. People cannot trust. When you are a victim, you feel alone and that no one understands you. People who have been tortured especially need to be protected and supported.”\n\n“Trauma causes a complete change, an alteration in the person - hormonal, physical, emotional and spiritual. Anxiety hurts very much. It hurts physically and can lead to death. After the last dictator in Argentina, doctors found a high increase in cancer. For many years, the men in Argentina would not talk about their pain, and that leads to pathology in their health. If you cannot explore your feelings, the pain goes to your body and causes physical symptoms. If they have a disease, it gets more intense. In Latin cultures, men are socialized to hide their feelings. It is very difficult for them to admit that they need help. Women resisted disease more than the men. Women get together and talk and talk.”\n\nDr. Neuburger concluded her talk by explaining how impunity for the perpetrators delays healing for the victims. She said the suffering in Honduras will likely go on for years. People will have to unite and pressure the government to recognize its crimes. “If a government has impunity, society cannot recover.”\n\nA Costa Rican woman in the audience at Dr. Neuburger’s presentation devotes much of her time and energy to providing a lifeline to refugees fleeing Honduras and other countries. She helps them get to safety, provides emergency food and health care, and listens to their stories. She expressed their suffering with the words, “The refugees carry dead people on their backs.”\n\n<hr />\n\nJune 26 is the United Nations day of calling for an end to torture and supporting the victims of these crimes. June 28 is the eighth anniversary of the coup d’état in Honduras. Immediately after the coup, a heavy government crackdown on protests caused many deaths and much terror. Honduras became the murder capital of the world. Now, the killings have decreased and become selective. Journalists, environmentalists and human rights activists are still targeted with impunity. The murder of Indigenous rights activist, Berta Cáceras last year sparked protests, including here in Costa Rica. I traveled to Honduras with an AFGJ human rights delegation last year.\n\n<hr />\n\n<strong>About the author:</strong> Dr. Carol Marujo is a retired psychologist and current travel writer who has lived in Puriscal, Costa Rica, for many years.\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5267c309-7f28-4a59-b631-5c57ed8190b4
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Join us for Tear Down the Walls National Gathering'
+  created:
+    -
+      value: 1361724776
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /join-us-tear-down-walls-national-gathering
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<iframe src=\"//player.vimeo.com/video/73162470\" height=\"281\" width=\"500\" allowfullscreen=\"\" frameborder=\"0\"></iframe>\r\n<h5 style=\"text-align: center;\"><a href=\"http://vimeo.com/73162470\">Tear Down The Walls Promo</a> from <a href=\"http://vimeo.com/user20435736\">Dela Gente</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</h5>\r\n<span style=\"font-family: Arimo, sans-serif; color: #000000;\"><span style=\"font-size: small;\">Join together with a multitude of activists from around the country on Nov. 1-3 in Tucson, AZ for Tear Down the Walls National Gathering! We all have many walls we are working to tear down: Wall Street, the US border and Israeli apartheid walls, prison walls, the Pentagon militarism walls, the walls of capitalism, the walls of oppression by race, gender, ethnicity, personal identity – the list goes on. Among them are the walls that weaken our efforts, the walls between our separate movements.</span></span>\r\n<p style=\"text-align: left;\"><span style=\"font-family: Arimo, sans-serif; color: #000000;\"><span style=\"font-size: small;\">Tear Down the Walls National Gathering will bring multiple movements to strategize and network together on how to build a more unified, powerful movement for transformational change in the US. This will be the largest gathering of those working for social and economic justice in the US in 2013. You will not want to miss being part of this conversation!</span></span></p>\r\n<p style=\"text-align: left;\"><span style=\"font-family: Arimo, sans-serif; color: #000000;\"><span style=\"font-size: small;\">The National Gathering is in beautiful Tucson during the best time of the year! The Gathering will be capped by our participation in Tucson’s famous All Souls Procession which regularly draws 20,000 participants and is a unique combo of solemn procession and Mardi Gras.\r\n</span></span></p>\r\nGet involved!\r\n<p style=\"text-align: left;\"><span style=\"font-family: Arimo, sans-serif; color: #000000;\"><span style=\"font-size: small;\"><a href=\"https://org2.salsalabs.com/o/7315/p/salsa/event/common/public/?event_KEY=68468\">Register to Participate</a>\r\n<a href=\"https://afgj.org/workshop-registration\">Resister to Present a Workshop</a>\r\n<a href=\"https://afgj.org/tear-down-the-walls/proposed-workshops\">See list a proposed workshops</a>\r\n<a href=\"https://afgj.org/tear-down-the-walls/table-at-tdtw-national-gathering\">Tabling at Tear Down the Walls</a>\r\n<a href=\"https://afgj.org/schedule\">See preliminary schedule for the weekend</a>\r\n<a href=\"https://afgj.org/tear-down-the-walls/peoples-power-assemblies\">People's Power Assemblies</a>\r\n<a href=\"https://afgj.org/tear-down-the-walls/travel-and-accommodations-information\">Travel and Accommodations</a>\r\n<a href=\"https://afgj.org/tear-down-the-walls/tdtw-downloads\">Outreach and Media</a>\r\n<a href=\"https://afgj.org/participate\">Sign up to Volunteer</a>\r\n</span></span></p>\r\n&nbsp;"
+      format: full_html
+      summary: ''

@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: cee34d28-685b-4da0-87a3-32f41bac37a5
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'What is Being Done About Nicaragua’s 78% “Uninhabitable” Housing?'
+  created:
+    -
+      value: 1472125958
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /what-being-done-about-nicaraguas-78-uninhabitable-housing
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter wp-image-6975 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" width=\"579\" height=\"195\" />\n\nOne item that caught my eye in the news this past week was <a href=\"http://www.elnuevodiario.com.ni/nacionales/402097-cadur-78-nicas-habitan-viviendas-precarias/\" target=\"_blank\">an article in El Nuevo Diario</a> about the Second Central American Forum on Housing and City. Hector Lacayo, president of the Chamber of Builders of Nicaragua, was quoted as saying that 78% of Nicaraguans live in housing that doesn’t meet “the minimum standards of habitability.” According to the Sandinista government’s Plan for Human Development, there is a demand for 950,000 houses nationwide.\n\nAnd yet, a lot has changed on the housing front since the days when Somoza said, “Nicaragua is blessed with such a perfect climate that the people don’t need houses.” I couldn’t find a citation for that quote so maybe it is apocryphal, but it certainly represents the attitude of the Somoza dictatorship and the years of neoliberal government from 1990-2007.\n\nDuring the revolutionary government of the 1980s, Nicaragua Network sponsored many construction brigades that built houses in addition to schools, health clinics, and community centers. I remember we were quite upset that the last housing project we did was turned over to demobilized Contras by President Violeta Chamorro in 1990. But, the 1980s government was fighting a war against the US-trained and funded Contras so they really weren’t able to address the critical housing issue. And, during the governments of Chamorro, Aleman, and Bolaños, even if those neoliberals had cared about the poor, IMF structural adjustment policies wouldn’t have permitted them to address the housing deficit.\n\nIt wasn’t until Nicaraguan voters returned the Sandinistas to power in the 2006 election that the government of President Daniel Ortega was able to address housing in any comprehensive way. It told the IMF that it was not going to put off needed social investment, and then was so successful at it that the IMF ended up praising it, declaring Nicaragua’s economy sustainable and closing up their office and returning to Washington for the first time since 1990.\n\nSo when I saw the quote above I asked myself, what counts as “minimum standards of habitability” in the Nicaragua context? A search of the internet for standards of habitability returned only what it means in the US which would be a ludicrous standard to apply to Nicaragua. I think that prior to 2007, one could say that a house that was wind and rain-proof constituted a minimum standard of habitability. Today, with nine years of Sandinista investment in dignified housing, I think we would add access to electricity, potable water, sewer, and maybe gas cooking to our habitability definition. I don’t know what definition Mr. Lacayo used to come up with his 78%, or what the percentage was 10 year ago, but I do know that hundreds of thousands, if not more, Nicaraguans live in better homes than they did prior to 2007.\n\nHow did that come about? The simple answer is because there was a will on the part of the government to recuperate people’s social rights. That has translated into an integrated effort including the improvement of infrastructure, especially expanding access to electricity, even in rural areas, and to greatly expand water and sewer systems in urban areas. (Today 76.2% of the population has electricity compared to 55% in 2006) It has meant making education and healthcare free because education and health are critical to any improvement in standard of living. It has meant improving the economy so that hundreds of thousands of workers have moved into jobs in the formal economy where they have labor rights and pensions. It has meant legalizing property ownership, a task left undone during the land reform measures of the revolutionary government. If you don’t have legal title to your land, you’re not likely to invest in building a good house, and you’re not going to get bank credit to do so anyway. And finally the government has focused on the family economy to the extent of creating a Ministry of the same name. Zero Hunger, Zero Usury, and gardening supplies and training for urban families all have improved people’s living standards and morale.\n\nBut the government has also has focused programs directly on housing. First came <em>Plan Techo</em> (Plan Roof) which was both a political and a social project. Over 121,500 families have received 10 sheets of galvanized metal roof panels since the program’s inception in 2007. That’s 121,500 families who no long have a leaky roof. The brilliant political angle was to put Cardinal Miguel Obando y Bravo \_in charge of the program. With Obando in charge, former Contras trusted the program and the result has been that many former opponents of the Sandinistas have become supporters as it turned out that the rhetoric or reconciliation was backed by material deeds.\n\nNext was the construction of affordable housing with some of the first recipients being former sugar cane workers suffering the debilitating effects of Nemagon poisoning. They had been camped under plastic outside of the National Assembly building for many years. Former coffee workers impoverished by low coffee prices in the early 2000s who were also camped for years in Managua also received houses. And, with the closing of the La Chureca dump in Managua, one of Latin America’s worst, the families who used to live on the dump also received dignified housing.\n\nIn more recent years, this program has evolved and expanded through a partnership between the government, building contractors, and banks. Contractors build simple houses for $20,000 or less and buyers get government guaranteed low interest loans from the banks making housing affordable for teachers, police, firefighters, and other minimum wage workers. This is the program that Hector Lacayo was calling for expanding more rapidly in the article I cited at the beginning of this blog posting.\n\nI am in no position to contest the statistic saying that 78% of Nicaraguans live in sub-standard housing. But what is equally clear is that the situation is improving and many fewer people are living in homes that are a hazard to their health and wellbeing. It shows what improvements can be accomplished in even a country as poor as Nicaragua if it has a government that has a will to restore people’s economic and social rights.\n\n***\n\n<strong>Briefs</strong>\n\nThe Chief of the Nicaragua Fire Department, Commander Enrique Chavarria, announced that three fully equipped fire trucks were donated to Nicaragua by the Wisconsin - Nicaragua Sister City Program and the Wisconsin - Nicaragua Lion's Club. He added that the US$190,000\_ donation was transported to Nicaragua on a U.S. Air Force C-5 Galaxy Cargo Plane. <em>(Nicaragua News, Aug. 18)</em>\n\nThe minimum wage will go up 4.5% Sept. 1, for a total increase of 9% this year. This is another victory for labor stability in Nicaragua resulting from tripartite negotiations between labor, business, and the government. <em>(El Nuevo Diario, Aug. 18)</em>\n\nThe President of the Nicaragua Central Bank, Ovidio Reyes said that Gross International Reserves (GIR) reached US$2.4 billion dollars during the first seven months of this year, equivalent to 2.6 times the monetary base of the country. He added that this level of reserve contributes to greater economic and financial stability in the country.\_ <em>(Nicaragua News, Aug. 22)</em>\n\nThe Nicaraguan Catholic Church hierarchy issued a statement on the upcoming presidential elections urging Nicaraguans to “vote your conscience.” This greatly disappointed the part of the opposition led by banker and former 2006 presidential candidate Eduardo Montealegre who had hoped that the bishops would call for a boycott of the elections and condemn the candidacy of Daniel Ortega. <em>(Informe Pastran, Aug. 22)</em>\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

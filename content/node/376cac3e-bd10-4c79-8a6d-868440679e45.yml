@@ -1,0 +1,70 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 376cac3e-bd10-4c79-8a6d-868440679e45
+  bundle: article
+  default_langcode: en
+  depends:
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    3468b7af-04af-4097-aa0f-28fcb8dcb1d5: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Joint Statement Regarding President Obama''s Visit to Argentina - Declaración Unida Sobre la Visita de Presidente Obama (EE.UU.) a Argentina'
+  created:
+    -
+      value: 1457618758
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /joint-statement-regarding-president-obamas-visit-argentina-declaracion-unida-sobre-la-visita-de
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p lang=\"es-AR\">(Versión en español después del inglés)</p>\n<p lang=\"es-AR\"><strong><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">Human Rights Groups from Argentina and the United States unite to denounce the role of President Barack Obama as a promoter of US imperialism in the world, including its innumerable abuses of human rights among North America's own people</span></span></strong></p>\n\n\n[caption id=\"attachment_6543\" align=\"aligncenter\" width=\"376\"]<img class=\"wp-image-6543\" src=\"https://afgj.org/wp-content/uploads/2016/03/Madres-Argentina.jpg\" alt=\"Madres Argentina\" width=\"376\" height=\"217\" /> Madres de Plaza de Mayo (Mothers of Plaza of May) declare opposition to Obama visit to Argentina. This group is made up of mothers of children who were disappeared by the US supported dictatorship during Argentina's \"Dirty War\", 1976-1983[/caption]\n<p lang=\"es-AR\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">Upon the announcement for President Barack Obama's visit to Argentina March 23 and 24 of the current year, the Argentine League for the Rights of Humanity (Liga Argentina por los Derechos del Hombre) and the United States based Alliance for Global Justice, declare with one voice that this visit is truly a provocation of the memory of the victims of the genocide perpetrated in Argentina. This was carried out with the considered and decisive participation of the US government, its intelligence agencies, its big economic centers, its armed forces and a good part of its media apparatus.</span></span></p>\n<p lang=\"es-AR\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\"> We denounce as hypocrisy Obama's rhetoric in presenting himself as a defender of Human Rights. Truly he is a Chief of State who has not ceased in invading nations, promoting actions of destabilization of non-submissive governments and making use of clandestine detention and torture sites throughout the world. These sites in turn inspired the installation of the infamous US prison usurped from territory of Guantánamo, Cuba.</span></span></p>\n<p lang=\"es-AR\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">Like a cruel joke, after receiving his Nobel Prize, President Obama began one of the most cruel, perverse, unjustified and colonialist beligerent campaigns in the history of the US against Libya. The United States is a country that since its beginnings has not ceased to self-proclaim a “manifest destiny”, that is to say, a colonialist expansionism that has only changed in form but not in sense. The maintenance and continuation of the Cuba blockade is proof of this, despite the advances in diplomatic relations and government to government talks (of which we approve and wish success). </span></span></p>\n<p lang=\"es-AR\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">The Obama administration and the United States government not only commit human rights violations outside the United States. It also commits them against its own people. The US has more than 2.3 million prisoners, including political prisoners, in a penitentiary system with the highest rate of incarceration in the world. This system is characterized by extreme inhumanity with more than 80,000 persons secluded in solitary confinement.</span></span></p>\n<p lang=\"es-AR\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">The racist US state shows itself every day in the form of police and prison brutality. Rather than promoting education for all, jobs and basic opportunities for the betterment of life, the US government stigmatizes and represses minorities, especially African-Americans, immigrants and indigenous persons. In the US, racism and stigmatization continue for all who resist imperial domination and its mandates. The nation's schools are dominated by the most obscurantist sectors in order to undermine critical thinking.</span></span></p>\n<p lang=\"es-AR\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">The US government lead by Pres. Obama has done nothing to overcome the paradox of appealing again and again to the principle of “universal jurisdiction” while refusing to sign the principle human rights pacts and conventions, beginning with the Declaration of Human Rights, the Convention on the Prevention and Punishment of Genocide, and the Rome Statute that established the International Criminal Court. The US government further fails to respect the nations who have signed these accords.</span></span></p>\n<p lang=\"es-AR\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">The embrace between Pres. Obama and Argentine President Mauricio Macri will be the embrace of two enemies of human rights. Their intended commitment to the humanitarian cause is no more than a farce in the service of imperial plans to destablize and overthrow popular processes that are moving forward in Cuba, Venezuela, Ecuador, Nicaragua, Brazil and Bolivia, among others.</span></span></p>\n<p lang=\"es-AR\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">Because of this the Argentine League for the Defense of Humanity and the Alliance for Global Justice of the United States, call on both our nations' peoples to repudiate this embrace between Obama and Macri and instead act to build more and more bridges between our nations for the achievement of true democracy and the full force of all the rights of both peoples.</span></span></p>\n<span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">Graciela Rosenblum y José Schulman for LADH</span></span>\n\n<span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\"><span lang=\"es-AR\">James Jordan for AfGJ</span></span></span>\n\n<span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\"><span lang=\"es-AR\">Buenos Aires y Washington, March, 2016\n</span></span></span>\n\n<span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">Liga Argentina por los Derechos del Hombre</span></span>\n\n<span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">(Argentine League for the Rights of Humanity)</span></span>\n\n<a href=\"http://www.laladh.wordpress.com/\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">www.laladh.wordpress.com</span></span></a>\n\n<span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">Alliance for Global Justice</span></span>\n\n<span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">(Alianza por la Justicia Global de los EE.UU.)</span></span>\n\n<a href=\"https://afgj.org/\" target=\"_blank\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">www.afgj.org</span></span></a>\n<div class=\"entry-content\">\n<h3>Organismos defensores de los derechos humanos de Argentina y EE.UU. se unen para denunciar el rol del presidente Obama como promotor del rol imperial de los EE.UU. en el mundo, que acarrea innumerables colapsos humanitarios como violador de los derechos de los propios norteamericanos</h3>\n<h4>Ante el anuncio del viaje a la Argentina del presidente Obama para los días 23 y 24 de marzo del corriente año, la Liga Argentina por los Derechos del Hombre y la Alianza \_por la Justicia \_Global, de los EE.UU., de manera conjunta y unificada, declaran que dicho viaje es una verdadera provocación a la memoria de las víctimas del Genocidio perpetrado en la Argentina, con la decidida y decisiva participación del gobierno de los EE.UU., sus agencias de seguridad, sus grandes grupos económicos, sus fuerzas armadas y buena parte de su aparato mediático.</h4>\n<h4>Denunciamos como hipócrita el discurso de Obama de presentarse como defensor de los Derechos Humanos cuando es, como es, el Jefe de un Estado que no ha dejado de invadir países, promovido acciones de desestabilización de gobiernos que no le eran dóciles, amparado sitios clandestinos de detención y tortura en todo el mundo que se inspiran en el modelo de la Cárcel instalada en el territorio usurpado a Cuba de Guantánamo.</h4>\n<h4>Como una burla cruel, el presidente Obama emprendió a poco de recibir su Premio Nobel de la Paz una de las campañas belicistas más crueles, perversas, injustificadas y colonialistas de la historia de los EE.UU., país que desde sus inicios no ha dejado de auto proclamar un “destino manifiesto” que se ha expresado en un expansionismo colonialista que solo ha cambiado de formas pero no de sentido.\_ El mantenimiento del bloqueo a Cuba hasta hoy mismo es una prueba de ello, a pesar de los avances en las relaciones diplomáticas y las conversaciones de gobierno a gobierno que aprobamos y auspiciamos.</h4>\n<h4>Pero la administración de Obama y el gobierno estadounidense no solo viola los derechos humanos fuera de los EE.UU. También lo hace contra su propio pueblo.</h4>\n<h4>Hay mas de 2.3 millones de presos, incluyendo presos políticos, en un sistema penitenciario con la tasa de encarcelamiento mas alto del mundo. Es un sistema caracterizado por la crueldad extrema y la perversión con mas de 80 mil personas recluidos en aislamiento solitario.</h4>\n<h4>El racismo estatal se muestra cada día en la forma de brutalidad policíaca y carcelaria que, en lugar de promover la educación para todas y todos, empleos y oportunidades básicas para mejorar sus vidas, estigmatizan y persiguen a las minorías, especialmente los negros, los inmigrantes e indígenas.</h4>\n<h4>En EE.UU. continúa el racismo, la estigmatización de todos los que resisten el dominio imperial y sus mandatos, la enseñanza sigue dominada por los sectores más oscurantistas y negadores del pensamiento crítico.</h4>\n<h4>El gobierno estadounidense encabezado por presidente Obama no ha hecho nada para superar la paradoja de ser uno de los pocos gobiernos que apela una y otra vez al principio de la “jurisdicción universal” pero se niega a firmar los principales pactos y Convenios de Garantías; y a respetar los pocos que ha firmado, empezando por la declaración de los derechos humanos y la Convención de Prevención y Castigo al delito de Genocidio de 1948 o el mismo Pacto de Roma de los 90.</h4>\n<h4>El abrazo entre Obama y Macri será el abrazo de dos enemigos de los derechos humanos y su pretendido compromiso con la causa humanitaria no es más que una farsa al servicio de los planes imperiales de desestabilizar y derrotar los procesos populares que se llevan adelante en Cuba, Venezuela, Ecuador, Nicaragua, Brasil y Bolivia, entre otros.</h4>\n<h4>Por todo ello, la Liga Argentina por los Derechos del Hombre y la Alianza por la Justicia Global de los EE.UU., convocan a ambos pueblos a repudiar el abrazo Obama Macri y construir más y más puentes entre nuestras naciones para la conquista de la verdadera democracia y la plena vigencia de todos los derechos para ambos pueblos.</h4>\nJames Jordan por la AFGJ,\n\nGraciela Rosenblum y José Schulman por la LADH\n\nBuenos Aires y Washington, marzo de 2016\n\n<span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">Liga Argentina por los Derechos del Hombre</span></span>\n\n<a href=\"http://www.laladh.wordpress.com/\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">www.laladh.wordpress.com</span></span></a>\n\n<span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">Alliance for Global Justice</span></span>\n\n<span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">(Alianza por la Justicia Global de los EE.UU.)</span></span>\n\n<a href=\"https://afgj.org/\" target=\"_blank\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">www.afgj.org</span></span></a>\n\n&nbsp;\n\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 3468b7af-04af-4097-aa0f-28fcb8dcb1d5
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+  field_mt_slideshow:
+    -
+      value: false

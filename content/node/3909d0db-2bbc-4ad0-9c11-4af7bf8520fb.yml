@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3909d0db-2bbc-4ad0-9c11-4af7bf8520fb
+  bundle: article
+  default_langcode: en
+  depends:
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela-ALBA Weekly: Venezuela Responds to Escalating US Regime Change Attacks'
+  created:
+    -
+      value: 1554468410
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-alba-weekly-venezuela-responds-escalating-us-regime-change-attacks
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p dir=\"ltr\"><a href=\"https://venezuelanalysis.com/news/14397\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://venezuelanalysis.com/news/14397&amp;source=gmail&amp;ust=1554577667180000&amp;usg=AFQjCNFegktl5vwkSKna1nOfMCuAU7gFLQ\">US has seized $5 billion of \_Venezuelan funds meant for Medical Supplies </a></p>\r\n<p dir=\"ltr\"><a href=\"https://venezuelanalysis.com/news/14418\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://venezuelanalysis.com/news/14418&amp;source=gmail&amp;ust=1554577667180000&amp;usg=AFQjCNHRzn4Hc3JhyGD3H1ss3AzSvi4FUw\">Guaido’s Parliamentary Immunity Revoked as Maduro Sacks Electricity Minister; Government plans to build another 2.5 million homes</a></p>\r\n<p dir=\"ltr\"><a href=\"http://orinocotribune.com/trump-threatens-oil-companies-and-refineries-negotiating-with-venezuela\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=http://orinocotribune.com/trump-threatens-oil-companies-and-refineries-negotiating-with-venezuela&amp;source=gmail&amp;ust=1554577667180000&amp;usg=AFQjCNFG79HtsI81Y606hmJw9RSmmf358Q\">Trump Threatens Oil Companies and Refineries Negotiating with Venezuela</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.telesurenglish.net/news/Maduro-Venezuela-Is-Surviving-the-Worlds-First-Cyber-War-20190403-0037.html\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.telesurenglish.net/news/Maduro-Venezuela-Is-Surviving-the-Worlds-First-Cyber-War-20190403-0037.html&amp;source=gmail&amp;ust=1554577667180000&amp;usg=AFQjCNH4Q_lFOeemg-TIQF7LcgzqZUYXAQ\">Venezuela Is Surviving the World's First Cyber War</a></p>\r\n<p dir=\"ltr\"><a href=\"http://orinocotribune.com/mumia-abu-jamal-venezuela-again-audio-308?fbclid=IwAR1rQpm71gSLj82wmg7lMwYoGqPyeeUTNkXpVpSB6NyfCg7QZgVBsBz9NWQ\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=http://orinocotribune.com/mumia-abu-jamal-venezuela-again-audio-308?fbclid%3DIwAR1rQpm71gSLj82wmg7lMwYoGqPyeeUTNkXpVpSB6NyfCg7QZgVBsBz9NWQ&amp;source=gmail&amp;ust=1554577667180000&amp;usg=AFQjCNGYsNAehHem4PI8Kn8nxp2jH8HXiw\">US Political Prisoner Mumia Abu Jamal on Venezuela</a></p>\r\n<p dir=\"ltr\"><a href=\"http://www.coha.org/the-u-s-refusal-of-entry-to-arnold-august-is-a-dangerous-precedent-for-all-activists/?fbclid=IwAR2paHeZjA4vITLS64u4ZVIdGsBZmoU9lvTcsra7c3pqAc1CQOK_-bU8Kg4\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.coha.org/the-u-s-refusal-of-entry-to-arnold-august-is-a-dangerous-precedent-for-all-activists/?fbclid%3DIwAR2paHeZjA4vITLS64u4ZVIdGsBZmoU9lvTcsra7c3pqAc1CQOK_-bU8Kg4&amp;source=gmail&amp;ust=1554577667180000&amp;usg=AFQjCNH2taxRbiz3J0ZHc75q6sLXczYpxg\">The U.S.’ Refusal of Entry to Arnold August Is a Dangerous Precedent for All Activists</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.strategic-culture.org/news/2019/04/01/is-washington-preparing-the-groundwork-for-maidan-scenario-in-venezuela.html?fbclid=IwAR2qAFLOoxQaegRPmVvqatVOnnEm6uVAhNarPA35t5dvesPN7C1M-HRqy-U\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.strategic-culture.org/news/2019/04/01/is-washington-preparing-the-groundwork-for-maidan-scenario-in-venezuela.html?fbclid%3DIwAR2qAFLOoxQaegRPmVvqatVOnnEm6uVAhNarPA35t5dvesPN7C1M-HRqy-U&amp;source=gmail&amp;ust=1554577667180000&amp;usg=AFQjCNGOcBG8d3y8SYjI2vTCAWlU3Ly_qg\">Is Washington Preparing the Groundwork for a Ukraine Maidan Scenario in Venezuela?</a></p>\r\n<p dir=\"ltr\"><a href=\"https://fair.org/home/venezuela-coverage-takes-us-back-to-golden-age-of-lying-about-latin-america/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://fair.org/home/venezuela-coverage-takes-us-back-to-golden-age-of-lying-about-latin-america/&amp;source=gmail&amp;ust=1554577667180000&amp;usg=AFQjCNGQdyD6eE3WKYOsQwdvF24Tt4bO_g\">FAIR: Venezuela Coverage Takes Us Back to Golden Age of Lying About Latin America</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.rt.com/news/455115-venezuelan-defense-minister-messages-bolton/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.rt.com/news/455115-venezuelan-defense-minister-messages-bolton/&amp;source=gmail&amp;ust=1554577667180000&amp;usg=AFQjCNHgkNJNhtSvGYgL1SM2vurjQN-_Zg\">Do the right thing? Venezuelan defense minister responds to Bolton's calls to defect</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.checkpointasia.net/china-takes-on-us-over-venezuela-after-russia-sends-troops-its-not-your-backyard/?utm_campaign=shareaholic&amp;utm_medium=facebook&amp;utm_source=socialnetwork&amp;fbclid=IwAR1E7uZnErBY7-wp_s6XMXLJeVDZJP_oIdR2ObeusbsZ3UR0jz09x-oULb8\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.checkpointasia.net/china-takes-on-us-over-venezuela-after-russia-sends-troops-its-not-your-backyard/?utm_campaign%3Dshareaholic%26utm_medium%3Dfacebook%26utm_source%3Dsocialnetwork%26fbclid%3DIwAR1E7uZnErBY7-wp_s6XMXLJeVDZJP_oIdR2ObeusbsZ3UR0jz09x-oULb8&amp;source=gmail&amp;ust=1554577667180000&amp;usg=AFQjCNGduBIrFnqP2fsrUX8B7DPqCnmXIw\">China Takes on US Over Venezuela After Russia Sends Troops: It’s Not Your “Backyard”</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.rt.com/op-ed/455081-manufactured-crisis-venezuela-us-intervention/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.rt.com/op-ed/455081-manufactured-crisis-venezuela-us-intervention/&amp;source=gmail&amp;ust=1554577667180000&amp;usg=AFQjCNHHqR3wEGGXt6Cp52srluxULqghng\">Eva Bartlett: US is manufacturing a crisis in Venezuela so that there is chaos and 'needed' intervention</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.liberationnews.org/eyewitness-venezuela-national-speaking-tour-featuring-gloria-la-riva/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.liberationnews.org/eyewitness-venezuela-national-speaking-tour-featuring-gloria-la-riva/&amp;source=gmail&amp;ust=1554577667180000&amp;usg=AFQjCNEg5vH6bmcQ5cYQzJxK6hyICHfJPw\">Eyewitness Venezuela: 20+ City Speaking Tour with Gloria La Riva</a></p>\r\n<p dir=\"ltr\"><a href=\"https://mronline.org/2019/03/26/urgent-call-to-celebrate-may-day-in-solidarity-with-venezuela/?fbclid=IwAR0zuPPLg7BZzJphaKuQFEZ-TZUZRdOz29Zzeul2BiqHGihKDtx3-E7gWR8\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://mronline.org/2019/03/26/urgent-call-to-celebrate-may-day-in-solidarity-with-venezuela/?fbclid%3DIwAR0zuPPLg7BZzJphaKuQFEZ-TZUZRdOz29Zzeul2BiqHGihKDtx3-E7gWR8&amp;source=gmail&amp;ust=1554577667181000&amp;usg=AFQjCNEWboqpMLnWTENKME59cnK9np2bRA\">Delegation to Venezuela, April 26 - May 5</a></p>\r\n<p dir=\"ltr\"><a href=\"https://vb4cuba.com/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://vb4cuba.com/&amp;source=gmail&amp;ust=1554577667181000&amp;usg=AFQjCNEKto0bPq2AsFiLc57NtyqwlQqiMg\">Cuba: 50th Anniversary Contingent of the Venceremos Brigade!</a></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

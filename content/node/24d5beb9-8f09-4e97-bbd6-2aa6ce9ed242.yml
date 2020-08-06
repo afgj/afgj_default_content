@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 24d5beb9-8f09-4e97-bbd6-2aa6ce9ed242
+  bundle: article
+  default_langcode: en
+  depends:
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ''s 2017 Delegations Calendar!'
+  created:
+    -
+      value: 1478001263
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgjs-2017-delegations-calendar
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><strong>Considering Joining AFGJ on one of our Delegations in 2017!</strong></p>\n<p style=\"text-align: center;\"><strong>We're going to: Honduras, Mexico, Venezuela, Colombia, </strong></p>\n<p style=\"text-align: center;\"><strong>Paraguay, </strong><strong>Peru and Bolivia.</strong></p>\n<p style=\"text-align: center;\"><strong>For more information visit our <a href=\"https://afgj.org/act-now\">Delegations Page</a></strong></p>\n<p style=\"text-align: center;\"><strong>or email <a href=\"mailto:Delegations@afgj.org\">Delegations@afgj.org</a> for an application!</strong></p>\n<img class=\"aligncenter wp-image-7215 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/10/Delegations2017pg1.jpg\" alt=\"delegations2017pg1\" width=\"504\" height=\"684\" /> <img class=\"aligncenter wp-image-7216 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/10/Delegations2017pg2.jpg\" alt=\"delegations2017pg2\" width=\"509\" height=\"684\" />\n<p style=\"text-align: center;\"><a href=\"https://afgj.org/wp-content/uploads/2016/10/Delegations-2017-Flyer.pdf\"><strong>Download the Flyer</strong></a></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

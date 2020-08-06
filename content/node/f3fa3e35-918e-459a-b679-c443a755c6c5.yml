@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f3fa3e35-918e-459a-b679-c443a755c6c5
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly 1.4.2019 Pompeo Recharges US Regime Change as its Targets continue to progress'
+  created:
+    -
+      value: 1546630332
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-142019-pompeo-recharges-us-regime-change-its-targets-continue-progress
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter wp-image-11091 size-full\" src=\"https://afgj.org/wp-content/uploads/2019/01/image-1.png\" alt=\"\" width=\"958\" height=\"596\" />\r\n\r\n&nbsp;\r\n<table id=\"m_-6579387937156796359id_32a77250-ae45-4149-8471-946a4d732b5b\" class=\"m_-6579387937156796359contents\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr class=\"m_-6579387937156796359sli-email-element m_-6579387937156796359sli-text\">\r\n<td>\r\n<table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td id=\"m_-6579387937156796359id_cedaec65-5f86-4640-900e-f7a223fbd155\"><a href=\"https://default.salsalabs.org/T843a16d5-b52b-49ee-b23a-f750608d9ad6/5c7eec9b-7756-40a3-a607-6166f14cb864\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T843a16d5-b52b-49ee-b23a-f750608d9ad6/5c7eec9b-7756-40a3-a607-6166f14cb864&amp;source=gmail&amp;ust=1546723982909000&amp;usg=AFQjCNHb-_cnnYQb6ZntS5VphnYe-Yhj_w\">Venezuela webinar from President Maduro's inauguration with Akinyele Umoja \_January 10</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tb59afb90-0bdc-41a0-bba9-1ca541613741/5c7eec9b-7756-40a3-a607-6166f14cb864\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tb59afb90-0bdc-41a0-bba9-1ca541613741/5c7eec9b-7756-40a3-a607-6166f14cb864&amp;source=gmail&amp;ust=1546723982909000&amp;usg=AFQjCNHW7aEMudfj-7LrFis3g2ueCk1p3Q\">From Reuters (so full of the standard anti-ALBA country propaganda): Pompeo, Brazil's new government target Cuba, Venezuela, Nicaragua</a>\r\n\r\n<strong>Venezuela</strong>\r\n\r\n<a href=\"https://default.salsalabs.org/Tfd893dad-1e8f-448d-8cdb-c29c19a1cbf7/5c7eec9b-7756-40a3-a607-6166f14cb864\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tfd893dad-1e8f-448d-8cdb-c29c19a1cbf7/5c7eec9b-7756-40a3-a607-6166f14cb864&amp;source=gmail&amp;ust=1546723982909000&amp;usg=AFQjCNGTe5_NMVXIb-J82m0Ih-FyyCccIQ\">Venezuela has now Built \_2.5 Million Homes for those Needing Decent Housing</a>; even in 2017 only<a href=\"https://default.salsalabs.org/T1cd66935-ad60-4db5-9ad1-0255f84397bf/5c7eec9b-7756-40a3-a607-6166f14cb864\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T1cd66935-ad60-4db5-9ad1-0255f84397bf/5c7eec9b-7756-40a3-a607-6166f14cb864&amp;source=gmail&amp;ust=1546723982909000&amp;usg=AFQjCNHSIBm9E8tLMmeAB96kJyBLNnHk-w\">\_7.6% of venezuelans had to rent, compared to 21% for Latin America as a whole</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tc1e47f60-331b-4386-be5b-280947e22cb6/5c7eec9b-7756-40a3-a607-6166f14cb864\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tc1e47f60-331b-4386-be5b-280947e22cb6/5c7eec9b-7756-40a3-a607-6166f14cb864&amp;source=gmail&amp;ust=1546723982909000&amp;usg=AFQjCNH-Z-RT16O9wyKkeTlpirvhofIMsQ\">Steve Ellner &amp; Greg Wilpert on The Real News: The Roots of Venezuela's Economic Crisis</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T22274561-600c-4a98-a44c-044304ea0885/5c7eec9b-7756-40a3-a607-6166f14cb864\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T22274561-600c-4a98-a44c-044304ea0885/5c7eec9b-7756-40a3-a607-6166f14cb864&amp;source=gmail&amp;ust=1546723982909000&amp;usg=AFQjCNF_uOatuOrCb6Lj7pV3O9D_4bnyhA\">Venezuela Lost $20 Billion as Result of US-led Sanctions: Maduro</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tc906f753-35d5-40ac-a523-ca0ec931843d/5c7eec9b-7756-40a3-a607-6166f14cb864\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tc906f753-35d5-40ac-a523-ca0ec931843d/5c7eec9b-7756-40a3-a607-6166f14cb864&amp;source=gmail&amp;ust=1546723982909000&amp;usg=AFQjCNEvWYrvKHtgbnMC8Q2PscaIZU1j6Q\">Venezuela Condemns Interventionist Statements by Pompeo in Brazil</a>\r\n\r\n<strong>Nicaragua</strong>\r\n\r\n<a href=\"https://default.salsalabs.org/T405c8d4d-3cc9-47e0-999b-70b58041799e/5c7eec9b-7756-40a3-a607-6166f14cb864\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T405c8d4d-3cc9-47e0-999b-70b58041799e/5c7eec9b-7756-40a3-a607-6166f14cb864&amp;source=gmail&amp;ust=1546723982909000&amp;usg=AFQjCNFBisKt6ecYeb9rbdSLgFdHXDgBeA\">Nicaragua: Foreign Minister Rallies Support Against OAS Action</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T968ac870-1d9a-41f0-821c-5fabaac10166/5c7eec9b-7756-40a3-a607-6166f14cb864\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T968ac870-1d9a-41f0-821c-5fabaac10166/5c7eec9b-7756-40a3-a607-6166f14cb864&amp;source=gmail&amp;ust=1546723982909000&amp;usg=AFQjCNFvMfLg7e5QEs3PalulUINz-1Fs_w\">Tortillla con Sal: Nicaragua and the corruption, cooptation of human rights</a>\r\n\r\n<strong>Cuba</strong>\r\n\r\n<a href=\"https://default.salsalabs.org/Tf516218d-8556-43b8-98be-2686d2accd73/5c7eec9b-7756-40a3-a607-6166f14cb864\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tf516218d-8556-43b8-98be-2686d2accd73/5c7eec9b-7756-40a3-a607-6166f14cb864&amp;source=gmail&amp;ust=1546723982909000&amp;usg=AFQjCNGjrHZ6LASNqFrC-aG_G3lOfBLT8Q\">Venezuela \_government: Cuban Revolution 'Will Continue to Light the Way During this Challenging and Complex 21st Century'</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T4ac4d414-037c-4f25-9e22-b02290c44adf/5c7eec9b-7756-40a3-a607-6166f14cb864\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T4ac4d414-037c-4f25-9e22-b02290c44adf/5c7eec9b-7756-40a3-a607-6166f14cb864&amp;source=gmail&amp;ust=1546723982909000&amp;usg=AFQjCNG7lbF7J8UBgmqw5fybkm7cG-Llww\">Raul Castro: After 60 years of struggle, sacrifices, efforts and victories, we see a free, independent country, the master of its own destiny</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T1ba223de-9586-4315-b1bd-d1e7bf48f15d/5c7eec9b-7756-40a3-a607-6166f14cb864\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T1ba223de-9586-4315-b1bd-d1e7bf48f15d/5c7eec9b-7756-40a3-a607-6166f14cb864&amp;source=gmail&amp;ust=1546723982909000&amp;usg=AFQjCNEOB0l5t073EQleKJUNdeHlll042Q\">Arnold August: 60 Years of Defending Cuba Against a Barbarous Empire</a>\r\n\r\n<strong>Bolivia</strong>\r\n\r\n<a href=\"https://default.salsalabs.org/Tf19d24a1-db18-4174-803d-508e3101c765/5c7eec9b-7756-40a3-a607-6166f14cb864\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tf19d24a1-db18-4174-803d-508e3101c765/5c7eec9b-7756-40a3-a607-6166f14cb864&amp;source=gmail&amp;ust=1546723982909000&amp;usg=AFQjCNGMOHMI7z65OV75Xj57yRGpkJ216w\">Bolivia Rolls Out Universal Health Care To 5.8M Uninsured, half the population</a>\r\n\r\n<strong>Delegations</strong>\r\n\r\n<a href=\"https://default.salsalabs.org/T54decbb0-326c-4015-af6f-8b1baca0add4/5c7eec9b-7756-40a3-a607-6166f14cb864\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T54decbb0-326c-4015-af6f-8b1baca0add4/5c7eec9b-7756-40a3-a607-6166f14cb864&amp;source=gmail&amp;ust=1546723982909000&amp;usg=AFQjCNFa_hMTbJ5bNqJ_Uad3J_3pPbWBew\">14th May Day International Volunteer Work Brigade in Solidarity with Cuba\r\nApril 21 to May 5, 2019</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Td082a420-df48-406a-9c7b-b4994925025d/5c7eec9b-7756-40a3-a607-6166f14cb864\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Td082a420-df48-406a-9c7b-b4994925025d/5c7eec9b-7756-40a3-a607-6166f14cb864&amp;source=gmail&amp;ust=1546723982909000&amp;usg=AFQjCNFSINmtzDG3RhaUC65_qwN6iLzWYQ\">IFCO/Pastors for Peace delegations to Cuba</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T7a27bc61-1272-484d-a0e2-94f29ead17e3/5c7eec9b-7756-40a3-a607-6166f14cb864\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T7a27bc61-1272-484d-a0e2-94f29ead17e3/5c7eec9b-7756-40a3-a607-6166f14cb864&amp;source=gmail&amp;ust=1546723982909000&amp;usg=AFQjCNHvBxL7kSbzp4GZucDgLC2D2TZ8YA\">Delegation to Venezuela, March 17-24, 2019</a></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 0579a357-b150-4866-9066-bb4af9f2a283
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly #207 May 4, 2018: May Day Mobilizations in Nicaragua, Cuba, Venezuela'
+  created:
+    -
+      value: 1525500333
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-207-may-4-2018-may-day-mobilizations-nicaragua-cuba-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-9697\" src=\"https://afgj.org/wp-content/uploads/2018/05/ven-weekly-5.4.png\" alt=\"\" width=\"850\" height=\"532\" />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/US-Stresses-Interventionist-Plan-in-Cuba-Nicaragua-Venezuela-20180503-0010.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/US-Stresses-Interventionist-Plan-in-Cuba-Nicaragua-Venezuela-20180503-0010.html&amp;source=gmail&amp;ust=1525610138816000&amp;usg=AFQjCNH9jTphVYhKm-CxovMR1Tw5lz5ziQ\">US Stresses Interventionist Plan in Cuba, Nicaragua, Venezuela</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://tortillaconsal.com/tortilla/node/2639\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://tortillaconsal.com/tortilla/node/2639&amp;source=gmail&amp;ust=1525610138816000&amp;usg=AFQjCNHHU9f1hh7EpMUF5ph2tamdqzYJNw\">Tortilla con Sal: Nicaragua Regains Its Balance After Social Reform Protests (April 28)</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://tortillaconsal.com/tortilla/node/2676\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://tortillaconsal.com/tortilla/node/2676&amp;source=gmail&amp;ust=1525610138816000&amp;usg=AFQjCNGizURBYYc0yfcp3BkWmjyhi02SxQ\">Tortilla con Sal: Parade of the Hyprocrites – media coverage of Nicaragua and its Opposition</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://therealnews.com/t2/story:21704:May-Day-Celebrations-in-Cuba\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://therealnews.com/t2/story:21704:May-Day-Celebrations-in-Cuba&amp;source=gmail&amp;ust=1525610138816000&amp;usg=AFQjCNFWTXsTVbuM0q6bzoV8t1pr3cChJA\">May Day in Cuba</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/images/13789\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://venezuelanalysis.com/images/13789&amp;source=gmail&amp;ust=1525610138816000&amp;usg=AFQjCNGbTHM5kokPlrjXw5e08gPUCjLUbQ\">Venezuelans March on May Day in Support of Maduro &amp; Bolivarian Revolution</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://en.granma.cu/cuba/2018-04-30/honoring-working-class-heroes\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://en.granma.cu/cuba/2018-04-30/honoring-working-class-heroes&amp;source=gmail&amp;ust=1525610138816000&amp;usg=AFQjCNFdYu-BOJLhJfvU3wu6ib5SHa2K9w\">Cuba: Honoring Working Class Heroes</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.greenleft.org.au/content/venezuela-rural-communities-organise-confront-economic-crisis\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.greenleft.org.au/content/venezuela-rural-communities-organise-confront-economic-crisis&amp;source=gmail&amp;ust=1525610138816000&amp;usg=AFQjCNH2IxgGOihLHMR17C5RB6z260upkQ\">Interview with Venezuelan communal peasant leader: Organizing to Confront the Crisis</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/news/13787\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://venezuelanalysis.com/news/13787&amp;source=gmail&amp;ust=1525610138816000&amp;usg=AFQjCNEI9lyMst3_YuF_ZUTFqS_oT8Iv6Q\">Maduro Visits Disgruntled Campesino Communities on Campaign Trail, Converses with Communal Leader Angel Prado</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://fair.org/home/these-are-sanctions-directly-aimed-at-the-civilian-population/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://fair.org/home/these-are-sanctions-directly-aimed-at-the-civilian-population/&amp;source=gmail&amp;ust=1525610138816000&amp;usg=AFQjCNEuptnBEobS4qAME3IidWl1O22l2A\">Interview with Joe Emersberger: Venezuela Sanctions Aimed Directly at the Civilian Population</a>\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: center;\">Delegations</h2>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div><a href=\"https://revolucionalimentaria.org/2018/04/09/urgent-call-for-solidarity-delegation-to-venezuela-may-16-24-2018/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://revolucionalimentaria.org/2018/04/09/urgent-call-for-solidarity-delegation-to-venezuela-may-16-24-2018/&amp;source=gmail&amp;ust=1524951291407000&amp;usg=AFQjCNG-URa2SHENsiLjhYy2RRn4VsCjLg\">Solidarity Delegation to Venezuela,\_<span class=\"aBn\" data-term=\"goog_831236531\"><span class=\"aQJ\">May 16-24</span></span>\_(during Presidential Election)</a></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div></div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div><a href=\"https://afgj.org/travel-to-colombia\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/travel-to-colombia&amp;source=gmail&amp;ust=1524951291407000&amp;usg=AFQjCNGeKdZa2eLKq3inIpWJoAJOecQvSg\">Peacemakers Delegation to Colombia with AfGJ,\_<span class=\"aBn\" data-term=\"goog_831236532\"><span class=\"aQJ\">May 19-29</span></span></a></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div dir=\"ltr\"></div>\r\n<div>\r\n<div id=\"m_777319361513180780gmail-m_-4546164052145643394gmail-m_8774691331061159411gmail-m_-8213335874581264356gmail-m_-2776178258433599685gmail-m_-9020789454698019944gmail-m_6252858159261738354DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\"><a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/partner-delegation-atc&amp;source=gmail&amp;ust=1524951291407000&amp;usg=AFQjCNFiyu5lr15JIXW48GoSpetzxRqy6A\">Agrarian &amp; Worker Struggle in Nicaragua: Celebrating the ATC’s 40th Anniversary\_<span class=\"aBn\" data-term=\"goog_831236533\"><span class=\"aQJ\">June 18-28</span></span></a></div>\r\n<div></div>\r\n<div><b></b><a href=\"https://afgj.org/artist-delegation-nicaragua\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/artist-delegation-nicaragua&amp;source=gmail&amp;ust=1524951291407000&amp;usg=AFQjCNEcJbVfAaBPHCX1z5o6wvVobl7sdQ\">Artists’ Delegation to Nicaragua\_</a><a href=\"https://afgj.org/artist-delegation-nicaragua\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/artist-delegation-nicaragua&amp;source=gmail&amp;ust=1524951291407000&amp;usg=AFQjCNEcJbVfAaBPHCX1z5o6wvVobl7sdQ\"><span class=\"aBn\" data-term=\"goog_831236534\"><span class=\"aQJ\">August 1 through 10, 2018</span></span></a></div>\r\n\r\n<hr />\r\n\r\n<h2 id=\"m_777319361513180780gmail-m_-4546164052145643394gmail-m_8774691331061159411gmail-m_-8213335874581264356gmail-m_-2776178258433599685gmail-m_-9020789454698019944gmail-m_6252858159261738354DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\" style=\"text-align: center;\"><b></b><strong>About the Weekly</strong></h2>\r\n<div>\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n</div>\r\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

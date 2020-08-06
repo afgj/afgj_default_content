@@ -1,0 +1,81 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ad950c1f-60b5-4fbb-acca-218d81f6b737
+  bundle: mt_showcase
+  default_langcode: en
+  depends:
+    ba9d93ab-3aff-4cb4-88ee-b81873005025: file
+    0dfdb011-9c82-4762-89a0-db01e08f9fe3: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Peace, Anti-War, and Liberation'
+  created:
+    -
+      value: 1591191791
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /peace-antiwar-liberation
+      langcode: en
+      pathauto: 0
+  field_mt_shw_body:
+    -
+      value: "<p>Main Sources:<br />\r\n<a href=\"http://www.defense.gov/pubs/pdfs/2009baseline.pdf\">DoD Base Structure Report (Fiscal Year 2009 Baseline)</a><br />\r\n<a href=\"http://www.no-bases.org/file_uploads/CUADERNILLO%202.pdf\">International Conference Notebook 2 “Presencia Militar dos Estados Unidos en America Latina y el Caribe”</a><br />\r\n<a href=\"http://www.lawg.org/storage/lawg/documents/lawg_waitingforchange_engl.pdf\">LAWG’s Waiting for Change Report</a><br />\r\n<a href=\"http://justf.org/All_Grants_Country\">Just the Facts Aid Report</a></p>\r\n"
+      format: basic_html
+      summary: 'The Alliance for Global Justice has a long history of advocacy for just peace.'
+  field_mt_shw_content_collapses:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 9100e813-5d9c-4237-a467-7c10e267d7e7
+          bundle: mt_collapse
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1591191924
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+  field_mt_shw_image:
+    -
+      entity: ba9d93ab-3aff-4cb4-88ee-b81873005025
+      alt: 'Constant War Funding'
+      title: ''
+      width: 612
+      height: 792
+  field_mt_shw_subheader_body:
+    -
+      value: "<p>The Alliance for Global Justice has a long history of advocacy for just peace that is manifested in our various projects and campaigns. For instance, we actively support the peace process in Colombia, oppose US intervention in Venezuela via military and financial support for violent golpistas, emphasize the role of US Empire and militarism in climate change, and oppose the blockade of Cuba and occupation of Guantánamo. AfGJ has participated in and even co-founded some of the major anti-war coalitions and networks opposing US wars. We will continue to support the movement to end wars and militarism and will periodically post relevant links, announcements and resources on this page.</p>\r\n\r\n<p><a href=\"https://afgj.org/category/peace\">Click here to read AfGJ’s archives of Peace, Anti-war, and Liberation articles</a></p>\r\n\r\n<p><a href=\"https://afgj.org/category/militarism\">Click here to read archives of articles concerning the struggle against militarism</a></p>\r\n\r\n<p><em>graphic below by Jamie Way</em></p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_shw_tags:
+    -
+      entity: 0dfdb011-9c82-4762-89a0-db01e08f9fe3

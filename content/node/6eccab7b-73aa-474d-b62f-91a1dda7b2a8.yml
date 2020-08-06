@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 6eccab7b-73aa-474d-b62f-91a1dda7b2a8
+  bundle: article
+  default_langcode: en
+  depends:
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    773f6b95-87e1-4056-9036-4df3c110ba21: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Webinar, July 5, 8pm Eastern: What Now for Mexico''s Popular Movements?'
+  created:
+    -
+      value: 1530451077
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /webinar-july-5-8pm-eastern-what-now-mexicos-popular-movements
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1>A presentation by Antonio Cerezo of the <a href=\"https://www.comitecerezo.org/?lang=es\">Comité Cerezo</a></h1>\r\n<h2><a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED55D684814B30\"><strong>Register HERE for this informative webinar! </strong></a></h2>\r\n<img class=\"aligncenter size-full wp-image-10292\" src=\"https://afgj.org/wp-content/uploads/2018/07/antonio-2.jpg\" alt=\"\" width=\"640\" height=\"357\" />\r\n\r\n<b>Today, July 1, 2018, Mexicans are voting in a presidential election that could take the country in a Leftward direction and reflect a massive rejection of the political status quo. It could additionally be a major blow to the colonialist and anti-Mexican policies of the US government. However, as the vote unfolds, we are already hearing multiple reports of intimidation, fraud, and irregularities. Polls indicate a significant majority backing Center-Left candidate Manuel Lopez Obrador of the new MORENA Party. However, Center-Left candidates have had the election stolen from them in the last three presidential contests - will today be different? Whatever happens, popular movements have been energized not only by this campaign season, but by a series of struggles, from the resistance to privatizing educational reforms to massive protests against the rise in gasoline prices and austerity measures to water rights struggles and indigenous mobilizations for autonomy from the Southern to the Northern border. </b>\r\n\r\nAntonio Cerezo maintains that both the campaigns of Lopez Obrador and also of Zapatista candidate, Marichuy (Maria de Jesús Patricia Martinez), have opened up new spaces for popular movements, bringing in thousands and even millions of new activists. That is a victory that cannot be easily turned back. What will be the new directions and strategies for Mexican popular movements? What will be the role of international solidarity? How can people living in the US support our sisters and brothers south of the border, while defending the rights of displaced Mexicans and Central Americans in our midst? What can we learn that we can apply to our own liberation struggles here?\r\n\r\nAntonio Cerezo is a leader of the <a href=\"https://www.comitecerezo.org/?lang=es\">Comité Cerezo</a>, an organization that publishes analyses of human rights abuses in Mexico, and that uses that knowledge to advance popular struggles. Antonio and other family members and associates were part of the student movements of the 90s and early 2000's before several of them were framed, arrested, and incarcerated by the Mexican government. Antonio spent more than seven years as a political prisoner. Once freed, rather than lay low and stay silent, the family and their supporters continued to advocate tirelessly for real, participatory democracy and against policies that threaten Mexico's communities, indigenous nations, and ecosystems. The Cerezos are clear about the sources of oppression: a Mexican oligarchy that is subservient to and intimately linked with the US and transnational corporate Empire.\r\n<h3><a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED55D684814B30\">Join us for this informative webinar and learn not only about Mexico's popular movements, but how we must reach out and forge links to defeat and bring down the oppressors on both sides of the border.\_ </a></h3>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: 773f6b95-87e1-4056-9036-4df3c110ba21
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

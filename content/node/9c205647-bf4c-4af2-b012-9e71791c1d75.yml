@@ -1,0 +1,56 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 9c205647-bf4c-4af2-b012-9e71791c1d75
+  bundle: article
+  default_langcode: en
+  depends:
+    ab596c46-1b6f-4125-b33c-04f3d53871d2: taxonomy_term
+    dbc4229a-2e43-4f26-8b4c-ef112087fc1a: taxonomy_term
+    c8ea2489-c4e5-420b-9101-286cf1101a30: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Defend our Right to Non-Corporate News! Join the SMACC Network!'
+  created:
+    -
+      value: 1537452341
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /defend-our-right-non-corporate-news-join-smacc-network
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "We all hate to be taken in by Fake News and malicious posts by trolls pushing their political agenda. But sometimes, the cure to one problem creates a worse problem. There are government and corporate forces that take advantage of any opportunity to restrict our freedoms and to hide their actions from us. The dust had barely settled before Congress passed the <a href=\"https://www.aclu.org/issues/national-security/privacy-and-surveillance/surveillance-under-patriot-act\">USA Patriot Act following the Sept. 11, 2001 terrorist attack</a>. Many people today believe there was Russian interference in our 2016 election. Of course we want our elections to be free from foreign influence, but there are unintended consequences when we allow social media such as Facebook, Twitter, and YouTube to “protect” our democratic system by censoring posts intended to sway public opinion.\r\n<h2>Who Protects Us From the Censors?</h2>\r\nOnce we give the government and corporate interests our permission to censor what we read and watch, who protects us from the censors? Do we really want companies like FireEye, “<a href=\"http://arizonadailystar.az.newsmemory.com/publink.php?shareid=09bb9c4fe\">staffed with a roster of former military and law-enforcement cyberexperts</a>” to decide what news platforms we can watch and which ones we can’t? Do we want governments and corporations to decide what is fake news and what is news that doesn’t fit the interests of the 1%?\r\n<p style=\"text-align: center;\"><strong>Alliance for Global Justice says we can decide for ourselves what is real and what is fake!</strong></p>\r\nAlready news platforms such as <a href=\"https://www.telesurtv.net/english/\">TeleSur</a> and <a href=\"https://venezuelanalysis.com/\">Venezuelanalysis</a>, sources we rely on for news about Latin America, have been <a href=\"https://www.rt.com/news/436057-telesur-restored-facebook-block/\">at least temporarily kicked off of Facebook</a>. We, at the Alliance for Global Justice, are among groups that have had paid promotions of our own news rejected by Facebook as “unauthorized” or allegedly violating their “community standards” because of the political content.\r\n<h2>Join Today to Help the Fight</h2>\r\nThat is why we ask you today to join us as a member of SMACC (Social Media Anti-Censorship Campaign). As a rapid response network SMACC will give social media platforms a virtual “smack” by flooding them with calls and emails when they censor legitimate news sources like TeleSur or Alliance for Global Justice. No one can give us the right to speak freely, and no one can take it away from us unless we let them.\r\n<p style=\"text-align: center;\"><strong>Let’s unite to say “We will not allow you to restrict our access to non-corporate, non-Empire news sites under the guise of protecting us from Russian bots or fake news sites.”</strong></p>\r\n<a href=\"https://afgj.salsalabs.org/smacc-signup\">Click here</a> to sign up as a member of SMACC. Membership means you are willing to send an email or make a phone call to defend legitimate news media and organizations working for peace and justice when we put out an alert that an information source we trust has been censored.\r\n<div style=\"margin: 0 auto; display: block;\"><a style=\"background: #FFA500; padding: 10px; margin: 10px 0px; text-align: center; text-decoration: none; font-size: 12pt; color: #222222; font-family: Arial, Helvetica, sans-serif; display: inline-block;\" href=\"https://afgj.salsalabs.org/smacc-signup\" target=\"_blank\" rel=\"noopener\">Sign Up!</a></div>\r\nYou can also help by making a <a href=\"https://afgj.salsalabs.org/afgj-fundraising/index.html\">generous tax-deductible donation today</a> to help build SMACC into a mass internet emergency response network to fight censorship. Only we can defend our right to speak and to learn. If you prefer to send a check, make it out to Alliance for Global Justice with SMACC in the memo line and mail to: AFGJ, 225 E 26th St., Ste. 1, Tucson, AZ 85713\r\n\r\n<a href=\"https://afgj.salsalabs.org/afgj-fundraising\" target=\"_blank\" style=\"background:rgb(255, 0, 0);padding:10px;margin:10px 0px;text-align:center;text-decoration:none;font-size:12pt;color:rgb(255, 255, 255);font-family:Arial, Helvetica, sans-serif;display:inline-block;\">Donate Now!</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: ab596c46-1b6f-4125-b33c-04f3d53871d2
+  field_mt_slideshow:
+    -
+      value: false
+  field_tags:
+    -
+      entity: dbc4229a-2e43-4f26-8b4c-ef112087fc1a
+    -
+      entity: c8ea2489-c4e5-420b-9101-286cf1101a30

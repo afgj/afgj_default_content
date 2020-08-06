@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 6d732a38-b698-4409-89aa-e9f9ee47d23a
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Guest Blog: Nicaraguan Elections: Why Combatting Poverty is a Decisive Factor'
+  created:
+    -
+      value: 1475062998
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /guest-blog-nicaraguan-elections-why-combatting-poverty-decisive-factor
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p class=\"p1\"><a href=\"https://afgj.org/nicanotes\" target=\"_blank\"><img class=\"size-full wp-image-6975 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"nicanotesbannerwbyline\" width=\"579\" height=\"195\" /></a></p>\n<p class=\"p1\">This week's guest blog is from the <a href=\"http://nicaraguasc.org.uk/\" target=\"_blank\">Nicaragua Solidarity Campaign in the United Kingdom</a>. Nicaragua Network has worked closely with the NSC for many years and even shared a staff person in Nicaragua for a few years in the 1990s. We find that our political analysis is almost always in synch.</p>\n\n\n<hr />\n<p class=\"p1\"><img class=\"size-full aligncenter\" src=\"http://nicaraguasc.org.uk/news/images/202_194.jpg\" alt=\"\" width=\"635\" height=\"357\" /></p>\n<p class=\"Standard\">On 6 November, Nicaraguans will go to the polls in elections for the President, 90 National Assembly deputies, and 20 Nicaraguan members of the Central American parliament.</p>\n<p class=\"Standard\">A poll carried out between 27 July and 1 August by the polling organisation <em>M&amp;R consultores</em>, indicated that an overwhelming victory for the FSLN is the likely outcome.</p>\n<p class=\"Standard\">\_62.8% of respondents indicated their intention to vote for the FSLN, 26.8% are undecided, and 10.4% support opposition parties. These figures are very similar to all polls conducted over the past year.\_ Approval ratings for Daniel Ortega and Vice Presidential candidate Rosario Murillo were 79.3% and 72.7% respectively.</p>\n<p class=\"Standard\">Opposition parties standing in the elections are the Constitutionalist Liberal Party (PLC) with presidential candidate \_Maximino Rodríguez, the Independent Liberal Party (PLI), with candidate Pedro Reyes Vallejos, and three smaller parties.</p>\n<p class=\"Standard\">The Sandinistas returned to power in 2007 with a commitment to economic stability and to addressing poverty through a comprehensive, integrated strategy for improving the lives of the nearly 50% of the population suffering chronic and persistent levels of poverty.</p>\n<p class=\"Standard\">In what the World Bank has described as a ‘remarkable economic turnaround’ GDP has increased by an average of four to five per cent annually, inflation has dropped to low single figures, exports have doubled, and Foreign Direct Investment has quadrupled.\_ Nicaragua has experienced one of the highest growth rates in the region at 4.9% for 2015 and a forecast of 4.2% for 2016.</p>\n<p class=\"Standard\">According to the 2014 Standard of Living Survey of the National Development Information Institute, between 2009 and 2014 general poverty dropped from 42.5 per cent to 29.6 per cent, while in the same period extreme poverty dropped from 14.6 to 8.3 per cent. This represents improvements in the lives of tens of thousands of people, particularly women, whose suffering had been ignored by previous governments.</p>\n<p class=\"Standard\">The FSLN government’s commitment to poverty includes health care, education, transport, access to credit, support for rural families, security of land titles, and infrastructure improvements. Government policy has also prioritised food assistance to the most vulnerable, support for very young children, house building and repair programmes, mass health campaigns against mosquito-borne diseases, and nationwide support for sport and cultural activities.</p>\n<p class=\"Standard\">Nicaragua remains the second poorest country in the Americas after Haiti. Sixty-three per cent of respondents in the August <em>M&amp;R consultores</em> poll indicated that unemployment was the biggest problem facing the country, and 43 per cent were concerned about the high cost of goods and services.</p>\n<p class=\"Standard\">However, given Nicaragua’s history of wars, persistently high levels of poverty, natural and climate change provoked disasters, and its location in a region fraught with inequality and instability, huge progress has been made since 2007 in addressing the problems of the most marginalised and impoverished in a far more coherent way than at any time in the past.</p>\n<p class=\"Standard\">A survey by <em>Latinbarometro 2016</em> based on interviews conducted between 15 May and 15 June, 2016 indicates an approval rating of 69% for the Sandinista government, the second highest rating in the Latin American region. This represents an extraordinarily high level of support for a government that has been in power for the past nine years.</p>\n<p class=\"Standard\">This NSC briefing explains why the government’s success in stabilising the economy and combatting poverty will be decisive factors in the choice that Nicaraguan voters make on 6 November.</p>\n\n\n<hr />\n<p class=\"p1\"><span class=\"s1\"><b>Briefs</b></span></p>\n&nbsp;\n<ul>\n<li class=\"p3\">Nicaraguans were outraged and worried last week when the US House of Representatives passed on a late night voice vote the NICA Act which would place sanctions on Nicaragua and deny the country multilateral loans. With Congress on the eve of adjournment for the elections, the NICA Act has no chance of being passed by the Senate and signed by President Obama. The Act was condemned by the government, the Catholic hierarchy, business and labor groups. A quick M&amp;R Consultants survey in the capital found 70% said they were in disagreement with the political groups that promoted the law and only 10.2% said they agreed. A delegation of politicians from various Liberal party factions and the Sandinista Renovation Movement (MRS) president traveled to Washington and met with extreme right-wing Rep. Ileana Ros-Lehtinen (R-FL) to promote the law. Well-known former combatant Dora Maria Tellez announced that she was proud of the MRS participation and that the goal of the Act was to “isolate” the Ortega government. There was a time when people in the MRS fought US intervention in Nicaragua’s sovereign affairs rather than lobbied for intervention in the US Capital. \_<i>(Informe Pastran, Sept. 26)</i></span></li>\n</ul>\n<ul>\n<li class=\"p3\">Central American Parliament Secretary, Deputy Carlos Gonzalez (El Salvador) said the regional parliament wants to learn more about Nicaragua’s successful Community Public Safety Model.\_ He said, “The United Nations and other international organizations have recognized the successes of the Nicaragua Model. We believe that other countries in the region should try to replicate some of the key components of this successful experience to improve public safety in Central America.” <i>(Nicaragua News, Sept. 26)</i></span></li>\n</ul>\n<ul>\n<li class=\"p4\">David Narvaez, president of the Network of Recycling Entrepreneurs (REDNICA) announced that recyclable products generated more than US$19.6 million in exports in the first 8 months of 2016 and said, “recycling is increasingly contributing to the national economy.” <i>(Nicaragua News, Sept. 19)</i></span></li>\n</ul>\n<ul>\n<li class=\"p5\">Nicaragua continues its innovative tourist development project which preferences small and medium local businesses with the announcement by the Nicaraguan Tourism Institute (INTUR) and the Production Bank (BANCO) of a fund for low-interest loans to Granada tourism businesses. The colonial city of Granada received more than 400,000 visitors in 2015. Businesses will be able to apply for loans of between US$3,000-$30,000. <i>(Nicaragua News, Sept. 20)</i></span></li>\n</ul>\n<ul>\n<li class=\"p6\">Nicaragua Ministry of Household Economy (MEFCCA) Director Maria Auxiliadora Chiong reported that 190,000 rural families have benefited from the Food Production Package program, also known as Zero Hunger. The Healthy Yard Program has benefited 285,000 urban women and more than 170 cooperatives have been created generating over a half million dollars in earnings. Both programs provide plants, animals, and training to enable women-headed households to grow some of their own food and to market locally that which their family does not consume. <i>(Nicaragua News, Sept. 23)</i></span></li>\n</ul>\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5ef0f973-8088-42d5-b002-d97d2f1bbafc
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'From Armed Revolution to Cruise Ships'
+  created:
+    -
+      value: 1469076126
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /armed-revolution-cruise-ships
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter wp-image-6975 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" width=\"579\" height=\"195\" />\n\nOn this day in 1979 the nine commanders of the three tendencies of the Sandinista Front for National Liberation (FSLN) met for the first time amidst joyous crowds in Managua marking the official triumph of the Sandinista Revolution over the US-backed 45-year old Somoza dictatorship. Anastasio Somoza Debayle had fled two days earlier with the caskets of his parents and every cent of foreign currency including what was left of a $65.8 million IMF loan approved two months earlier. There is a famous, though perhaps apocryphal, quote that one of the commanders said at that first meeting, “What do we do now?”\n\nWell, those of us who have been following Nicaragua for the last 37+ years know what they did in terms of privileging the poor in their development, education, and health care plans, all of which were blunted by a US proxy war during the Reagan and Bush years, but which nevertheless succeeded to the point that Oxfam-UK dubbed Nicaragua “the threat of a good example.” Since 2007 when the FSLN returned to power following the election of President Daniel Ortega, Nicaraguans have experienced what the Sandinistas could have accomplished all those years before if it had not also had to fight a war.\_ I’ll write more about the gains of the Sandinista Revolution next week as I’m sure there will be many quotable speeches made today.\n\nOver 100,000 North Americans visited Nicaragua during the revolutionary government (1979-1990), many of them on Nicaragua Network coffee and cotton picking brigades and construction brigades. Today, those figures are dwarfed by the number of tourists, many of who don’t even know that Nicaragua had a revolution. They come to enjoy an inexpensive holiday at the beach, to surf, to visit volcanos and other natural features not yet as commercialized as those in Costa Rica and Mexico.\n\n<img class=\"aligncenter wp-image-6852 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/07/Untitled-1.jpg\" alt=\"Untitled-1\" width=\"556\" height=\"180\" />\n\nI’ve only been to Nicaragua once as a tourist. I think it was in 1988. I took the bus from Managua to the Sandinista showcase tourist hotel at Pochomil. The hotel cost multiples of what any other hotel cost; $60 if I’m remembering right, and the toilets had no seats. I remember thinking that Nicaragua had some things to learn if they wanted to become a tourist destination. I remember being the only guest. The next day I walked a mile or two up the beach to a fishing town and got a room for $2 a night.\n<p style=\"text-align: center;\"><strong>Things have changed a lot since then.</strong></p>\nCruise ships to Costa Rica offer bus excursions to Nicaraguan beaches near the border and ships anchor outside of the ports of Corinto and San Juan del Sur to ferry passengers in to shore. \_<a href=\"http://www.radiolaprimerisima.com/noticias/206422/inauguran-ampliacion-del-puerto-en-san-juan-del-sur\">Soon the ships will be able to dock in San Juan del Sur, negating the need for the buses.</a> Usually cruise ships are the death of any vacation site I would want to go to, and I can’t swear that won’t be the case for Nicaragua as well, but the government of President Ortega is taking a different approach to tourism development than I have seen compared to Mexico and Belize.\n\nWhat is different about Nicaragua is that the government isn’t subsidizing transnational hotel chains and restaurants, they are providing credit and training for micro, small, and medium enterprises (PYMES) serving tourists. In April, the government announced an expansion of the Zero Usury low interest small loan project to 130,000 primarily women heads of households with a particular focus on tourism.\n\nFor the last few years the Sandinista tourism strategy has been focused on particularly themed “rutas”; routes such as the Coffee Route, the Volcano Route, the Sandino Route, etc. Support has gone to the small hotels, the family-owned restaurants, training multilingual guides, and improving infrastructure such as free wifi and road improvements. Also in April the Nicaraguan Bank of Production (BANPRO) created a $5 million fund to enable the Nicaraguan Tourism Institute (INTUR) to make loans ranging from $3,000 to $35,000 to micro, small and medium businesses along the Coffee and Water Routes.\n\nThis kind of focused investment in family-owned Nicaraguan businesses, so that their boats will rise with the rising tourism economy, is far different than the savage capitalism of neoliberal economic practices which would leave these families tied to the pier with a short rope, eventually to be swamped by big boats from the outside.\n\nTourism certainly has its downside, and I don’t want to minimize that. The rise in property values has made some prime locations unaffordable for ordinary Nicaraguans. The behavior of international tourists is bound to be much more obnoxious than that of the “Sandalistas” of the 1980s who more often came to learn rather than to play drinking games.\n\n<strong>But that is the curse of tourism everywhere.</strong> If Nicaragua can develop its tourism industry in a way that preserves ownership of businesses of families who have always lived there, if it can raise more people out of poverty and give them dignified work. And, if it can use increased revenues from tourism to provide social benefits for those Nicaraguans who don’t benefit directly from the tourist industry then I’ll be happy to spend my tourist dollars in Nicaragua and try not to think too hard about what it was like back in the “good old days.”\n\n<strong>Now I just need to find some tourist dollars!</strong>\n\n&nbsp;\n\n<strong>Briefs </strong>\n<ul>\n \t<li>The official Chinese news agency Xinhua fired an information salvo at the US last week after the US government demanded that China accept the negative decision from the Permanent Court of Arbitration (PCA) at The Hague concerning its territorial claims in the South China Sea. Xinhua pointed out the hypocrisy of the US position reminding the world that 30 years ago the US refused to recognize the World Court’s ruling that the US owed reparations to Nicaragua ($17 billion in 1986 dollars) for arming and financing the Contras and for mining and shelling Nicaragua’s ports. <em>(Informe Pastran, July 14)</em></li>\n</ul>\n<ul>\n \t<li>The Liberal Party factions continued to fight each other, as they have for the past ten years, in the wake of the Supreme Court decision returning the Independent Liberal Party to its historic leadership at the expense of Eduardo Montealegre, the banker and failed opposition candidate in 2006 who was publicly favored by the US. Montealegre says he does not have to turn over the financial records for the past several years since he illegally seized control of the party. Party officials are threatening to sue him for the information. The Supreme Court decision scuttled Montealegre’s plans to run for president this year. Although Montealegre only polled about 5%, opposition forces are blaming Ortega for the court decision and saying his election in November will be illegitimate<em>. (Informe Pastran, July 14)</em></li>\n</ul>\n·\_\_\_\_\_ Juan Zalduendo, in-country director of the International Monetary Fund (IMF) office affirmed plans to close the office Aug. 1. “\"This decision reflects the success of Nicaragua to maintain macroeconomic stability and growth since completion of the program Extended Credit Facility in 2011.” The IMF has maintained an office and staff in Nicaragua since 1995, when Nicaragua was under the Heavily Indebted, Poor Countries structural adjustment program. When the Ortega government came into office in 2006 it implemented poverty reduction programs counter to IMF conditions and succeeded in making the IMF like them and eventually support them. Closure of the IMF office is recognition that the Sandinista economic formula performed better than their structural adjustment policies.\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

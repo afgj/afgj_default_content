@@ -1,0 +1,63 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f93cb336-fc87-4cdd-b14c-fd5b19b39acc
+  bundle: mt_team_member
+  default_langcode: en
+  depends:
+    1f23627e-4b7e-4feb-8367-fb6c6d6b1cdb: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Elane Spivak Rodriguez'
+  created:
+    -
+      value: 1591128147
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /team/elane-spivak-rodriguez
+      langcode: en
+      pathauto: 1
+  field_mt_tmm_body:
+    -
+      value: "<p><strong>Elane Spivak Rodriguez</strong>&nbsp;is the Fiscal Sponsorship Coordinator for the Alliance for Global Justice. She also leads AfGJ human rights solidarity delegation to Nicaragua and Honduras and is an active with the Honduras Solidarity Network. Coordinating with our 90+ fiscally sponsored projects, Elane works to bring the work of our fiscally sponsored projects together to build a stronger more unified grassroots movement.</p>\r\n"
+      format: full_html
+      summary: ''
+  field_mt_tmm_facebook_account:
+    -
+      value: 'https://www.facebook.com/elane.spivak'
+  field_mt_tmm_featured:
+    -
+      value: false
+  field_mt_tmm_member_photo:
+    -
+      entity: 1f23627e-4b7e-4feb-8367-fb6c6d6b1cdb
+      alt: Elane
+      title: ''
+      width: 933
+      height: 960
+  field_mt_tmm_subheader_body:
+    -
+      value: "<p>Huzzah!</p>\r\n"
+      format: basic_html
+  field_mt_tmm_subtitle:
+    -
+      value: 'Fiscal Sponsorship Coordinator'

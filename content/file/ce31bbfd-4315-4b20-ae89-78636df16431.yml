@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: ce31bbfd-4315-4b20-ae89-78636df16431
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: background-image-cta-block.jpg
+  uri:
+    -
+      value: 'public://2017-01/background-image-cta-block.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 35130
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1484732977

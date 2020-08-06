@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3f63af3b-4d21-48ee-b831-eb6cf86451ee
+  bundle: article
+  default_langcode: en
+  depends:
+    559721eb-b73d-4d86-a9b5-58f46584daa3: taxonomy_term
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Solidarity Delegation of 20 US Activists to Visit Venezuela from July 4-16, 2015'
+  created:
+    -
+      value: 1434379938
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /solidarity-delegation-20-us-activists-visit-venezuela-july-4-16-2015
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p class=\"title\">(El Español esta abajo)</p>\n\n<h1 id=\"page-title\" class=\"title\">Solidarity Delegation of 20 US Activists to Visit Venezuela from July 4-16, 2015</h1>\n<img class=\"alignnone\" src=\"http://org2.salsalabs.com/o/7315/images/pressrelease.jpg\" alt=\"\" width=\"823\" height=\"208\" />\n<div id=\"block-system-main\" class=\"block block-system first last odd\">\n<div class=\"panel-display boxton clearfix \">\n<div class=\"boxton-container boxton-content boxton-content-region panel-panel\"><article class=\"node-1707 node node-news-announcements view-mode-full clearfix\"><header>\n<p class=\"submitted\"><time datetime=\"2015-06-12T12:33:19-04:00\">June 12, 2015</time></p>\n\n</header>\n<div class=\"field-body\">\n<p class=\"Default\">MEDIA ADVISORY</p>\n<p class=\"Default\">A delegation of US organizations with long histories of support for social justice movements in Latin America and the Caribbean—Marin Task Force on the Americas, National Lawyers Guild, School of the Americas Watch, Alliance for Global Justice—is set to visit Venezuela next month. The delegation is a direct result of President Barack Obama’s March 9, 2015 executive order declaring Venezuela a national security threat to the United States in order to sanction high-ranking government officials.</p>\n<p class=\"Default\">Delegates plan to demonstrate their solidarity with the people of Venezuela by declaring that Obama’s sanctions do not represent their sentiments. They will begin the delegation on July 5, Venezuela’s Independence Day, as a symbolic statement of their affirmation of Venezuela’s independence and sovereignty.</p>\n<p class=\"Default\">Among the delegates from the National Lawyers Guild, an organization that has made multiple visits to Venezuela to observe elections, are: Natasha Lycia Ora Bannan, president-elect; David Gespass, former president; Judy Somberg, former vice president; Susan Scott, former International Committee co-chair and current co-chair of the NLG Task Force on the Americas; and David Mandel, of the Guild’s Free Palestine Subcommittee.</p>\n<p class=\"Default\">Joining them will be several members of the leadership team for the Marin Interfaith Task Force on the Americas, an organization that has organized numerous delegations to Venezuela over the past decade, including their director, Dale Sorensen. Thanks to the work of Sorensen, a meeting with then-Venezuelan Vice President Jose Vicente Rangel took place in 2004, leading to President Chavez’s decision to withdraw Venezuela from the notorious US military training institute, the School of the Americas.</p>\n<p class=\"Default\">The delegation is expected to meet with sectors of government including the legislative, judicial and electoral branches. They also plan to meet with press, trade unions, student groups, opposition members, human rights groups, and Latin American regional organizations. Activists will return to the US to and report back on current reality of Venezuela—one often distorted by mainstream media.</p>\n<p class=\"Default\">For more information contact:</p>\n<p class=\"Default\">Lisa Sullivan, Delegation Coordinator\nPhone: 0416-607-0972\nEmail: <a href=\"mailto:lisavenezuela@gmail.com\">lisavenezuela@gmail.com</a></p>\n<p class=\"Default\"><a href=\"https://www.nlg.org/sites/default/files/press.release.us_.delegation.to_.venezuela.pdf\">Download PDF (English)</a></p>\n<p class=\"Default\"><a href=\"https://www.nlg.org/sites/default/files/NOTA.PRENSA.DELEGACION.EEUU_.VENEZUELA.pdf\">Download PDF (Spanish)</a></p>\n\n</div>\n</article></div>\n</div>\n</div>\n\n<hr />\n\n&nbsp;\n\n<strong><span style=\"text-decoration: underline;\">PARA PUBLICACION INMEDIATA</span></strong>\n\n<strong>Delegación de Solidaridad de 20 activistas de Estados Unidos visitarán Venezuela del 4 al 16 julio de 2015</strong>\n\nEl próximo mes visitará a Venezuela una delegación de cuatro organizaciones de Estados Unidos con una larga historia de apoyo a los movimientos de justicia social en América Latina y el Caribe:\n\n&nbsp;\n<ul>\n\t<li>Equipo Ecuménico de Trabajo sobre las Américas de Marin (<em>Marin Interfaith Task Force on the Americas)</em></li>\n\t<li>Gremio Nacional de Abogados (<em>National Lawyers Guild</em>)</li>\n\t<li>Observatorio para el Cierre de la Escuela de las Américas (<em>School of the Americas Watch</em>)</li>\n\t<li>Alianza para la Justicia Global (<em>Alliance for Global Justice</em>)</li>\n</ul>\n&nbsp;\n\nLa delegación surge como resultado directo de la orden ejecutiva del Presidente Barack Obama, del 9 de marzo, que declaró a Venezuela como una amenaza de seguridad nacional para los Estados Unidos, con el fin de sancionar a altos funcionarios del gobierno.\n\n&nbsp;\n\nLos delegados planean demostrar su solidaridad con el pueblo de Venezuela, al declarar que las sanciones de Obama no representan sus sentimientos. Comenzarán la delegación el 5 de julio, Día de la Independencia de Venezuela, como una declaración simbólica de su afirmación de la independencia y la soberanía de Venezuela.\n\n&nbsp;\n\nEntre los delegados del Gremio Nacional de Abogados (National Lawyers Guild) - una organización que ha realizado varias visitas a Venezuela para observar las elecciones - son: Natasha Licia Ora Bannan, presidente electo; David Gespass, ex presidente; Judy Somberg, antiguo vicepresidente, Susan Scott, antiguo Comité Internacional co-presidente y co-presidente actual del Equipo de las Américas del Gremio; y David Mandel, del Subcomité Palestina libre del Gremio.\n\n&nbsp;\n\nJunto a ellos estarán varios miembros del equipo de liderazgo del Equipo Ecuménico de Trabajo sobre las Américas de Marin (Marin Interfaith Task Force on the Américas), una organización que ha organizado numerosas delegaciones a Venezuela en la última década, incluida su directa, Dale Sorensen.\n\n&nbsp;\n\nGracias a la labor de Sorensen, se realizó una reunión con el entonces vicepresidente venezolano, José Vicente Rangel, en 2004, que llevó a la decisión del Presidente Hugo Chávez de retirar a Venezuela del notorio instituto de formación militar estadounidense la Escuela de las Américas.\n\n&nbsp;\n\nLa delegación espera reunirse con sectores del gobierno, incluyendo los poderes legislativo, judicial y electoral. También planean reunirse con la prensa, sindicatos, grupos de estudiantes, miembros de la oposición, grupos de derechos humanos, y organizaciones regionales de América Latina.\n\n&nbsp;\n\nLos activistas regresarán a los EE.UU. para informar sobre la realidad actual de Venezuela, que a menudo está distorsionada por los medios tradicionales.\n\n&nbsp;\n\n<strong>Para más información contactar con:</strong>\n\n&nbsp;\n\nLisa Sullivan, Coordinadora de la delegación\n\nTeléfono: 0416-607-0972\n\nCorreo electrónico: <a href=\"mailto:lisavenezuela@gmail.com\">lisavenezuela@gmail.com</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 559721eb-b73d-4d86-a9b5-58f46584daa3
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+  field_mt_slideshow:
+    -
+      value: false

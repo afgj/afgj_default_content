@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: ef93aca9-1f79-4da0-8724-85f4fe9a801c
+  bundle: tags
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: anti-war
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /anti-war-0
+      langcode: en
+      pathauto: 1

@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 2af291b1-1ada-4e46-969f-410c27503704
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: astracan-alert-1.png
+  uri:
+    -
+      value: 'public://2020-06/astracan-alert-1.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 116694
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1591196434

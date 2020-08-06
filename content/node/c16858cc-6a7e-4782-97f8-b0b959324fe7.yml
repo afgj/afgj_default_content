@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c16858cc-6a7e-4782-97f8-b0b959324fe7
+  bundle: article
+  default_langcode: en
+  depends:
+    8ec8e0dc-b6ed-4683-a718-bd2452edec59: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: '[Webinar Recording] The US Destabilization of Venezuela with Alexander Main'
+  created:
+    -
+      value: 1549879863
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /webinar-recording-us-destabilization-venezuela-alexander-main
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1><img class=\"aligncenter wp-image-11228 size-large\" src=\"https://afgj.org/wp-content/uploads/2019/01/Anti-Sanctions-banner-image-1024x238.jpg\" alt=\"\" width=\"752\" height=\"175\" /></h1>\r\n<h3 style=\"text-align: center;\"><strong>This webinar took place Monday, February 11, 2019\_</strong></h3>\r\nThe Campaign to End US and Canada Sanctions against Venezuela <strong>discusses the use of unilateral financial sanctions as warfare</strong>. Alexander Main, Director of International Policy, Center for Economic Policy and Research (CEPR) will be examining the types of sanctions and their technicalities, as well as, <strong>how sanctions have been used to slowly destabilize Venezuela internally.</strong>\r\n\r\nThis webinar is also on the\_<a href=\"https://default.salsalabs.org/Ta923c0b0-7e2d-47b9-8510-dbbae6d0ad45/a3faba39-5b29-4ebc-ae78-f3263c4958e8\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Ta923c0b0-7e2d-47b9-8510-dbbae6d0ad45/a3faba39-5b29-4ebc-ae78-f3263c4958e8&amp;source=gmail&amp;ust=1549987628091000&amp;usg=AFQjCNFb0--aKxY2VMQLKlbY4vK7IvZZlg\">End Venezuela Sanctions facebook page</a>.\r\n\r\n&nbsp;\r\n<p style=\"text-align: center;\"><iframe src=\"https://www.youtube.com/embed/Hop7HDhvPnE\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8ec8e0dc-b6ed-4683-a718-bd2452edec59
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

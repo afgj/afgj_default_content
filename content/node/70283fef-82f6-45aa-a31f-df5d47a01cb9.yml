@@ -1,0 +1,140 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 70283fef-82f6-45aa-a31f-df5d47a01cb9
+  bundle: article
+  default_langcode: en
+  depends:
+    559721eb-b73d-4d86-a9b5-58f46584daa3: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    1c0c4377-b739-4293-a00a-331346b8aa16: taxonomy_term
+    cd0b4a40-9b03-4048-a812-892416542fb4: taxonomy_term
+    e2cd83a2-4ff6-40be-8260-0b38e269f80f: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    db37c597-23df-4a83-b2cc-0f2f3b69da01: taxonomy_term
+    9a13741d-8db2-4dce-b9f4-cf3b1b88a0a5: taxonomy_term
+    124a7e80-ed1f-4142-8bde-eff93db0fde4: taxonomy_term
+    ef93aca9-1f79-4da0-8724-85f4fe9a801c: taxonomy_term
+    7c8340eb-e8a0-4721-9f15-6679af7682b4: taxonomy_term
+    9d29ee31-ed3b-439a-be2f-c6afd2eb6e6a: taxonomy_term
+    4b24c74e-406c-43cd-88cd-0e83f5876557: taxonomy_term
+    a044aaf9-81d4-424a-ad50-a76b6f596e9e: taxonomy_term
+    21e1df1e-defb-4919-b6be-3a80743199d8: taxonomy_term
+    65e98371-b445-464c-807f-77b7ca4de6f6: taxonomy_term
+    0d7cf3a0-f419-4cde-8dbe-d3bed79450d9: taxonomy_term
+    5d9fd7c7-7e05-4f26-9b22-eb8974110ed7: taxonomy_term
+    94985472-9bf6-47be-b4bc-fd7b7d08edaa: taxonomy_term
+    6fe84139-fcc1-47f7-9f51-e74d9134339d: taxonomy_term
+    14594479-d6bf-43d4-b492-e34f5e1b09b6: taxonomy_term
+    dad8fb60-ee71-40dc-ba8d-2153898e72da: taxonomy_term
+    a652463a-3d49-4938-8e1f-37e153815328: taxonomy_term
+    8fdea647-638b-4ef5-9019-5580a81718d6: taxonomy_term
+    cbb34cf0-3944-4473-889f-49d7489d4569: taxonomy_term
+    54ba92c8-4623-418c-b497-7639d1876f0c: taxonomy_term
+    764a6674-a65b-4c86-a0eb-9da12b6b79b2: taxonomy_term
+    513d8e27-edaa-4b21-bb4e-47f6cace7caf: taxonomy_term
+    b2ac7de3-ec85-41d0-b948-71dbfa2b5dd2: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Climate Change and War--Two Faces, One Beast'
+  created:
+    -
+      value: 1444389853
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /climate-change-and-war-two-faces-one-beast
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><strong><span style=\"color: #ff0000;\"><a style=\"color: #ff0000;\" href=\"http://org2.salsalabs.com/o/7315/p/dia/action3/common/public/?action_KEY=18480\">We need YOU to ACT!</a></span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"color: #ff0000;\"><a style=\"color: #ff0000;\" href=\"http://org2.salsalabs.com/o/7315/p/dia/action3/common/public/?action_KEY=18480\">Please sign our petition to End US Military and Border Patrol Environmental Exemptions!</a></span></strong></p>\n<p style=\"text-align: center;\"><strong>Please share this with others.</strong> <a href=\"http://alabamavidette.tripod.com/webonmediacontents/Military%20Exemptions%20petition.pdf\">You can also click here to print out a hard copy for distribution at pulic events.</a></p>\n<p style=\"text-align: center;\"><img class=\"alignnone\" src=\"http://www.stopwar.org.uk/images/news2015/global_warring_460.jpg\" alt=\"\" width=\"460\" height=\"230\" /></p>\nUnited Nations negotiators will be meeting in Paris this December to work out a strategy to confront global warming. But believe it or not, there is a gag rule in place that prohibits any discussion about limiting the world's number one emitter of greenhouse gasses and consumer of petroleum products. The US military leads in both, more than any other single government or corporate institution. Seventy percent of US armed forces petroleum usage is by the Air Force for troop movements, bombing sorties, drones...for war. Who benefits? Not you and me, not our communities and not our ecosystems. Resource wars and Empire building aren't any good for anyone except a very few filthy rich people who don't care about us or about sustaining anything more than their own greed. Likewise, here at home, border militarization (the twin brother of wars abroad) gets a free pass when it comes to environmental protection laws. Even now, Senator John McCain is trying to get legislation passed that exempts new border \"security\" projects from ALL environmental protections. This petition addresses both these concerns.\n\n<a href=\"http://org2.salsalabs.com/o/7315/p/dia/action3/common/public/?action_KEY=18480\">By signing and sharing this petition, you are helping educate others about profiteers who are driving the planet to ruin just to make a buck. </a>You are raising an issue that must not be ignored if we are to save the planet. The only way we can really win climate justice is by advocating for peace and taking action to put people and planet before profit, greed and militarism. Thank you for taking action today!"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 559721eb-b73d-4d86-a9b5-58f46584daa3
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 1c0c4377-b739-4293-a00a-331346b8aa16
+    -
+      entity: cd0b4a40-9b03-4048-a812-892416542fb4
+    -
+      entity: e2cd83a2-4ff6-40be-8260-0b38e269f80f
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false
+  field_tags:
+    -
+      entity: db37c597-23df-4a83-b2cc-0f2f3b69da01
+    -
+      entity: 9a13741d-8db2-4dce-b9f4-cf3b1b88a0a5
+    -
+      entity: 124a7e80-ed1f-4142-8bde-eff93db0fde4
+    -
+      entity: ef93aca9-1f79-4da0-8724-85f4fe9a801c
+    -
+      entity: 7c8340eb-e8a0-4721-9f15-6679af7682b4
+    -
+      entity: 9d29ee31-ed3b-439a-be2f-c6afd2eb6e6a
+    -
+      entity: 4b24c74e-406c-43cd-88cd-0e83f5876557
+    -
+      entity: a044aaf9-81d4-424a-ad50-a76b6f596e9e
+    -
+      entity: 21e1df1e-defb-4919-b6be-3a80743199d8
+    -
+      entity: 65e98371-b445-464c-807f-77b7ca4de6f6
+    -
+      entity: 0d7cf3a0-f419-4cde-8dbe-d3bed79450d9
+    -
+      entity: 5d9fd7c7-7e05-4f26-9b22-eb8974110ed7
+    -
+      entity: 94985472-9bf6-47be-b4bc-fd7b7d08edaa
+    -
+      entity: 6fe84139-fcc1-47f7-9f51-e74d9134339d
+    -
+      entity: 14594479-d6bf-43d4-b492-e34f5e1b09b6
+    -
+      entity: dad8fb60-ee71-40dc-ba8d-2153898e72da
+    -
+      entity: a652463a-3d49-4938-8e1f-37e153815328
+    -
+      entity: 8fdea647-638b-4ef5-9019-5580a81718d6
+    -
+      entity: cbb34cf0-3944-4473-889f-49d7489d4569
+    -
+      entity: 54ba92c8-4623-418c-b497-7639d1876f0c
+    -
+      entity: 764a6674-a65b-4c86-a0eb-9da12b6b79b2
+    -
+      entity: 513d8e27-edaa-4b21-bb4e-47f6cace7caf
+    -
+      entity: b2ac7de3-ec85-41d0-b948-71dbfa2b5dd2

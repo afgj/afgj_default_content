@@ -1,0 +1,76 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 1100fe0c-9a57-486f-bca6-86b38c52fc58
+  bundle: mt_showcase
+  default_langcode: en
+  depends:
+    8ae599d5-eb79-453b-8a69-f81c755e0934: file
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Honduras Solidarity'
+  created:
+    -
+      value: 1591190596
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /honduras-solidarity
+      langcode: en
+      pathauto: 0
+  field_mt_shw_content_collapses:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 4d19a12c-facb-46dc-8c45-619f189f6d13
+          bundle: mt_collapse
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1591190676
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+  field_mt_shw_image:
+    -
+      entity: 8ae599d5-eb79-453b-8a69-f81c755e0934
+      alt: Honduras
+      title: ''
+      width: 600
+      height: 225
+  field_mt_shw_subheader_body:
+    -
+      value: "<p>Manuel Zelaya, the elected president of Honduras, was overthrown in a right wing coup on June 28, 2009. While at first the administration of US President Barack Obama distanced itself from the coup, it has since been learned that the US government supported the coup and its aftermath in a variety of direct and indirect ways. At the time the coup was underway, there was little in the way of a Honduras solidarity movement here in the US. However, the Alliance for Global Justice had been paying attention when we saw the crisis that was developing in the Central American country and when we got the word that the coup was underway, we started mobilizing immediately and released the first alerts to US activists to take action against what was happening. We also must mention and congratulate our friends at School of the Americas Watch who rapidly organized a demonstration that same day at the Honduran Embassy in Washington DC. We were also co-founders of the Honduras Solidarity Network which we continue to support and participate in. For more information send an email to Eduardo@AFGJ.org or call 202-540-8336 ext. 7.</p>\r\n\r\n<p style=\"text-align: center;\"><strong><a href=\"http://www.hondurassolidarity.org/\">For the latest news on Honduras, click here to visit the site of the Honduras Solidarity Network, a coalition that includes the Alliance for Global Justice</a></strong></p>\r\n\r\n<p style=\"text-align: center;\"><strong><a href=\"https://afgj.org/category/honduras\">Click here to visit AfGJ’s archive of Honduras related articles</a></strong></p>\r\n"
+      format: full_html
+      summary: ''
+  field_mt_shw_tags:
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27

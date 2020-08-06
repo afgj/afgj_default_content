@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 03c23e80-2d00-4326-ab9d-2874d2cb1e91
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+    2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela Weekly: AFGJ December 1, 2017:  Blatant US Double Standard on Honduras and Venezuela'
+  created:
+    -
+      value: 1512217121
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-weekly-afgj-december-1-2017-blatant-us-double-standard-honduras-and-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"alignleft size-full wp-image-8511\" src=\"https://afgj.org/wp-content/uploads/2017/12/image.png\" alt=\"\" width=\"1200\" height=\"679\" />\n\nThis weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\n\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\n\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\n\n<hr />\n\n<h2 style=\"text-align: center;\">The News This Week</h2>\n<a href=\"http://therealnews.com/t2/story:20611:Protests-Erupt-as-Honduras-Presidential-Election-Results-Reversed\" target=\"_blank\" rel=\"noopener\">US and OAS Go Silent on Election Fraud and Police Brutality Claims when the Country is Honduras Not Venezuela</a>\n\n<a href=\"https://venezuelanalysis.com/news/13519\" target=\"_blank\" rel=\"noopener\">Venezuela Condemns US and Europe for Blocking Funds use to Buy Food and Medecine</a>\n\n<a href=\"http://www.thedawn-news.org/2017/11/16/social-movements-of-alba-final-statement-of-the-4th-continental-coordination-meeting/\" target=\"_blank\" rel=\"noopener\">Political Analysis of Latin American Situation by ALBA Social Movements</a>\n\n<a href=\"http://eeuu.embajada.gob.ve/index.php?option=com_content&amp;view=article&amp;id=760%3A2017-11-17-21-27-36&amp;catid=3%3Anoticias-de-venezuela-en-el-mundo&amp;Itemid=19&amp;lang=en\" target=\"_blank\" rel=\"noopener\">Mision Ribas Has Enabled over One Million Venezuelans to complete High School</a>\n\n<a href=\"http://misionverdad.com/mv-in-english/four-effects-of-the-blockade-against-venezuela\" target=\"_blank\" rel=\"noopener\">Four Ways the New US and European Sanctions are Hurting Venezuelans</a>\n\n<a href=\"https://www.investigaction.net/en/breaking-the-blockade-elections-in-cuba/\" target=\"_blank\" rel=\"noopener\">Video Exposing Disinformation on Cuban Elections</a>\n\n<a href=\"https://www.telesurtv.net/english/news/Bolivias-Morales-Accepts-Presidential-Bid-in-Response-to-US-Interference-20171130-0013.html\" target=\"_blank\" rel=\"noopener\">Bolivian Court Oks Evo Morales and others to Run Again. The US shows \"Deep Concern\"</a>\n\n<a href=\"https://www.telesurtv.net/english/news/Ecuador-Correa-Announces-New-Era-of-Citizens-Revolution-20171126-0016.html\" target=\"_blank\" rel=\"noopener\">Ecuador: Correa Returns and Announces New Era of Citizens' Revolution</a>\n\n<a href=\"http://www.venezuelasolidarity.co.uk/new-vsc-newsletter-trump-sets-sights-on-regime-change/\" target=\"_blank\" rel=\"noopener\">Venezuela SolidarityUK Newsletter</a>\n\n<a href=\"https://www.telesurtv.net/english/news/Venezuela-Forgives-Dominicas-100-Million-Debt-20171121-0031.html\" target=\"_blank\" rel=\"noopener\">Venezuela Forgives Dominica's $100 Million Debt</a>\n\n<hr />\n<p dir=\"ltr\" style=\"text-align: center;\"><strong>\_Allied Events</strong></p>\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/events/2049128295309085/\" target=\"_blank\" rel=\"noopener\">December 5, NYC: Challenges of the Colombian Peace Process and the Case of Simon Trinidad</a></p>\n\n\n<hr />\n\n<h2 style=\"text-align: center;\"><b>Receive the News from Venezuela Each Week-\_</b><b></b><b><a href=\"http://org2.salsalabs.com/o/7315/signup_page/venweekly\">\nSign Up\_</a></b><b>for the Venezuela Weekly!</b></h2>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+    -
+      entity: 2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb
+  field_mt_slideshow:
+    -
+      value: false

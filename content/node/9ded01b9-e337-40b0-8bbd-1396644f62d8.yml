@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 9ded01b9-e337-40b0-8bbd-1396644f62d8
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: false
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Worker to Worker Solidarity Campaign'
+  created:
+    -
+      value: 1509619653
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /worker-worker-solidarity-campaign
+      langcode: en
+      pathauto: 1

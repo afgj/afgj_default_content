@@ -1,0 +1,61 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5fc4a776-4267-4cb9-983d-47afd3a5e755
+  bundle: article
+  default_langcode: en
+  depends:
+    4848f7f1-d8a6-4770-9e04-5737ab5cc97d: taxonomy_term
+    7c24d703-ad76-40f5-8889-a30cb1700fd3: taxonomy_term
+    7de75c6a-4d28-4128-ad47-1ce01b22a3e2: taxonomy_term
+    d7484f78-fd8a-49f7-afcb-5b7fed9db70f: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Detroit Border Patrol Racial Profiling'
+  created:
+    -
+      value: 1476604224
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /detroit-border-patrol-racial-profiling
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Watch this video to see racial profiling by Border Patrol far from the border. Jose Gonzalez was driving down Fort Street in Lincoln Park, MI when he noticed that Border Patrol started to stalk him and eventually pulled him over.\n\nhttps://www.youtube.com/watch?feature=player_embedded&amp;v=REQrvilkP-M"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 4848f7f1-d8a6-4770-9e04-5737ab5cc97d
+    -
+      entity: 7c24d703-ad76-40f5-8889-a30cb1700fd3
+    -
+      entity: 7de75c6a-4d28-4128-ad47-1ce01b22a3e2
+    -
+      entity: d7484f78-fd8a-49f7-afcb-5b7fed9db70f
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

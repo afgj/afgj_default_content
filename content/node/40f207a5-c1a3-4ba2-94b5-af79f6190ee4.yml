@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 40f207a5-c1a3-4ba2-94b5-af79f6190ee4
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly 9.21.2018 ALBA Country Delegations in NYC; Sign on Letter calling for Removal of OAS head; upcoming Venezuela Webinar'
+  created:
+    -
+      value: 1537529978
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-9212018-alba-country-delegations-nyc-sign-letter-calling-removal-oas-head
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2>The News This Week</h2>\r\n<div>\r\n<div>\r\n<div>\r\n\r\n<a href=\"https://afgj.org/next-venezuela-webinar-sept-25-5pm-pt-8pm-et-venezuela-webinar-examining-the-effect-of-sanctions-on-human-rights-in-venezuela-with-sures\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://afgj.org/next-venezuela-webinar-sept-25-5pm-pt-8pm-et-venezuela-webinar-examining-the-effect-of-sanctions-on-human-rights-in-venezuela-with-sures&amp;source=gmail&amp;ust=1537640893822000&amp;usg=AFQjCNH0G5k1SudO44XUvSEp9E4yC72Awg\">Next Venezuela Webinar: Sept. 25, 5pm PT/8pm ET Venezuela Webinar: Examining the effect of sanctions on human rights in Venezuela with SURES, Venezuelan Human Rights organization</a>\r\n\r\n&nbsp;\r\n\r\n<strong>Venezuela</strong>\r\n\r\n<a href=\"https://bolivariannyc.wordpress.com/2018/09/17/demand-the-resignation-or-expulsion-of-the-secretary-general-of-the-oas-luis-almagro/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://bolivariannyc.wordpress.com/2018/09/17/demand-the-resignation-or-expulsion-of-the-secretary-general-of-the-oas-luis-almagro/&amp;source=gmail&amp;ust=1537640893822000&amp;usg=AFQjCNFzZS49F12oVcCbeRGkQfoBpbMFeg\">Sign on to Open Letter now: Demand the Resignation or Expulsion of the Secretary General of the OAS, Luis Almagro</a>\r\n\r\n<a href=\"https://venezuelanalysis.com/news/14056\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://venezuelanalysis.com/news/14056&amp;source=gmail&amp;ust=1537640893822000&amp;usg=AFQjCNEMuAD0v41GKJhXnymPb_9-RleM3g\">China-Venezuela Agreements Help Venezuela Combat Crippling Sanctions</a>\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Politicians-Organizations-Reject-Almagros-Threatening-Military-Intervention-In-Venezuela-20180916-0005.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.telesurtv.net/english/news/Politicians-Organizations-Reject-Almagros-Threatening-Military-Intervention-In-Venezuela-20180916-0005.html&amp;source=gmail&amp;ust=1537640893822000&amp;usg=AFQjCNFAjB4PSL3J2Iw-YOYbtvx7Y6cfRA\">ALBA Countries,Leaders Reject Almagro’s Threatening Military Intervention In Venezuela</a>\r\n\r\n<a href=\"https://venezuelanalysis.com/news/14055\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://venezuelanalysis.com/news/14055&amp;source=gmail&amp;ust=1537640893822000&amp;usg=AFQjCNFPuyyQpNUPS5e2yY_IFncuuTpocA\">Zapatero, Mujica Condemn US-Canada-EU Sanctions on Venezuela, point to them as the cause of the migration problem</a>\r\n\r\n<a href=\"https://www.mintpressnews.com/maduros-visit-to-china-spooks-a-us-plotting-venezuelas-isolation/249354/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.mintpressnews.com/maduros-visit-to-china-spooks-a-us-plotting-venezuelas-isolation/249354/&amp;source=gmail&amp;ust=1537640893822000&amp;usg=AFQjCNFHKDpz1wnbjjM5Ffy6UF7yK3-ByA\">Maduro’s Beijing Visit Spooks a US Plotting Venezuela’s Isolation</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Ted4a44cd-166e-45db-91b0-2a2149586061/db51c266-2b97-4a9d-878b-ef7ce4b199ef\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Ted4a44cd-166e-45db-91b0-2a2149586061/db51c266-2b97-4a9d-878b-ef7ce4b199ef&amp;source=gmail&amp;ust=1537640893822000&amp;usg=AFQjCNHfRAIeTlbDS4EsKmOej7_NROPXrQ\">Legislators of the Euro-Latin American Parliamentary Assembly issue \_statement rejecting the imperialist interventionism against progressive politicians and nations of the American continent.</a>\r\n\r\n<a href=\"http://www.fightbacknews.org/2018/9/19/venezuela-refuses-retreat?utm_source=Fight%20Back%21%20News%20Service&amp;utm_campaign=7e73a671e6-UA-743468-8&amp;utm_medium=email&amp;utm_term=0_acdbc87f5c-7e73a671e6-263622285\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.fightbacknews.org/2018/9/19/venezuela-refuses-retreat?utm_source%3DFight%2520Back%2521%2520News%2520Service%26utm_campaign%3D7e73a671e6-UA-743468-8%26utm_medium%3Demail%26utm_term%3D0_acdbc87f5c-7e73a671e6-263622285&amp;source=gmail&amp;ust=1537640893822000&amp;usg=AFQjCNHTTjWKdTDYxZqAML45Y4yfgkQxBQ\">Fighback News: Venezuela refuses to retreat</a>\r\n\r\n<a href=\"https://venezuelanalysis.com/news/14059\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://venezuelanalysis.com/news/14059&amp;source=gmail&amp;ust=1537640893822000&amp;usg=AFQjCNGs47t89MqI9syf8yo6iSUhEVjkhQ\">Chavista Volunteer Workers Repair Venezuelan Oil Complex to Boost Production</a>\r\n\r\n&nbsp;\r\n\r\n<strong>Nicaragua</strong>\r\n\r\n<a href=\"https://afgj.org/nicanotes-nicaraguas-success-threatens-us-stranglehold-on-latin-america\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://afgj.org/nicanotes-nicaraguas-success-threatens-us-stranglehold-on-latin-america&amp;source=gmail&amp;ust=1537640893822000&amp;usg=AFQjCNGMbt9Mi_ZGlRWQ3bHw-PMq3V9biQ\">Nicaragua’s Success Threatens US Stranglehold on Latin America</a>\r\n\r\n&nbsp;\r\n\r\n<strong>Cuba</strong>\r\n\r\n<a href=\"http://july26coalition.org/wordpress/cuba-speaks-for-itself/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=http://july26coalition.org/wordpress/cuba-speaks-for-itself/&amp;source=gmail&amp;ust=1537640893822000&amp;usg=AFQjCNH3rWqVqh7fjaNoyP9fnpk5oCvYoQ\">President Miguel Diaz-Canel speaks on September 26th in New York City</a>\r\n\r\n<a href=\"https://youtu.be/AmBqlQBoGcQ\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://youtu.be/AmBqlQBoGcQ&amp;source=gmail&amp;ust=1537640893822000&amp;usg=AFQjCNEe3ZyHU-KlKLWfAvaQ8YfRFK00xg\">TeleSur interview 9-16-2018 with Cuban President Miguel Diaz-Canel</a>\r\n\r\n</div>\r\n<h2><strong>About the Weekly</strong></h2>\r\nIt is AfGJ’s conviction that we in the US defend\_Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with\_Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=CXvEe3XdlZsS65OWFs3PGMFc5AxV%2FeFs\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=http://org2.salsalabs.com/dia/track.jsp?v%3D2%26c%3DCXvEe3XdlZsS65OWFs3PGMFc5AxV%252FeFs&amp;source=gmail&amp;ust=1537640893822000&amp;usg=AFQjCNHAMIeVWOA9k8bkvzVabmEcKD3XOw\">stansfieldsmith100@gmail.<wbr />com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n<h3><strong>Receive the News from\_Venezuela\_Each Week-\_</strong></h3>\r\n<h3><strong><a href=\"https://default.salsalabs.org/Tff853ff5-597b-4fb8-afab-59fb7ed022b0/db51c266-2b97-4a9d-878b-ef7ce4b199ef\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tff853ff5-597b-4fb8-afab-59fb7ed022b0/db51c266-2b97-4a9d-878b-ef7ce4b199ef&amp;source=gmail&amp;ust=1537640893823000&amp;usg=AFQjCNE_1bG8EIEpt2OUFHqBwp2f1VEiDA\">Sign U</a></strong><a href=\"https://default.salsalabs.org/Tff853ff5-597b-4fb8-afab-59fb7ed022b0/db51c266-2b97-4a9d-878b-ef7ce4b199ef\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tff853ff5-597b-4fb8-afab-59fb7ed022b0/db51c266-2b97-4a9d-878b-ef7ce4b199ef&amp;source=gmail&amp;ust=1537640893823000&amp;usg=AFQjCNE_1bG8EIEpt2OUFHqBwp2f1VEiDA\"><strong>p</strong></a></h3>\r\n<h3><strong>for the\_Venezuela\_Weekly!</strong></h3>\r\n</div>\r\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e09ce65e-6800-42f2-bdd3-2ea655450e4a
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Monthly Venezuela Webinar: Communes in the Bolivarian Revolution in  Venezuela & Elections'
+  created:
+    -
+      value: 1508414077
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /monthly-venezuela-webinar-communes-bolivarian-revolution-venezuela-elections
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"wp-image-7078 size-full aligncenter\" src=\"https://afgj.org/wp-content/uploads/2016/09/VSN-webinar.jpg\" alt=\"Venezuela Monthly Webinar Series Mural Header by Alliance for Global Justice and the Venezuela Solidarity campaign\" width=\"960\" height=\"510\" />\n\nThis series of one-hour webinars on the last Tuesday of each month\_features scholars, Venezuela government officials, writers, solidarity\_activists and others with firsthand knowledge of Venezuela and US-Venezuela relations. Venezuela remains a top target of US “regime\_change” strategies and will remain so no matter who is elected president\_in November. These webinars are designed to inform and motivate\_solidarity with the Bolivarian process in Venezuela and to expose and\_oppose US intervention.\n<h2 style=\"text-align: center;\"><a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED52D885834C30\" target=\"_blank\" rel=\"noopener\">Register Now!</a>\nCommunes in the Bolivarian Revolution in\nVenezuela &amp; Elections\nPresenter: Katrina Kozarek\nTuesday, October 31st, 2017 at 5pm PT/8pm ET</h2>\n<div>The Communal Movement is one of the bedrock popular democratic institutions of the Bolivarian Revolution. Katrina Kozarek has toured the US speaking about the communal movement. She has lived in Venezuela since 2004 and is an activist in the Comuna Socialista Ataroa in their communal television station LaraTVeC. \_She also works as a video journalist for Venezuelanalysis. She works with the National Association of Community and Alternative Media. She belongs to Movimiento Mujeres Por La Vida, a popular women;s organization, which creates spaces for mutual support between women. She is producer of the Radio and Television Program \"Juntas y También Revueltas\" and gives training in defense against gender violence, sexual and reproductive health, and feminist communication. Katrina has been involved in the production of documentaries such as Venezuela Bolivariana: Pueblo y Lucha de</div>\n<div>la IV Guerra Mundial (2003) and El Viejo y Jesus: Profetas de Rebelión (2004) with Cooperativa Calle y Media and is currently producing a documentary about Socialist Communes in Venezuela.</div>\n<h2 style=\"text-align: center;\"><strong>These monthly webinars are one hour long\nand you must\_<a href=\"http://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED52D885834C30\" target=\"_blank\" rel=\"noopener\">REGISTER</a>\_to participate.\_\_</strong></h2>\nPlease share the registration link widely. You can participate by phone or through\_your computer but your computer will give you a much fuller experience if you\_participate through your computer.\n<div>Our webinar platform only supports Chrome and Firefox, so if you use a different browser, you’ll need to download a free copy of Chrome or Firefox to participate.</div>\n\n<hr />\n\nInterested in keeping up with the news from Venezuela?\_AfGJ's Venezuela Weekly\_contains a few useful articles on Venezuela that contain bite-sized dose of the truth\_so that you can fight the disinformation in your own community, that so much of the\_media, including alternative media are putting out.\_<strong><a href=\"http://org2.salsalabs.com/o/7315/signup_page/venweekly\" target=\"_blank\" rel=\"noopener\">Subscribe Here!</a></strong>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+  field_mt_slideshow:
+    -
+      value: false

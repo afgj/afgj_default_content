@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 6c581591-0fd2-4cdc-8036-85d9107dabaa
+  bundle: article
+  default_langcode: en
+  depends:
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Free Webinar: How do the Venezuela Elections Change the Political Landscape?'
+  created:
+    -
+      value: 1527115622
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /free-webinar-how-do-venezuela-elections-change-political-landscape
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter size-full wp-image-7078\" src=\"https://afgj.org/wp-content/uploads/2016/09/VSN-webinar.jpg\" alt=\"Venezuela Monthly Webinar Series\" width=\"960\" height=\"510\" />\r\n<h2 style=\"font-weight: 400; text-align: center;\"><strong><a href=\"http://anymeeting.com/PIID=ED55DC86844F3D\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://anymeeting.com/PIID%3DED55DC86844F3D&amp;source=gmail&amp;ust=1527183186983000&amp;usg=AFQjCNHrPEMbw40Sq0tQTDVL8cztYSmv9w\">Free Webinar: How do the Venezuela elections change the political landscape?</a></strong></h2>\r\n<h2 style=\"font-weight: 400; text-align: center;\"><strong>Webinar\_Invitation</strong></h2>\r\n<h2 style=\"font-weight: 400; text-align: center;\"><strong><span data-term=\"goog_1143638520\">Tuesday, May 29, 2018</span></strong></h2>\r\n<h2 style=\"font-weight: 400; text-align: center;\"><strong><span data-term=\"goog_1143638521\">8:00-9:00pm EDT</span>\_/\_<span data-term=\"goog_1143638522\">5:00-6:00pm PDT</span></strong></h2>\r\n<p style=\"font-weight: 400; text-align: center;\"><strong>\_</strong></p>\r\n<p style=\"font-weight: 400;\">Venezuela is holding early presidential elections on May 20, 2018 in an effort to find solutions to the country’s political and economic crises. A delegation organized by Intrepid News Fund and Venezuelanalysis will have just returned from accompanying the election and studying many of the new systems/projects introduced by the government in the past year including the Constituent Assembly and the Petro cyber-currency. Members of the delegation will share their experiences and answer questions.</p>\r\n\r\n\r\n<hr />\r\n<p style=\"font-weight: 400; text-align: center;\"><strong>You must register to participate.</strong></p>\r\n<p style=\"font-weight: 400; text-align: center;\"><a href=\"http://anymeeting.com/PIID=ED55DC86844F3D\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://anymeeting.com/PIID%3DED55DC86844F3D&amp;source=gmail&amp;ust=1527183186983000&amp;usg=AFQjCNHrPEMbw40Sq0tQTDVL8cztYSmv9w\">Click here to register</a></p>\r\n<p style=\"font-weight: 400; text-align: center;\">This\_webinar\_is one of a series of monthly\_webinars\_organized by the Alliance for Global Justice and Venezuela Strategy Group. For information:\_<a href=\"mailto:AFGJ@AFGJ.org\">AFGJ@AFGJ.org</a></p>\r\n<p style=\"font-weight: 400; text-align: center;\">Share widely!</p>\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,53 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8e11c207-e7f7-4311-a8c3-e643c9eb59ff
+  bundle: mt_testimonial
+  default_langcode: en
+  depends:
+    491ae862-e8a6-4997-b5f1-4f335ea29b5f: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Terry Smith'
+  created:
+    -
+      value: 1465837443
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_tst_body:
+    -
+      value: "<p>Excepteur sint occaecat cupidatat non proident. Lorem ipsum dolor sit amet, consectetur.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_tst_subtitle:
+    -
+      value: 'Chief Technology Officer'
+  field_mt_tst_testimonial_image:
+    -
+      entity: 491ae862-e8a6-4997-b5f1-4f335ea29b5f
+      alt: 'Testimonial image'
+      title: ''
+      width: 750
+      height: 750

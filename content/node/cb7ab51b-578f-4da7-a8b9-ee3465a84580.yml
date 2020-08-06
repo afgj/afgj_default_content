@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: cb7ab51b-578f-4da7-a8b9-ee3465a84580
+  bundle: article
+  default_langcode: en
+  depends:
+    8a513676-bf65-4895-b8a5-9c0075aba7f3: taxonomy_term
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicanotes: Three Decades Ago, Picking Coffee Changed my Life'
+  created:
+    -
+      value: 1513779759
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-three-decades-ago-picking-coffee-changed-my-life
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-7994 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/08/nicanotesbannerwbyline2.jpg\" alt=\"Nincanotes : A blog about nicaragua by solidarity activists\" width=\"594\" height=\"196\" />\n<p style=\"text-align: center;\">By Chuck Kaufman</p>\nMany people have said that their trip to Nicaragua in the 1980s was a life-changing experience. That was certainly the case for me. Since my first trip to Nicaragua was as part of a Nicaragua Network coffee brigade for three weeks over Christmas 1987 – 30 years ago – I thought it appropriate to use this week’s NicaNotes blog to write about the trip that set the course for my life over the next three decades.\n\nActually I spent both the Christmas of 1987 and the Christmas of 1988 in Nicaragua picking coffee. With the passage of time, the past becomes nearly as unknowable as the future, so I am bound to mix events and insights from both years into this short memorial.\n\nI had started as a full-time volunteer with the Nicaragua Network a few months earlier out of outrage at the Iran-Contra scandal and particularly how servile Congress was when Col. Oliver North, who funded the Contras illegally from the White House basement, appeared before the Select Committee in his full uniform. Being at the time a rather naive liberal Democrat and pacifist who had marched and organized in high school and college against the Vietnam War but hadn’t done anything since, I wanted to see for myself what this Sandinista Revolution was all about.\n\nSo, I signed up for the Network’s three week coffee picking brigade over Christmas. People from all over the world were coming to Nicaragua to pick coffee and cotton because so many Nicaraguans were mobilized in the army to protect communities from Contra terrorist attacks that there weren’t enough hands to harvest the economically vital export crops. Nicaragua Network organized brigades in which the first year alone 4,000 people from the US participated, and hundreds participated in subsequent years up until the electoral loss of 1990.\n\nI learned many things on that first trip to Nicaragua and it indeed changed the trajectory of my life. I permanently gave up my lucrative little advertising rep business and took a 75% cut in income to work as Nicanet’s Fundraising/Finance Director and eventually National Co-coordinator.\nI learned that the difference between being poor and living in poverty is having a realistic hope for a better future. We brought school and other supplies with us and it was eye-opening to me that the gift of a simple pencil to a child was met with as much joy as the far more expensive gifts I was accustomed to in the United States. I also learned embarrassment when we unloaded our huge pile of possessions from the truck that had carried us to the farm and we realized we few had more possessions than all the many Nicaraguan coffee pickers combined.\n\nI learned that there is a non-toxic patriotism that is love of country without chauvinistic, jingoistic, militaristic exceptionalism. Up to that point I had always considered patriotism to be a four letter word.\n\nI learned that I was no longer a believer in pacifism as a way of life, which was quite a departure for someone who was raised in the Mennonite Church and whose great-grandfather was one of three Mennonite bishops who traveled to Washington after WWI and convinced the head of the Selective Service to support a conscientious objector status to the draft.\n\nI learned both that there was no point in being a Type A personality because in Nicaragua time was going to move at its own pace no matter what I wanted, while at the same time I learned that that didn’t mean people were lazy or unorganized. I learned that quickly when day after day we were in the fields at 6am and worked until 6pm with a break for lunch.\n\nI learned that one can live healthily on tortilla, beans and rice, but for a US palate, three identical meals a day gets old very quickly! (The second year I brought snacks and garlic salt to spice things up!)\n\nAnd finally, I learned humility. The second year I picked coffee, I was the best gringo picker at our farm. I picked 3-1/2 “latas” a day. A lata is a cubic measurement and coffee pickers got paid by the number of latas they picked. Well this particular farm gave an award every morning to the man, woman, and child who picked the most coffee the day before. The 10 year old girl who frequently won the child’s prize would pick 7 latas to my 3-1/2! There are other kinds of skills besides book learning that are deserving of respect.\n\nThese lessons made me a better person, a stronger organizer, and turned me from a liberal who opposed US wars to a revolutionary who found something to support. I realized that it wasn’t enough to just oppose US foreign policy, it was necessary to support transformational changes to build a better world. That world is not possible under capitalism and US imperialism. In Nicaragua I saw people working collectively toward a common goal, not working for someone who got rich while they just survived.\n\nI learned that patriarchy, hierarchy, and crony capitalism passed off as democracy, were killing people I had gotten to know in Nicaragua and all too many others who I would never know in the rest of the world. Over and over, Nicaraguans told us that what we could do that would most help them was to go home and change our own country. Since that experience 30 years ago, I have accepted my responsibility for the actions of my country and I have worked to transform the United States into a country that could play a positive role in the world. I don’t expect to succeed in my lifetime, but I am encouraged by the quality of the young people who started later than I did but with a more mature political analysis and who have far surpassed me in their leadership.\n\nI am sure glad I went on that coffee-picking brigade in 1987. I like the ways it changed me. John Kotula and I would like to hear your stories about how Nicaragua changed you. John has already started writing some of these stories which is what inspired me to write this little account. Let us know at <a href=\"mailto:Chuck@AFGJ.org\">Chuck@AFGJ.org</a> if you are interested in being interviewed about your experience or whether you would like to write up your story yourself as a NicaNotes guest blog. It is important that we tell our stories so that they become part of the historical record of this era.\n\n<hr />\n\n<strong>BRIEFS</strong>\n<ul>\n \t<li>The Association of Producers and Exporters of Nicaragua (APEN) reported that the country’s exports surpassed US$2.5 billion between January and November of this year, representing growth of 15.39% over the same period in 2016. Coffee registered the highest exported value with US$495.41 million, followed by beef, gold, sugar and peanuts. The main destination of Nicaragua exports continues to be the United States with 38% of the market. (Nicaragua News Dec. 18)</li>\n</ul>\n<ul>\n \t<li>Nicaragua Vice President Rosario Murillo announced that the national television channel of Japan will be filming the Masaya volcano as part of a documentary on Central America volcanoes. \"A journalist from this television station and his team are planning a reconnaissance visit to the Masaya volcano, which will be included in a documentary that will air in January 2018. The documentary will depict our intense and beautiful lava ‘lake’, and the beauty and force of nature,” Vice President Murillo said. (Nicaragua News Dec. 13)</li>\n</ul>\n<ul>\n \t<li>The Fund for International Development of the Organization of Petroleum Exporting Countries (OPEC) announced the approval of a US$30 million loan for the Nicaraguan Rural Roads Development Project, which will benefit more than 100,000 individuals. \"The purpose of the financing is to contribute to the reduction of poverty and promote economic development in the northern and central rural regions of the country. More than 37 kilometers of roads will be upgraded with this funding, including the building of new bridges that will contribute to the socioeconomic integration of these regions with the rest of the country,\" a spokesperson said. (Nicaragua News Dec. 14)</li>\n</ul>\n<ul>\n \t<li>Raul Moreno, general manager of the polling firm M&amp;R Consultores, noted that, in 2017, all the public opinion surveys, independently of which company carried them out, showed satisfaction with the state of democracy in Nicaragua at levels only exceeded by Uruguay. He stated, “In 2017 we saw again what we had seen in previous years when there were major efforts made by certain sectors and organizations to convince people that democracy does not exist in Nicaragua and that their freedoms were being violated. But, clearly, we are seeing a Nicaraguan population focused on working for their families’ welfare and finding better conditions and opportunities than in the past to improve their standards of living. Everything indicates that we have a majority of Nicaraguans, reasonably satisfied, struggling to move forward, who have lived the experience of social conflict and who are not willing to open themselves to manipulation on the part of certain political and religious leaders who could wreck their personal, family and, in the long run, national plans.” (Informe Pastran, Dec. 18)</li>\n</ul>\n<ul>\n \t<li>The President of the Nicaragua Tourism Chamber (CANATUR), Lucy Valenti, reported that 2017 was an outstanding year for tourism, achieving a growth of 20%. \"It's an extraordinary year for our sector. I am convinced that we will close the year surpassing US$700 million in revenues. This has never been done before. Nicaragua has become the preferred destination for Central American tourists,” Valenti said. The growth is due in part to the fact that 65% of visitors came from Central America, mainly from Honduras and Costa Rica. (Nicaragua News Dec. 15)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8a513676-bf65-4895-b8a5-9c0075aba7f3
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

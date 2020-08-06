@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b030a7d5-e016-427f-9b56-4da8b0c8996a
+  bundle: article
+  default_langcode: en
+  depends:
+    2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad: taxonomy_term
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicanotes: US policies Toward Honduras and Nicaragua: Hypocrisy on Display'
+  created:
+    -
+      value: 1513182984
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-us-policies-toward-honduras-and-nicaragua-hypocrisy-display
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"aligncenter wp-image-7994 size-full\" src=\"https://afgj.org/wp-content/uploads/2017/08/nicanotesbannerwbyline2.jpg\" alt=\"Nincanotes : A blog about nicaragua by solidarity activists\" width=\"594\" height=\"196\" /></a>\n<p style=\"text-align: center;\">By John Kotula</p>\nThe situation in Honduras is chaotic and changing rapidly. Things may be quite different by the time this is read. At the moment (December 9, 2017), the country is in a deep, deadly crises brought on by apparent election fraud. The incumbent, Juan Orlando Hernandez, is almost certainly using his control of the country’s political mechanisms to deny the presidency to the candidate who got the most votes, Salvador Nasralla, representing an alliance of center and left leaning political parties with the largest party being deposed President Manuel Zelaya’s Libre Party. The details of this voting booth coup and the destructive aftermath are available elsewhere. I have particularly liked reporting in <a href=\"https://www.nytimes.com/2017/11/27/world/americas/honduras-election-salvador-nasralla-juan-orlando-hernandez.html?action=click&amp;module=RelatedCoverage&amp;pgtype=Article&amp;region=Footer&amp;contentCollection=Related\" target=\"_blank\" rel=\"noopener\">The New York Times</a>, <a href=\"https://www.thenation.com/article/the-honduran-government-is-trying-to-steal-an-election/\" target=\"_blank\" rel=\"noopener\">The Nation</a>, and <a href=\"https://www.economist.com/news/americas/21732118-our-analysis-disputed-vote-count-what-data-say-about-integrity-hondurass\" target=\"_blank\" rel=\"noopener\">The Economist</a>.\n\nFor those of us who take an interest in US policy toward Central America, this is a moment to examine the role our country has played in Honduras. Furthermore, it is an instructive time to compare our official, governmental relationship with Honduras to the one we have with Nicaragua. For the purpose of this examination, there is no event more illuminating than the one reported in this Washington Post headline from December 7, 2017: “<a href=\"https://www.washingtonpost.com/world/the_americas/trump-administration-praises-honduras-amid-election-crisis/2017/12/07/20f71200-db75-11e7-a241-0848315642d0_story.html?utm_term=.4bad94c0d549\" target=\"_blank\" rel=\"noopener\">Trump Administration Praises Honduras Amid Election Crisis.</a>” While live bullets were being fired at demonstrators banging pots and pans in the streets of Tegucigalpa, U.S. Secretary of State Rex Tillerson, made public a “certification” that Honduras is making progress on respecting human rights and cutting corruption.\n\nWhile the progress is illusionary and hypocritical, it is the de rigueur choreography between the legislative and executive branches to release funds when there are serious doubts about what impact that funding will actually have. So, here we have the executive branch publicly doubling down on their support of Juan Orlando Hernandez while he is in the process of stealing an election, while the country is awash in drug violence, while Hondurans try to escape the danger they face every day by heading north, and while this impoverished nation spirals toward being a failed state. Juan Orlando Hernandez and the right wing in Honduras are seen as being reliably compliant to Washington wishes. Having JOH in their pocket is more important than who the Honduran people might actually want for president. It is only a matter of time before Trump or Tillerson say, “Juan Orlando is an SOB, but he’s our SOB,” thus proving their total lack of originality and their total inability to learn from history.\n\nCertainly, the current administration is not to be trusted to honor the sovereignty of Central American countries. Unfortunately, the Democrats are no better in this area. Hillary Clinton’s actions during the military coup in 2009 that removed President Manuel Zelaya from power are all from the same cold war playbook being used by Trump and Tillerson. The will of the people can be ignored if they do not mirror the perceived interest of The United States. Even modest social and economic reforms are equated with communism. Regime change is cast as working for stability and security for the benefit of the people.\n\nClinton was quite transparent about her efforts to keep Zelaya from being reinstated following the coup. She bragged in her autobiography about her focus “on electing a new leader in order to ensure an orderly transition,” casting herself as the voice of calm and reason. What followed, of course, was tragic for the country and anything but calm or reasonable. In short order Honduras was labeled the murder capital of the world with unprecedented levels of drug violence, political disappearances and assassinations, militarization of law enforcement and a surge of refugees crossing the US border.\n\nWhat happens next in Honduras is anyone’s guess.\n\nJust across Honduras’ southern border is Nicaragua, a stable, safe country whose economy is growing and whose people support their government in record numbers. Relatively few Nicaraguans emigrate to the US, there is little drug related violence, gangs don’t have a foothold in Nicaragua, and political discourse is lively with various points of view being openly expressed. Nicaragua should be the US’s best friend. Instead, our official policy is openly hostile and provocative.\n\nMuch of the aid the US provides to Nicaragua flows through USAID (US Agency for International Development.) The website for USAID says that one of their guiding principles is transparency. That is laughable given how much more difficult it is to track US “democracy promotion” grants than it used to be. On its <a href=\"https://www.usaid.gov/nicaragua/democracy-and-governance\" target=\"_blank\" rel=\"noopener\">official website USAID</a> describes its Nicaragua work on governance in this way: “USAID’s democracy and governance programs provide technical assistance and training to citizens’ groups and community organizations in improving management and organizational skills, operational efficiency, responsible citizenship and accountable government. To strengthen democracy in Nicaragua, USAID is providing training for young, emerging democratic leaders and technical assistance to bolster civil society engagement and to improve local governance.” “Strengthen democracy” is USAID’s euphemism for interfering in other countries’ elections.\n\nAlthough it is jargon, I don’t think there is a lot of beating around the bush going on here. They want to influence who runs the country and how it is run.\n\nNicanotes has thoroughly covered the NICA Act, which would use the US’s influence to deny international credit to Nicaragua unless they followed US government demands on how to govern their country. This is certainly further evidence that our policy is little more than imperialism gussied up a bit, but still clearly recognized for what it is.\n\nI’ve been living in Nicaragua for three years now and I love and respect the country. I also lived in Honduras from 2005 - 2007 and visited frequently for a few years after that. Whenever I think about the contrast between the two countries and the role the US has played, something like a prayer comes to mind: please let Nicaragua continue to choose its own course and please let those of us from the US who care about Central America influence our government to treat the countries of this area with the care and respect they deserve as our neighbors.\n\n<hr />\n\n<strong>BRIEFS</strong>\n<ul>\n \t<li>German Ambassador Ute König announced that the German government will continue to provide support through the Nicaragua Sewer and Aqueduct Company (ENACAL) for the improvement of the sewage treatment plant and potable water service known as Managua Metropolitan Project. The Ambassador further noted that in 2018 her country will focus on water, sanitation, and renewable energy in Nicaragua. Germany has allocated US$128 million in financing for Nicaragua, of which US$107 million was channeled through the Central American Bank for Economic Integration (BCIE). (Nicaragua News, Dec. 6)</li>\n \t<li>The 2018 education budget includes C$90 million for English classes beginning with the first grade. The budget includes textbooks and CDs as well as salaries for 520 teachers and 200 pedagogical advisors. The Ministry of Education calls this a “transcendental” step for education. “We are starting English classes, and for this we have been preparing with training at the national level, said Francis Diaz, Deputy Minister of Education. (El Nuevo Diario, Dec. 11)</li>\n \t<li>According to a new report from the Central Bank for the month of October, formal employment grew by 5.7% over the same period in 2016. Formal employment is defined as jobs in which the employer pays into social security meaning that the employee is accumulating time toward a retirement pension. The average salary of those formally employed has risen by 5.3% over last year. (Informe Pastran, Dec. 11)</li>\n \t<li>Projections were exceeded by 8% of students registering for the 2018 academic year with online registrations still being accepted. 1,087,538 students have registered for the school year that begins in 2018. (Informe Pastran, Dec. 11)</li>\n \t<li>Dozens of supporters of opposition groups marched on the 69th anniversary of the Universal Declaration of Human Rights. Vilma Nuñez, president of the Nicaragua Center for Human Rights (CENIDH) declared that in recent years the government has committed “countless” human rights violations between civil and political rights. (Infome Pastran, Dec. 11)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

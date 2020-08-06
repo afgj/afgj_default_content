@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e457ea0d-d9b1-45a1-b4d7-2621fa8f1b84
+  bundle: article
+  default_langcode: en
+  depends:
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    4d58c480-4afa-42db-9320-32d1579a7036: taxonomy_term
+    5b96eb92-481a-47f7-8359-184bfa2e06de: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Political Prisoner / Human Rights Accompaniment Delegation to Honduras'
+  created:
+    -
+      value: 1519386786
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /political-prisoner-human-rights-accompaniment-delegation-honduras
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"alignleft size-full wp-image-9090\" src=\"https://afgj.org/wp-content/uploads/2018/02/VickiDelegation.jpg\" alt=\"Honduras Human Rights Delegation 2018\" width=\"802\" height=\"602\" />\r\n<h2 style=\"text-align: center;\">Alliance for Global Justice and La Voz de los de Abajo Invite You to join us for an Urgent Political Prisoner / Human Rights Accompaniment Delegation to Honduras</h2>\r\n<h3 style=\"text-align: center;\">April 8-15, 2018</h3>\r\nSince the November 2017 election, Honduras has been plunged into a political and human rights crisis caused by what Honduran human rights organizations are calling “an electoral-political coup”. The Honduran people and their organizations have refused to accept the fraudulent election of Juan Orlando Hernandez. The government has responded with militarization and repressive violence not seen even in the early years of the 2009 military-political coup.\r\n\r\nThe U.S. government supported the 2009 coup and it supports the latest coup government as well. U.S. trained special police (the COBRAS) and the Military Police for Public Order (PMOP) are going after opposition and community activists, spreading terror across the country.\_\_Since\_November 29\_this repression has caused more than 35 deaths and more than a thousand arrests. At least 22 of those arrested are being held in prison with limited visitation rights for family or lawyers, some in isolation, although they have not been convicted of any crime! These prisoners have been declared political prisoners by Honduran and international human rights defenders.\r\n\r\nA Committee for the Freedom of the Political Prisoners has recently been formed by 8 organizations in Honduras, including unions and human rights organizations. They are demanding that all criminal charges related to the protests against the November electoral coup be dropped and that the 22 people being held in prison be freed immediately. One of the best known political prisoners is Edwin Espinal, a community organizer in Tegucigalpa, who has been prominent in the grass-roots resistance movement since 2009. He is being held pre-trial in a U.S. designed “super-max” prison.\r\n\r\nJoin us in responding to the urgent need for international accompaniment in Honduras. This delegation will focus on the criminalization of the social movements and protests, on the prisoners and their families, and the campaign to free them. We will meet with Honduran organizations and with the victims of criminalization and repression. We will communicate what we see and what we learn to U.S. officials to hold them accountable for the US role in supporting dictatorship in Honduras.\r\n\r\n<hr />\r\n\r\n<span style=\"font-weight: 400;\">OPTIONAL 3-DAY EXTENSION: The Rural Workers Union (CNTC) has requested our accompaniment on April 17 for International Campesino Day. If you are able to stay, the extra 3 days will add $150 to the $800 delegation price.</span>\r\n\r\n<hr />\r\n\r\n<span style=\"font-weight: 400;\">Costs: $800, plus airfare </span><span style=\"font-weight: 400;\">or ($950 plus airfare for extended delegation). Delegation fee includes all transportation inside Honduras, at least two meals a day, lodging (double occupancy), interpretation/translation and logistics.</span>\r\n<p style=\"text-align: center;\"><strong>For application or information email: Delegations@AFGJ.org</strong></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: 4d58c480-4afa-42db-9320-32d1579a7036
+    -
+      entity: 5b96eb92-481a-47f7-8359-184bfa2e06de
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

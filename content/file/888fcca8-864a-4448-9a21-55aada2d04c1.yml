@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 888fcca8-864a-4448-9a21-55aada2d04c1
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: carl-david-goette-luciak-at-barricade-in-nicaragua-e1539009603392.png
+  uri:
+    -
+      value: 'public://2020-06/carl-david-goette-luciak-at-barricade-in-nicaragua-e1539009603392.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 299931
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1591195966

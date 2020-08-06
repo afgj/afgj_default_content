@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a9424be4-3828-489f-b903-7f8c6f25a0be
+  bundle: article
+  default_langcode: en
+  depends:
+    bce432a9-c8d4-4656-a968-f6cc71b1b890: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela Weekly: Organizing against the US Coup and Intervention in Venezuela'
+  created:
+    -
+      value: 1549642093
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-weekly-organizing-against-us-coup-and-intervention-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p dir=\"ltr\"><a href=\"https://www.facebook.com/notes/nino-pagliccia/an-open-letter-to-the-american-people-from-president-nicolas-maduro/10156386038727832/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.facebook.com/notes/nino-pagliccia/an-open-letter-to-the-american-people-from-president-nicolas-maduro/10156386038727832/&amp;source=gmail&amp;ust=1549749854519000&amp;usg=AFQjCNH0j26EJXL40ZPSTWQ4eL-kZi3ipQ\">President Nicolas Maduro: An Open Letter to the American People </a></p>\r\n<p dir=\"ltr\"></p>\r\n<p dir=\"ltr\">Actions against US Intervention:</p>\r\n<p dir=\"ltr\"><a href=\"https://popularresistance.org/venezuela-february-23-global-day-of-action/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://popularresistance.org/venezuela-february-23-global-day-of-action/&amp;source=gmail&amp;ust=1549749854519000&amp;usg=AFQjCNFaowmt5z3vfLAN_Rz80wTs8NfMFw\">February 23: Global Day of Action in Defense of Venezuela</a> and <a href=\"https://www.nowaronvenezuela.org/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.nowaronvenezuela.org/&amp;source=gmail&amp;ust=1549749854519000&amp;usg=AFQjCNGtwTdKQ2tspmNUpIGhEQo1xgWSKg\">No War on Venezuela Website</a></p>\r\n<p dir=\"ltr\"><a href=\"http://www.answercoalition.org/national_march_on_washington_hands_off_venezuela\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.answercoalition.org/national_march_on_washington_hands_off_venezuela&amp;source=gmail&amp;ust=1549749854519000&amp;usg=AFQjCNEIgtdKBztOeELYvAPjP0R6fKNpxg\">March 16 National March on Washington: Hands off Venezuela! </a></p>\r\n<p dir=\"ltr\"><a href=\"https://chicagoalbasolidarity.wordpress.com/2019/02/08/dan-kovalik-planned-spring-2019-us-canada-speaking-tour-on-us-intervention-in-venezuela-and-latin-america/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://chicagoalbasolidarity.wordpress.com/2019/02/08/dan-kovalik-planned-spring-2019-us-canada-speaking-tour-on-us-intervention-in-venezuela-and-latin-america/&amp;source=gmail&amp;ust=1549749854519000&amp;usg=AFQjCNGlhbKMzsTPjIh_F2vlQK3pmTGH5g\">Dan Kovalik planned Spring 2019 US-Canada speaking tour on US Intervention in Venezuela and Latin America</a></p>\r\n<p dir=\"ltr\">New Venezuelan Website in English: <a href=\"https://orinocotribune.com/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://orinocotribune.com/&amp;source=gmail&amp;ust=1549749854519000&amp;usg=AFQjCNEz7iDyrKD3-rDLOKd7BBnsKZQ-Rg\">Orinoco Tribune</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/pg/EndVenezuelaSanctions/posts/?ref=page_internal\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.facebook.com/pg/EndVenezuelaSanctions/posts/?ref%3Dpage_internal&amp;source=gmail&amp;ust=1549749854519000&amp;usg=AFQjCNEuVEeqlZKWUaNtgj7jkWue3cda-g\">End Venezuela Sanctions</a> Facebook Page</p>\r\n<p dir=\"ltr\"><a href=\"https://www.independent.co.uk/voices/venezuela-maduro-guaido-syria-egypt-donald-trump-uk-a8768821.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.independent.co.uk/voices/venezuela-maduro-guaido-syria-egypt-donald-trump-uk-a8768821.html&amp;source=gmail&amp;ust=1549749854519000&amp;usg=AFQjCNH3ZGkwh2NgzIga3uT52XacIyI_ZQ\">Robert Fisk: We’ve seen the west’s approach to Venezuela before – in Syria, Egypt, Afghanistan, need I go on?</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.independent.co.uk/news/world/americas/venezuela-us-sanctions-united-nations-oil-pdvsa-a8748201.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.independent.co.uk/news/world/americas/venezuela-us-sanctions-united-nations-oil-pdvsa-a8748201.html&amp;source=gmail&amp;ust=1549749854519000&amp;usg=AFQjCNHAtlQrp_WEl4T-apSapr0s5qcdXg\">Alfred de Zayas: Venezuela crisis: Former UN rapporteur says US sanctions are killing citizens</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.independent.co.uk/voices/venezuela-crisis-coup-maduro-guaido-us-troops-un-iraq-a8767506.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.independent.co.uk/voices/venezuela-crisis-coup-maduro-guaido-us-troops-un-iraq-a8767506.html&amp;source=gmail&amp;ust=1549749854519000&amp;usg=AFQjCNHzZK3FXr2Y1-nqFPSLt7JDJgirSA\">Alfred de Zayas “the coup in Venezuela reminds me of the rush to war in Iraq”</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/teleSUREnglish/videos/333370990718902/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.facebook.com/teleSUREnglish/videos/333370990718902/&amp;source=gmail&amp;ust=1549749854519000&amp;usg=AFQjCNHtJcJaX78SZmf1tJHiiBp_18wzZQ\">Abby Martin responds to US Propaganda against Venezuela</a></p>\r\n<p dir=\"ltr\"><a href=\"http://www.coha.org/juan-guaido-the-man-who-would-be-president-of-venezuela-doesnt-have-a-constitutional-leg-to-stand-on/?fbclid=IwAR30_jTjdhgQjdlquaSlYPmyyDVK9Zuz1rBFbYv7JKYzwkLPNcaeoK6DQ5o\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.coha.org/juan-guaido-the-man-who-would-be-president-of-venezuela-doesnt-have-a-constitutional-leg-to-stand-on/?fbclid%3DIwAR30_jTjdhgQjdlquaSlYPmyyDVK9Zuz1rBFbYv7JKYzwkLPNcaeoK6DQ5o&amp;source=gmail&amp;ust=1549749854519000&amp;usg=AFQjCNHbcoV3B-gVdbuTGNgcjT7u0RdjdQ\">Juan Guaidó: The Man Who Would Be President of Venezuela Doesn’t Have a Constitutional Leg to Stand On</a></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bce432a9-c8d4-4656-a968-f6cc71b1b890
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

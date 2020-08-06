@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4559bcf5-78c7-431d-9ede-d530b6175c53
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'No NATO - No Nukes!'
+  created:
+    -
+      value: 1342192971
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /no-nato-no-nukes
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: x-small;\"><span style=\"font-size: medium;\">The</span>\_<span style=\"font-size: medium;\">international</span>\_<span style=\"font-size: medium;\">No to War – No to NATO call for these days of action reminds us that NATO's nuclear war plans (including the multi-billion-dollar modernization of U.S. nuclear weapons factories in Tennessee and Missouri) violate International Law and undermine the Nuclear Non-Proliferation Treaty (NPT) and its Article VI commitment to eliminate all nuclear weapons.</span></span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\">From an environmental perspective, when we say NO to NATO’s nuclear weapons, we must also say NO to the resurgent global nuclear power industry (which is also backed by most of the G-8).</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\">Nuclear weapons and nuclear energy both begin with the mining of uranium, often desecrating Native American lands and the territory of other indigenous peoples worldwide. \_Refining the ore and enriching the uranium results in\_radioactive contamination, dirty water, sick people and deadly waste.</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\">Both nuclear power and nuclear weapons demand a high security environment, promoting secrecy while overshadowing democracy.</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\">Both have created a legacy and promise a future of uninhabitable regions across the planet due to intentional use, accidents and waste.</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\">And both threaten humanity across borders with catastrophic consequences, as profound as any posed by global warming and climate change.\_</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\">Today’s claim of carbon-free nuclear power is a lie. As the quality of available uranium goes down, ever more fossil fuels must be used to mine it, mill it, and enrich it for power plants. And the carbon cost of physically isolating radioactive reactor waste from the environment for tens of thousands of years simply cannot be calculated. It’s never been done, but it’s a carbon cost already laid on future generations.\_</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\">Nuclear power is capital-intensive and requires massive government subsidies. Every dollar invested in nuclear energy produces fewer jobs and is a dollar lost to investment in faster, cheaper, safer and cleaner alternatives.</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\">History also shows that the spread of nuclear power technology paves the way for the proliferation of nuclear weapons. And a global market for plutonium, promised by today’s nuclear power promoters, creates ever more opportunities for nuclear blackmail and terrorism.</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\">For the economy, for the environment, and for the liberation of humanity from the scourge of war and empire, the future must be Nuclear Free.</span></span></span>\r\n\r\n&nbsp;\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\">Jack Cohen-Joppa</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\">Co-coordinator, the Nuclear Resister</span></span></span>\r\n\r\n&nbsp;\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\"><em>To learn more and take action against nuclear weapons</em></span></span></span><span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: x-small;\">\_</span></span></span><span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\"><em>and nuclear power, visit Beyond Nuclear (</em></span></span></span><a href=\"http://beyondnuclear.org/\" target=\"_blank\"><span style=\"color: #0000ee;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\"><em>beyondnuclear.org</em></span></span></span></a><span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\"><em>), Nukewatch (<a href=\"http://nukewatchinfo.org/\" target=\"_blank\">nukewatchinfo.org</a>) and the Nuclear Information and Resource Service (</em></span></span></span><a href=\"http://nirs.org/\" target=\"_blank\"><span style=\"color: #0000ee;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\"><em>nirs.org</em></span></span></span></a><span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\"><em>). For information about and to support imprisoned anti-nuclear and anti-war activists, and to learn about upcoming anti-nuclear resistance actions, visit\_</em></span></span></span><a href=\"http://nukeresister.org/\" target=\"_blank\"><span style=\"color: #0000ee;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\"><em>nukeresister.org</em></span></span></span></a><span style=\"color: #000000;\"><span style=\"font-family: Verdana;\"><span style=\"font-size: medium;\"><em>.</em></span></span></span>\r\n\r\n&nbsp;\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''

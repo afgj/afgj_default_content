@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5d3e0ea3-ca29-4dd0-9c97-2773be89c285
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: false
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Table at TDTW National Gathering'
+  created:
+    -
+      value: 1380035796
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /table-tdtw-national-gathering
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"alignleft  wp-image-3315\" alt=\"meandjamie\" src=\"https://afgj.org/wp-content/uploads/2012/12/meandjamie.jpg\" width=\"355\" height=\"270\" />\r\n<h2>Tabling Registration and Information</h2>\r\nNational Gathering is an opportunity for organizations to share resources about their work, hand out materials, talk and network with others. To reserve a table at the Tucson Convention Center, please fill out the form below. The small tabling fee will go to renting the tables and chairs and will help out with the cost of the convention center.\r\n\r\n<b>Cost</b>\r\n\r\nIf you are selling merchandise at your table, the cost is $75. For organizations sharing eductional materials, petitions, flyers, etc., the cost is $30. Fiscally Sponsored Projects of the Alliance for Global Justice can reserve a table for free.\r\n\r\nPlease select the appropriate option below when you are checking out.\r\n\r\n<b>Schedule</b>\r\n\r\nSet up can begin anytime after 7 a.m. on Friday and ends at 10pm (after the opening night plenary), Saturday from 8 a.m. to 7 p.m and Sunday from 8 a.m. to 5:30 p.m. Check out the <a href=\"https://afgj.org/schedule\">Schedule for Tear Down the Walls!</a>\r\n\r\n<b>Location</b>\r\n\r\nTable space will be available at the convention center near on-site registration. The opening night plenary and the majority of the workshop sessions and People's Power Assemblies will also take place at the convention center so you can be assured that you'll get the greatest exposure to participants.\r\n<h3>Tables are limited so reserve your space now!</h3>\r\nFiscally Sponsored Projects of AfGJ - <a href=\"https://docs.google.com/forms/d/1D5dDOzxiP20zHR8MxA0pYyIHA8nlvFaB_hr5VPnPSd8/viewform\">Register Here</a>\r\n\r\nAll other organizations - <a href=\"https://org2.salsalabs.com/o/7315/p/salsa/donation/common/public/?donate_page_KEY=10391\">Register Here</a>"
+      format: full_html
+      summary: ''

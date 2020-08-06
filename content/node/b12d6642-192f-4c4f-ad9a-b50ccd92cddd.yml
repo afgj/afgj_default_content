@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b12d6642-192f-4c4f-ad9a-b50ccd92cddd
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Peace for Colombia! Stop the Killings! Actions in YOUR Area!'
+  created:
+    -
+      value: 1569502852
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /peace-colombia-stop-killings-actions-your-area
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"aligncenter wp-image-12101 \" src=\"https://afgj.org/wp-content/uploads/2019/09/3-1024x1024.png\" alt=\"\" width=\"509\" height=\"509\" /></p>\r\nOn September 27, 2019, the Coalition for Peace in Colombia and the People's Human Rights Observatory (<a href=\"http://elobservatoriodhpueblos.org/\" data-cke-saved-href=\"http://elobservatoriodhpueblos.org/\">Observatorio de los Derechos Humanos de los Pueblos</a>) are calling for a Day of Actions for Peace in Colombia. We will formally kick off our new campaign to promote the <a href=\"http://www.coalitionforpeaceincolombia.org/?page_id=56\" data-cke-saved-href=\"http://www.coalitionforpeaceincolombia.org/?page_id=56\">People's Travel Advisory on Colombia</a>. We will deliver documents to Colombian embassies and consulates to let them know the world is watching what is happening in Colombia, and to make our two demands:\r\n<ul>\r\n \t<li>An end to the genocide against the social movements and the rural, indigenous, and Afro-Colombian communities;</li>\r\n \t<li>Fulfillment of the government’s obligations with respect to the Peace Accord.</li>\r\n</ul>\r\n<h2 style=\"text-align: center;\"><span style=\"color: #0000ff;\"><a style=\"color: #0000ff;\" href=\"https://afgj.salsalabs.org/aquestionabouttraveltocolombia/index.html\" data-cke-saved-href=\"https://afgj.salsalabs.org/aquestionabouttraveltocolombia/index.html\">Send an email to the Colombian embassy in Washington, DC in support of the basic demands of the People’s Travel Advisory</a></span></h2>\r\n<h2 style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong>Following is a list of cities where events will be happening. For any events that do not yet have links, you can get more information by calling 202-544-8336 ext. 3 or sending an email to peacecolombia@protonmail.com\_</strong></span></h2>\r\n<a href=\"https://axendamazucu.org/evento/7386\" data-cke-saved-href=\"https://axendamazucu.org/evento/7386\">Gijón, Asturias, Spain, September 27 and 28, 2019, Encuentro por la vida, la paz y los derechos humanos en Colombia</a>\r\n\r\nLima, Peru Plaza September 27, 5pm, Plaza San Martín\r\n\r\nMexico City, Mexico September 27, 5pm, Paseo de la Reforma 412\r\n\r\nTlaxiaco, Mexico September 27, 5pm, Kiosko de la Heróica\r\n\r\n<a href=\"https://www.facebook.com/events/827211654346807/\" data-cke-saved-href=\"https://www.facebook.com/events/827211654346807/\">Toronto, Canada</a>, September 27, 7pm, 779 Bathurst Street. NOTE: Toronto activists will be delivering the People's Travel Advisory and demands to the embassy earlier during the day. The evening event is a presentation on Venezuela and Cuba with Dan Kovalik and Arnold August. Dan is himself also an expert on Colombia. Miguel Figueroa, President of the Canadian Peace Congress will deliver a greeting on behalf of the Coalition for Peace in Colombia and make the connection about how peace in Colombia, or the lack thereof, affects the entire region.\r\n\r\n<a href=\"https://www.facebook.com/events/2286671351645858/\" data-cke-saved-href=\"https://www.facebook.com/events/2286671351645858/\">Washington, DC USA</a> September 27, 5pm, Colombian Embassy, 1724 Massachusetts Ave NW. <a href=\"https://www.facebook.com/events/2286671351645858/\" data-cke-saved-href=\"https://www.facebook.com/events/2286671351645858/\">Click here for alternative link.</a>\r\n\r\n<a href=\"https://www.facebook.com/events/2286671351645858/\" data-cke-saved-href=\"https://www.facebook.com/events/2286671351645858/\">Miami, USA</a> September 28, 4:30pm, 301 Biscayne\r\n\r\n<a href=\"https://www.facebook.com/events/422183275060330/\" data-cke-saved-href=\"https://www.facebook.com/events/422183275060330/\">San Francisco, USA</a> September 27, Noon. Colombian Consulate, 595 Market St. #1190\r\n\r\n<a href=\"https://www.facebook.com/events/978070439220357/\" data-cke-saved-href=\"https://www.facebook.com/events/978070439220357/\">Boston, USA </a>\_September 27, 5pm, Colombian Consulate - 31 St. James Ave.\r\n\r\nChicago, USA September 27, Noon, Colombian Consulate, 500 North Michigan Ave. #1960\r\n\r\nNew York, USA September 27, noon. For more information: 1-202-540-8336 ext. 3\r\n\r\n<a href=\"https://www.facebook.com/events/1119776781745538/\" data-cke-saved-href=\"https://www.facebook.com/events/1119776781745538/\">Tucson, USA</a> September 26, 4:30pm at the Federal Building, 300 West Congress\r\n<h3><strong>Why aren't any Colombian cities participating?</strong></h3>\r\nThe Observatorio de los Derechos Humanos includes Colombian partners who have endorsed the September 27 actions and the People’s Advisory on Latin America. The day of actions has also been endorsed by leaders of Colombia’s Permanent Committee on Human Rights, Lazos de Dignidad (Links of Dignity), and the FENSUAGRO agricultural workers union. However, the emphasis for this campaign is on organizing international opinion from outside Colombia. Colombia has mounted efforts to convince foreign visitors that Colombia is safe, and a tourist paradise. From the “Colombia Is Passion’ campaign of the last decade, to the more recent “Magical Realism”, “Land of Sabrosura”, and “Colombia: Feel the Rhythm” campaigns, the government has had significant success, winning a coveted World Tourism Organization Award in 2019 as the top tourist destination in South America. Last year Colombia set records for the number of international tourists, with some 4.4 million foreign visitors. <a href=\"http://alabamavidette.tripod.com/webonmediacontents/A%20Guide%20for%20Responsible%20Travel%20to%20Colombia.pdf\"><strong>We are not boycotting travel to Colombia, we are advocating for responsible travel there.</strong></a> We hope that the Colombian authorities will see that it is not us who are damaging the nation's reputation, but the enemies of the peace.\r\n\r\nAnother concern has to do with security. When our Colombian partners organize days of actions and ask us to support them, we do. But right now our partners are being targeted for the worst kinds of threats, violence, and displacement. Every week we are contacted by human rights defenders and social movement leaders who are thinking about leaving Colombia for theirs and their families' safety. We decided it was inappropriate for us to ask our Colombian comrades to incur yet more risk by publicly demonstrating in support of the People's Travel Advisory. Rather, we are using our privilege, as international tourists, to wage this campaign. The Colombian government is not responsive to the cries of its own citizens, nor to international solidarity activists. By taking action as potential tourists, a population the Colombian government woos daily, by using the privilege this status affords, perhaps they will take notice and see:\_<strong>The world is watching!</strong>\r\n<h2 style=\"text-align: center;\"><a href=\"http://www.a-aprp-gc.org/a-call-for-militant-positive-action/\" data-cke-saved-href=\"http://www.a-aprp-gc.org/a-call-for-militant-positive-action/\">Read A Call for Militant, Positive Action from the All African People’s Revolutionary Party-GC</a></h2>\r\n<h2 style=\"text-align: center;\"><a href=\"http://www.coalitionforpeaceincolombia.org/\" data-cke-saved-href=\"http://www.coalitionforpeaceincolombia.org/\">Visit the website of the Coalition for Peace in Colombia</a></h2>\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

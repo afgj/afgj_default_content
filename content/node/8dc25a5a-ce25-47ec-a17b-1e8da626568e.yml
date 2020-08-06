@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8dc25a5a-ce25-47ec-a17b-1e8da626568e
+  bundle: article
+  default_langcode: en
+  depends:
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Ten years after the coup: Solidarity of the peoples of the world with Honduras'
+  created:
+    -
+      value: 1561735626
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /ten-years-after-coup-solidarity-peoples-world-honduras
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Ten years after the coup d'etat on June 28, 2009, the Peoples Human Rights Observatory expresses its solidarity and support to the brave resistance of the Honduran people. From the Observatory, we recognize that<strong>\_the 2009 coup was not only an attack against the elected president Manuel Zelaya, but also an affront to Honduran democracy, to its sovereignty as an independent country and, furthermore, an attack to the will of a country that has resisted surrendering to the economic, political and military interests of the United States and Canada</strong>.\r\n\r\nThe post-coup governments have displaced Honduras from the path of independence from the US regime to be a servile model to foreign interests in the region. While the government of Manuel Zelaya sought reforms to the minimum wage, to the distribution of the land, in favor of sexual and reproductive rights, in support of LGBTQ communities and to address the poverty and violence that force migration; the right-wing governments -currently represented by the dictatorial regime of Juan Orlando Hernández- have plunged the country\_<a href=\"https://default.salsalabs.org/T8518cbed-78f3-4076-9c19-98d3581c752f/532adcf4-6766-4e6b-abbb-523e54524722\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T8518cbed-78f3-4076-9c19-98d3581c752f/532adcf4-6766-4e6b-abbb-523e54524722&amp;source=gmail&amp;ust=1561830320555000&amp;usg=AFQjCNEfmUHjfxUD4XCwWAUQkivej0Y1PQ\">into a spiral of violence, marginalization and poverty that are reflected in the high rates of killings</a>, internally displaced people and expelled people from their homeland to seek refuge in other latitudes of the continent.\r\n\r\nCurrently,\_<strong>Juan Orlando Hernández is the inheritor of the tradition of treason and violence against the Honduran people that has been perpetuated by the national extreme right, the United States and Canada.</strong>Examples of the consequences of the 2009 coup\_<a href=\"https://default.salsalabs.org/Te9e0b2db-3234-4055-b701-955f1c48c251/532adcf4-6766-4e6b-abbb-523e54524722\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Te9e0b2db-3234-4055-b701-955f1c48c251/532adcf4-6766-4e6b-abbb-523e54524722&amp;source=gmail&amp;ust=1561830320555000&amp;usg=AFQjCNFLBtnMsbkTIiAdXsf5Q9GjAVD5_Q\">include the murder of Berta Cáceres in 2016\_</a>and of more than 130 land defenders since 2010; the poverty and extreme poverty rates that affect more than 66 percent of the population; the murder of more than 32 journalists, 1552 students, at least 250 members of the LGBTQ community, as well as attacks against indigenous leaders, lawyers and the general population under the Juan Orlando regime; the electoral fraud of 2017, the repression that left more than 30 people killed by Honduran security forces and the arrest of the political prisoners\_<a href=\"https://default.salsalabs.org/T1349ea02-9fca-44c6-80cd-ca2fd89b05b5/532adcf4-6766-4e6b-abbb-523e54524722\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T1349ea02-9fca-44c6-80cd-ca2fd89b05b5/532adcf4-6766-4e6b-abbb-523e54524722&amp;source=gmail&amp;ust=1561830320555000&amp;usg=AFQjCNE7NDHQ5YqszRvhgrN5ikL6aGRnGQ\">Edwin Espinal, Raúl Álvarez, Gustavo Cáceres and more recently Rommel Herrera</a>; and the increase in the exodus of Hondurans to the United States.\r\n\r\nToday, we see that the spirit of struggle of the Honduran people has been articulated in the movement led by the Platform for the Defense of Education and Public Health, which has permeated different social strata, intergenerational groups and political sectors. Once again we are witnessing that the Honduran society responds with demands for equity, dignity and justice to the orders from the International Monetary Fund, to the neoliberal death projects and the US and Canadian intervention.\_<strong>We can not remain silent before the arrival of 300 US Marines,</strong>\_who together with military allies from Brazil, Peru and Colombia, intend to increase the militarization of Honduras under the pretext of humanitarian aid in case of natural disasters. We also denounce the military cooperation agreements between the regime of Juan Orlando and the government of Israel,\_<strong>and we reject the possible arrival of 1,000 Israeli soldiers to Honduras</strong>\_in order to support the repression of migrants and refugees. We can not leave unanswered the calls for active solidarity.\r\n\r\nThe organizations, groups and individuals that are part of\_ the People’s Human Rights Observatory recognize the spirit of struggle of the Honduran people and we salute the popular resistance that has risen for more than a decade in defense of life.\_<strong>From the United States, Mexico, Colombia, Uruguay, Venezuela, Bolivia, Peru, Argentina, Chile, Spain and Palestine, we say to the Honduran people: You are not alone!</strong>\r\n\r\nGiven the constant grievances that the people of Honduras suffer with the dictatorial government of Juan Orlando Hernández, we demand:\r\n\r\n-<strong>Stop the repression and killings against the Honduran people</strong>\r\n\r\n<strong>-Stop the militarization of Honduras. End the intervention of the United States and Canada</strong>\r\n\r\n<strong>-Immediate Freedom for Political Prisoners Edwin Espinal, Raúl Álvarez, Gustavo Cáceres and Rommel Herrera</strong>\r\n\r\n<strong>-Justice for the people killed, wounded, victims of torture, and the alive appearance of the disappeared people as a consequence of the coup d'état of 2009 and the recent repressions</strong>\r\n\r\n<strong>-That the culprits, from the executive power, military commanders, foreign officials, to the police bodies, receive punishment for the crimes committed</strong>\r\n\r\nIn solidarity and resistance\r\n\r\nObservatorio de Derechos Humanos de los Pueblos - People’s Human Rights Observatory and its more than 150 members from Latin America, the United States, Palestine and Europe.\r\n\r\n<a href=\"https://default.salsalabs.org/Ted606bca-71ea-41a8-98d3-eff58808e697/532adcf4-6766-4e6b-abbb-523e54524722\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Ted606bca-71ea-41a8-98d3-eff58808e697/532adcf4-6766-4e6b-abbb-523e54524722&amp;source=gmail&amp;ust=1561830320555000&amp;usg=AFQjCNHCaG1UBasETfHJzBbAOne7E14ynQ\"><span lang=\"en\"><span title=\"\">Click here to see the list of member organizations of the observatory and the organizations that signed the statement.</span></span></a>\r\n\r\n<strong>Alliance for Global Justice is a founding member of the People's Human Rights Observatory -</strong>\_The People's Human Rights Observatory is an initiative of grassroots and popular organizations in Latin America and the Caribbean that seeks to monitor, document, disseminate, promote and demand the exercise of Peoples' Human Rights, Democracy and Social Justice from a perspective of construction and deepening of resistance, rebellion, memory and popular power. In this way, the Observatory seeks to acknowledge human rights as achievements of the struggles of peoples and not as gifts of political power, both local and international. This is an effort of more than 100 organizations and whose representations fall on indigenous leaders, Nobel prizes of peace, feminist groups, agrarian movements, academy and journalists of the Americas."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+  field_mt_slideshow:
+    -
+      value: false

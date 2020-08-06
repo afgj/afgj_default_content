@@ -1,0 +1,70 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 392b1b0e-436a-405d-a81b-fe472ba5a9c2
+  bundle: article
+  default_langcode: en
+  depends:
+    4848f7f1-d8a6-4770-9e04-5737ab5cc97d: taxonomy_term
+    7c24d703-ad76-40f5-8889-a30cb1700fd3: taxonomy_term
+    7de75c6a-4d28-4128-ad47-1ce01b22a3e2: taxonomy_term
+    1c0c4377-b739-4293-a00a-331346b8aa16: taxonomy_term
+    d7484f78-fd8a-49f7-afcb-5b7fed9db70f: taxonomy_term
+    10a60147-2de2-49a8-820a-c51f1dd4063f: taxonomy_term
+    7cab756d-4266-4307-861f-d78dfc61ce7f: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'No O''odham Word For Wall'
+  created:
+    -
+      value: 1479403481
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /no-oodham-word-wall
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "https://www.youtube.com/watch?v=QChXZVXVLKo\n\nTOHONO O’ODHAM NATION RELEASES VIDEO\_ON ITS OPPOSITION TO PROPOSED BORDER WALL “There’s No O’odham Word for Wall” Demonstrates Why a Fortified Wall Does Not Work"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 4848f7f1-d8a6-4770-9e04-5737ab5cc97d
+    -
+      entity: 7c24d703-ad76-40f5-8889-a30cb1700fd3
+    -
+      entity: 7de75c6a-4d28-4128-ad47-1ce01b22a3e2
+    -
+      entity: 1c0c4377-b739-4293-a00a-331346b8aa16
+    -
+      entity: d7484f78-fd8a-49f7-afcb-5b7fed9db70f
+    -
+      entity: 10a60147-2de2-49a8-820a-c51f1dd4063f
+    -
+      entity: 7cab756d-4266-4307-861f-d78dfc61ce7f
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f97a4546-adaa-402c-8275-30b336337297
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Assassination attempt against Gustavo Gallardo, Colombian human rights defender, close friend to AfGJ'
+  created:
+    -
+      value: 1565276443
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /assassination-attempt-against-gustavo-gallardo-colombian-human-rights-defender-close-friend-afgj
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "[caption id=\"attachment_12014\" align=\"aligncenter\" width=\"599\"]<img class=\"wp-image-12014\" src=\"https://afgj.org/wp-content/uploads/2019/08/Gustavo-and-Angela.jpg\" alt=\"\" width=\"599\" height=\"479\" /> Gustavo Gallardo meets with Angela Davis during AfGJ sponsored tour in 2014. Also included are Raquel Mogollón, July Henriquez, and James Patrick Jordan[/caption]\r\n\r\nThe Alliance for Global Justice expresses our concern for the safety of our close friend and associate, Gustavo Gallardo. Last night, August 7 2019, he was the object of an assassination attempt in Bogotá, Colombia when armed men in a pickup shot at his vehicle. Gustavo is the President of Fundación Lazos de Dignidad (FLD, Links of Dignity Foundation). Many of you have met Gustavo. We brought him and July Henriquez, also with FLD, on a tour of the United States in 2014. Gustavo has helped organize and met with every AfGJ delegation to Colombia since our first in 2009. FLD, along with FENSUAGRO, the agricultural workers union, are our oldest contacts in Colombia. Their effect on our own work has been profound. It was through FLD that we began our advocacy for political prisoners in Colombia. In fact, our entire <a href=\"https://afgj.org/prison-imperialism\">Prison Imperialism</a> program was begun as a collaboration with them.\r\n\r\nWe know Gustavo to be a man of integrity who daily risks his life in defense of human rights, democracy, and the sovereignty of Colombia. Gustavo moved to Bogotá because he was displaced by threats and violence from his home city of Barranquilla. In 2016 he survived an assassination attempt against political opposition leader Imelda Daza, whom he was accompanying in Cartagena. Gustavo travels with two armed body guards in a special vehicle provided by the government. But in today's Colombia, even such measures as these do not provide adequate protection against the barrage of threats against social movement activists.\r\n\r\n<a href=\"https://afgj.org/peoples-travel-advisory-on-colombia-call-for-international-actions-for-september-27-2019\"><strong>Every thirty hours, a human rights defenders is killed in Colombia by right wing death squads and enemies of the peace.\_</strong></a>\r\n\r\nGustavo was recently one of the lawyers for former insurgent Jesús Santrich. In this position he crafted the strategy to stop a US extradition petition against Santrich based on paid testimony and contradictory and false evidence. The extradition request was an attempt on the part of the Trump administration, along with Colombia's President Iván Duque, to circumvent and nullify a key component of Colombia's peace accord, implemented in 2016. Santrich' team of lawyers defeated the extradition and won his release from prison. However, since then Santrich has gone into hiding, including missing a recent court date, because of the threats against his safety and well being.\r\n\r\nAfGJ will publish a follow-up statement soon about this attempt and about the rash of political violence and the humanitarian crisis in Colombia. These include recent threats, assassination attempts, and murders in the North of Cauca against affiliates of our friends in FENSUAGRO.\r\n<h3 style=\"text-align: center;\"><a href=\"https://afgj.org/peoples-travel-advisory-on-colombia-call-for-international-actions-for-september-27-2019\">Meanwhile, we urge our readers to join Noam Chomsky, Piedad Córdoba, and Adolfo Perez Esquivel and sign the People's Travel Advisory on Colombia.\_</a></h3>\r\n<p style=\"text-align: center;\"><strong>Also, if you would like more information on the International Day for Peace in Colombia on September 27 2019, please send an email to JAMES@AFGJ.ORG\_</strong></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

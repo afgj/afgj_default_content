@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: f4c96c2e-56e6-41ac-a887-98d826d15265
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: a0e0d4f2-4f20-4008-aaff-bb5d3dedef94(1).png
+  uri:
+    -
+      value: 'public://2020-06/a0e0d4f2-4f20-4008-aaff-bb5d3dedef94(1).png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 186895
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1592257284

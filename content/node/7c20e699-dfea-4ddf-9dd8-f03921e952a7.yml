@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 7c20e699-dfea-4ddf-9dd8-f03921e952a7
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: false
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Our Principles'
+  created:
+    -
+      value: 1340194330
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /our-principles
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2>Core Principles of the Alliance for Global Justice</h2>\r\n<ol>\r\n \t<li>We believe in the right of people to self-determination and self-defense. We do not criticize the strategies and tactics of authentic organizations of the oppressed. Our parent organization, the Nicaragua Network, was founded to support an armed revolution. We respect pacifism as a strategy, and we respect individuals who practice it as a way of life. We do not support imposing that personal belief on others, especially the marginalized and oppressed. Our work adheres to the Solidarity Model which says that our role is to amplify the articulated priorities of our oppressed partners rather than to tell them what we think is best for them.</li>\r\n \t<li>We are anti-capitalist without rigidly adhering to any one utopian alternative economic model. We support social contracts and economic systems that maximize the development of human potential and well-being.\_ We believe that there are many ways for communities to develop such contracts and systems, including some not yet thought of.</li>\r\n \t<li>We believe in the right of people to shelter, sufficient food, medical care, education, employment, leisure, and self-organization for the common good. We oppose structures that distribute wealth in ways that deny anyone those basic rights.</li>\r\n \t<li>We are anti-imperialist and oppose US militarism. We oppose all US wars and use of US military force abroad. History has shown that US wars are unjust, exploitative, and profit-driven. We reject the concept of \"humanitarian\" intervention by the US because we believe its underlying motives are strategic and economic rather than humanitarian.\"</li>\r\n \t<li>We support participatory democracy as opposed to Western-style liberal democracy which was explicitly designed to limit democracy and insure control of government by the propertied class.</li>\r\n \t<li>We support national sovereignty and oppose all efforts by the US government to subvert other sovereign States through manipulation of their elections, social movements, forced debt, unequal trade treaties and predatory business practices, or military threat.</li>\r\n \t<li>We believe in the continued survival of humankind. We oppose threats to that survival from destruction of the environment, unrestrained Western consumerism, and unsustainable exploitation of resources in the natural world.</li>\r\n \t<li>We support a multi-polar political world and oppose the myth of US exceptionalism and its ambition toward unchallengeable military power, the quest for which is bankrupting the country.</li>\r\n \t<li>We support group rights as equal to or superior to the rights of individuals articulated by 18<sup>th</sup> Century European men.</li>\r\n \t<li>We respect and support diversity in every form that does not infringe on the group and individual rights of others.</li>\r\n</ol>\r\n&nbsp;\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''

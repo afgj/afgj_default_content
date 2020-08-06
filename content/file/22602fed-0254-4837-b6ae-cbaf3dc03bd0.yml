@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 22602fed-0254-4837-b6ae-cbaf3dc03bd0
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: ravelo_0.png
+  uri:
+    -
+      value: 'public://2020-06/ravelo_0.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 225365
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1592259215

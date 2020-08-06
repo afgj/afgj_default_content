@@ -1,0 +1,61 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d67fddf6-02a4-4aa9-adea-27dfe60121d7
+  bundle: article
+  default_langcode: en
+  depends:
+    8a513676-bf65-4895-b8a5-9c0075aba7f3: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NicaNotes: Act Now: Stop Congress from Passing the NICA Act as a Retirement Gift to Ros- Lehtenin!'
+  created:
+    -
+      value: 1506509269
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-act-now-stop-congress-passing-nica-act-retirement-gift-ros-lehtenin
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<div><img class=\"size-full wp-image-7994 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/08/nicanotesbannerwbyline2.jpg\" alt=\"\" width=\"594\" height=\"196\" /></div>\n<div></div>\n<div style=\"text-align: center;\">By Chuck Kaufman</div>\n<h1 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25371\" target=\"_blank\" rel=\"noopener\">Take Action Against the Nica Act Now!</a></h1>\nI have been skeptical that the NICA Act will be voted on by Congress considering how crowded the legislative calendar is and how gridlocked the two parties of the one percent are. But recently Rep. Louise Slaughter, a long-time friend of Nicaragua solidarity, told a constituent, who is also an Alliance for Global Justice board member, that she thinks it is going to pass the House of Representatives.\n\nSlaughter said she believes that her House colleagues are going to pass the odious bill \_as a retirement present for far-right Florida Republican Rep. Ileana Ros-Lehtinen. Very little shocks me anymore when it comes to the US political system, but I have to say that my jaw dropped when I heard this. Can you imagine a more cynical, corrupt, immoral, dare I say, imperial act than to ruin a country’s economy as a retirement gift!“In lieu of a gold watch dear Ileana, we give you the suffering of six million people!” English doesn’t contain words sufficient to express my outrage.\n\nIn case you’ve forgotten, the NICA Act (Nicaragua Investment Conditionality Act) or HR1918 in the House, would instruct US governors of multilateral lending institutions such as the World Bank, IMF, and Inter-American Development Bank, to vote against new loans to Nicaragua unless Nicaragua meets conditions that would for all intents and purposes require democratically elected President Daniel Ortega to resign and the Sandinista political party to disband.\n\nRep. Slaughter has served in the House from Rochester, New York since 1987 and is the ranking member of the House Rules Committee, making her one of the most powerful House Democrats. Since the Rules Committee literally sets the rules under which bills are considered, her opinion that the NICA Act will be passed cannot be taken lightly.\n\n<strong>Therefore, for this week’s NicaNotes blog, I encourage you to <a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25371\" target=\"_blank\" rel=\"noopener\">Click Here </a>to send an email to your Member of Congress declaring your opposition to the NICA Act.</strong> While the Act is immoral in its own right, so are many members of Congress. Therefore, the morality of the Act, the importance of respect for Nicaragua’s sovereignty, and opposition to US intervention, are unlikely to impress any Republicans or many Democrats for that matter. What may impress them is the argument that Nicaragua has a stable and growing economy that is keeping Nicaraguans at home, unlike their neighbors in Honduras, Guatemala, and El Salvador whose citizens are flocking to the US border by the thousand. If we ruin Nicaragua’s economy by passage of the NICA Act, those who vote for it will be responsible for adding thousands of Nicaraguan migrants to the trek north.\n<h2 style=\"text-align: center;\"><strong>Please add your voice today so Rep. Slaughter’s prediction does not come to pass.</strong></h2>\n<div>\n<h1 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25371\" target=\"_blank\" rel=\"noopener\">Take Action Against the Nica Act Now!</a></h1>\n\n<hr />\n\n<div><strong>BRIEFS</strong></div>\n<ul>\n \t<li>The Nicaraguan business sector last week sent a letter to US Speaker of the House Paul Ryan insisting on the rejection of the NICA Act, warning that it would cause severe economic damage to the country and is unnecessary given that the OAS has signed an agreement with the government to send a mission to observe November’s municipal elections. (Informe Pastran, September 22)</li>\n</ul>\n<ul>\n \t<li>During a meeting with Executive Directors of the World Bank in Managua, President Daniel Ortega announced that Nicaragua has decided to sign the Paris Agreement on Climate Change. Nicaragua will be signing its accession to the Paris Agreement very soon, reaffirming its solidarity with countries that are most vulnerable to the effects of climate change. \"We have had several meetings addressing the issue and a date for the signing of the Paris Agreement has been scheduled\", President Ortega said. Nicaragua initially refused to sign because of a lack of commitment by developed countries which are responsible for the vast majority of greenhouse gas production, to fund climate change amelioration projects in poor countries. (Nicaragua News, Sept. 19)</li>\n</ul>\n<ul>\n \t<li>The President of the National Council of Universities (CNU), Telemaco Talavera, announced that 5,000 students and teachers will accompany the Nov. 5 municipal elections. He added that electoral observers will be present at all polling stations nationwide, offering assistance to citizens and protecting their right to vote. (Nicaragua News, Sept. 25)</li>\n</ul>\n<ul>\n \t<li>A CID Gallup poll, published Sept. 21, found that President Daniel Ortega has an 89% favorability rating among the Nicaraguan people. Seventy-two percent (72%) of respondents said President Ortega always does what’s best for the country and 74% expressed a positive opinion about his leadership. The survey was carried out between September 8-14 and is based on interviews with 1,200 individuals nationwide. (Nicaragua News, Sept. 22)</li>\n</ul>\n<ul>\n \t<li>Vice President Rosario Murillo announced that the Spanish government approved a US$ 26 million loan to finance the Nicaragua Digital Classroom Program. \"This loan will be used to equip 742 schools throughout the country, installing computer labs and strengthening capabilities of high school students and teachers\" she said. (Nicaragua News, Sept. 22)</li>\n</ul>\n<ul>\n \t<li>World Bank Director of Strategy and Operations for Latin America and the Caribbean, Humberto López, said investment in renewable energy in Nicaragua is a priority issue for the multilateral. \"The World Bank is already working with the Nicaraguan government on a project to increase geothermal energy generation and to mitigate the effects of climate change,\" López said. (Nicaragua News, Sept. 21)</li>\n</ul>\n<ul>\n \t<li>Ivan Acosta, minister of Finance and Public Credit, announced that the World Bank will allocate more resources for infrastructure, health and renewable energy projects in Nicaragua. \"The Executive Directors of the World Bank have concluded their visit to Nicaragua and confirmed that US$500 million will be allocated for a three-year program in Nicaragua,\" Acosta said. (Nicaragua News, Sept. 20)</li>\n</ul>\n<ul>\n \t<li>The Japan International Cooperation Agency (JICA) announced the approval of a US $42.9 million loan to finance the construction of 4 new bridges in the Northern Caribbean Autonomous Region (RACN). Over the last few years, the Japanese aid has provided US $222 million to finance the building of 28 bridges in Nicaragua. (Nicaragua News, Sept. 20)</li>\n</ul>\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8a513676-bf65-4895-b8a5-9c0075aba7f3
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

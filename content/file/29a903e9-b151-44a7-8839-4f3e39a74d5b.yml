@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 29a903e9-b151-44a7-8839-4f3e39a74d5b
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: mt-service-1-banner-2.jpg
+  uri:
+    -
+      value: 'public://2018-02/mt-service-1-banner-2.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 30329
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1518712585

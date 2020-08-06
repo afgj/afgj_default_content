@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 136800db-47ff-4def-94dc-f243f70108c2
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'US Policy Towards Latin America: From Banana Wars to Drug Wars'
+  created:
+    -
+      value: 1313749811
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /us-policy-towards-latin-america-banana-wars-drug-wars
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Course:</strong> US Policy Towards Latin America: From Banana Wars to Drug Wars\r\n<strong>Instructor:</strong> Tanya Cole\r\n<strong>Duration:</strong> 5 weeks, online\r\n<a href=\"https://org2.democracyinaction.org/o/7315/t/13086/shop/shop.jsp?storefront_KEY=430\">Click here to register now!</a>\r\n\r\n<strong>Description:</strong> \r\nThe face of US policy in Latin America in the last 100 years has included CIA led overthrows of governments, military funding of brutal dictatorships and economic trade pacts that have pushed millions under the poverty line. Yet despite this, Latin America has shown us some of the most powerful and resilient grassroots struggles where people power was proven to be more powerful than guns and greed. From the indigenous movements of Bolivia and Chiapas to peoples’ downright refusal to give up their democracies in Venezuela and Honduras, we have truly seen a hope and determination that calls on US citizens to take action and change US policy in Latin America from a face of domination to a face of solidarity. This course will cover some of the historical moments of US Intervention in Guatemala, Chile and Nicaragua and move to current US policies from drug wars in Colombia and Mexico to undermining democracy in Cuba and Honduras. The course will also explain the role of economic violence from neoliberal polices like free trade agreements and structural adjustment policies promoted by the IMF and World Bank. Most importantly this course will teach the many faces of solidarity that you can participate in from working with communities in Latin America to working at home to change US policy from the inside out.\r\n\r\n<strong>Skills/understanding that activists will have for organizing and opposing militarism after taking this course:</strong>\r\n\r\n<ul>\r\n\t<li>Knowledge of a general history of US intervention in Latin America</li>\r\n\t<li>Ideas for how to lobby and educate on these topics</li>\r\n\t<li>Understand systemic roots causes of multiple issues, including the \"war on drugs\" and migration</li></ul>\r\n\r\n<strong>About the Instructor: Meet Tanya Cole</strong>\r\nTanya Cole completed both her undergraduate and graduate degrees in Latin American Studies at the University of California Santa Barbara. It was there that she first discovered political activism and it became her lifetime dedication and mission. She was raised in four states and over a dozen cities and says she is a mix of my mother's feisty Honduran heritage and my father's sweet southern gentle charm. She has traveled to 13 countries where she has danced marimba with masked guerilla Zapatistas in the mountains of Chiapas, Mexico; listened to Fidel Castro lecture on the global economy in Havana, Cuba; walked through the notorious favelas of Rio de Janeiro, Brazil; met survivors of torture and dictatorship in Buenos Aires, Argentina; witnessed thousands of Nicaraguans wait 10 hours in a line to vote; listened to the stories of maquila workers in Tijuana, Mexico; been humbled by Venezuelans who carry their constitution in their pockets; been \"welcomed\" by 30 armed gunmen during my first visit to Uruba, Colombia and marched with a million people through the streets of Los Angeles for migrant rights. Additionally, she has organized over 40 delegations to Latin America while working for <a href=\"http://www.globalexchange.org/\">Global Exchange</a> and <a href=\"http://www.witnessforpeace.org/\">Witness for Peace</a> as well as organized US speaking tours on Colombia, Cuba and Honduras. "
+      format: full_html
+      summary: ''

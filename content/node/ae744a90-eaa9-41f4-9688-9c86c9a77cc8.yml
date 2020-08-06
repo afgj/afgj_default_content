@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ae744a90-eaa9-41f4-9688-9c86c9a77cc8
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly #210 May 25, 2018: Impact of the Venezuela Election and US Response'
+  created:
+    -
+      value: 1527295541
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-210-may-25-2018-impact-venezuela-election-and-us-response
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter size-full wp-image-9773\" src=\"https://afgj.org/wp-content/uploads/2018/05/ven-weekly-may26.png\" alt=\"News fro Venezuela\" width=\"620\" height=\"340\" />\r\n\r\n<strong><a href=\"https://afgj.org/free-webinar-how-do-the-venezuela-elections-change-the-political-landscape\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/free-webinar-how-do-the-venezuela-elections-change-the-political-landscape&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNEmYKgxMes1OCxw8_oWIwWONLNG_A\">Join our Upcoming Webinar: How do the Venezuela Elections Change the Political Landscape</a></strong>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.youtube.com/watch?v=eiKojBl_GgM\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3DeiKojBl_GgM&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNEPsQMDMM_ECdrEkS3S0hZ6-JSWZA\">Mark Weisbrot on New US Sanctions Imposed on Venezuela and Iran</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://us10.campaign-archive.com/?e=670597bf3b&amp;u=8c573daa3ad72f4a095505b58&amp;id=d4401f9991\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://us10.campaign-archive.com/?e%3D670597bf3b%26u%3D8c573daa3ad72f4a095505b58%26id%3Dd4401f9991&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNEr8wOe6sGYJoPCYK2NVPFKHt093A\">FAIR: Media Delegitimize Venezuelan Elections Amid Complete Unanimity of Outlook</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://en.granma.cu/mundo/2018-05-23/ten-attempts-to-destabilize-the-recently-re-elected-venezuelan-government\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://en.granma.cu/mundo/2018-05-23/ten-attempts-to-destabilize-the-recently-re-elected-venezuelan-government&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNHeljHzxNadr4Q9DM-49jJpo-UUiw\">Ten Attempts to Destabilize the Recently Re-elected Venezuelan Government</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://www.thedawn-news.org/2018/05/24/gonzalo-armua-on-the-venezuelan-elections-and-their-impact-in-latin-america/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.thedawn-news.org/2018/05/24/gonzalo-armua-on-the-venezuelan-elections-and-their-impact-in-latin-america/&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNGbB0BShDKuL3Y9VFpFCprfm_aBiw\">ALBA Social Movements: the Impact of the Venezuelan Election Victory on Latin America</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.mintpressnews.com/the-facts-about-venezuelas-may-20th-presidential-election/242622/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.mintpressnews.com/the-facts-about-venezuelas-may-20th-presidential-election/242622/&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNFltC0x6ZfYrxbrEH-VI35xrBg17A\">The Facts About Venezuela’s May 20th Presidential Election</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Ceela-Electoral-Experts-Say-Venezuela-Vote-Reflects-Will-of-the-People-Must-Be-Respected-20180521-0017.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Ceela-Electoral-Experts-Say-Venezuela-Vote-Reflects-Will-of-the-People-Must-Be-Respected-20180521-0017.html&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNH01Cs4haaIcNZCylkT9j7EfQxsJQ\">Council of Electoral Experts of Latin America\_ Say Venezuela Vote Reflects Will of the People, Must Be Respected</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/news/13833\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://venezuelanalysis.com/news/13833&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNGhrvqpCpQ6wz9lMunzDEBOEQLU9w\">Venezuela Slams New US Sanctions as Washington Hints at Oil Embargo</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://www.rootsaction.org/featured-actions/1813-urge-ecuador-to-protect-wikileaks-from-persecution-by-team-trump\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.rootsaction.org/featured-actions/1813-urge-ecuador-to-protect-wikileaks-from-persecution-by-team-trump&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNGG589DtLmZ95dyzgnpHM75_f-_lw\">Sign Petition to\_Urge Ecuador to Protect WikiLeaks from Persecution by US</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.mintpressnews.com/nicaragua-extortion-dialogue-longing-peace/242518/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.mintpressnews.com/nicaragua-extortion-dialogue-longing-peace/242518/&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNEQrdDOsbFsV9sB8g6vo-gEqROlfA\">Tortilla con Sal: Nicaragua Government Attempts National Dialogue with its Venezuela-</a>\r\n\r\n<a href=\"https://www.mintpressnews.com/nicaragua-extortion-dialogue-longing-peace/242518/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.mintpressnews.com/nicaragua-extortion-dialogue-longing-peace/242518/&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNEQrdDOsbFsV9sB8g6vo-gEqROlfA\">-style Opposition</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://walterlippmann.com/posada-carriles-has-died/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://walterlippmann.com/posada-carriles-has-died/&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNEDHU8wrJP2H9ROne0ERxS_iVGKhw\">Cuba’s Juventud Rebelde on the Death of CIA Murderer Luis Posada Carriles</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://ifconews.org/2018-caravan-routes/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://ifconews.org/2018-caravan-routes/&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNEyLJgjrZsudaLMO8jMeGq4zAhMMg\">Pastors for Peace Cuba Caravan Route</a>\r\n\r\n<hr />\r\n\r\n<strong>Delegations:</strong>\r\n\r\n<a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/partner-delegation-atc&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNH-04XQYlbBbrXqbAiOilZnNTh9Fw\">Agrarian and Worker Struggle in Nicaragua\_<span class=\"aBn\" data-term=\"goog_1939866554\"><span class=\"aQJ\">June 18-28</span></span></a>\r\n\r\n<a href=\"https://afgj.org/artist-delegation-nicaragua\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/artist-delegation-nicaragua&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNEID2yPxneH8LFDAKYK0uMqD6LPUA\">Artists’ Delegation to Nicaragua,\_<span class=\"aBn\" data-term=\"goog_1939866555\"><span class=\"aQJ\">August 1-10</span></span></a>\r\n\r\n<hr />\r\n\r\n<h2 id=\"m_777319361513180780gmail-m_-4546164052145643394gmail-m_8774691331061159411gmail-m_-8213335874581264356gmail-m_-2776178258433599685gmail-m_-9020789454698019944gmail-m_6252858159261738354DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\"><strong>About the Weekly</strong></h2>\r\n<div>\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n</div>\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

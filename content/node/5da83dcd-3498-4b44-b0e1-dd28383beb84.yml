@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5da83dcd-3498-4b44-b0e1-dd28383beb84
+  bundle: article
+  default_langcode: en
+  depends:
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Honduras Solidarity Network position on the State Department''s recognition of Juan Orlando Hernández following electoral fraud and repression'
+  created:
+    -
+      value: 1514070969
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /honduras-solidarity-network-position-state-departments-recognition-juan-orlando-hernandez-following
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"alignleft size-full wp-image-8572\" src=\"https://afgj.org/wp-content/uploads/2017/12/Screen-Shot-2017-12-12-at-4.11.33-PM.png\" alt=\"\" width=\"896\" height=\"369\" />\n\n(Espanol abajo)\n\nHonduras Solidarity Network of North America\nDECLARATION DECEMBER 22, 2017\n\nIn light of today’s statement from the US Department of State congratulating Juan Orlando Hernandez on his election victory, the Honduras Solidarity Network of North America (HSN) declares the following:\n\nWe reject the deceitful and arrogant position of the US government which ignores the clamor of the Honduran people for democracy and the ongoing deadly violence by the Honduran government against the people.\n\nThe US talks about the opposition filing election challenges as if it were not widely known that the entire election apparatus and process is corrupted and under the control of Hernandez. The US ignores even its allies in the Organization of American States (OAS) such as Luis Almagro, head of the OAS, who after the Electoral Tribunal (TSE) announced Hernandez’s victory stated, “The Honduran people deserve an electoral exercise that provides democratic quality and guarantees. The electoral cycle that the TSE concluded today clearly has not met those standards.”\n\nThe US talks about the need for “robust dialogue” as if the troop movements, death squads and military violence cannot be seen across Honduras, every day and night since November 30, when it was first clear that the opposition Alianza had won the election. The US ignores the fact that more than 30 unarmed people, as young as 13 years old, have been executed in the street during non-violent protests.\n\nUnfortunately, the position taken by the US government is not a surprise. It is a continuation of support - political, economic and military - for dictatorships that serve what it defines as its geo-political and economic interests. Furthermore there is a continuous line in US policy and actions in Honduras from the coup in 2009 to the present coup against democracy. The US has been an instigator, facilitator and an accomplice in the destruction of the rule of law, democracy and the future in Honduras.\n\nThe people of Honduras remain in resistance. They are defending their vote, their civil and human rights and the possibility of shaping their country into a place where they can look forward to a decent life for themselves, their children and grandchildren. This is their right and we are inspired by their courage shown a thousand times a day; we are ashamed of the United States for being on the side of terror and destruction.\n\nThe weapons, bullets, tear gas, tanks and clubs being used by the military and police and paramilitary are paid for by US funding that comes from the taxes paid by US citizens and residents. This must end! In the US we must work to cut off their money and to end all support for dictatorship!\n\n!Solidarity with the Honduran People!\n\nHonduras Solidarity Network in North America\n\nThe Honduras Solidarity Network of North America is a network of 28 organizations in the United States and Canada working together in solidarity with the Honduran people and Honduran human rights and social movement organizations.\n\nReferences\nhttp://www.oas.org/en/media_center/press_release.asp?sCodigo=E-092/17\n\n<hr />\n\n<h3><strong>Declaracion de la Red de Solidaridad con Honduras de Norteamérica\_</strong></h3>\nAnte la declaración del Departamento de Estado de Estados Unidos en la cual felicita a JOH por su victoria electoral, la Red de Solidaridad de Honduras de Norteamérica del Norte declara lo siguiente:\n\nRechazamos la posición arrogante y engañosa del gobierno de EE.UU., en la que ignora el clamor del pueblo hondureño por la democracia y también ignora la violencia mortal por parte del gobierno hondureño en contra del pueblo.\n\nEl gobierno de Estados Unidos habla sobre la necesidad de hacer impugnaciones electorales ante el tribunal electoral, a pesar de que todo mundo sabe que todo el aparato y el proceso electoral están corruptos y bajo el control de Hernández. El gobierno de Estados Unidos ignora incluso a sus aliados en la Organización de Estados Americanos (OEA) como Luis Almagro, presidente de la OEA, quien, luego del anuncio de la victoria de Hernández de parte del Tribunal Electoral (TSE), pronunció que: “El pueblo hondureño merece un ejercicio electoral que le brinde calidad democrática y garantías. El ciclo electoral que el TSE dio por cerrado hoy, claramente no lo ha sido.\"\n\nEstados Unidos habla de la necesidad de un \"diálogo robusto\" como si los movimientos de tropas, los escuadrones de la muerte y la violencia militar no se vieran en todo Honduras día y noche desde el 29 de noviembre, cuando estaba claro que se estaba robando la victoria de la Alianza de Oposición contra la Dictadura. El gobierno de los Estados Unidos ignora el hecho de que más de 30 personas desarmadas, entre quienes hay jóvenes de solamente 13 años de edad, han sido ejecutadas en la calle durante protestas no violentas.\n\nLastimosamente, la posición tomada por el gobierno de EE. UU. no es una sorpresa. Es una continuación del apoyo, tanto político como económico y militar, para las dictaduras que sirven sus intereses geopolíticos y económicos, de acuerdo con su definición de los mismos. Además, hay una constante en las políticas y acciones de Estados Unidos en Honduras desde el golpe de estado del 2009 hasta el golpe actual en contra la democracia. El gobierno de Estados Unidos ha sido un instigador, facilitador y cómplice de la destrucción del estado de derecho, la democracia y el futuro de Honduras.\n\nEl pueblo hondureño permanece en resistencia. Está defendiendo su voto, sus derechos civiles y humanos y la posibilidad de cambiar su país para que se pueda aspirar a una vida decente para el pueblo, sus hijos e hijas, sus nietas y nietos. Este es su derecho y nos inspira el valor del pueblo, demostrado miles de veces cada día; nos da vergüenza la posición de Estados Unidos que respalda el terror y la destrucción.\n\nLas armas, balas, gases lacrimógenos, tanques y toletes que usan los militares, la policía y los paramilitares son pagados con fondos estadounidenses que provienen de los impuestos pagados por el pueblo de EE.UU. ¡Esto tiene que terminar! ¡En Estados Unidos tenemos que luchar para cortar ese financiamiento y acabar con el apoyo a la dictadura!\n\nRed de Solidaridad de Honduras en América del Norte"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

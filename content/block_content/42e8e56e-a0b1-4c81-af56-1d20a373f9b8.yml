@@ -1,0 +1,139 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 42e8e56e-a0b1-4c81-af56-1d20a373f9b8
+  bundle: mt_detailed_feature_block
+  default_langcode: en
+  depends:
+    4cf3450c-bf06-459b-bb61-78c776f63160: file
+    fc10b69d-3f0f-4d55-b887-4daccd6c05ca: file
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Personalized for  you only'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_dfb_detailed_feature:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 2353f81b-f16c-4d3b-bd8c-85fd12aaa0e9
+          bundle: mt_detailed_feature
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1527593822
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_detailed_feature_body:
+            -
+              value: "<ul class=\"list--fa-check-circle mb-3\">\r\n\t<li class=\"mb-3\">Create budgets that make sense today and set you up for success tomorrow.</li>\r\n\t<li class=\"mb-3\">See bills and money together, so you know what’s due, when it’s due and what you can pay.</li>\r\n\t<li class=\"mb-3\">Receive alerts for unusual account charges, and get custom tips for reducing fees and saving money.</li>\r\n\t<li class=\"mb-3\">Get your free credit score and learn how you can improve it now to get the things you want later.</li>\r\n</ul>\r\n"
+              format: full_html
+          field_mt_detailed_feature_button:
+            -
+              uri: 'internal:/node/23'
+              title: 'Sign up for free'
+              options: {  }
+          field_mt_detailed_feature_icon:
+            -
+              icon_name: eye
+              style: fas
+              settings:
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''
+          field_mt_detailed_feature_image:
+            -
+              entity: 4cf3450c-bf06-459b-bb61-78c776f63160
+              alt: 'feature image'
+              title: ''
+              width: 845
+              height: 750
+          field_mt_detailed_feature_title:
+            -
+              value: 'Personalized for you only'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 2c10824b-fab9-41e9-9754-463f6d9867e6
+          bundle: mt_detailed_feature
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1527693813
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_detailed_feature_body:
+            -
+              value: "<ul class=\"list--fa-check-circle mb-3\">\r\n\t<li class=\"mb-3\">Create budgets that make sense today and set you up for success tomorrow.</li>\r\n\t<li class=\"mb-3\">See bills and money together, so you know what’s due, when it’s due and what you can pay.</li>\r\n\t<li class=\"mb-3\">Receive alerts for unusual account charges, and get custom tips for reducing fees and saving money.</li>\r\n\t<li class=\"mb-3\">Get your free credit score and learn how you can improve it now to get the things you want later.</li>\r\n</ul>\r\n"
+              format: full_html
+          field_mt_detailed_feature_button:
+            -
+              uri: 'internal:/'
+              title: 'Sign up for free'
+              options: {  }
+          field_mt_detailed_feature_icon:
+            -
+              icon_name: money-check
+              style: fas
+              settings:
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''
+          field_mt_detailed_feature_image:
+            -
+              entity: fc10b69d-3f0f-4d55-b887-4daccd6c05ca
+              alt: 'feature image'
+              title: ''
+              width: 845
+              height: 750
+          field_mt_detailed_feature_title:
+            -
+              value: 'Say goodbye to late fees'

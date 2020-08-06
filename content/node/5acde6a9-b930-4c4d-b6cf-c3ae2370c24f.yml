@@ -1,0 +1,61 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5acde6a9-b930-4c4d-b6cf-c3ae2370c24f
+  bundle: article
+  default_langcode: en
+  depends:
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    cd0b4a40-9b03-4048-a812-892416542fb4: taxonomy_term
+    10a60147-2de2-49a8-820a-c51f1dd4063f: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AfGJ Statement of Solidarity with Standing Rock Sioux Pipeline Protest'
+  created:
+    -
+      value: 1472833705
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-statement-solidarity-standing-rock-sioux-pipeline-protest
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"alignnone \" src=\"https://cdn.rt.com/files/2016.09/original/57c88460c36188547f8b4620.JPG\" alt=\"\" width=\"508\" height=\"292\" /></p>\nAlliance for Global Justice (AfGJ) formally denounces the further construction of the Dakota Access Pipeline and is in solidarity with the Standing Rock Sioux and the Native American coalition on the ground in North Dakota. The effort to resist this pipeline is yet another example of the continual struggle against US colonization and its destructive imperialism. The Standing Rock Sioux are a federally-recognized tribe and need to be respected the same as any sovereign nation. AfGJ recognizes that the Standing Rock Sioux are engaged in a local fight that\_ is confronting a global issue: the exploitation of natural resources and indigenous lands for the profit and benefit of a very few.\n\nPipeline projects have continually ruined tribal lands and disrespected tribal sovereignty. The risks that are inherent in this project include, but are not limited to, pipeline ruptures that threaten cultural sites, aquifers, and the environment with permanent damage. This threat is dramatically increased since the pipeline crosses the\_ Missouri river, a place of the highest cultural and spiritual importance to the tribes of the region. These projects do not coexist with the Native American traditions and culture, and endanger the health of the environment for future generations. Legally, the construction of this Pipeline violates Convention 169 of the International Labor Organization (ILO), Art. 6, along with the United Nation’s Declaration on the Rights of Indigenous Peoples, Art. 3, 4, 11, 18, 19, 27, 28, 32, 37, 40 (UN DRIP). This pipeline would deepen our dependence on fossil fuel and further the degradation of our environment.\_ AfGJ insists, in solidarity with the people of Standing Rock that the construction of all pipeline projects be immediately halted, and that Native American Tribes must be fairly represented in the decision making process about their land and resources. AfGJ express’s our solidarity and stands united with you in your fight against the Dakota Access Pipeline and US departments that have permitted this act of injustice.\n\nThis statement was prepared by Cody Edgerly and adopted by the AfGJ collective.\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: cd0b4a40-9b03-4048-a812-892416542fb4
+    -
+      entity: 10a60147-2de2-49a8-820a-c51f1dd4063f
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

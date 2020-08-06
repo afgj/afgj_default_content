@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 62f95f7d-523d-402e-b2df-373657eb357f
+  bundle: article
+  default_langcode: en
+  depends:
+    bce432a9-c8d4-4656-a968-f6cc71b1b890: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'PRESS ADVISORY: Binational Group Calls for an End to US and Canadian Sanctions Against Venezuela'
+  created:
+    -
+      value: 1534116212
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /press-advisory-binational-group-calls-end-us-and-canadian-sanctions-against-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1 style=\"text-align: center;\">PRESS ADVISORY</h1>\r\n<h3 style=\"text-align: center;\">FOR IMMEDIATE RELEASE: 13 August 2018</h3>\r\n<p style=\"text-align: center;\"><a href=\"https://afgj.org/wp-content/uploads/2018/08/Aviso-de-Prensa-Día-de-Acción-Internacional-en-contra-de-las-Sanciones-de-EEUU-y-Canada-14-de-agosto-2018.pdf\" target=\"_blank\" rel=\"noopener\">Para\_el aviso de prensa en español</a></p>\r\n\r\n<div style=\"text-align: center;\"><img class=\"alignnone size-medium wp-image-10571\" src=\"https://afgj.org/wp-content/uploads/2018/08/SanctionsAreWar-300x198.jpg\" alt=\"\" width=\"300\" height=\"198\" />\_\_ <img class=\"alignnone size-medium wp-image-10570\" src=\"https://afgj.org/wp-content/uploads/2018/08/EndVenezuelaSanctions-300x185.jpg\" alt=\"\" width=\"300\" height=\"185\" /></div>\r\nContacts​:\r\nTeri Mattson (US) +1.415.259.9626, endvenezuelasanctions@gmail.com\r\n\r\nAlison Bodine (Canada) +1.604.518.7361, alisoncolette@gmail.com\r\n\r\nRaul Burbano (Canada), 1.416.522.8615, burbano@rogers.com\r\n\r\n<em><strong>International Days of Action Calling for an End to US and Canadian Sanctions</strong></em>\r\n<em><strong>Against Venezuela</strong></em>\r\n\r\nOn 14 August 2018, solidarity organizations and anti-war activists among other concerned\r\nindividuals and groups will participate in an international day of action denouncing US and\r\nCanadian Sanctions against Venezuela. These economic sanctions, referred to as unilateral\r\ncoercive economic measures in Venezuela, are illegal under the Organization of American States\r\n(OAS) and the United Nations (UN) charters. Since 14 August 2017, the Trump administration\r\nhas heightened these sanctions to have a broader impact across Venezuelan society preventing\r\nthe government from: refinancing its debt and present challenges for imports.\r\n\r\nThe Campaign to End US and Canada Sanctions Against Venezuela states, “On May 21, the day\r\nafter the re-election of Venezuela’s President Nicolás Maduro, the US further expanded\r\neconomic sanctions against Venezuela. Both the US and Canada have sanctions targeting\r\nsenior Venezuelan government officials. These sanctions severely hamper the government’s\r\nability to engage with international financial entities.” Furthermore, they have a devastating\r\nimpact on Venezuelans everyday lives.\r\n\r\nActions on 14 August will include a social media campaign #SanctionsAreWar\r\nand#EndVenezuelaSanctions,​ local actions outside of Venezuelan consulates and embassies\r\nin solidarity with the Venezuelan people, continued circulation of the international Call to\r\nAction condemning sanctions and more.\r\n\r\nRecent news of the assassination attempt on President Nicolás Maduro as well as other high\r\nranking military and government officials, speak to clear signs of escalating warfare against\r\nVenezuela. And while not military intervention, sanctions create conditions that economically\r\nstrangle a nation and are often the prelude to overt warfare.\r\n\r\nJoin the international campaign on 14 August 2018 in demanding an end to US and Canada\r\nsanctions against Venezuela.\r\n\r\nWho​: Campaign to End US and Canadian Sanctions Against Venezuela\r\n\r\nWhat​: International Days of Action Denouncing US and Canadian Sanctions\r\n\r\nWhen​: 14 August 2018\r\n\r\nWhere​: Multiple locations\r\n<p style=\"text-align: center;\">###</p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bce432a9-c8d4-4656-a968-f6cc71b1b890
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

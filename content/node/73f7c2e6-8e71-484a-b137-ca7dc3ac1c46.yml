@@ -1,0 +1,62 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 73f7c2e6-8e71-484a-b137-ca7dc3ac1c46
+  bundle: mt_service
+  default_langcode: en
+  depends:
+    2650c515-7198-47ff-9ede-96bddbdef9e1: file
+    011ff77d-0dd2-4eb2-87cb-33f9fcba12e4: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Third Service'
+  created:
+    -
+      value: 1465321934
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_srv_body:
+    -
+      value: "<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise <a href=\"#\">with competitive technologies</a>. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n\r\n<blockquote>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies. Appropriately communicate adaptive imperatives rather than value-added potentialities.</blockquote>\r\n\r\n<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise <a href=\"#\">with competitive technologies</a>. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_srv_buy_link:
+    -
+      uri: 'http://sites.fastspring.com/morethanthemes/product/fullbundlesubscription?option=show_contents'
+      title: 'Buy Now'
+      options: {  }
+  field_mt_srv_image:
+    -
+      entity: 2650c515-7198-47ff-9ede-96bddbdef9e1
+      alt: 'Third service'
+      title: 'Third service'
+      width: 1280
+      height: 690
+  field_mt_srv_price:
+    -
+      value: $199
+  field_mt_srv_service_tags:
+    -
+      entity: 011ff77d-0dd2-4eb2-87cb-33f9fcba12e4

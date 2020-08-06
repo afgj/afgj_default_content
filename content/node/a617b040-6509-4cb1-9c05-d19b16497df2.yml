@@ -1,0 +1,61 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a617b040-6509-4cb1-9c05-d19b16497df2
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    e291f5fc-b608-43bf-958c-d8485725315d: taxonomy_term
+    46c3dd60-d9ef-4093-95e7-5f3fd628dc8b: taxonomy_term
+    cb4617c7-3c39-4ae4-a5e6-a44b174be3d3: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Death Squad threatens Wayuu Women’s Force in La Guajíra, Colombia'
+  created:
+    -
+      value: 1558448117
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /death-squad-threatens-wayuu-womens-force-la-guajira-colombia
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "by James Patrick Jordan\r\n\r\n[caption id=\"attachment_11776\" align=\"aligncenter\" width=\"487\"]<img class=\" wp-image-11776\" src=\"https://afgj.org/wp-content/uploads/2019/05/IMG_4116-1024x768.jpg\" alt=\"\" width=\"487\" height=\"365\" /> Wall painting in one of many villages in La Guajira fighting to save their water sources from the encroachment of transnational mining companies.[/caption]\r\n\r\nI recently visited the Department of La Guajira on behalf of the Alliance for Global Justice. I was with Raquel Mogollón who works with the organization Camino Común. While we were in La Guajira, we were asked to meet with members of the Fuerza de Mujeres Wayuú (FMW, Women’s Wayuú Force) about death threats against the group, and the failure of the government to take the situation seriously. They want to make known what they are facing, and are looking for international declarations and other forms of solidarity in support of their call for an investigation into the threats.\r\n<h3 style=\"text-align: center;\"><a href=\"https://afgj.salsalabs.org/endthethreatsagainstwayuuwomensforce/index.html\"><span style=\"color: #ff0000;\">Send a letter to Colombian authorities demanding that the threats against Fuerza de Mujeres Wayuú be investigated and the authors be brought to justice</span></a></h3>\r\nLa Guajira is a desperately poor region that is the most northern reach of mainland Colombia, a peninsula that reaches like a finger into the Caribbean Sea, curling itself around the Gulf of Venezuela and sharing a border with the Bolivarian republic to its east.\_ La Guajíra has Colombia’s second largest indigenous population, primarily members of the Wayuu nation. It is also a place plagued by extreme drought. That drought has been greatly exacerbated by the Cerrajón and other coal mines and extractive industries. These companies contaminate and divert water from the region’s rivers and streams, decimating local agriculture and negatively impacting the ability of Wayuu and other communities to grow the food the need and to get access to potable water. Since 2011, more than 6,100 mostly Wayuu children have died from hunger and thirst. This is a tragic example of humanitarian disaster that the world prefers to ignore. Rather, the focus is on next door Venezuela in order to justify dreams of intervention and overthrow of that country’s government. Since Colombia is virtually a colony of the US Empire, addressing the crisis there would only embarrass and be of no strategic value for oil wars and plans of world domination.\r\n\r\nNevertheless, it is somewhat unfair to simply denounce the world’s ignorance about La Guajira. \_Community, indigenous, and ecological activists are actively discouraged from letting the world know what is happening, and from organizing and mobilizing to alleviate and end the humanitarian and ecological crisis. If the world understood the depth of suffering in La Guajira, it just might demand action. Any action that were to address the situation would have to address the unrestrained and devastating practices of the big mining corporations. That prospect is sufficiently undesirable to the corporations involved, that the most repressive threats and acts of violence are used to suppress the voices of Wayuú activists who speak out in defense of the land, water, and people.\r\n\r\n[caption id=\"attachment_11777\" align=\"aligncenter\" width=\"752\"]<img class=\"size-large wp-image-11777\" src=\"https://afgj.org/wp-content/uploads/2019/05/IMG_4144-1024x768.jpg\" alt=\"\" width=\"752\" height=\"564\" /> Clouds loom over drought stricken Wayuú territory, teasing the scorched vegetation with a possible taste of rain.[/caption]\r\n\r\nWhile traveling in La Guajira, we heard of several such threats. We even had to help one family leave their home and community because they were in grave danger and the village they lived in was so isolated and vulnerable. This family was being persecuted by likely members of the Colombian Armed Forces moonlighting as plain clothes and hooded paramilitaries. They were targeted because of their role as human and indigenous rights defenders in their community.\r\n\r\nWhen we heard about the threats against the Fuerza de Mujeres Wayuú (FMW, Wayuú Women’s Force), we became especially concerned. In the case of FMW, they are not only activists defending their land, water, and culture – they defend the defenders. Since their founding in 2007, the FMW’s mission has been to accompany Wayuú communities that are being directly threatened and assaulted. Therefore, when they are repressed, the repercussions have a ripple effect throughout the territory. A threat against the FMW is truly a threat against all the Wayuú people and everyone who speaks out for their interests.\r\n\r\nFuerza de Mujeres Wayuú has recently been the target of several acts of intirmidation by the Aguilas Negras (Black Eagles). These include an April 30 2019 pamphlet threatening individual leaders as well as the entire group, a recently deleted false Facebook profile attacking them, and the repeated presence of unknown individuals observing and following them as they move about trying to do their work. We spoke at some length with leaders and associates who asked not to be identified. According to their spokesperson, while threats against the group had gone down between 2015 and 2017, since the beginning of 2018, they have become much more frequent. She told us that the government is not taking the situation seriously and is not undertaking an investigation. The Attorney General’s office replied that the threats could “possibly” be real, but could be coming from another organization other than the Águilas Negras, or that they threats may not be sincere. They maintained an investigations was unwarranted.\r\n\r\n[caption id=\"attachment_11778\" align=\"alignright\" width=\"300\"]<img class=\"size-medium wp-image-11778\" src=\"https://afgj.org/wp-content/uploads/2019/05/IMG_20160525_102103-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" /> AfGJ visits Wayuú village in 2015. These are not members of Fuerza de Mujeres Wayuú. Their photos are not being shared here for security reasons.[/caption]\r\n\r\nThe FMW was formed in 2007 as a coalition of Wayuú organizations lead by women in support of indigenous and popular movements opposing mining projects, engaging in water protection, and acting to reclaim and rehabilitate lost territory. While various mining companies operate nearby, the area is especially affected by the giant Cerrajón coal mine, one of the world’s largest. Cerrajón is a joint project owned in equal shares by a consortium of British, Australian, and South African based companies, namely the BHP Billiton, Anglo American, and Xstrata corporations.\r\n\r\nParamilitary death squads have a long history in the region. In next door César, for instance, Alabama-based Drummond Coal was known to have paid paramilitaries to protect their operations. Clearly, death squads in the area serve to protect the interests of mining companies, big landowners, and narco-traffickers. While famine resulting from drought and corporate irresponsibility is an acceptable situation, any real challenge to the profits of these sectors is not.\r\n\r\nNevertheless, since 2007, the Fuerza de Mujeres Wayuú has done just that: challenge the big industries and, more, provide protection and accompaniment to other organizers. Because of this powerful and dangerous work, FMW was the first organization to receive protection from the Colombian government via the National Protection Unit (UNP). The UNP is a system of bodyguards and protection provided by the government, a system won through popular struggle.\r\n\r\nDespite this protection, the Colombian State is not responding adequately to the threats against the FMW. Furthermore, the focus of the UNP, with its own stretched and limited resources, is on protection of a few individuals, but not an entire group. The spokesperson we spoke to insisted that their demand is not for more UNP, but for a real investigation to be launched against the Águilas Negras to bring them to justice.\r\n\r\nShe provided us a copy of the most recent threat and, as one can imagine, it is chilling. It states: “It is the moment to finish with all the so-called human rights defenders toads of La Guajira, we’re going to dig under all these leaders of social organizations…. IF YOU DO NOT BELIEVE IT WE HAVE THE NAMES OF EVERYONE AND THESE ARE NOT ALL….”\r\n\r\nThe death threat goes on to mention six leaders, including two men who participate in and support FMW. (While FMW is woman-led, and mostly women, it does include male supporters and accompaniers.) One of them is the brother of an FMW member, Luís Socorra Pimienta, who was killed by paramilitaries on July 28 2010.\r\n\r\nThe US-NATO Empire, with fawning allegiance from the Colombian government, wants all eyes on Venezuela. Therefore, our attention is diverted away from the crisis of famine and the threat of death squads happening on the Colombia-side of the border in La Guajira.\r\n\r\nLet’s take off the blinders. If we see the repression and poverty in La Guajira and in the Wayuú nation, that could be the beginning of changing the ending of what is an otherwise tragic story.\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: e291f5fc-b608-43bf-958c-d8485725315d
+    -
+      entity: 46c3dd60-d9ef-4093-95e7-5f3fd628dc8b
+    -
+      entity: cb4617c7-3c39-4ae4-a5e6-a44b174be3d3
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

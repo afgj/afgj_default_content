@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ebda3286-1aec-42a0-bd12-49924861535b
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: false
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Global Justice Monitor'
+  created:
+    -
+      value: 1340927780
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /global-justice-monitor
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1><span style=\"color: #ff0000;\">Global Justice Monitor</span></h1>\r\nThis is a monthly collection of key articles and information that AFGJ supports."
+      format: full_html
+      summary: ''

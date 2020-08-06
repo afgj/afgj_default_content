@@ -1,0 +1,159 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: bb91012f-0295-42ae-ad9b-a040d5f7e28e
+  bundle: mt_showcase
+  default_langcode: en
+  depends:
+    6be98d3b-7337-4995-b3cc-e21387ee6490: file
+    81cd1414-9e7c-4b37-b43e-5df5c7b9e229: file
+    7ffe3190-9e1d-4d81-b837-1fc42628b102: file
+    a0a6b16e-c204-44c3-b514-82b03c9db8f2: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: false
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'First Showcase'
+  created:
+    -
+      value: 1527085279
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_shw_body:
+    -
+      value: "<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas <a href=\"#\">state of the art interfaces</a>. Quickly enable prospective technology rather than open-source technologies.</p>\r\n\r\n<blockquote>Completely parallel task market positioning interfaces through visionary niche markets, proactively incentivize sticky quality vectors before future-proof internal or \"organic\" sources.</blockquote>\r\n\r\n<p>Seamlessly procrastinate proactive outsourcing whereas wireless products. Progressively leverage existing 24/365 experiences through timely initiatives. Quickly facilitate frictionless ROI rather than equity invested solutions.</p>\r\n\r\n<h3>Showcase specifics</h3>\r\n\r\n<p>Compellingly <a href=\"#\">recaptiualize enterprise-wide web-readiness</a> for robust strategic theme areas. Synergistically reconceptualize user-centric functionalities via revolutionary strategic theme areas. Progressively transition out-of-the-box leadership skills rather than top-line and <a href=\"#\">this is a hover link</a>.</p>\r\n"
+      format: basic_html
+      summary: 'Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies. Appropriately communicate adaptive imperatives rather than value-added potentialities.'
+  field_mt_shw_content_collapses:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: a539da6c-b842-466f-801e-e9b46ede1751
+          bundle: mt_collapse
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1527085365
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_collapse_body:
+            -
+              value: "<p>Excepteur sint occaecat cupidatat non tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo, consectetur adipisicing elit, sed do eiusmod proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&nbsp;</p>\r\n"
+              format: basic_html
+          field_mt_collapse_title:
+            -
+              value: Context
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 9fb8cd40-a48f-49c5-916d-724627cb2c37
+          bundle: mt_collapse
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1527085449
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_collapse_body:
+            -
+              value: "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\r\n"
+              format: basic_html
+          field_mt_collapse_title:
+            -
+              value: Research
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: c0b6fffb-598c-45e7-82c4-3f2bb32836f7
+          bundle: mt_collapse
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1527085462
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_collapse_body:
+            -
+              value: "<p>Lorem ipsum dolor sit amet consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo, consectetur adipisicing elit, sed do eiusmod proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\r\n"
+              format: basic_html
+          field_mt_collapse_title:
+            -
+              value: Impact
+  field_mt_shw_image:
+    -
+      entity: 6be98d3b-7337-4995-b3cc-e21387ee6490
+      alt: 'First Showcase'
+      title: ''
+      width: 1280
+      height: 690
+    -
+      entity: 81cd1414-9e7c-4b37-b43e-5df5c7b9e229
+      alt: 'Second Showcase'
+      title: ''
+      width: 1280
+      height: 690
+    -
+      entity: 7ffe3190-9e1d-4d81-b837-1fc42628b102
+      alt: 'Third Showcase'
+      title: ''
+      width: 1280
+      height: 690
+  field_mt_shw_subtitle:
+    -
+      value: 'Financial and Legal Consultation'
+  field_mt_shw_tags:
+    -
+      entity: a0a6b16e-c204-44c3-b514-82b03c9db8f2
+  field_mt_shw_video:
+    -
+      value: 'https://www.youtube.com/watch?v=T7SqK5RizWY'

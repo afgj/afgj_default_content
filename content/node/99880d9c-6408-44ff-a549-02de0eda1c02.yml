@@ -1,0 +1,56 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 99880d9c-6408-44ff-a549-02de0eda1c02
+  bundle: mt_team_member
+  default_langcode: en
+  depends:
+    7e6e19ad-8dcb-4dd1-a1b2-ca48faee715f: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'David Archuleta Jr.'
+  created:
+    -
+      value: 1591128629
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /team/david-archuleta-jr
+      langcode: en
+      pathauto: 1
+  field_mt_tmm_body:
+    -
+      value: "<p><strong>David Archuleta Jr.&nbsp;</strong>is a full stack engineer who has developed both web and desktop applications professionally since 2014. He drives all technical decisions for the team and oversees to completion all technical projects from idea to architectural design to development. David graduated from the University of Arizona in 2014.</p>\r\n"
+      format: full_html
+      summary: ''
+  field_mt_tmm_featured:
+    -
+      value: false
+  field_mt_tmm_member_photo:
+    -
+      entity: 7e6e19ad-8dcb-4dd1-a1b2-ca48faee715f
+      alt: David
+      title: ''
+      width: 1440
+      height: 1440
+  field_mt_tmm_subtitle:
+    -
+      value: 'Web Developer'

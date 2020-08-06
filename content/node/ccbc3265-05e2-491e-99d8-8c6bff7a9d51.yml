@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ccbc3265-05e2-491e-99d8-8c6bff7a9d51
+  bundle: article
+  default_langcode: en
+  depends:
+    3ad1f134-ace5-4b4d-bdb3-efff4e632423: taxonomy_term
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicanotes: Guest Blog: Perspective on the Nicaragua Crisis from Someone Who Lived There for Thirty Years'
+  created:
+    -
+      value: 1527676992
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-guest-blog-perspective-nicaragua-crisis-someone-who-lived-there-thirty-years
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/category/nicanotes\" target=\"_blank\" rel=\"noopener\"><img class=\"aligncenter size-full wp-image-7994\" src=\"https://afgj.org/wp-content/uploads/2017/08/nicanotesbannerwbyline2.jpg\" alt=\"Nincanotes : A blog about nicaragua by solidarity activists\" width=\"594\" height=\"196\" /></a>\r\n<p style=\"text-align: center;\"><strong>Guest Blog by Nan McCurdy\_</strong></p>\r\nLike most Nicaraguans and people like me who lived there for thirty years, I spend most of my time now reading, listening to and watching news and talking to our kids, siblings, nieces, nephews and friends about what is going on.\r\n\r\nBy 1pm California time I had seen so many different acts of violence in the news that I thought it would be worth documenting a few of them below. \_The Dialogue broke down last week when the government accused the opposition of only wanting a coup and the opposition refused to use their power to end the roadblocks. Today there was a mini-dialogue with three negotiators on each side.\r\n\r\nThen just a few minutes ago, as I was finishing this summary, the Mediation Committee published a communique: They called for: 1. An end to the violence and the fulfillment of the first three points in the recommendations from the Inter American Commission on Human Rights; 2. An end to violence against the media; 3. An end to the promotion of violence and the use of fake news by the media; 4. Condemned attacks against the UNI (Engineering University) and Radio Ya (described below). The opposition representatives committed themselves to try to convince those involved in the roadblocks to “flexibilize” them (note they do not say “end”). \_Both sides agreed to go back to the full Dialogue to discuss the agenda item on “democratization”.\r\n<h2>Masaya Governmental Offices Burned</h2>\r\nMasaya: Early today, unknown elements burned governmental buildings where the Prosecutor’s office and part of the police were operating. \_Despite the fact that the firefighters came to try to put it out, the fire spread through much of the neighborhood. It should be noted that because the opposition has burned down a number of government buildings and Sandinista houses over the last month that officials have begun removing important documents, furniture, etc. (<a href=\"https://www.laprensa.com.ni/\" target=\"_blank\" rel=\"noopener\">La Prensa)</a>\r\n<h2>Teachers Demand an End to Violence</h2>\r\nTeachers demanded justice today in the case of Jose Jirón, a murdered teacher. \_This teacher worked at the Carlos Fonseca Amador School in Matagalpa. \_Jose Jiron was shot as he was walking home from teaching a class. The teachers demanded an end to violent acts around the country. The teachers are part of the biggest teacher’s union, ANDEN. They also denounced the roadblocks that impede free circulation around the nation. They protested that the markets cannot be supplied, products have increased in price and families are suffering. They expressed their indignation that due to the road blocks the children all around the country are not receiving their free lunch provided by the Ministry of Education.(<a href=\"http://Canal2tv.com\" target=\"_blank\" rel=\"noopener\">Canal2tv.com</a>)\r\n<h2>High School Teacher Kidnapped in Managua</h2>\r\nGroups that took over the UPOLI (Polytechnic University) in Managua over a month ago today kidnapped a high school teacher, Jose David Flores Hernández. \_Flores was part of a large group of teachers and students marching today demanding an end to the roadblocks in order to have freedom of movement so that students can go to school. Flores teaches literature at the Isaias Filippi Institute. (<a href=\"http://Radiolaprimerisima.com\" target=\"_blank\" rel=\"noopener\">Radiolaprimerisima.com</a>)\r\n<h2>Men Shot in Carazo</h2>\r\nTwo armed men in a vehicle shot at the home of Uriel Calderon, President of the Foundation of Historical Combatants in Carazo. Jose Andres Calderon and Jaffer Aaron Jarquin were wounded and taken to the hospital. (<a href=\"http://Radiolaprimerisima.com\" target=\"_blank\" rel=\"noopener\">Radiolaprimerisima.com</a>)\r\n<h2>In Jinotepe Two Parents Wounded</h2>\r\nUnknown elements damaged the Manuel Hernandez school in Jinotepe and wounded two parents who tried to defend the school. (<a href=\"http://Canal2tv.com\" target=\"_blank\" rel=\"noopener\">Canal2tv.com</a>)\r\n<h2>Vehicles Stolen from UNAN</h2>\r\nSix vehicles were stolen from the UNAN (National Autonomous University) in Managua in the early morning hours. (<a href=\"http://Canal2tv.com\" target=\"_blank\" rel=\"noopener\">Canal2tv.com</a>)\r\n<h2>Radio Station Burned in Managua</h2>\r\nProtesters burned down the installations of the pro-Sandinista radio station “Tu Nueva Radio Ya” located in front of the UCA (Central America University). Protesters had attempted to burn it down in the first days of the protest. Firefighters escorted by police put the fire out. Bystanders say the attack was promoted by a journalist from 100%Noticias, Jackson Orozco. Journalist Bismarck Garcia called for respect for the freedom of expression: “We will hold Miguel Mora responsible for any aggression against the “Radio Ya” personnel or installations. \_We do not incite violence.” (See below more about Miguel Mora) (<a href=\"http://Radiolaprimerisima.com\" target=\"_blank\" rel=\"noopener\">Radiolaprimerisima.com</a>)\r\n<h2>Communique from National Engineering University (UNI) in Managua</h2>\r\nThe National Engineering University sent a communication to Channel 2 saying that at about 6am various groups of people in vehicles took over the university, taking control of all the entrances and kicking out the guards. The communication called for respect for human life. They also express fear that those who have taken over the university will damage their chemical, engineering and communication laboratories, etc. They state that the only solution to this crisis is the Dialogue. (Canal2tv.com)\r\n<h2>Opposition Media Openly Calls for a Coup</h2>\r\n100%Noticias (TV) owner Miguel Mora put this on his twitter twice: If you want change for Nicaragua, to go from dictatorship to democracy, you should read this book by Gene Sharp. Here you will find basic directions for peaceful civil resistance.\r\n<h2>OAS Secretary General Speaks Out</h2>\r\nOne of the major events last week were statements by Luis Almagro, Secretary General of the Organization of American States. He made very strong statements about part of the opposition and even called them liars. \_On a radio round-table today of four journalists called “A Los Cuatro Vientos”, they said his remarks were directed at Violeta Granera, former head of the Civil Coordinator. \_The opposition wants Almagro’s approval for a coup, but he says the only option for Nicaraguan is an electoral one. Here’s an article from Trinchera de la Noticia, which opposes Ortega’s government.<a href=\"http://www.trincheraonline.com/2018/05/24/almagro-toma-bando-en-la-crisis-politica-del-pais/\" target=\"_blank\" rel=\"noopener\"> http://www.trincheraonline.com/2018/05/24/almagro-toma-bando-en-la-crisis-politica-del-pais/</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 3ad1f134-ace5-4b4d-bdb3-efff4e632423
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

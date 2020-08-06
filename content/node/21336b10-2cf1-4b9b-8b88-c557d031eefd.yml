@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 21336b10-2cf1-4b9b-8b88-c557d031eefd
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: "Take Action - Nica Act Could\_be Voted on Any Day Now- Contact\_your Representative!"
+  created:
+    -
+      value: 1506586394
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /take-action-nica-act-could-be-voted-any-day-now-contact-your-representative
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2 style=\"text-align: center;\">The NICA Act could be scheduled for a\_vote in\nthe House of Representatives at any time.\n<a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25371\" target=\"_blank\" rel=\"noopener\">Act NOW</a> to tell your\_Representative to vote NO!</h2>\n<h2><img class=\"aligncenter wp-image-8261 size-full\" src=\"https://afgj.org/wp-content/uploads/2017/09/notothenicaact.png\" alt=\"No to the Nica Act!\" width=\"432\" height=\"250\" /></h2>\n<h2 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25371\" target=\"_blank\" rel=\"noopener\"><span style=\"color: #000000;\">Click Here to Send a Message to Your Representative.</span></a></h2>\n<p style=\"padding-left: 60px;\"><span style=\"color: #000000;\">\_</span>\n<span style=\"color: #000000;\">Dear Representative _________________,</span>\n<span style=\"color: #000000;\">\_</span>\n<span style=\"color: #000000;\">I am writing to oppose the Nicaraguan Investment\_Conditionality Act (NICA) of 2017, H.R. 1918. The result of cutting off\_Nicaragua from multilateral\_loans would be a serious blow to the economy and a\_certain flood of economic refugees at the US southern border. Nicaragua has\_signed an\_agreement with OAS Secretary General Luis Almagro for the OAS to\_monitor and accompany the municipal election scheduled for November. The\_OAS\_has already set up an office in Nicaragua to work with election officials to\_insure transparency and to strengthen democratic processes. This\_partnership\_between the OAS and the Nicaraguan government removes any possible rationale to\_pass the NICA Act. Considering the negative\_consequences that the NICA Act\_would have on both the ordinary people of Nicaragua and on the United States in\_terms of greater migration, I\_trust that you will vote against the NICA Act if\_it comes to the floor of the House. I hope to hear back from you that you will\_oppose H.R. 1918.</span>\n<span style=\"color: #000000;\">\_</span>\n<span style=\"color: #000000;\">Sincerely,</span>\n<span style=\"color: #000000;\">Your Name and address</span>\n<span style=\"color: #000000;\">\_</span></p>\n<span style=\"color: #000000;\">H.R.1918, The Nicaraguan Investment Conditionality Act\_(NICA) of 2017 states that “The President shall instruct the United States\_Executive Director at each\_international financial institution to use the\_voice, vote, and influence of the United States to oppose any loan for the\_benefit of the Government of Nicaragua….”</span>\n\n<span style=\"color: #000000;\">If the NICA Act becomes law, it will cause a serious blow\_to Nicaragua’s economy, creating a new wave of economic refugees to join those\_already coming north from\_Honduras, Guatemala, and El Salvador.</span>\n\n<span style=\"color: #000000;\">The Nicaraguan government uses foreign assistance from\_the international financial institutions to support social spending on health\_and education which have\_become an ever larger proportion of the national\_budget. As an example, in the 2016 budget, fifty-seven percent was dedicated to\_social spending with education\_spending rising to US$436 million from US$109\_million in\_2006. Important infrastructure\_projects included the completion of the paved road linking Bluefields in the\_South Caribbean Autonomous Region to the Pacific side of the country, and\_construction of new hospitals in Managua and Bilwi, Puerto Cabezas. \_</span>\n\n<span style=\"color: #000000;\">And, while it is true that the Inter-American Development\_Bank has changed its voting formula so that the United States can no longer veto\_loans on its own, the\_World Bank and International Monetary Fund have never\_approved a loan opposed by the US. We also need to remember that the United\_States still owes Nicaragua\_billions of dollars reparations from the 1986 World\_Court decision for damages from the US funded contra war.</span>\n<h1 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25371\" target=\"_blank\" rel=\"noopener\"><span style=\"color: #000000;\">Please Act Today to Let Your Representative Know that this Issue is Important to You.</span></a></h1>\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

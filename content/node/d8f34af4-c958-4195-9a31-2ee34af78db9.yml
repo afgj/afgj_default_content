@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d8f34af4-c958-4195-9a31-2ee34af78db9
+  bundle: article
+  default_langcode: en
+  depends:
+    2ddd12f9-0ac5-430e-884a-ce6ee8811df6: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ: Public Enemy Number 2'
+  created:
+    -
+      value: 1513694521
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-public-enemy-number-2
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-7306 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2016/11/EOYHeader2016big.jpg\" alt=\"\" width=\"564\" height=\"266\" />\n<h2 style=\"text-align: center;\">“I developed a problem with authority. Any time that authority was what I interpreted as being unjust, I stood up to it, and that became my personality.\" - Tom Petty</h2>\nBrietbart and the white supremacist, neo-fascist blogosphere have decided that Alliance for Global Justice is Public Enemy Number 2, right behind George Soros who supposedly funds us so that we can pay violent demonstrators to disrupt Trump’s inauguration, to stop fascist Milo Yiannopoulo from speaking in Berkeley, and to “attack” the white supremacist march in Charlottesville which cost counter protester Heather Heyer her life.\n<p style=\"text-align: center;\"><strong>One neo-fascist blogger said about AfGJ that we “punch above our weight.”\nWe take that to be high praise indeed.</strong></p>\n<p style=\"text-align: center;\">The truth, of course is more complex.</p>\n<p style=\"text-align: center;\">Alliance for Global Justice has never received a penny from George Soros for our work.</p>\nBut, we act as fiscal sponsor for over 100 groups that do not have their own tax-exempt status, so we have processed Soros checks for some of them. Soros supports many good causes, but he also supports the capitalist system so he probably wouldn’t give to us. We’ve never asked.\n<h2 style=\"text-align: center;\"><a href=\"https://afgj.org/afgjeoy2017\"><b>Please Consider Supporting AFGJ with an End of Year Gift</b></a></h2>\nBeyond this, we recognize that both parties represent Wall Street, the one percent, and the military industrial complex. We don’t hope to see one dominant party displace the other for a period of time; we want to consign both of them to the dustbin of history. We are anti-war and anti-capitalist no matter who is in the White House or controls Congress. Our goal is to build a stronger, more unified movement for transformational change.\n\nWe depend on the support of people like you though because our mission is more radical than most foundations will support. We rely on the support of individuals who are also anti-war and anti-capitalist and who agree that we have to build a movement capable of transforming our country no matter which party of the one percent is in control.\n\nThe results of the attacks on us in the right-wing blogosphere have been fairly regular death and violence threats from some unstable individuals, attacks on our website, and cancellation of some of our google forms by false claims that we are a hate group. Franklin Roosevelt said, “Judge me by my enemies.” We think we’re making enemies of exactly the right people.\n\n<a href=\"https://afgj.org/afgjeoy2017\"><b>If you agree with us that capitalism is destroying the world and that our military might makes the US the greatest threat on the planet to peace, then please make a generous tax-deductible donation today!\_</b></a>\n\n<hr />\n\n&nbsp;\n<p style=\"text-align: center;\">Don't Delay - Make Your 2017 Year End Donation!</p>\n<p style=\"text-align: center;\"><a href=\"https://afgj.org/afgjeoy2017\">\_<u>Please support us today.</u></a></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 2ddd12f9-0ac5-430e-884a-ce6ee8811df6
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

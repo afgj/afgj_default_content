@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 24e5856d-18c2-4676-bdd8-d4864a4bef39
+  bundle: mt_typing_animation_block
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Typing Animation'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"mt-1 pt-1 text-center\">\r\n<h2>The event that unlocks success to <br> your business goals.</h2>\r\n\r\n<div class=\"d-flex justify-content-center align-items-center mt-1\">\r\n<div class=\"typed-strings\">\r\n<p>Meet leading experts, engage in high impact discussions.</p>\r\n<p>Learn about state-of-the-art advancements in your field.</p>\r\n<p>Network with leading figures in the market.</p>\r\n<p>Join today, be part of tomorrow.</p>\r\n</div>\r\n<div class=\"typed text-center\"></div>\r\n</div>\r\n\r\n</div>"
+      format: raw_html
+      summary: ''

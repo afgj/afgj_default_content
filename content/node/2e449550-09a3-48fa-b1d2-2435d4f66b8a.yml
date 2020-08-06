@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2e449550-09a3-48fa-b1d2-2435d4f66b8a
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NicaNotes: Guest Post: Nicaragua Grabbed My Heart'
+  created:
+    -
+      value: 1516204426
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-guest-post-nicaragua-grabbed-my-heart-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"font-weight: 400;\"><img class=\"size-full wp-image-7994 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/08/nicanotesbannerwbyline2.jpg\" alt=\"Nincanotes : A blog about nicaragua by solidarity activists\" width=\"594\" height=\"196\" /></p>\n<p style=\"font-weight: 400; text-align: center;\"><strong>By Diana Bohn</strong></p>\n<p style=\"font-weight: 400; text-align: center;\"><em>Diana Bohn is a long-time Nicaragua activist in California’s Bay Area and\nshe is a former chair of the board of the Alliance for Global Justice.</em></p>\n\n\n<hr />\n\nI’m responding to Chuck’s request for contributions from others whose lives were changed by their first visit to Nicaragua. I, too, had my heart grabbed by Nicaraguans and the Nicaragua struggle against US imperialism by my coffee picking experience. I went on a coffee brigade very similar to that of Chuck’s trips, at end of ‘88/beginning of ’89. It was my first time south of the border except to visit Baja and Puerto Vallarta Mexico! -\_ quite a contrast!\n<p style=\"font-weight: 400;\">Picking coffee was right up my alley – having grown up in the Willamette Valley of Oregon picking fruits and vegetables throughout most of all my summer vacations from age 11 through high school – Many of\_ the kids I knew did that – catching a bus at\_<span data-term=\"goog_1260068688\">5:30 am</span>\_each day. (I guess child labor laws came in after that). Coffee picking was similar except for the steepness of the terrain. We coffee pickers dubbed it “Ski Nicaragua” because of the frequency with which we slid down the muddy hillsides.</p>\nI was overwhelmed by the whole experience of that trip! Looking back at my journal, I am amazed at the breadth of the trip– not just picking coffee, but also a great number of informative meetings with a number of sectors as well as entertainment!\_ As did Chuck, I also noted that not only could we not pick nearly as much coffee as the Nicaraguans, and I was also concerned that we were causing damage to the coffee plants. Three friendships made on that trip continue to this day.\n<p style=\"font-weight: 400;\">I was certainly hooked on Nicaragua, and the following July, I took my 19-year-old daughter to a Nicaragua Center for Community Action (NICCA) work brigade to Pio Doce, southwest of Masaya, to help build a school. A community member had access to a school bus and took us along with community members to the volcano, the beach, and to the huge 1989 July 19 “Triumph of the Revolution” celebration. \_(That was just before the US government got the Sandinistas to “Cry Uncle” and vote in the neo-liberal UNO party – so much for meddling in elections.\_ It is apparently only OK for the US to do so.</p>\n<img class=\"alignleft size-full wp-image-8857\" src=\"https://afgj.org/wp-content/uploads/2018/01/NicanotesDianaBohn.jpg\" alt=\"\" width=\"2448\" height=\"3264\" />\n<p style=\"font-weight: 400;\">After that, I helped organize and participated in NICCA work brigades, in collaboration with Union of Ranchers &amp; Farmers, first in Matagalpa, then for several years during the 90s in the municipality of San Ramon nearby. The\_<em>brigadistas</em>\_lived with families and worked with the farmers to establish sustainable agriculture procedures promoted by the\_<em>Programa Campesino a Campesino</em>\_(Peasant to Peasant Program) – terracing hillside fields to help prevent soil erosion, cultivating, and planting various crops to make sure the people have something to eat and to sell throughout the year. See: the film,\_<a href=\"https://www.youtube.com/watch?v=IVcevtMkJnI&amp;amp;feature=related\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.youtube.com/watch?v%3DIVcevtMkJnI%26feature%3Drelated&amp;source=gmail&amp;ust=1516309178446000&amp;usg=AFQjCNFvrpgp7SO3EW-b9_M1scS8781gbQ\">“Basic Basket.”</a></p>\n<p style=\"font-weight: 400;\">No longer organizing brigades, NICCA continues raising funds for that program as well as for Grupo MOES, an organization that works with marginalized women in Esteli, and with the Center for Legal Assistance for Indígenous People (CALPI)</p>\n<p style=\"font-weight: 400;\">I also became active in Campaign for Labor Rights, and Alliance for Global Justice. I continue to work to make the Sweatshop-Free Berkeley ordinance effective. As with most everything, these kinds of efforts are never done!</p>\n<p style=\"font-weight: 400;\">I also worked with Potters for Peace for many years, helped make the film, “The Road to Hope/Potters for Peace”.</p>\n<p style=\"font-weight: 400;\">All this is to say, one thing leads to another, and the coffee-picking trip was certainly a life-changing experience.</p>\n\n\n<hr />\n<p style=\"font-weight: 400;\"><strong>BRIEFS</strong></p>\n\n<ul>\n \t<li style=\"font-weight: 400;\">President Veronica Herrera of the Nicaragua Microfinance Association (ASOMIF), announced that the microfinance sector registered US$520 million in transactions last year, 18.5% over the amount reported in 2016. \"This is very good news for the promotion and development of small businesses in Nicaragua. This year we are projecting to surpass US$600 million in microcredit loans,\" Herrera said. (Nicaragua News, Jan. 12)</li>\n</ul>\n<ul>\n \t<li>The United Nations Entity for Gender Equality and Empowerment of Women (UN Women) issued a congratulatory message celebrating the election of Rose Cunningham as the new mayor of Waspam, a municipality of the Northern Caribbean Autonomous Region (RACN). \"The new mayor is the first indigenous woman to occupy this important post and is a well-known defender of the rights of women, indigenous and afro-descendant peoples,\" the UN agency said.\_ (Nicaragua News, Jan. 11)</li>\n</ul>\n<ul>\n \t<li>Presidential Delegate for Investments Álvaro Baltodano announced that Foreign Direct Investment totaled US$1.4 billion last year. \"Security and stability are key components when it comes to foreign investments. During the last 10 years, Nicaragua has significantly diversified its sources of investments going from 30 to 68 countries,\" Baltodano said. (Nicaragua News, Jan. 9)</li>\n</ul>\n<ul>\n \t<li>Nicaragua’s Free Trade Zones (FTZs) plan to create 12,000 new formal sector jobs in 2018 above the 118,000 jobs today. The Nicaragua Central Bank projected a grown of FTZ exports of 4.9%, continuing a growth of 177% since the Sandinistas returned to power. Products exported have also diversified greatly and labor law enforcement has improved since the first FTZ garment\_sweatshops of the 1990s neoliberal governments. (El Nuevo Diario, Jan. 9)</li>\n</ul>\n<ul>\n \t<li>The Costa Rica Attorney General’s office announced that it has opened an investigation of Roberto Rivas Reyes, president of Nicaragua’s Supreme Electoral Tribunal and banks have been asked to identify “active or passive accounts” under Rivas’ control. Rivas was one of 13 people sanctioned by the United States just before Christmas for alleged economic or human rights crimes. No specific acts or crimes have been identified by the US or Costa Rica. (El Nuevo Diario, Jan. 10)</li>\n</ul>\n<ul>\n \t<li>The minimum wage for most Nicaraguan workers has grown by over 45% in the past five years thanks to Nicaragua’s Tripartite Model in which companies and unions work out consensus increases in talks with the government. In the event consensus is not reached, the government decides the increase. This has led to a long period of labor stability and increasing living standards for Nicaragua formal sector workers. On Jan. 11 business and labor representatives sat down at the Ministry of Labor to negotiate the minimum wage levels for 2018. Neither side brought a proposal to the table, but both sides expressed confidence that negotiations will be completed rapidly. The negotiators heard a presentation by the government of the economic factors that will inform their decisions.<strong>\_</strong>Union\_representative Luis Barbosa expressed a willingness to reach a multi-year agreement similar to that of the Free Trade Zones where this month workers began to receive an annual 8% minimum wage increase for the next five years. (El Nuevo Diario, Jan. 10)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

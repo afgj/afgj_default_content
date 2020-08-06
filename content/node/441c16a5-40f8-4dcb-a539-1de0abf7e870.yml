@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 441c16a5-40f8-4dcb-a539-1de0abf7e870
+  bundle: article
+  default_langcode: en
+  depends:
+    bce432a9-c8d4-4656-a968-f6cc71b1b890: taxonomy_term
+    ff23272a-2c6a-4d3f-b137-4c19843845a6: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly 12.7.2018 Camilo Mejia Speech: Information'
+  created:
+    -
+      value: 1544180024
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-1272018-camilo-mejia-speech-information
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://default.salsalabs.org/Tb1d18017-ef98-4a8e-8d04-2b08b5bc9ba4/e5720c63-7ebf-4c26-93b5-b1602e36bbe5\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tb1d18017-ef98-4a8e-8d04-2b08b5bc9ba4/e5720c63-7ebf-4c26-93b5-b1602e36bbe5&amp;source=gmail&amp;ust=1544287569057000&amp;usg=AFQjCNH2IxlUsQHvrWiZmnMWCY0BIGM2Tw\">Alex Main: Is Latin America Still the US's \"Backyard\"?</a>\r\n\r\n&nbsp;\r\n\r\nVenezuela\r\n\r\n<a href=\"https://default.salsalabs.org/T047aae34-b572-46df-b158-0e29c7891054/e5720c63-7ebf-4c26-93b5-b1602e36bbe5\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T047aae34-b572-46df-b158-0e29c7891054/e5720c63-7ebf-4c26-93b5-b1602e36bbe5&amp;source=gmail&amp;ust=1544287569057000&amp;usg=AFQjCNFfCn75QX5qJOFQs8F0X_w01gIlMg\">Mexican Unions Show Solidarity with Maduro, Venezuela</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tb93d576a-34d9-4cdd-9e91-3ede92034265/e5720c63-7ebf-4c26-93b5-b1602e36bbe5\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tb93d576a-34d9-4cdd-9e91-3ede92034265/e5720c63-7ebf-4c26-93b5-b1602e36bbe5&amp;source=gmail&amp;ust=1544287569057000&amp;usg=AFQjCNEvxC_iekd9Sey_Hpa2mOXecHTflw\">Russia &amp; Venezuela sign $5b investment contracts for oil production, mining, wheat</a>\r\nNicaragua\r\n\r\n<a href=\"https://default.salsalabs.org/T5f1dbc60-96b9-4da2-aa56-f4b1db7d7177/e5720c63-7ebf-4c26-93b5-b1602e36bbe5\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T5f1dbc60-96b9-4da2-aa56-f4b1db7d7177/e5720c63-7ebf-4c26-93b5-b1602e36bbe5&amp;source=gmail&amp;ust=1544287569057000&amp;usg=AFQjCNGHQnPGU-A8MnRxhWX_nbcBOBzeGA\">Camilo Mejia's excellent speech on the Present US Disinformation Regime Change operation, with Q &amp;A, including about the Chinese funded canal and abortion law Daniel Ortega is falsely said to have passed</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T989875c1-1ce8-4dff-a451-32fad0d1aee1/e5720c63-7ebf-4c26-93b5-b1602e36bbe5\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T989875c1-1ce8-4dff-a451-32fad0d1aee1/e5720c63-7ebf-4c26-93b5-b1602e36bbe5&amp;source=gmail&amp;ust=1544287569057000&amp;usg=AFQjCNGm5FQcU_m502pHjslH8HUmB_wzAQ\">Palestine And Nicaragua Strengthen Relations With Cooperation</a>\r\n\r\n&nbsp;\r\n\r\nCuba\r\n\r\n<a href=\"https://default.salsalabs.org/T11a7fa57-712c-4324-b366-090910d43285/e5720c63-7ebf-4c26-93b5-b1602e36bbe5\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T11a7fa57-712c-4324-b366-090910d43285/e5720c63-7ebf-4c26-93b5-b1602e36bbe5&amp;source=gmail&amp;ust=1544287569057000&amp;usg=AFQjCNFW-kAn-EYY9eI3punv6RIhQXx5tw\">\"the richest 0.7% of the population owns 46% of all the wealth, while the poorer 70% of the population can access only 2.7% of it; 3.460 billion people survive in poverty; 815 million go hungry; 758 million are illiterate and 844 million lack basic services of drinking water\" Cuban President Miguel Diaz Canel at UN General Assembly</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T1d0383c1-4e51-4082-8041-78c9f1077fcb/e5720c63-7ebf-4c26-93b5-b1602e36bbe5\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T1d0383c1-4e51-4082-8041-78c9f1077fcb/e5720c63-7ebf-4c26-93b5-b1602e36bbe5&amp;source=gmail&amp;ust=1544287569057000&amp;usg=AFQjCNExPfTkafKgludVfXgZ7NvmlAwq_g\">Law governing self-employment modified; now 13% of the workforce is self-employed</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T39e1ad04-573b-4199-a76f-41ac19302633/e5720c63-7ebf-4c26-93b5-b1602e36bbe5\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T39e1ad04-573b-4199-a76f-41ac19302633/e5720c63-7ebf-4c26-93b5-b1602e36bbe5&amp;source=gmail&amp;ust=1544287569057000&amp;usg=AFQjCNGhdFSWhab3ZOUNrzyONOmaDtKUhw\">Free Ana Belen Montes, US political prisoner for defending Cuba</a>\r\n\r\n&nbsp;\r\n\r\nBolivia\r\n\r\n<a href=\"https://default.salsalabs.org/Tddc6ebea-a862-4048-9b7d-53e1fef2eee3/e5720c63-7ebf-4c26-93b5-b1602e36bbe5\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tddc6ebea-a862-4048-9b7d-53e1fef2eee3/e5720c63-7ebf-4c26-93b5-b1602e36bbe5&amp;source=gmail&amp;ust=1544287569057000&amp;usg=AFQjCNFa4LIOe6ulrw8695torDJXey1nLg\">Social Groups in Bolivia Defend Democracy and Evo Morales' presidential campaign</a>\r\n\r\nDelegations\r\n\r\n<a href=\"https://default.salsalabs.org/T46758109-20b0-46e4-b9b5-84e81587ecf6/e5720c63-7ebf-4c26-93b5-b1602e36bbe5\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T46758109-20b0-46e4-b9b5-84e81587ecf6/e5720c63-7ebf-4c26-93b5-b1602e36bbe5&amp;source=gmail&amp;ust=1544287569057000&amp;usg=AFQjCNFj1P_OSfdWHZjSuYD_oQX_iBeejA\">14th May Day International Volunteer Work Brigade in Solidarity with Cuba\r\nApril 21 to May 5, 2019</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Ta5db65f8-6f42-4121-8e78-edbd4fd13791/e5720c63-7ebf-4c26-93b5-b1602e36bbe5\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Ta5db65f8-6f42-4121-8e78-edbd4fd13791/e5720c63-7ebf-4c26-93b5-b1602e36bbe5&amp;source=gmail&amp;ust=1544287569057000&amp;usg=AFQjCNFon5Zq3fEdofEMD-nlEmY9Cs3B5A\">IFCO/Pastors for Peace delegations to Cuba</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T6a06fcf2-9edd-49f1-939b-fc3a29138d9f/e5720c63-7ebf-4c26-93b5-b1602e36bbe5\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T6a06fcf2-9edd-49f1-939b-fc3a29138d9f/e5720c63-7ebf-4c26-93b5-b1602e36bbe5&amp;source=gmail&amp;ust=1544287569057000&amp;usg=AFQjCNHtDC9wc64VHYVPfglgkDPD4bxA4Q\">Delegation to Venezuela, March 17-24, 2019</a>\r\n\r\nAbout the Weekly\r\nIt is AfGJ's conviction that we in the US defend Venezuela's sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us: stansfieldsmith100@gmail.com. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\nReceive the News from Venezuela Each Week-\r\nSign Up\r\nfor the Venezuela Weekly!"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bce432a9-c8d4-4656-a968-f6cc71b1b890
+    -
+      entity: ff23272a-2c6a-4d3f-b137-4c19843845a6
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

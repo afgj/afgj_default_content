@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 48bc8cae-ca12-4cca-a188-ab86424aebea
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Why NED?'
+  created:
+    -
+      value: 1274365250
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /why-ned
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "There are a many institutions, both public and private, that promote neoliberal “democracy”. The National Endowment for Democracy is just one of them, and it has a budget that has been right around $78 million per year since 2004. By federal budget standards, that’s not a lot. So—why concentrate on the NED, instead of focusing on other institutions?\r\n<strong>\r\nThe NED is…</strong>\r\n\r\n1) …Unconstitutional–\r\n\r\n* The NED sets a dangerous precedent by privatizing US foreign affairs. The constitution is clear that international relations are carried out on behalf of the US people by the executive and legislative branches. Although founded by Congress and funded by taxes, the NED carries out foreign policy independently of any elected, representative body.\r\n\r\n<strong>2) …A “Black Box” of Democracy Interference that violates the public trust–</strong>\r\n\r\n* Because of it’s publicly-funded, yet “private” character, the NED is not subject to any meaningful public oversight. In fact, the core institutes of the NED also receive funding from USAID and the US State Department, in addition to NED allocations. Funneled through these institutes, and then further subcontracted, sometimes many times over, even non-NED funding can get laundered so that it is almost impossible to track. The NED was founded as the next stage in electoral interference previously done by the CIA and its front organizations.\r\n<strong>\r\n3) …A web of military, political, espionage, and corporate media that obstructs the free flow of information for the sake of corporate interests–</strong>\r\n\r\n* The boards of the NED and its core organizations are full of Spin Doctors from public relations firms, big advertisers, corporate headquarters; political analysts and advisors; and ex-CIA and military personnel. Vin Weber, NED Board Chair, works for a public relations firm that is part of the Omnicom Group, the world’s 3rd largest advertising agency. The Center for International Private Enterprise, an NED core institute, includes an executive from Google and a major contractor with Google. The International Republican Institute, another NED core institute, includes a former Senior Advisor to the CIA and various representatives from the military-industrial complex. These are just a few examples. Through well-placed contributions to political parties and other organizations, and through its web of corporate PR, military-industrial, and intelligence connections, the NED is able to coordinate campaigns of misinformation and bring together a diverse coalition in order to intervene in and control foreign elections. If that fails, the NED empowers that coalition to overthrow elected governments—like it did in Haiti and like it is trying to do in Venezuela.\r\n\r\n<strong>4.) …It’s sole mission is to “fix” other countries’ elections, and most US residents would agree that is unfair.</strong>\r\n\r\n* USAID also builds schools, roads and has other projects that are an obligation for rich countries to provide to the poor countries since our wealth was extracted from them in the first place. We do not oppose foreign aid, indeed we would increase it and remove the neoliberal conditions that are currently attached to US foreign aid. The NED mission, on the other hand, is limited to the manipulation or other countries’ democratic institutions and processes. People in the US would never tolerate foreign influence in our elections. If they understand what the NED really does, they won’t tolerate our government doing it elsewhere either."
+      format: full_html
+      summary: ''

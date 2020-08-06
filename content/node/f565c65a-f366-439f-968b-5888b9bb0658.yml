@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f565c65a-f366-439f-968b-5888b9bb0658
+  bundle: article
+  default_langcode: en
+  depends:
+    2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad: taxonomy_term
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicanotes: El Güegüense, The Character of the Nicaraguan People'
+  created:
+    -
+      value: 1514370089
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-el-gueguense-character-nicaraguan-people
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-7994 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/08/nicanotesbannerwbyline2.jpg\" alt=\"Nincanotes : A blog about nicaragua by solidarity activists\" width=\"594\" height=\"196\" />\n\n<strong>By John Kotula</strong>\n\nFor the last few months I have been going to Diriamba to study with Marlon Flores. He is teaching me to carve traditional wooden masks used in Nicaraguan folk dances. Marlon is a wood carver, folklorists, flautist, choreographer, and community organizer. He is a key person in the annual\_<a href=\"http://www.diriamba.info/English/the_encounter.htm\">Festival of Saint Sebastian</a>\_in Diriamba during which El Güegüense\_is performed. Like many Nicaraguans, Marlon has a deep knowledge and appreciation of the history and culture of his country. Most of the ideas in this essay grew out of conversations in his workshop. You can see more of Marlon’s work on his\_<a href=\"https://www.facebook.com/marlonjose.vegaflores?ref=br_rs\">Facebook page</a>.\n\n[caption id=\"attachment_8664\" align=\"aligncenter\" width=\"583\"]<img class=\"size-full wp-image-8664\" src=\"https://afgj.org/wp-content/uploads/2017/12/Image-1-Marlon.png\" alt=\"\" width=\"583\" height=\"779\" /> Marlon Flores in his home and workshop[/caption]\n\nThe roots of revolution go very deep in Nicaragua. They go way back before the Sandinistas were voted back into power in 2006 despite election interference from the United States, back before the Triumph of the Revolution that overthrew the murderous, 43-year dictatorship of the Somoza family in 1979, back before\_Augusto César Sandino\_inspired all of Central America with his fight against US imperialism in the 1920s and 30s, back before 1904 when Rubin Darío poetically warned Roosevelt against imperialism:\n<p style=\"padding-left: 30px;\">You think that life is a fire,\nthat progress is an irruption,\nthat the future is wherever\nyour bullet strikes.\nNo.</p>\n<p style=\"padding-left: 30px;\">…our America,\ntrembling with hurricanes, trembling with Love:\nO men with Saxon eyes and barbarous souls,\nOur America lives. And dreams. And loves.\nAnd it is the daughter of the Sun. Be careful.\nLong live Spanish America!\nA thousand cubs of the Spanish lion are roaming free.\nRoosevelt, you must become, by God's own will,\nthe deadly Rifleman and the dreadful Hunter\nbefore you can clutch us in your iron claws.\nAnd though you have everything, you are lacking one thing:\nGod!</p>\n<p style=\"padding-left: 30px;\"><em>To Roosevelt\n</em><em style=\"letter-spacing: 0.05em;\">From</em><span style=\"letter-spacing: 0.05em;\">\_Selected Poems of Ruben Dario</span><em style=\"letter-spacing: 0.05em;\">,\_University of Texas Press\n</em><em>Translation by Lysander Kemp.</em></p>\nAnd it goes back before September 14, 1856, when a Nicaraguan fighter named Andrés Castro brained an American mercenary from William Walker’s occupying army with a rock and reportedly turned the tide in the conflict that would oust Walker; it goes back before most of Central America negotiated its independence from Spain on September 15, 1821.\n\nHow far back? At least four centuries.\n\nSome authorities say that\_<a href=\"https://translate.google.com/translate?hl=en&amp;sl=es&amp;u=https://vianica.com/sp/go/specials/21-el-gueguense-macho-raton.html&amp;prev=search\">the first anti-imperialism</a>\_battle in the Americas took place in 1522 near what is now Diriamba, Nicaragua. The invading Spanish met with the local indigenous people to demand submission to Spain and conversion to Christianity. The locals, the Nahuatl people said, let us think it over. Then they returned and attacked the Spaniards. It was a lopsided battle. The Spaniards prevailed, of course, but the resistance was not over.\n\nApproximately a hundred years later, in the same area, a work of street theater and dance emerged. Named “El Güegüense\_or Macho Raton” it tells the story of an indigenous merchant who is summoned before the colonial governor. El Güegüense\_is a rascal, a trickster, and the epitome of covert resistance to oppression. He uses puns, double entendre, feigned deafness, and bawdy jokes to get the governor’s head spinning. By the end, nothing the governor sought is delivered and in fact the governor’s daughter is married to El Güegüense’s son. In 2005, UNESCO designated the play a \"<a href=\"https://en.wikipedia.org/wiki/Masterpiece_of_the_Oral_and_Intangible_Heritage_of_Humanity\">Masterpiece of the Oral and Intangible Heritage of Humanity</a>.\" Nicaragua thus has two proclaimed masterpieces by UNESCO, the other being\_<a href=\"https://upload.wikimedia.org/wikipedia/commons/b/bf/Map_of_UNESCO_Intangible_cultural_heritage_(en).png\">“Language, dance and music of the Garifuna”</a>.\n\n[caption id=\"attachment_8665\" align=\"aligncenter\" width=\"240\"]<img class=\"wp-image-8665 size-full\" src=\"https://afgj.org/wp-content/uploads/2017/12/Image-2-Muneco-macho-Raton.jpg\" alt=\"\" width=\"240\" height=\"320\" /> A figurine of El Macho Raton created by Marlon Flores and his family[/caption]\n\nThis work is one of the touchstones of Nicaraguan culture. Everyone knows it and the image of The Macho Raton is beloved and ubiquitous.\_<a href=\"https://translate.google.com/translate?hl=en&amp;sl=es&amp;u=https://vianica.com/sp/go/specials/21-el-gueguense-macho-raton.html&amp;prev=search\">Many would say</a>\_the character of El Güegüense\_- roguish, cunning, and rebellious, is the character of the Nicaraguan people.\n\n[caption id=\"attachment_8666\" align=\"alignleft\" width=\"1080\"]<img class=\"wp-image-8666 size-full\" src=\"https://afgj.org/wp-content/uploads/2017/12/Image-3-Folk-Nica-Macho-Raton.jpg\" alt=\"\" width=\"1080\" height=\"1080\" /> This image, titled Cultural Revolution, was created by the Managua design company Folk Nica and is used with their permission. It combines traditional Macho Raton imagery, the famous photograph Molotov Man taken by Susan\_Meiselas\_in Nicaragua on on July 16, 1979, and the work of British graffiti artist Banksy.[/caption]\n\n&nbsp;\n\n<hr />\n\n<strong>BRIEFS</strong>\n<ul>\n \t<li>By Executive Order, President Trump has sanctioned 13 people, including the head of Nicaragua’s Supreme Electoral Council (CSE) Robert Rivas. The sanctions, made under the 2012 Magnitsky Act, freeze US assets of those named, deny access to the US banking system, and deny visas or future entry into the US. The act was originally passed by Congress to allow the President to sanction Russian officials accused of human rights violations or corruption. According to the US embassy in Nicaragua, Rivas is accused of accumulating substantial assets despite his US$60,000 annual salary. The Nicaraguan government had not commented by press time. (El Nuevo Diario, Dec. 22)</li>\n \t<li>In a ceremony in Washington, DC, the Organization of American States (OAS) released its report on Nicaragua’s Nov. 5 municipal elections. The OAS observer mission has made a number of recommendations to strengthen Nicaragua’s electoral system, but said the deficiencies did not affect the will of the voters. The OAS did say that some complaints filed in some municipalities have “sufficient merits to be analyzed” by the Supreme Electoral Council in order to “clear the reasonable doubts. The\_Sandinista National Liberation Front (FSLN) won 135 municipalities, the Liberal Constitutionalist Party (PLC) 11, Citizens for Liberty (CxL) 6 and the Liberal Alliance Nicaraguan (ALN) won 1. Foreign Minister Denis Moncada said the government maintains the will to work with the OAS to improve the electoral system and institutionality. (El Nuevo Diario, Dec. 20)</li>\n \t<li>The post-electoral crisis in Honduras, caused by electoral fraud on behalf of Juan Orlando Hernandez, has impacted Nicaragua’s trade according to Marvin Altamirano, president of the Association of Nicaraguan Shippers (ATN). Altamirano said that 350 trucks have been prevented from moving containers to and from the Honduran port of Cortes and that roughly US$50 million worth of products, much of it for Christmas, cannot be transported from the port to Nicaragua. Nicaragua has no Caribbean port so all its East Coast shipping must come through ports in Honduras or Costa Rica. (El Nuevo Diario, Dec. 20)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

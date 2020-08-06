@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e12deee8-d220-4b0a-a8d2-424c92ca6d6a
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Worker to Worker Solidarity Campaign'
+  created:
+    -
+      value: 1341488219
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /worker-worker-solidarity-campaign-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-1553\" src=\"https://afgj.org/wp-content/uploads/2011/08/IMG_49688.jpg\" alt=\"\" width=\"420\" height=\"315\" />\r\n<h3 style=\"text-align: center;\"><span style=\"color: #008080;\"><a style=\"color: #008080;\" href=\"https://afgj.org/join-the-uslaw-afgj-delegation-to-colombia-nov-24-dec-4-2019\">Join the USLAW / AfGJ Labor Delegation to Colombia November 24-December 4, 2019</a></span></h3>\r\n<h3 style=\"text-align: center;\"><span style=\"color: #ff0000;\"><a style=\"color: #ff0000;\" href=\"https://afgj.org/what-is-the-afl-cios-solidarity-center-doing-in-venezuela-we-have-a-right-to-know\"><strong>Write the Solidarity Center and demand it come clean about its activities in Venezuela</strong></a></span></h3>\r\n<ul>\r\n \t<li><a href=\"https://www.facebook.com/workertoworker/\">Like us on Facebook and get regular updates on international labor struggles!</a></li>\r\n \t<li><a href=\"https://afgj.org/category/labor\">Visit our archive of Labor related articles\_</a></li>\r\n</ul>\r\nThe Worker to Worker Solidarity Campaign (WWSC) supports internationalist, mutual solidarity between workers and unions across the planet. We believe that direct worker to worker, farmer to farmer, union to union, and popular movement to popular movement solidarity is the only way to go! We know that international labor relations have at times been taken advantage of by Empire and big transnational corporations to undermine movements for labor rights and participatory democracy. Therefore, we advocate for US unions to develop international solidarity programs independently of government funding and direction. Worker to worker internationalism is the road we must take if we truly want peace, justice, and a fair shake for all laborers, both in factory and field.\r\n\r\nThe WWSC prioritizes solidarity efforts with unions and labor movements that are: 1) threatened by US government and/or transnational corporate policies and activities; 2) seeking political and economic liberation from such policies; and, 3) not yet receiving the full measure of solidarity needed from US labor and popular movements.\r\n\r\nThe WWSC and AfGJ have an especially close relationship with Colombia's <a href=\"http://fensuagro.org/\">National Unitary Federation of Agricultural Workers (FENSUAGRO)</a>. Fensuagro is the most repressed labor organization in Colombia and possibly the world. We have been part of notable successes in building awareness in the US of their struggles, having brought their leadership on a tour of the US, including participation in the Labor Notes conferences in 2016 and 2018, and helping them secure and build important relationships with US labor organizations.\r\n\r\nWe also maintain contact with sectors of the labor movement in both Mexico and Peru. We have worked with coalitions of eco-defenders and miners unions in both Mexico and Peru fighting for workers rights and against environmental contamination. In Mexico, we have supported teachers unions in their struggles against privatization and educational reforms that hurt communities and undermine workers and their right to organize.\_In the past, the WWSC has helped successfully to build US relations with the CTH (Haitian Workers Union).\r\n<p style=\"text-align: center;\"><strong>For more information, send an email to James@AFGJ.org or call 520-540-8336, ext. 3</strong></p>\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n<article id=\"post-7364\" class=\"post-7364 post type-post status-publish format-standard has-post-thumbnail hentry category-alerts category-colombia category-democracy category-eco-solidarity category-espanol category-human-rights category-labor category-militarism category-news category-peace category-social-justice category-solidarity category-tdtw category-trade category-uncategorized\"><header></header></article><article id=\"post-6170\" class=\"post-6170 post type-post status-publish format-standard has-post-thumbnail hentry category-democracy category-eco-solidarity category-human-rights category-labor category-news category-peru category-social-justice category-solidarity category-trade\">\r\n<div class=\"entry-content\"></div>\r\n</article>"
+      format: full_html
+      summary: ''

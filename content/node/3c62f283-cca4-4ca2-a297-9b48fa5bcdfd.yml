@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3c62f283-cca4-4ca2-a297-9b48fa5bcdfd
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    4d58c480-4afa-42db-9320-32d1579a7036: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'David Ravelo Gutiérrez beaten, taken by Colombian authorities—Demand his freedom NOW!'
+  created:
+    -
+      value: 1589384180
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /david-ravelo-gutierrez-beaten-taken-colombian-authorities-demand-his-freedom-now
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "[caption id=\"attachment_12754\" align=\"aligncenter\" width=\"588\"]<img class=\" wp-image-12754\" src=\"https://afgj.org/wp-content/uploads/2020/05/ravelo.jpg\" alt=\"\" width=\"588\" height=\"392\" /> David Ravelo Crespo and David Ravelo Gutiérrez, father and son human rights defenders in Colombia[/caption]\r\n\r\nDavid Ravelo Guttiérrez is a well -known social leader and human rights defender who has been beaten by Colombian armed forces and detained without charges in La Modelo prison. He is the son of well-known human rights defender and ex-political prisoner David Ravelo Crespo.\r\n\r\n&nbsp;\r\n<h2 style=\"text-align: center;\"><span style=\"color: #800000;\"><a style=\"color: #800000;\" href=\"https://afgj.salsalabs.org/freedavidravelogutierrezlibertadadavidravelogutierrez/index.html?eType=EmailBlastContent&amp;eId=50e56a60-43ff-475b-918c-6d9f1ec464de\"><strong>Join with international solidarity activists to demand his safety and well-being be respected and that he be freed immediately.</strong></a></span></h2>\r\n&nbsp;\r\n\r\n<strong>BACKGROUND INFORMATION (Following is a translation by Raquel Mogollón of an alert by the Committee of Solidarity with the Political Prisoners. <a href=\"http://www.comitedesolidaridad.com/es/content/denuncia-p%C3%BAblica-9\">Click here to read the original Spanish</a>)</strong>\r\n\r\n#URGENTE #DefendTheDefenders #WeSupportTheColombianPeaceAccord\r\n\r\nToday, May 13, 2019, David Ravelo Gutiérrez, a political prisoner recently detained, currently being held in the La Modelo prison, is taken out of his cell block by the guards without explanation and physically attacked . They are accusing him of responsibility for some denouncements that came to light in the news media exposing the penitentiary system (#INPEC).\r\n\r\n[David is the persecuted son of internationally recognized political prisoner, David Rabelo Crespo ( Libertad Rabelo Crespo ) whose freedom was only just secured last year after many years of unjust imprisonment.]"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: 4d58c480-4afa-42db-9320-32d1579a7036
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b3aa4143-56fc-4e41-9754-9a012ca2c83d
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    87614bb5-404a-46a8-b7ea-8faa09106702: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'October Venezuela Webinar: Live with the Venezuela Embassy Protectors'
+  created:
+    -
+      value: 1572094920
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /october-venezuela-webinar-live-venezuela-embassy-protectors
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter wp-image-10780 size-full\" src=\"https://afgj.org/wp-content/uploads/2018/09/VSN-webinar.jpg\" alt=\"\" width=\"768\" height=\"408\" />\r\n<h2 style=\"text-align: center;\"><strong>Tuesday, October 29th at 8:00pm ET / 5:00pm PT</strong></h2>\r\n<p style=\"text-align: center;\"><strong>REGISTER NOW: <a href=\"https://tinyurl.com/OctoberVenezuelaWebinar\" target=\"_blank\" rel=\"noopener noreferrer\">https://tinyurl.com/OctoberVenezuelaWebinar</a></strong></p>\r\nWe will be hearing from members of the\_Embassy Protection Collective who spent 37\_days in the Venezuela Embassy in DC defending it from take over by pro-coup actors and attempting to prevent an escalation of US aggression in Venezuela.They now face up to a year in jail and $100,000 fines after being arrested on\_May 16\_in\_violation of\_international law.\r\n\r\nWe will get an update on their trial as they take the fight to the courts and put US Foreign Policy on trial. <strong>Protectors will talk about\_US war being waged against Venezuela and what we can do to stop it.</strong> They'll share details of what it was like staying in the Embassy while under siege as a pro-coup mob surrounded the building 24/7 with tents and security patrols.\r\n\r\nCatch the Embassy Protectors on speaking tour! The Embassy Protectors Defense Committee was formed to support the Embassy Protectors by promoting\_on a nationwide fundraising campaign for legal defense, organizing\_a public information campaign,\_and working to expose the\_US Government’s illegal action in support of a coup in Venezuela. For more information visit\_<a href=\"https://default.salsalabs.org/T614851ae-bee8-42f1-aa10-21ff3aa4b0e0/2a64e03c-ae33-4898-8c82-9d2158ea96ff\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T614851ae-bee8-42f1-aa10-21ff3aa4b0e0/2a64e03c-ae33-4898-8c82-9d2158ea96ff&amp;source=gmail&amp;ust=1572292885603000&amp;usg=AFQjCNHAxNOOEwjY4w0NvJ4MCzigvGmr7w\">defendembassyprotectors.<wbr />org</a>\r\n\r\n<strong>This webinar will be recorded and posted and archived here after.</strong>\r\n\r\n&nbsp;\r\n\r\n<a href=\"https://zoom.us/webinar/register/WN_geqGxp6eQb2r2GthBKItqQ?eType=EmailBlastContent&amp;eId=44444444-4444-4444-4444-444444444444\" target=\"_blank\" rel=\"noopener noreferrer\"><img class=\"size-medium wp-image-10366 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/07/register-now-300x162-300x162.jpg\" alt=\"\" width=\"300\" height=\"162\" /></a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: 87614bb5-404a-46a8-b7ea-8faa09106702
+  field_mt_slideshow:
+    -
+      value: false

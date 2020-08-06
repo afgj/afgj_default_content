@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d0777827-2ec5-4de6-a9e8-e6cbe4a0a9c5
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NicaNotes: Guest Blog: Rex Tillerson’s Conflict of Interest with Nicaragua'
+  created:
+    -
+      value: 1487774677
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-guest-blog-rex-tillersons-conflict-interest-nicaragua
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"size-full wp-image-6975 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"\" width=\"579\" height=\"195\" /></a>\n\nThis week’s guest blog is by a correspondent who prefers to remain anonymous due to their job in Nicaragua.\n\n<hr />\n\nThe first month of the Trump presidency has been marked by so much chaos, mismanagement, and terrible policy that it is almost impossible to pay attention to everything. For example, Rex Tillerson, had no problem being confirmed as the US Secretary of State despite conflicts of interest that would have prevented him from even being considered for the position in any other administration. What has been reported has focused almost exclusively on his labyrinthine relations with Russia. “In 2011, Mr. Tillerson engineered a multibillion dollar joint venture with the Russian state-owned oil company Rosneft. Exxon received the right to look for oil in the Black and Kara Seas alongside Rosneft, in return for giving the Russian company minority stakes in Exxon projects in Texas, the Gulf of Mexico and elsewhere.” (New York Times, January 11, 2017.) How is he going to be impartial when multibillions of dollars are at stake?\n\nHowever, Tillerson also has a long, complicated, and conflictual history with Latin America in general and Nicaragua in particular. For those of us with a special interest in Nicaragua, it is important to know this history and be able to judge if Tillerson is acting in the best interests of the US and Nicaragua or in self-interest.\n\nTen years ago, Hugo Chavez was using Venezuela’s oil wealth to promote socialism and the welfare of the poor in Latin America. He sold oil to poor countries with favorable payment plans and also used some of the profits to support the Bolivarian Alternative Development Bank and Fund. The Bolivarian Alliance for the Peoples of Our America (ALBA for short) was founded by Chavez and Fidel Castro in 2004 and uses its resources to build solidarity and co-operation among Latin American countries. “ALBA positions itself as anti-imperialist, anti-neoliberal, and sometimes even anti-capitalist.” (ALBA Info, https://albainfo.org/ )\n\nIn 2007 when Tillerson was the CEO of Exxon Mobile Corporation, Chavez nationalized all private hydrocarbon companies. Tillerson sued, but eventually abandoned the company’s holdings in Venezuela. In a 2013 interview, Tillerson down played what had happened. “We have been in and out of Venezuela before. We were in Venezuela. We left Venezuela, we went back and we left again,” he said. However, it is clear that his company was forced out and that Chavez called the shots.\n\nIn the same year, Daniel Ortega made the decision that Nicaragua would only import oil from Venezuela. He also was determined that the oil would be stored in Exxon Mobile’s tanks in the port city of Corinto. Ortega did not mince words, according to a Swiss business blog:\n\n“Ortega has publicly referred to ‘transnationals that import oil’ as members of a ‘mafia,’ and castigated ExxonMobil for behaving like ‘true mercenaries (and) speculators’ while ‘bleeding the Nicaraguan people.’ Ortega also charged ExxonMobil with being ‘uncooperative’ and ‘totally negative’ to the idea of ‘contributing to the Nicaraguan people.’ ‘All this would change,’ said Ortega… , ‘if this transnational would change its attitude.’” (“<a href=\"http://blog.buetikofer.net/2011/06/01/nicaragua-ortega-pressures-exxonmobil-to-buy-venezuelan-oil/\">Nicaragua: Ortega Pressures ExxonMobile to Buy Venezuelan Oil</a>,”)\n\nThere was some back and forth and there were some interim deals, but eventually Ortega got what he wanted and in March 2011 the company sold off all its operations and left the country. In this instance, too, Tillerson put a businessman’s spin on what had happened. “Esso [Exxon Mobile in Nicaragua] left Nicaragua happy because they made a good sale, successfully exiting a market they no longer wanted to participate in, to concentrate on the work of looking for new sources of oil,” (“Rex Tillerson’s Nicaragua Connection,” https://confidencial.com.ni/rex-tillersons-nicaragua-connection/) None the less, it is clear that Exxon Mobil’s exit from Venezuela and Nicaragua was not an autonomous business decision. It came about because the leaders of those countries made the decision that the way the corporation was doing business was not in the best interest of their people.\n\nSo now Rex Tillerson is Secretary of State and sooner or later he will lead the creation of US foreign policy toward Nicaragua. There is clearly a conflict of interest. Although that used to be an important concept in American government, so far, it doesn’t carry any weight in the Trump administration. Therefore, it will be important for informed people to act as a watchdog on Tillerson. If any of his actions seem to be based on personal history or payback for his business reversals this should be denounced loudly and clearly.\n\n<hr />\n\nBRIEFS\n<ul>\n \t<li>The Co-Director of the Nicaragua Institute of Agricultural Technology (INTA), Miguel Obando, announced that a National Sustainable Cocoa Production Strategy will be implemented in Nicaragua this year. The purpose of the Strategy is to promote eco-friendly practices and increase production going from 2,350 to 5,000 tons of cocoa beans per year. (Nicaragua News, Feb. 16)</li>\n</ul>\n<ul>\n \t<li>A report published by the French news agency AFP states that Nicaragua is carrying out a renewable energy revolution that is bringing electricity and prosperity to isolated rural communities in the country. The AFP report noted that 1,500 solar panels have been installed in homes and schools on the Nicaragua Caribbean Coast, as well as 250 solar powered water pumping systems benefiting farmers in the Pacific Dry Corridor. (Nicaragua News, Feb. 15)</li>\n</ul>\n<ul>\n \t<li>\_The Nicaragua Minister of Transportation and Infrastructure, Pablo Martínez said road infrastructure has improved over the last few years through the building of 200 kilometers of highways per year. He added that in the last ten years construction of highway infrastructure grew from 2,800 kilometers in 2006 to over 4,000 kilometers in 2015. (Nicaragua News, Feb. 15)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

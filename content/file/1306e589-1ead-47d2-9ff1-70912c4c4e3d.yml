@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 1306e589-1ead-47d2-9ff1-70912c4c4e3d
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: mt-article-1-banner-2.jpg
+  uri:
+    -
+      value: 'public://2018-05/mt-article-1-banner-2.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 30491
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1525972717

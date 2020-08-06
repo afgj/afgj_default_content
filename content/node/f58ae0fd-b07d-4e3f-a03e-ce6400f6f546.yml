@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f58ae0fd-b07d-4e3f-a03e-ce6400f6f546
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela and ALBA Weekly: Venezuela Builds 2 Million Homes for the People; US Disinformation Campaign Still in High Gear 12.29.2017'
+  created:
+    -
+      value: 1514623924
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-and-alba-weekly-venezuela-builds-2-million-homes-people-us-disinformation-campaign-still
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<b>December 29, 2017</b>\n\nThis weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\n\nIt is AfGJ's conviction that we in the US defend Venezuela's sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\n\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us: <a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=4G62FrZLtKpw2pDTihLPd6j1FjKE8bC9\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on <a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=JbzVeknDe0hE4xsuH37RNKj1FjKE8bC9\">Venezuelanalysis.com</a>.\n\n<hr />\n\n<img class=\"size-full wp-image-8676 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/12/venezuela.png\" alt=\"\" width=\"600\" height=\"397\" />\n\n<hr />\n\n<strong>The News This Week</strong>\n\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=3g0EwkcJ3g9INR1r1GpV%2Faj1FjKE8bC9\">Help Support Venezuelanalysis.com</a>\n\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=U5zxLmO5I5k6kVHsXul%2Ftqj1FjKE8bC9\">Venezuela Housing Mission Delivers Nearly 2 Million Homes to Needy Families</a>\n\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=il7IdzSYWixEhCHBrsO9p6j1FjKE8bC9\">Has Venezuela Really Banned Opposition Parties from Elections?</a>\n\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=nxIrCzo8Nf7ceOw%2Bv07vTGury8p4Svab\">The People of Venezuela are Staunchly Resisting the Regime Change Drive of Western Governments and Media. International Solidarity is Lacking.</a>\n\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=WcdolLomAp%2BjoyENwpZFaaj1FjKE8bC9\">Raul Castro Speech to Cuba National Assembly, December 21</a>\n\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=7Flkl9vIG1GhbSgLjwdyPaj1FjKE8bC9\">FAIR: Washington Post’s One-Sided Cheerleading for Coup and Intervention in Venezuela</a>\n\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=3JbJzxyq1fD2sZ%2FBEBHcBqj1FjKE8bC9\">Venezuela, the shadow agenda. A documentary by Hernando Calvo Ospina</a>\n\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=TJYFH1aXdEMz2MYSjKV8X6j1FjKE8bC9\">Canada the Obedient Servant of the US: Ottawa’s Attitude Towards Venezuela: “The Venezuelan Ambassador is No Longer Welcome in Canada”</a>\n\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=fUmT%2BM9IOyZvzxWNHs3nnqj1FjKE8bC9\">US Sanctions Head of Nicaragua's Electoral Tribunal</a>\n\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=0BjttDE8ZRBVw1PsWLHPDaj1FjKE8bC9\">Cuba to Boost Solar Power Production with China's Aid</a>\n\n<strong>Other Issues:\_ </strong><strong>\_</strong>\n\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=FGBMq1IQwQWOy2vXtwlzM6j1FjKE8bC9\">Venezuela is Under Attack. What do We Do? Stand Up. Fight Back!</a>\n\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=LJLnnmcfv%2FuUDMZOzBzvYaj1FjKE8bC9\">May Day Delegation to Cuba</a>\n\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=Q3IiCbZ7A3vaW7DvMSadmqj1FjKE8bC9\">Open Letter to the American People from Honduran Ex-President Zelaya, Overthrown in 2009</a>\n\n<hr />\n<p dir=\"ltr\"><strong>Allied Events</strong></p>\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=fUmT%2BM9IOyZqaA50c6D676j1FjKE8bC9\">Nicaragua Delegation with Friend of the ATC - April 2018. Honor the history of Workers Struggles for Land and Dignity in Nicaragua</a>\n\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=fETVYQeyXh5fRcBjYmgISKj1FjKE8bC9\">Act Now! Take Action Opposing Election Fraud in Honduras - Join the Call from the Honduras Solidarity Network.</a>\n\n<hr />\n\n<h3 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/signup_page/venweekly\"><strong>Subscribe</strong></a></h3>\n&nbsp;\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: 2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb
+  field_mt_slideshow:
+    -
+      value: false

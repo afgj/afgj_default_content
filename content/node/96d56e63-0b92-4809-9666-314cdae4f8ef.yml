@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 96d56e63-0b92-4809-9666-314cdae4f8ef
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Honduras: Nine Years of Repression and Resistance'
+  created:
+    -
+      value: 1530159182
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /honduras-nine-years-repression-and-resistance
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1 style=\"text-align: center;\"><b>Free Honduran Political Prisoners! </b></h1>\r\n<h1 style=\"text-align: center;\"><b>Stop Supporting Dictatorship!</b></h1>\r\n<h1 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=26346\"><b><span style=\"color: #993300;\">Send an email to US Congress demanding fundamental change in policies toward Honduras</span></b></a></h1>\r\n<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-3214\" src=\"https://afgj.org/wp-content/uploads/2012/12/ofraneh.jpg\" alt=\"\" width=\"400\" height=\"300\" /></p>\r\nThis alert prepared by the <a href=\"http://www.hondurassolidarity.org/\">Honduras Solidarity Network</a>\r\n\r\nJune 28, 2018, marks 9 years since the US backed coup d’etat in Honduras: 9 years of increasing violence and impunity, poverty and inequity for the Honduran people who made clear once again their rejection of the coup regimen in the elections held on November 26, 2017 —- election results that were overturned by fraud and repression.\r\n\r\nThe US government continues to support the Honduran regime politically and economically including millions of dollars of security/military aid that facilitates human rights violations. The Canadian government continues to support the extraction industry dominated by Canadian mining companies and other Canadian mega projects in tourism and energy industries. These projects \_are responsible for environmental and health damage as well as the violent repression and displacement of indigenous communities.\r\n\r\nA deep political crisis was triggered by widespread recognition of fraud and irregularities that allowed Juan Orlando Hernandez to declare victory in his re-election, (note: reelection is prohibited by the Honduran Constitution). The Hernandez regime met the post-election protests and rejection of fraud with massive repression, and a declared state of emergency: more than 30 people were killed most of them by the Military Police. Many hundreds were injured by army or police. All of these crimes remain in impunity with no information about any investigations. However, many protesters face ongoing legal actions against them by the government. More than 1300 were arrested during the post-election crisis. 23 people are recognized as political prisoners who are facing extremely severe charges and have been subjected to pretrial imprisonment without bail for months under terrible conditions.\r\n\r\nFive of these political prisoners remain detained in prisons:<strong>Edwin Espinal</strong> and <strong>Raúl Álvarez</strong> in the maximum security prison La Tolva; <strong>Edy Gonzalo Valles</strong>in the maximum security prison El Pozo and <strong>Gustavo Adolfo Cáceres Ayala</strong> and <strong>José Gabriel Godinez Ávelar</strong> in the penitentiary in El Progreso. Arrests of activists continue and there will likely be more prosecutions as the regime continues the repression. <strong>We support demands by Honduran organizations to free all the prisoners and drop the politically motivated charges. </strong>\r\n\r\nAnother consequence of the crisis and US/Canadian support for dictatorship is a new upsurge in migration by Honduran men, women and children fleeing the crisis. The US government has implemented policies that violate international human rights and refugee standards, detaining thousands of migrants, refusing to accept petitions for asylum, violating due process, and infamously separating children, even infants, from their parents. Border Patrol agents use violence and live ammunition with impunity against the migrants at the border and are arresting members of humanitarian organizations attempting to give life-saving emergency care to the migrants in the desert border region. The crisis will deepen even more with the US withdrawal of temporary protected status (TPS) for Hondurans in January 2020. Some 50, 000 Hondurans who have lived legally in the US for decades, many who have US born children, will be forcibly returned to Honduras.\r\n\r\n<strong>We demand that the US and Canadian government stop funding and supporting the regime in Honduras and end the mass deportations of refugees from Central America. We echo the Honduran people in demanding \_“Freedom for the Political Prisoners” and\_“Stop the Political Repression”. </strong>\r\n\r\n[caption id=\"attachment_8572\" align=\"aligncenter\" width=\"896\"]<img class=\"size-full wp-image-8572\" src=\"https://afgj.org/wp-content/uploads/2017/12/Screen-Shot-2017-12-12-at-4.11.33-PM.png\" alt=\"Honduras Solidarity Network HSN\" width=\"896\" height=\"369\" /> Honduras Solidarity Network HSN[/caption]"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

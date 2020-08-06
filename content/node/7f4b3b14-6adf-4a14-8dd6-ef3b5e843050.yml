@@ -1,0 +1,79 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 7f4b3b14-6adf-4a14-8dd6-ef3b5e843050
+  bundle: mt_showcase
+  default_langcode: en
+  depends:
+    7c4c09b8-9650-4fc0-a40a-ea3f4c667971: file
+    cd0b4a40-9b03-4048-a812-892416542fb4: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Eco-Solidarity Project'
+  created:
+    -
+      value: 1591191385
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /eco-solidarity-project
+      langcode: en
+      pathauto: 0
+  field_mt_shw_body:
+    -
+      value: "<p>The Eco-Solidarity Project is formed around the belief that there is nothing more important we can do for the planet than to dismantle the US/Corporate Empire. It is not enough to simply declare our opposition to capitalism. There’s a driver in the seat of real world, 21st Century capitalism, and that’s the US/NATO military alliance in service to transnational corporations and the oligarchy of the 1%. The Eco-Solidarity Project has &nbsp;two main goals: &nbsp;to build links between ecological struggle and movements for liberation; and to help mobilize the kind of solidarity the world most demands of the United States-that we stop putting the rest of the planet in peril. &nbsp;We in the US consume some 25% of the world’s energy resources, produce one third of the world’s solid waste and produce more carbon dioxide emissions per person than any other country (18.6 tons per person in 2010). &nbsp; We maintain a military machine that spends almost as much as the combined military costs of every other country on Earth. Our war machine and its allies are the biggest sources of ecological destruction on the planet. &nbsp;Our job is to reverse the economics and politics of war and corporate greed and bring ecological consciousness and participatory democracy home.</p>\r\n\r\n<p>Much of the Eco-Solidarity Project’s activity has to do with informing the other work of the Alliance for Global Justice with an ecological analysis. We have additionally developed several specific projects of solidarity that we believe both defends Mother Earth while also advancing efforts to liberate Earth and her ecosystems from the claws of Empire. We have waged or are waging campaigns against the development of the Conga gold and the Tia Maria copper mines in Peru; in defense of the Fensuagro peasant union of Colombia as they protect land from big agribusinesses and transnational corporations; and in solidarity with the Yaqui peoples in their efforts to protect the Rio Yaqui, which is doubly threatened by free trade agreements and construction of a natural gas pipeline owned by the US based Sempra corporation.</p>\r\n\r\n<p><strong><span>&nbsp; For more information send an email to workertoworker@gmail.com</span></strong></p>\r\n\r\n<p><strong>TO SUBSCRIBE TO THE ECO-SOLIDARITY EMAIL LIST, SEND A BLANK EMAIL TO:</strong></p>\r\n\r\n<p><strong>&nbsp; eco-solidarity-subscribe@lists.riseup.net</strong></p>\r\n\r\n<h4><span><a href=\"https://afgj.org/category/eco-solidarity\"><span>Click here to see AfGJ’s archive of Eco-Solidarity articles</span></a> </span></h4>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h4><span>Enjoy this song written by AfGJ’s James Jordan and performed by Caliche con Carne!</span></h4>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_shw_content_collapses:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 9d92ffb5-096e-4ada-bc70-4deeb4657238
+          bundle: mt_collapse
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1591191473
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+  field_mt_shw_image:
+    -
+      entity: 7c4c09b8-9650-4fc0-a40a-ea3f4c667971
+      alt: Eco-Solidarity
+      title: ''
+      width: 420
+      height: 315
+  field_mt_shw_tags:
+    -
+      entity: cd0b4a40-9b03-4048-a812-892416542fb4
+  field_mt_shw_video:
+    -
+      value: 'https://www.youtube.com/watch?v=IsQA609hwm8'

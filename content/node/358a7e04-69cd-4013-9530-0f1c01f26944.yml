@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 358a7e04-69cd-4013-9530-0f1c01f26944
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NicaNotes: If You Play With Matches, You Might Get Burned.'
+  created:
+    -
+      value: 1504098422
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-if-you-play-matches-you-might-get-burned
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"size-full wp-image-7994 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/08/nicanotesbannerwbyline2.jpg\" alt=\"\" width=\"594\" height=\"196\" /></a>\n<p style=\"text-align: center;\">By Chuck Kaufman</p>\nA small but telling drama has played out over the last couple of weeks that demonstrates how much has changed in Nicaragua since Daniel Ortega was elected president in November 2006. It also demonstrates how US entities that continue to play by the old rules of lies and disinformation just might get their fingers burned these days.\n\nThat’s what Carlos Ponte, Americas Director of the right-wing Washington think-tank Freedom House learned to his chagrin. Ponte claimed, in an Aug. 16 television interview, that the US government has a “black list” of corrupt Nicaraguan government officials and business leaders who would be losing their visas to visit the United States. Ponte named the Superior Council of Private Enterprise (COSEP) and its Vice-President Cesar Zamora as being on the list. Zamora is also president of the Chamber of Energy.\n\nIn the old days, a statement like Ponte’s would have been accepted at face value by members of Congress and corporate media, and COSEP, which represents Nicaragua’s largest corporations would have been scared away from any negotiations or rapprochement with the Sandinista government. But this is a different era than the 1980s. Nicaragua’s big business entrepreneurs have found that they can actually make more money while increasing wages every six months and abiding by the labor laws because what is called the Tripartite Model is creating economic and labor stability.\n\nMinimum wage negotiations between Business and Labor, moderated by the Government have increased unionization, decreased strikes, attracted foreign and domestic investment, and created macroeconomic stability that is praised by the World Bank and IMF which previously imposed devastating neoliberal structural adjustment policies on the country.\n\nSo, when Cesar Zamora asked, “Where is this list? Who made it?” and followed up by hiring a DC law firm to file a defamation lawsuit against Ponte and Freedom House, Ponte was forced to admit that there is no list and is scrambling to blame others in an effort to avoid liability in Zamora’s lawsuit. Zamora said that there are “sectors that want to return to the confrontation of the past.”\n\nIn the 1980s COSEP business leaders were called by the Sandinistas “patriotic producers.” That was a very generous use of the word patriotic. They were patriotic producers simply because they did not take their capital and leave the country but rather continued to produce economic activity while the US was funding a proxy army in an attempt to overthrow the Sandinistas. Patriotic did not mean that Nicaragua’s capitalists supported the Sandinista Revolution which overthrew the 45 year-old Somoza dictatorship. Indeed they were vociferously opposed to the so-called “communist” government. They were often quite openly supporting the Contra terrorists with funding and other support. Sandinista officials turned a blind eye because the economy was absolutely reliant on the economic activity of the COSEP members in the face of the US Economic Blockade.\n\nWhile good socialists might blanch at the current cooperation between COSEP and the government of President Daniel Ortega, and sometimes I myself can hardly believe the positive things I write about Nicaragua’s small economic elite, cooperation rather than obstruction has had measurable positive effects. UN Millennium Goals on poverty reduction have been achieved. There has been a tremendous decrease in political polarization. And economic growth is leading the region. Nicaragua has a population of 6.15 million, about the same as the state of Arizona. It cannot alone withdraw from world capitalism, so the Sandinista government has done the next best thing and ensured a more just economic distribution within the context of capitalism by restoring people’s economic and social rights.\n\nDecreasing the poverty level, increasing formal employment, controlling inflation, and attracting investment has improved the lives of the poor while at the same time improving the profits of the capitalists. Ponte made the mistake of thinking that this was 1987 not 2017. Freedom House is suffering a loss of credibility as a result and I hope that Ponte will personally suffer an economic blow when he inevitably settles Zamora’s lawsuit out of court.\n\n<hr />\n\n<ul>\n \t<li>Coffee exports during the 10 months of this agricultural cycle exceded the previous period by a whopping 21.6% for sales of almost US$424 million. The principal buyers were the US, Belgium, Germany, Italy, Canada, Japan, and Switzerland. (Nicaragua News, Aug. 28)</li>\n</ul>\n<ul>\n \t<li>The Nicaragua Supreme Electoral Council (CSE) presented the Ethics Guidelines that will govern the Nov. 5,, 2017 municipal elections. The Guidelines state, \"All candidates and political parties shall conduct an educational, informative and respectful campaign in accordance with the Political Constitution and the Electoral Law. The campaign will officially begin on Sept. 21 and will close on November 1,\" the CSE announcement said. (Nicaragua News, Aug. 25)</li>\n</ul>\n<ul>\n \t<li>A recent report by Fitch Ratings reaffirmed Nicaragua’s “B +\" score on its sovereign debt rating with a stable perspective for domestic and foreign currency. The report added that the positive score was based on a reduction in debt level, prudent fiscal policy, and sustained economic growth of 5.2% during the last five years. Moody also reaffirmed its credit rating for Nicaragua recently indicating that international financial centers are not too concerned about the prospects of passage of the NICA Act by the US Congress. The NICA Act would cut off Nicaragua from international loans and deal a severe blow to the economy. (Nicaragua News, Aug. 24)</li>\n</ul>\n<ul>\n \t<li>The Nicaragua Navy reported that a shipment of contraband timber and weapons was seized in Kukra Hill municipality in the South Caribbean Autonomous Region (RACS) last week. Ten people were arrested in the successful operation, in which four vessels carrying illegal timber cut from endangered species, an Uzi machine gun, and two pistols were also seized. (Nicaragua News, Aug. 24)</li>\n</ul>\n<ul>\n \t<li>The World Tourism Barometer issued by the United Nations World Tourism Organization (UNWTO), ranked Nicaragua among the top 8 fastest growing tourism destinations worldwide. The UNWTO states that in 2016 Nicaragua received 1.5 million visitors which represents an increase of 28.4% over the same period in 2015. (Nicaragua News, Aug. 24)</li>\n</ul>\n<ul>\n \t<li>Vice President Rosario Murillo announced the implementation of a Rural Small Business Program to facilitate greater access to low cost loans to finance the creation of small family businesses. \"The Ministry of Household Economy will offer training and assistance to participants in the Program to ensure the success of the new family businesses,\" Murillo said. (Nicaragua News, Aug. 23)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

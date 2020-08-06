@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8f92bc0b-336c-4bdd-8fce-9461eb9d04f3
+  bundle: article
+  default_langcode: en
+  depends:
+    55ce4aea-5d67-4df1-861b-3701ab9eb46c: taxonomy_term
+    b801f94f-af9e-4af6-9c74-12307c5ce744: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'El Chapo and the Double-Sided Game of the United States Drug War'
+  created:
+    -
+      value: 1550240739
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /el-chapo-and-double-sided-game-united-states-drug-war
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "[caption id=\"attachment_11353\" align=\"aligncenter\" width=\"666\"]<img class=\" wp-image-11353\" src=\"https://afgj.org/wp-content/uploads/2019/02/Chapo-reuters.jpg\" alt=\"\" width=\"666\" height=\"444\" /> Photo: Reuters[/caption]\r\n\r\nby Sam Stricker (<em>AfGJ Border Studies Intern</em>)\r\n\r\nJoaquín Beltrán Loera is a man who only looks to give the customers what they want or pay for, he doesn’t care about your politics or beliefs, if you pay for his drugs, his job is to deliver those drugs to you whether you are in United States or Mexico. The fact that El Chapo, as he is better known, has been able to slip through the cracks of many jails, and continue operating his drug business while in jail shows that there is institutional, and more specifically, governmental help in getting what El Chapo wants, and what the Government) wants. For more than a decade, the U.S. Government \_has used El Chapo by allowing the distribution of drugs into the U.S. to further pursue or even “frame” would be or consistent drug users within the U.S., and is playing both roles of good and bad within the Drug War.\r\n\r\nDuring El Chapo’s current (and now finished) trial in New York City, one witness testified that El Chapo once paid a $100 million bribe to former Mexican President Enrique Peña Nieto. Colombian drug trafficker Alexander Cifuentes Villa said during Guzmán Loera's trial that the former Mexican president asked El Chapo for 250 million dollars in exchange for the possibility of collaborating with the his government. In the same interrogation, Cifuentes Villa also stated that El Chapo financed Peña Nieto's presidential campaign in 2012. Cifuentes Villa was a close collaborator of El Chapo between 2007 and 2013.\r\n\r\nShifting focus to United States ties to the Drug War, one of El Chapo’s personal legal assistants Humberto Loya-Castro had become a “key informant” for the DEA. Loya-Castor had demonstrated his value to the DEA by revealing rival cartels like the Tijuana Cartel, and was rewarded not only by the DEA, but also El Chapo’s clan(s). Afterwords, he was found to be a member of El Chapo’s clan, but a question to ask here might be how long did they know, or how quick was the DEA/U.S. to get Loya-Castor out? There seems to be a very good, yet dark bond between El Chapo, Mexico, and the United States, but more specifically with the U.S. and El Chapo.\r\n\r\nIn a separate investigation, as found by El Universal, between the years of 2000 and 2012, “the U.S. government had an arrangement with Mexico's Sinaloa drug cartel that allowed the organization to smuggle billions of dollars of drugs in exchange for information on rival cartels” (El Universal). Here is an example of direct contact between the United States and El Chapo. This proves that the United States has been playing a double sided game until quite literally today with the Sinaloa drug cartel (El Chapo found guilty in NYC). To end this, I ask a couple of questions. Why would the U.S. want to end the double sided game with El Chapo now? During a time of where drugs like marijuana are becoming more socially acceptable, is it ruining profits for both U.S. and El Chapo? What possible assets were lost for the U.S. to pull out of this deal, as well as so many other questions to dwell on.\r\n\r\n&nbsp;\r\n\r\nSources\r\n\r\nKelley, M. (2014, January 14). CONFIRMED: The DEA Struck A Deal With Mexico's Most Notorious Drug Cartel. Retrieved from <a href=\"https://www.sfgate.com/technology/businessinsider/article/CONFIRMED-The-DEA-Struck-A-Deal-With-Mexico-s-5138855.php\">https://www.sfgate.com/technology/businessinsider/article/CONFIRMED-The-DEA-Struck-A-Deal-With-Mexico-s-5138855.php</a>\r\n\r\n&nbsp;\r\n\r\nMéxico, &amp; Compañia Periodística Nacional. (2015, July 24). La guerra secreta de la DEA en México. Retrieved from <a href=\"http://archivo.eluniversal.com.mx/nacion-mexico/2014/impreso/la-guerra-secreta-de-la-dea-en-mexico-212050.html\">http://archivo.eluniversal.com.mx/nacion-mexico/2014/impreso/la-guerra-secreta-de-la-dea-en-mexico-212050.html</a>\r\n\r\n&nbsp;\r\n\r\nJ. Jesús Esquivel (January 15, 2019) “El Chapo” financió campaña y sobornó con 100 mdd a EPN, aunque él pidió 250 mdd: testigo. Retrieved from\r\n\r\n<a href=\"https://www.proceso.com.mx/567683/el-chapo-financio-campana-y-soborno-con-100-mdd-a-epn-aunque-el-pidio-250-mdd-testigo\">https://www.proceso.com.mx/567683/el-chapo-financio-campana-y-soborno-con-100-mdd-a-epn-aunque-el-pidio-250-mdd-testigo</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 55ce4aea-5d67-4df1-861b-3701ab9eb46c
+    -
+      entity: b801f94f-af9e-4af6-9c74-12307c5ce744
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

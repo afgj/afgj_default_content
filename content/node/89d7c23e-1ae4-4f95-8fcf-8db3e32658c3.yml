@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 89d7c23e-1ae4-4f95-8fcf-8db3e32658c3
+  bundle: article
+  default_langcode: en
+  depends:
+    7de75c6a-4d28-4128-ad47-1ce01b22a3e2: taxonomy_term
+    8a513676-bf65-4895-b8a5-9c0075aba7f3: taxonomy_term
+    d7484f78-fd8a-49f7-afcb-5b7fed9db70f: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AfGJ Co-Coordinator Convicted for Shutting Down Operation Streamline!'
+  created:
+    -
+      value: 1437483117
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-co-coordinator-convicted-shutting-down-operation-streamline
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Pre-sentencing Statement by Chuck Kaufman</strong>\n\n<strong>July 20, 2015</strong>\n\n<a href=\"http://news.kgnu.org/2015/07/activists-who-prevented-automatic-criminal-sentences-to-migrants-sentenced/\">See news coverage of the sentencing here at KGNU.org</a>\n\n<em>[On October 11, 2013, Alliance for Global Justice National Co-Coordinator Chuck Kaufman took part in an action to draw attention to the human rights abuses committed by a federal court procedure called Operation Streamline. Operation Streamline group processes 70 migrants a day where gross violations of constitutional Due Process and international laws on the treatment of migrants occur. On that day Chuck and 11 others chained themselves to the tires of buses carrying the migrants to the courthouse after others had stopped the buses on the exit road from the interstate. Originally charged with a felony interference with a federal prosecution, charges were later changed to seven misdemeanors. A state judge threw out the four most serious charges on the basis that prosecutors had not made their case. She found Chuck and two others not guilty of resisting arrest. She convicted the 12 defendants of blocking a highway and creating a public nuisance. On July 20, 2015 she sentenced Chuck, and the other defendants to time served. Below is Chuck’s pre-sentencing statement before the court.] </em>\n\nYour honor, my name is Charles Kaufman. I stand before you convicted of an act of civil disobedience which involved breaking two misdemeanor laws. Before sentencing I would like to explain why I considered Operation Streamline to be such a shock to the conscience that I purposely took an action to shine the light of world attention on the human rights violations that occur in that federal courtroom every day of the work week.\n\nBut first, I want to make clear that I took the action for which I am convicted with the clear knowledge that I would be breaking laws in order to promote the higher purpose of justice. I understood that my act, like the acts of conscience of many people whose sacrifices far outweigh my own, could have serious consequences including physical injury and loss of liberty. I accepted at the time that there could be consequences and I accept that now.\n\nFor the past 28 years, more than half my adult life, I have been on the national staff of the Alliance for Global Justice and its predecessor, the Nicaragua Network. My work has focused on support for human rights in Latin America and to change my own government’s policies that create the environment in which human rights abuses take place.\n\nI have led or participated in many delegations, beginning in 1987, of human rights accompaniment, election monitoring, and investigating specific issues in countries such as Haiti and Honduras, and of solidarity support in Nicaragua, Venezuela, Bolivia, and Cuba. Forced migration became more than a theoretical issue when I began leading human rights accompaniment delegations to Honduras soon after the June 2009 military coup.\n\nIndeed, in July 2012, my delegation stood between militarily armed police and the people of Rigores, Honduras who were armed only with machetes. The police were there to illegally evict the farming community so a rich man could plant more African Palm trees so he could sell more palm oil to the US. We were there that morning because one week earlier the police had attacked the community, burning their houses, school, two churches, and damaging their well pump. The uniformed police had killed their animals and destroyed their crops. According to Honduran law, cooperatives that work state-owned land for seven years, while maintaining a continual presence, are eligible to receive title to the property. Even though the police had burned them out, the families stayed on the land in order to fulfill their nearly complete seven year tenancy. We were there to witness and support their claim. When the police, armed with military grade weapons, came out of the tree line and their commander set up two snipers with their rifles pointed at us, Jackson Browne’s song “Lives in the Balance” started going through my head. We were armed with white skin and a privileged nationality. But what about the community who were standing at our backs? For 3-1/2 hours, during which the police had their handguns drawn and kept trying to outflank us, we refused to move. Finally the commander got a call from someone and the police gave up and left. I’m proud to say that the community of Rigores remains on its land today. Only three families gave up and left.\n\nBut the only thing unique about this incident was the presence of North Americans. For thousands of Honduran families, this is the life that they live. Fleeing violence from police and military trained and funded by the US government, some of them make the dangerous trek to the United States. Some of those are caught and sent through Operation Streamline where they are further abused. To shine the light on this immoral injustice is why I chained myself to a bus almost two years ago.\n\nIn April of this year I co-led a delegation to Cuba. Peace negotiations to end the world’s longest civil war in Colombia have reached a critical juncture in Havana. My organization, the Alliance for Global Justice, was invited by Colombia’s Permanent Committee on Human Rights to bring a delegation of US lawyers and solidarity leaders to meet with both sides of the conflict so that we could come home to build support for the peace process in the United States. We are the only organization in the world thus far which has been invited to play that role.\n\nOn Wednesday, I leave to lead a delegation to Nicaragua and Honduras with the purpose of studying the root causes of migration and to compare the two country’s approaches to security, the rule of law, and poverty alleviation. There are reasons that many Hondurans migrate and very few Nicaraguans do. As I hope I have demonstrated, the injustice of Operation Streamline is anything but a theoretical or ideological issue for me.\n\nI grew up in the Mennonite Church, one of the historic peace churches. My ancestors migrated to the US fleeing violence and persecution in Germany, just as many Central Americans and Mexicans do today. I was taught to obey the laws of civil authority except when those laws conflict with my conscience. I also have a degree in Government and Politics. During a constitutional law course, I developed a deep appreciation for the US constitution, especially the right to Due Process under the law.\n\nIn September 2013 I felt that I could no longer in good conscience fight for human rights in other countries while standing mute to the violations in my own country -- indeed in my own community.\n\nOperation Streamline commits violations of Due Process every day it is in session. Others will speak of the trauma of families split apart, of the desperation that causes people to take the dangerous trek across the desert, of our neighbors ripped out of our community, sent to private, for profit prisons, and deported to places where some will be killed. The crimes they are punished for weren’t even crimes fifteen years ago; they were civil infractions. I too am offended and was motivated to action by the recent criminalization of migration.\n\nBut I want to address the issue of Due Process that I witnessed in the Operation Streamline court. Candidates for Operation Streamline are charged with a felony and a misdemeanor and offered a plea bargain of up to several months in private, for-profit prison if they plead guilty to the misdemeanor. At most they meet with a defense attorney for 10 minutes. They probably haven’t slept. They are dehydrated. They are still dressed in the clothes in which they were apprehended. Many don’t even speak Spanish, much less English.\n\nAs some of my colleagues who collected testimony from people who had been Streamlined will attest, many of them had no idea what was happening to them. They often weren’t asked if they had any grounds for asylum. They didn’t understand that with a criminal conviction they would never qualify to return under any likely Comprehensive Immigration Reform that Congress might pass. Their treatment is an abomination and a shock to the conscience. It is also a violation of the best thing this country ever produced, the first 10 amendments to the Constitution – the Bill of Rights. They set out the Rights that each human being has within the borders of the United States. If we allow those precious rights to be infringed for some, they soon will be infringed for all of us. Before I became a full-time organizer, I held one job in the 1980 census in which I had to swear to uphold and defend the Constitution of the United States. That is exactly what I did on the day we shut down Operation Streamline for one glorious day.\n\nI stand before you prepared to accept whatever sentence you decide to impose. I respect this court and the legitimate laws of this nation. Whatever sentence I receive, I will continue to follow the dictates of my conscience and I will take such action as my moral principles require.\n\nThank you.\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 7de75c6a-4d28-4128-ad47-1ce01b22a3e2
+    -
+      entity: 8a513676-bf65-4895-b8a5-9c0075aba7f3
+    -
+      entity: d7484f78-fd8a-49f7-afcb-5b7fed9db70f
+  field_mt_slideshow:
+    -
+      value: false

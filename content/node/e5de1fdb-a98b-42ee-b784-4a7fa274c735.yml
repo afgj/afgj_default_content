@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e5de1fdb-a98b-42ee-b784-4a7fa274c735
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly 2.23.2018 US Looks to Military Attack as Venezuelan people plan to re-elect President Maduro'
+  created:
+    -
+      value: 1519494531
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-2232018-us-looks-military-attack-venezuelan-people-plan-re-elect-president
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\" \"><img class=\"size-full wp-image-9116 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/02/image-1.png\" alt=\"Venezuela Weekly\" width=\"475\" height=\"343\" /></a>\r\n\r\n<strong><a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED54DC84894D39\" target=\"_blank\" rel=\"noopener\">Venezuela Webinar on the Ven Economy with Mark Weisbrot</a>,</strong> Co-Director of the Center for Economic and Policy Research in Washington on Tuesday February 27. Webinar is free, but registration is required to participate. Register via the title link.\r\n\r\n<hr />\r\n\r\n<a href=\"https://mailchi.mp/mppre/venezuela-briefingfebruary-6-2018?e=3e06ff528d\" target=\"_blank\" rel=\"noopener\">Venezuela Briefing February 6: Detailing the Effect of the U.S. Economic War Against Venezuela</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://resumen-english.org/2018/02/bolivarian-venezuela-the-most-acute-point-of-anti-imperialist-confrontation/\" target=\"_blank\" rel=\"noopener\">Carlos Aznárez: Bolivarian Venezuela, the Most Acute Point of Anti-imperialist Confrontation</a>\r\nThese are not the times of great speeches and promises of solidarity with the fate of socialism in Our America. It will be a time when those faithful to the insurgent legacy of Hugo Chavez to demonstrate with ideas, heart and by putting their body on the line as the eternal Commander did.\r\n\r\n<hr />\r\n\r\n<a href=\"http://www.peoplesworld.org/article/u-s-and-allies-look-to-military-intervention-in-venezuela/\" target=\"_blank\" rel=\"noopener\">Tom Whitney: Venezuela “is the Spanish Republic of today” -- U.S. and Allies look to Military Intervention in Venezuela\_\_</a>Polls show Maduro will win 55% of the vote.\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/news/13679\" target=\"_blank\" rel=\"noopener\">Impressive Petro Presale of $735 Million on First Day prompts Plans for Second Cryptocurrency</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://www.thedawn-news.org/2018/02/20/venezuela-55-of-the-population-agrees-on-the-re-election-of-maduro-poll-shows/\" target=\"_blank\" rel=\"noopener\">Hinterlaces Poll: 55% of the Population Agrees on the Re Election of Maduro Poll Shows</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://fair.org/home/wsjs-epic-distortion-of-colombian-and-venezuelan-refugees/?utm_campaign=shareaholic&amp;utm_medium=facebook&amp;utm_source=socialnetwork\" target=\"_blank\" rel=\"noopener\">FAIR: WSJ’s Epic Distortion of Colombian and Venezuelan Refugees</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://popularresistance.org/war-preparations-against-venezuela-as-election-nears/\" target=\"_blank\" rel=\"noopener\">Popular Resistance: War Preparations Against Venezuela as Election Nears</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://blackagendareport.com/venezuela-revenge-mad-dog-empire\" target=\"_blank\" rel=\"noopener\">Black Agenda Report, Ajamu Baraka: Venezuela and the Revenge of the Empire</a>\r\nThe courageous struggle of the Venezuelan people to defend their national sovereignty and dignity in the face of the murderous intentions of their North American neighbors and the racist obsequious Venezuelan oligarchy deserves the support of all true anti-imperialists. Whatever failure or internal contradiction we see in the Bolivarian process does not outweigh the principle that anti-imperialists must support national independence, especially when a nation is in the cross hairs of the greatest gangster nation on the planet.\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/analysis/13677\" target=\"_blank\" rel=\"noopener\">The International Criminal Court (ICC) Investigates Venezuela Concerning \"Alleged State Crimes Against Humanity”</a> -- excuse for \"humanitarian\" military intervention\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/news/13667\" target=\"_blank\" rel=\"noopener\">Maduro to Attend Americas Summit as Region Protests Venezuela Blacklisting</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/There-Is-No-Humanitarian-Crisis-in-Venezuela-Says-UN-Expert-20180220-0041.html\" target=\"_blank\" rel=\"noopener\">There Is No Humanitarian Crisis in Venezuela, Says UN Expert</a>\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: center;\">About the Weekly</h2>\r\nThis weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=4G62FrZLtKpw2pDTihLPd6j1FjKE8bC9\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=JbzVeknDe0hE4xsuH37RNKj1FjKE8bC9\">Venezuelanalysis.com</a>.\r\n<h3 style=\"text-align: center;\"><b>Receive the News from Venezuela Each Week-\r\n</b><b></b><b><a href=\"http://org2.salsalabs.com/o/7315/signup_page/venweekly\">Sign Up\_</a></b><b>for the Venezuela Weekly!</b></h3>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

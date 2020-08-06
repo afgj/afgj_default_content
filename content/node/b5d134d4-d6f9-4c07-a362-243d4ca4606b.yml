@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b5d134d4-d6f9-4c07-a362-243d4ca4606b
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicaragua Network'
+  created:
+    -
+      value: 1342188193
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicaragua-network
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<a href="http://nicanet.org/">Please visit the Nicaragua Network website at www.nicanet.org.</a>'
+      format: full_html
+      summary: ''

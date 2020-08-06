@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: dd4e93ed-ff96-40db-8c31-4c297eb09aeb
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Artists’ Delegation to Nicaragua'
+  created:
+    -
+      value: 1520271020
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /artists-delegation-nicaragua
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-8139 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/09/Image3Sandino-in-Leónsmall.jpg\" alt=\"\" width=\"2100\" height=\"1352\" />\r\n<p style=\"text-align: center;\">Trip dates: August 1 through 10, 2018</p>\r\nAlliance for Global Justice invites you to participate in a trip for artists and cultural workers to learn about the history and culture of Nicaragua through the arts.\r\n<p style=\"padding-left: 60px;\">“For us, la cultura es la Revolución y la Revolución es la cultura. (Culture is the revolution and the revolution is culture.) There is no separation between our cultural progression and the Revolución, since the transformation that Nicaragua is undertaking is also a cultural transformation.” Ernesto Cardinal</p>\r\nThis trip is designed for artists/cultural workers from the US and elsewhere to spend ten days in Nicaragua studying the culture of Nicaragua (visual arts, music, poetry, dance), making art, working with Nicaraguan artists, and creating/restoring a mural. This proposal is based on the idea that the political revolution and the cultural revolution in Nicaragua are one and the same, particularly as manifested by el muralismo of the 80s and its continuation in contemporary Nicaragua.\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: center;\"><strong>Culture Brigade Activities</strong></h2>\r\n<p style=\"text-align: center;\">(The specific itinerary of the trip is subject to change, but these are activities that are being planned)</p>\r\n<strong>Mural Creation/Restoration -</strong> Brigade participants and Nicaraguan artists will paint a mural on a wall in Managua. The design and implementation of the mural will be an ongoing focus of the brigade. The activity is being planned with Casa Ben Linder in coordination with a restoration project.\r\n\r\n<strong>Mural and Graffiti Tour of Managua</strong> - Half day van tour to see examples of murals and graffiti, exploring the history of the mural movement and its legacy in Managua today. Guided by Nicaraguan artists.\r\n\r\n<strong>Art Lesson exchanges -</strong> In the morning, brigade participants are invited to teach a technique or present a project to a group of Nicaraguan youth and artists. In the afternoon Nicaraguan artists give a lesson to brigade participants.\r\n\r\n<strong>T-shirt Painting Workshop -</strong> Near the end of the brigade, Nicaraguan artist Otero, Otero, presents a t-shirt workshop and brigade participants are asked to create a design that summarizes their experience in Nicaragua.\r\n\r\n<strong>Music and Revolution -</strong> Concert at El Panal. A concert of songs of the revolution and important Nicaraguan music. Participants are also invited to perform. Participants are encouraged to bring art materials and draw or paint during the concert. A pop-up exhibition will be left on display at the bar.\r\n\r\n<strong>Day Trip to León -</strong> Ortiz Foundation Art Center, revolutionary murals, La Gigantona, The Museum of the Revolution, exploring the the history of the revolution in León through art. (A swim and dinner at the beach on the way home?)\r\n\r\n<strong>Day Trip to Granada -</strong> San Francisco Convent Museum - Exploring the “primitivista” style of Nicaraguan art, Ernesto Cardenal, Solentiname, and its connection to the revolution. Juggling school. (A swim and dinner at Laguna de Apoyo on the way home?)\r\n\r\n<strong>Art as Community Development/Community Organizing -</strong> Baile Folklorica and jicaro collectives in a Managua neighborhood.\r\n\r\n<strong> The Image of Sandino and Darío in Nicaraguan History and Culture -</strong> Half day van tour of Managua exploring the role of portraits of heroes and martyrs in Nicaragua. (Visit to Huembes Market.)\r\nPoetry - Visit to \"Ancient footprints of Acahualinca\" , reading the poetry of Leonel Rugama and Ernesto Cardenal.\r\n\r\n<hr />\r\n<p style=\"text-align: left;\"><strong>Trip Cost:</strong> $1,200, Covers food and lodging, ground\_transportation, participation of Nicaraguan artists, entrance fees\_to museums and events, and translation.Travel to Managua is\_not included.</p>\r\n<p style=\"text-align: left;\"><strong>Location:</strong> \_Home base will be at ATC \_- Asociacion de\_Trabajadores Del Campo. They have a school, garden, and\_conference center on the outskirts of Managua. Housing will be\_in hostel style rooms with air conditioning and private bathes.</p>\r\n<p style=\"text-align: center;\"><strong>For application or information email: <a href=\"mailto:delegations@AFGJ.org\">delegations@AFGJ.org</a></strong></p>\r\n<p style=\"text-align: center;\">If you have questions or would like to discuss the delegation, contact John Kotula <a href=\"mailto:johnkotulapchn@yahoo.com\">johnkotulapchn@yahoo.com</a></p>"
+      format: full_html
+      summary: ''

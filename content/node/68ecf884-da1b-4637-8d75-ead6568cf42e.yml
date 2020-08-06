@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 68ecf884-da1b-4637-8d75-ead6568cf42e
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: false
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Free Trade, Labor and Forced Migration'
+  created:
+    -
+      value: 1360243477
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /free-trade-labor-and-forced-migration
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "NOTE:\_ This is one we may split into two, if we have too much material.\_ We talked about maybe having one chapter just about labor, if we could fill and make relevant something that would focus on labor struggles within Mexico (and how they're affected by border militarization, FTAs, and such?).\_\_ Hmmm.....maybe a stretch.\r\n\r\n*DAVID BACON piece here:\r\n<div></div>\r\n<div>\r\n\r\n<strong>Cross-Border Unity Against the TPP</strong>\r\n<div>Arthur Stamoulis</div>\r\n<div>Citizens Trade Campaign</div>\r\nA movement of movements is re-uniting across the globe to say “ENOUGH!” to the Trans-Pacific Partnership (TPP) — an international proposal being pushed by the Obama administration at the behest of big corporations that would spread NAFTA-style trade and investment rules throughout the Pacific Rim.\r\n\r\n\"“It’'s impossible to overstate how devastating NAFTA has been to working people and family farmers over the past twenty years,\"” said Manuel Perez Rocha, of the Mexican Action Network on Free Trade and associate fellow at the Institute for Policy Studies in Washington, D.C.\_\_\"“Leaked documents suggest the TPP would actually go beyond NAFTA in the power it hands to transnational corporations.\_\_Thankfully, a transnational movement is rising to stop it.\"\r\n\r\nWhen the North American Free Trade Agreement (NAFTA) was first proposed, its backers claimed it would benefit working people in the United States and Mexico. \_The argument was that NAFTA would open Mexico to foreign investment, providing new jobs for ordinary Mexicans; and that by raising living standards in Mexico, it would also create new markets for U.S. exports.\r\n\r\nThe Clinton administration claimed that, by improving Mexican living standards, immigration from Mexico would reduce by two-thirds within 6 years under NAFTA. \_The attorney general at the time, Janet Reno, infamously said, \"NAFTA is our best hope for reducing illegal migration over the long haul. \_If it fails, effective immigration control will become impossible.\"\r\n\r\nThe reality of NAFTA was, of course, far different. \_Working people in the United States have been confronted with increased unemployment and wage suppression as hundreds of thousands of good-paying American jobs have been converted into maquiladora-wage jobs south of the border. \_ Meanwhile, by 2000, the poverty rate in Mexico had increased to over half the population; the extreme poverty rate had increased to nearly a third of the population; the real wages for most Mexicans had dropped; and migration rates had skyrocketed.\r\n\r\nThere are a number of reasons why ordinary Mexicans were slammed by NAFTA. \_One of the biggest reasons was that NAFTA forced Mexico to reduce tariffs on agricultural products from the United States, resulting in a flood of imports of\_<em>subsidized</em>\_corn, wheat and soy sold on international markets for less than what it actually cost American farmers to grow it. \_Small Mexican farmers saw the price they received for the crops plummet as a result, and huge numbers (well over a million) were forced off their land -- looking for work in cities, borderlands and after risking their lives to come to the United States.\r\n\r\nAs a \"NAFTA on Steroids,\" the TPP would exacerbate the devastation already experienced in Mexico and spread it throughout the Americas, Asia and Australia.\r\n\r\nThe TPP is currently under negotiation between the United States, Australia, Brunei, Canada, Chile, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam, but it is also being specifically written as a “docking agreement,” meaning that other countries will be pressured to “dock on” or join over time.\_ Just among the eleven countries currently at the table it would be the largest Free Trade Agreement in U.S. history, but it is explicitly discussed as a first step towards an even larger Free Trade Area of the Asia Pacific.\r\n\r\nAfter having completed 15 major rounds of negotiations over a period of years, negotiators from each country still refuse to tell the public what they’ve been proposing in our names.\_\_Meanwhile, U.S. negotiators have granted approximately 600 corporate lobbyists special “cleared advisor” status that grants them access to the texts, including those from companies like Walmart, Cargill and Chevron.\r\n\r\nDespite the secrecy, a number of leaked texts have been published at\_<a href=\"http://citizenstrade.org/\" target=\"_blank\">citizenstrade.org</a>\_and the things corporations are demanding are out in the open.\_\_A number of manufacturers, brands and retailers want to use the TPP to offshore jobs to countries like Vietnam where workers are paid less than even Mexican and Chinese sweatshop workers; pharmaceutical giants want to use the TPP to extend the length of medicine patents; Big Oil and Gas want to use the TPP to block future climate regulations; Wall Street wants the TPP to prohibit commonsense financial regulations; and agricultural middlemen want to dump subsidized grains on additional countries, consolidating global food supplies into fewer-and-fewer hands. \_They're even demanding that Mexico reduce its food safety standards beyond what the country did under NAFTA to accommodate more imports.\r\n\r\nOn December 1, 2012, a coalition of trade justice activists from the U.S., Mexico and Canada announced a goal of collecting 1,000 organizational signatures on a “\"North American Unity Statement Opposing NAFTA Expansion through the Trans-Pacific Partnership.\"”\_\_Groups can read it and sign-on at TPPxBorder.org.\r\n\r\n\"“We'’re calling on social justice organizations throughout Canada, Mexico and the United States to sign onto the Unity Statement, first, in recognition of the threat the TPP poses to their members, and, second, in recognition that it will take all of us coming together across geographic and issue-area borders in order to win,\"” said Stuart Trew, trade campaigner for the Council of Canadians.\r\n\r\nOrganizers point out that, by working together, similar corporate power grabs from the World Trade Organization’s Millennial Round to the Free Trade Area of the Americas have been defeated.\_ We will do it again with the TPP.\r\n\r\n&nbsp;\r\n\r\n</div>"
+      format: full_html
+      summary: ''

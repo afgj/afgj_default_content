@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 56181db7-a452-44b8-bca5-8cf9de50ed1c
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'About (footer)'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<p>© 2020, Alliance for Global Justice<br />\r\nAll Rights Reserved.</p>\r\n"
+      format: full_html
+      summary: ''

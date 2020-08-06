@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 14d32531-9c59-4820-b4fa-ff3c8396a60d
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Poor Journalism Muddies Canal Story'
+  created:
+    -
+      value: 1498630753
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /poor-journalism-muddies-canal-story
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"aligncenter size-full wp-image-6975\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"\" width=\"579\" height=\"195\" /></a>\n<p style=\"text-align: center;\"><strong><a href=\"https://afgj.org/nicanotesabout\">About</a>\_ \_ \_ \_<a href=\"http://org2.salsalabs.com/o/7315/signup_page/nicanotessubscribe\" target=\"_blank\" rel=\"noopener noreferrer\">Subscribe</a>\_ \_ \_ \_<a href=\"emailto:nicanet@afgj.org\">Contact</a></strong></p>\nI’ve noticed a few Nicaphiles on social media have published on their\_timelines an article from The Times entitled<a href=\"https://www.thetimes.co.uk/article/china-puts-nicaraguan-canal-plan-on-hold-vnghd00r8\" target=\"_blank\" rel=\"noopener\">\_China puts Nicaraguan\_Canal plan on hold</a>. While the status of the Grand Canal is by no\_means clear, I would caution against putting too much faith in this short\_article that appears to be based entirely on an interview with anti-Sandinista journalist Carlos Fernando Chamorro.\n\nHow authoritative could an article be if the journalists simply talked to\_another journalist, who can’t even claim inside knowledge, to produce\_speculation that is not supported by any citations? They don’t even cite\_Chamorro as the source of their two theories! Without attribution, they\_postulate one that China, presumably meaning the Chinese\_government, has put the project on hold as a payoff to Panama for\_Panama cutting off relations with Taiwan. The other theory, which is\_hardly new, is that Wang Jing, owner of the private company that has\_the canal concession, HKND Group, which the article didn’t even\_name, lost a lot of wealth in the Chinese stock market.\n\nI also note that no other international media has picked up the Times\_story since it was published online on June 19.\n\nChamorro was quoted in the article as pointing out that no part of the\_canal has yet been constructed, and he noted that no property along\_the approved route has yet been “expropriated.” While several\_ceremonial ribbon-breaking events have been conducted by the\_government and HKND over the last couple of years, it was always\_stated by the Sandinista government that construction would not begin\_until all environmental impact studies had been completed. The impact\_studies that were completed pointed to other studies that needed to be\_done. I don’t know the final status of those studies. As far as\_expropriation, that was never part of the plan. Affected landowners and\_land users will be paid full market value for any property that needs to\_be condemned if the canal is built.\n\nDespite the poor journalism represented by the Times article, I think\_the Grand Canal may very well be on hold, but not for either of the\_reasons put forth in the article. My long-time co-worker, Katherine\_Hoyt, has said from day one that she didn’t think the canal would be\_built because of a lack of international financing. The 2008 Great\_Global Recession, didn’t just affect the “on paper” wealth of Wang\_Jing, it made a lot of major sources of capital circle their wagons. Now\_with Trump in office, the US commitment to neoliberalism and Free\_Trade is called into question making Big Capital nervous about\_whether international trade will be sufficient to support a second canal\_joining the Pacific and Atlantic oceans.\n\nI see good reasons to oppose the canal and I see good reasons to\_support it. I’m not personally on either side on this debate and neither\_is Nicaragua Network/Alliance for Global Justice. But if I were on either\_side, I would neither take heart from the Times article, nor would I\_despair. The article is just one more example of the quality of\_journalism that we have to contend with today.\n\n<hr />\n\n<strong>Vacation!</strong>\n\nThere will be no NicaNotes for the next two weeks. I am going on a\_delegation to China led by my good friend Siu Hin Lee to look at US-China relations. If I happen to run into Wang Jing while I’m there, I’ll\_ask him if the canal is on hold or not! NicaNotes will resume when I\_return and I’m happy to announce that artist, solidarity activist, and\_former Peace Corps volunteer, John Kotula, will be sharing the\_responsibility with me for producing these weekly blogs. John lives in\_Nicaragua and while his focus will be more on the arts and daily life\_issues, he will also contribute his own political analysis to the mix. I\_look forward to collaborating with John to fill this space.\n\n&nbsp;\n\n<hr />\n\n<strong>BRIEFS</strong>\n<ul>\n \t<li>A report by the Nicaragua Foundation for Economic and Social\_Development\_(FUNIDES) states that poverty in Nicaragua has\_dropped from 46% to 29.6% and extreme poverty from 15% to 8.3 %\_over the last few years. Governmental programs such as Solidarity\_Bonus (for public employees) and Plan Roof to give sheets of\_galvanized roofing to families to improve their homes, have had a\_positive impact on poverty reduction, benefiting more than 736,000\_Nicaraguan households. The FUNIDES Executive Director Juan\_Sebastián Chamorro, noted that 60% of Nicaragua public spending\_goes to social sectors such as healthcare and education. (Nicaragua\_News, June 21)</li>\n</ul>\n<ul>\n \t<li>Vice President Rosario Murillo announced the inauguration of a\_new US$ 4.3 million hospital in the El Jícaro municipality of Nueva\_Segovia. The new facility will offer service to more than 40,000 people\_in areas such as dentistry, surgery, anesthesiology, gynecology,\_pediatrics, ultrasound, X-rays and general medicine, Murillo said.\_(Nicaragua News, June 21)</li>\n</ul>\n<ul>\n \t<li>President Daniel Ortega and Vice-President Rosario Murillo\_paid tribute to FSLN founder Carlos Fonseca Amador at his tomb on\_the Plaza of the Revolution on the 81stanniversary of Fonseca’s birth.\_Murillo said that the government was committed to move forward to\_achieve electoral processes that “do not divide us” and a political\_culture of reconciliation and unity “without offenses and injuries.”\_(Informe Pastran, June 23)</li>\n</ul>\n<ul>\n \t<li>The FAD-MRS (Broad Democratic Front-Sandinista Renovation Movement)\_which unsuccessfully called for a boycott of last year’s presidential election is once\_again calling on voters to boycott this November’s municipal election. Despite the\_accompaniment agreement signed between the OAS and Sandinista government, the\_FAD-MRS doesn’t accept that the elections will be transparent. This political\_configuration of the right-wing is not a recognized party so it would have to run in\_alliance with another party to gain ballot access. However, the FAD-MRS leadership\_considers parties that are participating in the election to be “satellites” of the Sandinista\_Party, and they have announced that they will not ally with them. (Informe Pastran,\_June 23)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

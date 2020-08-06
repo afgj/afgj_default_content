@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 396889da-e3ab-4ff7-b058-9683b2becba1
+  bundle: article
+  default_langcode: en
+  depends:
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Webinar on Honduras and Solidarity: Sign up now!'
+  created:
+    -
+      value: 1450295468
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /webinar-honduras-and-solidarity-sign-now
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"alignright size-medium wp-image-6320\" src=\"https://afgj.org/wp-content/uploads/2015/12/webinar-image-300x170.jpg\" alt=\"webinar image\" width=\"300\" height=\"170\" /><strong>Repression and Resistance--Violence and Migration--Imperialism and Solidarity</strong>\n\nThe Honduras Solidarity Network in North America invites you to participate in an educational webinar and conversation about solidarity with Honduras and the role of the US and multinational corporations in the region.\_ <em>January 17, 2016</em>\n\n<a href=\"https://org2.salsalabs.com/o/7315/signup_page/hsn-webinar\">Register Now</a>\n\nIn June 2009 a military coup overthrew an elected government in Honduras; the coup was greeted by the birth of a massive resistance movement in the streets. In the US, the Obama administration and the majority of Congress supported the coup government and the\_ continuing militarization and repression.\n\nIn\_ 2014 thousands of Honduran youth and child refugees showed up at the US border. This opened a window on the economic, social and political crises that has only deepened since 2009. Now the US is proposing billions of dollars of aid to Honduras and other countries in the northern triangle, while, in Honduras, thousands continue in the streets demanding an end to corruption, violence, militarization and dictatorship.\_ What is the real story? What can we do to accompany the Honduran people?\n\n<em>Sunday, January 17, 2016</em>\n<em>1-3pm PT; 2-4pm Mountain; 3–5pm Central; 4–6pm Eastern</em>\n\nThe webinar is free of charge but you must register to participate:<a href=\"https://org2.salsalabs.com/o/7315/signup_page/hsn-webinar\"> Register Now</a>\nFor more information contact: honsolnetwork@gmail.com"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

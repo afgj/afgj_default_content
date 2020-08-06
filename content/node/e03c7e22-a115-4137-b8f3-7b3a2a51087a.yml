@@ -1,0 +1,79 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e03c7e22-a115-4137-b8f3-7b3a2a51087a
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    cd0b4a40-9b03-4048-a812-892416542fb4: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    ba842cf2-7a7d-4535-9c55-44b659434c8d: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Wave of Right-Wing Violence Threatens Peace for Colombia'
+  created:
+    -
+      value: 1457619933
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /wave-right-wing-violence-threatens-peace-colombia
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "[caption id=\"attachment_6546\" align=\"aligncenter\" width=\"407\"]<img class=\" wp-image-6546\" src=\"https://afgj.org/wp-content/uploads/2016/03/Klaus-1.jpg\" alt=\"Klaus Zapata, 21, murdered by Colombian paramilitaries on March 6, 2016\" width=\"407\" height=\"271\" /> Klaus Zapata, 21, murdered by Colombian paramilitaries on March 6, 2016[/caption]\n\nby James Jordan\n\n<span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: medium;\">Amid expectations of a successful completion of peace negotiations this month, Colombia has experienced a wave of paramilitary and military assaults. These have occurred while the leader of Colombia's far right, ex-president Álvaro Uribe, has called for an April 2<sup>nd</sup> march against the negotiations. As extremists prepare to protest legally, their ideological compatriots are taking to the streets with guns in hand. Both share the same goal: stop the peace accords. <a href=\"http://www.telesurtv.net/english/opinion/Wave-of-Right-Wing-Violence-Threatens-Peace-for-Colombia-20160310-0009.html\">Read More....</a>\n</span></span>\n\n<a href=\"http://www.telesurtv.net/english/opinion/Wave-of-Right-Wing-Violence-Threatens-Peace-for-Colombia-20160310-0009.html\">(Originally published in Telesur English)</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: cd0b4a40-9b03-4048-a812-892416542fb4
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: ba842cf2-7a7d-4535-9c55-44b659434c8d
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

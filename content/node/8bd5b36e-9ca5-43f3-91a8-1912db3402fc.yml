@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8bd5b36e-9ca5-43f3-91a8-1912db3402fc
+  bundle: article
+  default_langcode: en
+  depends:
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Take Action! Dialogue, Not US Interference in Venezuela - No to S-1018'
+  created:
+    -
+      value: 1494417554
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /take-action-dialogue-not-us-interference-venezuela-no-s-1018
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=24795\" target=\"_blank\" rel=\"noopener noreferrer\">Click Here to Take Action!</a></h1>\n<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-7762\" src=\"https://afgj.org/wp-content/uploads/2017/05/venalert2017pic.jpg\" alt=\"\" width=\"695\" height=\"440\" /></p>\nThe United States government is orchestrating an attempt at anti-democratic regime\_change in Venezuela in order to bring the extreme right into power. Venezuela does\_not need more US interference in its internal and electoral affairs. What it needs is for\_the opposition and their Washington DC backers to recognize, respect and answer\_affirmatively the calls for dialogue that, according to Pope Francis, should be between\_“the government and all the components of the Venezuelan society so that every\_further form of violence is avoided, human rights are respected and negotiated\_solutions are sought to the humanitarian, social, political and economic crises, which\_are exhausting the people.”\n<h2 style=\"text-align: center;\"><strong><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=24795\" target=\"_blank\" rel=\"noopener noreferrer\">Please sign the open letter below and add your voice to the call for dialogue, not US\_support for a right wing coup, to solve Venezuela's current crises.</a></strong></h2>\n\n<hr />\n<p style=\"text-align: center;\"><strong>Background: What is in Senate bill S-1018?</strong></p>\nRegime change in Venezuela has been official US government policy throughout the\_regimes of George W. Bush, Barack Obama, and now Donald Trump. The US has\_used its arsenal of regime change tools short of directly sending in military troops. The\_US has attempted to demonize first President Hugo Chavez and now his successor\_Nicolas Maduro. The US has implemented economic warfare to “make the economy\_scream,” as Henry Kissinger said when the US plotted regime change in Chile in\_1973. The US has spent multiple tens of millions of dollars to fund the Venezuelan\_opposition, including the factions of it that seek the violent overthrow of the\_democratically-elected government.\n\n<hr />\n<p style=\"text-align: center;\"><strong>\nHighlights of Bill S-1018:</strong></p>\n\n<ul>\n \t<li>The bill claims there are 108 political prisoners, naming a number of\_opposition figures including some found responsible for deaths during the violent\_demonstrations following the 2015 presidential election won by President\_Maduro.</li>\n \t<li>While US-dominated financial institutions block international loans to\_Venezuela, the bill reverses the reality and \"calls on Venezuelan President\_Maduro to permit humanitarian assistance, immediately release all political\_prisoners, and seek assistance from international financial institutions.\"</li>\n \t<li>The bill authorizes $10 million for the U.S. Department of State and the U.S.\_Agency for International Development (USAID) to provide \"humanitarian\_assistance\" which is code for funding the opposition, including the violent\_opposition.</li>\n \t<li>It backs OAS General Secretary Almagro’s campaign to invoke the OAS\_Democratic Charter against Venezuela as a means to directly intervene to\_allegedly \"restore democracy.\" Almagro’s campaign has failed to pass the OAS\_General Assembly and has resulted in Venezuela’s announcement to withdraw\_its membership from the OAS.</li>\n \t<li>The bill \"Authorizes $500,000 to support future OAS election observation\_missions and $9.5 million for democratic civil society organizations working to\_defend human rights.\" In effect, this means funding opposition parties in an\_OAS-controlled future Venezuela national election when in fact Venezuela’s\_electoral process is more tamper-proof than that of the US, therefore needing no\_international monitoring.</li>\n \t<li>Calls for a report on the \"involvement of Venezuelan government officials in\_corruption and the illicit drug trade,\" and calls for US sanctions which could be\_used as a tool to exclude Chavista leaders from international meetings and from\_running in future elections.</li>\n</ul>\n<h2 style=\"text-align: center;\"><strong><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=24795\" target=\"_blank\" rel=\"noopener noreferrer\">Please sign the open letter below and add your voice to the call for dialogue, not US\_support for a right wing coup, to solve Venezuela's current crises.</a></strong></h2>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 66d4191b-b4d8-4983-a205-4ae2528c1b62
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Open Letter to Condemn Trump Administration’s Hypocritical Indictment on Drug Charges of Venezuelan President Nicolas Maduro and High-Ranking Venezuelan Officials'
+  created:
+    -
+      value: 1585493264
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /open-letter-condemn-trump-administrations-hypocritical-indictment-drug-charges-venezuelan-president
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"aligncenter wp-image-12609\" src=\"https://afgj.org/wp-content/uploads/2020/03/hands-off-venezuela-crowd-shot-2-300x132.jpg\" alt=\"\" width=\"650\" height=\"285\" /></p>\r\n<em>The Alliance for Global Justice, <a href=\"https://www.codepink.org/\">CODEPINK</a>, and Friends invite your organization and prominent individuals in your community to sign on to the Open Letter below. The letter will be used to educate the press, public, and elected officials about the US government’s economic and political war against Venezuela at a time when all countries are struggling to combat the global pandemic, COVID-19. For more background, we invite you to read this excellent analysis, </em><a href=\"https://www.codepink.org/trumps_narcoterrorism_indictment_of_maduro_already_backfires?fbclid=IwAR1pKKtXpsPo55niBnXgFMzKUF_ePVfzmgfPs25sJkpPYvetF7Sn59sb-7c\"><em>Trump’s Narcoterrorism Indictment of Maduro Already Backfires</em></a><em> by CODEPINK’s Leonardo Flores. </em>\r\n<h4 style=\"text-align: center;\"><span style=\"color: #0000ff;\"><strong><a style=\"color: #0000ff;\" href=\"https://afgj.salsalabs.org/endorsetheletterfakechargesagainstvenezuelaarealthreat/index.html?eType=EmailBlastContent&amp;eId=5994790c-f322-42ac-aaeb-cbd89832831f\">If you are authorized to sign on behalf of your organization, click here</a> or send an email to: <a style=\"color: #0000ff;\" href=\"mailto:AfGJ@AFGJ.org\">AfGJ@AFGJ.org</a> with name, title, organization name, city, country and contact email. This letter will be open for sign-ons until April 12, 2020.</strong></span></h4>\r\n<strong>Open Letter to Condemn Trump Administration’s Hypocritical Indictment on Drug Charges of Venezuelan President Nicolas Maduro and High-Ranking Venezuelan Officials</strong>\r\n\r\nWe, the undersigned organizations and prominent individuals, condemn the false claims of criminal charges by the US government against the President of the Bolivarian Republic of Venezuela and other high-ranking officials with the pretext of their alleged involvement in international drug trafficking.\r\n\r\nThe US government is offering a $15 million bounty for information that would lead to the arrest of Venezuelan President Maduro. Bounties of $10 million are offered for the National Constituent Assembly President Diosdado Cabello, retired generals Hugo Carvajal and Clive Alcala, Minister for Industry and National Production Tareck El Aissami, and other Venezuelans. The US government indictments accuse the Venezuelan officials of participating in a “narco-terrorism conspiracy” with the Colombian guerrilla group FARC to “flood the United States with cocaine.”\r\n\r\nThe US has refused to recognize the democratically\_<a href=\"https://venezuelanalysis.com/files/attachments/%5Bsite-date-yyyy%5D/%5Bsite-date-mm%5D/ceela_electoral_accompaniment_report_may_2018_0.pdf\">elected</a> Venezuelan President Maduro and has been seeking to install one to its liking, currently Juan Guaido. What the US is doing is ordering the arrest of world leaders it does not approve of, putting a bounty on their heads.\r\n\r\nThis decision of the US constitutes a further escalation in coercive measures against a sovereign country, which has included sanctions so extreme as to create a blockade, costing Venezuela <a href=\"https://cepr.net/images/stories/reports/venezuela-sanctions-2019-04.pdf\">40,000 lives in a period of just over a year</a> and <a href=\"https://venezuelanalysis.com/news/14790\">$116 billion</a> in lost revenue.\r\n\r\nIt is well-documented that two close and long-time US allies in Latin America, the governments of <a href=\"https://colombiareports.com/even-colombias-finance-minister-tied-to-narco-conspiracy-to-rig-duques-2018-election/\">Colombia</a> and <a href=\"https://www.theguardian.com/world/2020/mar/03/honduran-president-juan-orlando-hernandez-drug-money\">Honduras</a>, have been heavily involved in narco trafficking. The last Latin American leader the US charged with drug trafficking was Panama’s Manuel Noriega (<a href=\"https://nsarchive2.gwu.edu/NSAEBB/NSAEBB113/index.htm\">who was running drugs with the CIA</a>). The US then invaded his country and later imprisoned him in Miami.\r\n\r\n<strong>Actual evidence of Venezuela involvement in drug trafficking</strong>\r\n\r\nThe Washington Office on Latin America (WOLA), which is unfriendly to the Venezuelan government,\_<a href=\"https://www.wola.org/wp-content/uploads/2020/03/Narcostate-Venezuela-Drug-Trafficking-Ramsey-Smilde.pdf\">finds</a>: “CCDB [US interagency Consolidated Counterdrug Database] data does not justify many of the claims made by those who advance the ‘narcostate’ narrative to describe organized crime in Venezuela today and to argue against efforts to achieve a negotiated path to democratic governance in Venezuela. As noted, US authorities estimate that 93 percent of US-bound cocaine is trafficked through Western Caribbean and Eastern Pacific routes, not through Venezuela’s Eastern Caribbean coast.”\r\n\r\nThe <a href=\"https://www.wola.org/wp-content/uploads/2020/03/Narcostate-Venezuela-Drug-Trafficking-Ramsey-Smilde.pdf\">WOLA study</a> found that the US government data suggests that, despite these challenges, Venezuela is not a primary transit country for US-bound cocaine. The State Department reports that over six times as much cocaine passed through Guatemala in 2018 than through Venezuela. Around 90 percent of all US-bound cocaine is trafficked through western Caribbean and eastern Pacific routes⁠, not through Venezuela’s eastern Caribbean seas.\r\n\r\nThe US Department of Justice has not presented evidence to substantiate their narco-trafficking indictment. Washington’s case looks politically motivated. In the wake of over six years of US sanctions and over a year of failed attempted coups, the majority support of the Venezuelan people for their democratically elected government has not been shaken.\r\n\r\n<strong>We the undersigned demand that the US government:</strong>\r\n<ul>\r\n \t<li>Drop the groundless indictments against President Maduro and others.</li>\r\n \t<li>Lift the sanctions so that Venezuela can purchase life-giving medicines and medical equipment to fight the coronavirus pandemic that is threatening the entire world.</li>\r\n \t<li>Restore normal relations with Venezuela based on peace and respect for national sovereignty.</li>\r\n</ul>\r\nSincerely,\r\n\r\nChuck Kauman, National Co-Coordinator, Alliance for Global Justice\r\n\r\nTerri Mattson, Latin America Coordinator, CODEPINK\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

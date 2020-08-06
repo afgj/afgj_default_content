@@ -1,0 +1,152 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b5d51a4d-4e56-4484-91a3-c4eff6749f72
+  bundle: article
+  default_langcode: en
+  depends:
+    7c24d703-ad76-40f5-8889-a30cb1700fd3: taxonomy_term
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    1c0c4377-b739-4293-a00a-331346b8aa16: taxonomy_term
+    cd0b4a40-9b03-4048-a812-892416542fb4: taxonomy_term
+    ca4e52ca-2d48-486f-8d00-3553c0a7f296: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    db37c597-23df-4a83-b2cc-0f2f3b69da01: taxonomy_term
+    9a13741d-8db2-4dce-b9f4-cf3b1b88a0a5: taxonomy_term
+    a64fa2f8-f73c-4f83-bbdc-b45341948bae: taxonomy_term
+    6da45e2c-de4a-40eb-bded-8a61525ab00b: taxonomy_term
+    7239ad26-1d67-4988-8a77-c339cfb988db: taxonomy_term
+    66b5eb76-f6e4-446c-8900-2f694cad9634: taxonomy_term
+    65e98371-b445-464c-807f-77b7ca4de6f6: taxonomy_term
+    6fe84139-fcc1-47f7-9f51-e74d9134339d: taxonomy_term
+    14594479-d6bf-43d4-b492-e34f5e1b09b6: taxonomy_term
+    5642fb10-aeaf-4fe5-9d73-6e86f01c1314: taxonomy_term
+    dad8fb60-ee71-40dc-ba8d-2153898e72da: taxonomy_term
+    f641098b-c097-4053-9938-62306373e4cc: taxonomy_term
+    a652463a-3d49-4938-8e1f-37e153815328: taxonomy_term
+    cbb34cf0-3944-4473-889f-49d7489d4569: taxonomy_term
+    381d7a91-e5a4-4ded-a5fe-dfa81cfe4736: taxonomy_term
+    d1d4488b-6cd4-4c36-9435-286fa3ba78c3: taxonomy_term
+    e9ac88cc-8ffb-4fe4-926c-0a55470f5a62: taxonomy_term
+    3db85b4a-02c6-437a-a5f9-c3ab8cb3ae87: taxonomy_term
+    6f97c1bb-5638-4775-b41f-cdea5de05a0e: taxonomy_term
+    54ba92c8-4623-418c-b497-7639d1876f0c: taxonomy_term
+    14eca50c-267c-41ae-8dc0-cc0e0826f946: taxonomy_term
+    e4a21c24-0be0-440e-a35c-a67c1c9f068b: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Message from Hubert Ballesteros, Colombian unionist and political prisoner, to North American labor and solidarity activists'
+  created:
+    -
+      value: 1453728505
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /message-hubert-ballesteros-colombian-unionist-and-political-prisoner-north-american-labor-and
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<div id=\"article-info\">\n<div id=\"author\"><em><a href=\"http://www.fightbacknews.org/2016/1/24/message-hubert-ballesteros-colombian-unionist-and-political-prisoner-north-american-labor-\">Originally published in Fight Back! News</a>\n</em></div>\n<div><a href=\"http://www.fightbacknews.org/es/2016/1/24/mensaje-de-huber-ballesteros-sindicalista-colombiano-y-preso-pol-tico-para-la-campa-intern\"><em>Versión en español</em></a></div>\n</div>\n<div class=\"article-content\">\n<div class=\"image\">\n\n[caption id=\"attachment_4752\" align=\"alignleft\" width=\"321\"]<img class=\"size-full wp-image-4752\" src=\"https://afgj.org/wp-content/uploads/2013/08/Hubert_colombia.jpg\" alt=\"Hubert &quot;Huber&quot; Ballesteros meets with AfGJ delegates and farming families in Cauca, Colombia\" width=\"321\" height=\"432\" /> Hubert Ballesteros (on left, wearing red) (Fight Back! News/Staff)[/caption]\n\n<em>The following message is a response to a series of questions posed to Hubert Ballesteros by James Jordan of the Alliance for Global Justice. Ballesteros was arrested while negotiating for the National Agrarian Strike of 2013 and charged with Rebellion. He was also serving on the executive committees of Fensuagro, the country's largest federation of farm workers unions and the Unitary Workers Center (CUT), Colombia's largest general labor federation.</em>\n\n</div>\n<a href=\"http://org2.salsalabs.com/o/7315/p/dia/action3/common/public/?action_KEY=22139\">Sign the petition to Free Hubert \"Huber\" Ballesteros, Colombian Unionist and Political Prisoner</a>\n\n<a href=\"https://www.youtube.com/watch?v=O8fHzacOOck&amp;feature=youtu.be\">Click here to watch video of this interview in the original Spanish</a>\n\nComrade James, it is a pleasure to greet you and through you, the solidarity collectives, labor movement and workers of the United States and all the North American people. We understand and know the difference that exists between the position and opinion of the North American people and the reproachable positions and activities of your government not only in the interior of the United States but at a worldwide level. Therefore we political prisoners offer a fraternal embrace to all the workers and all the people of North America.\n\nIt is a pleasure for me to respond to these questions that Comrade James Jordan sent me, to do so in my condition as a political prisoner, member of the Executive Committees of the Workers Unitary Confederation (CUT), the National Unitary Labor Federation of Agricultural Workers (Fensuagro) and the Marcha Patriótica (Patriotic March) political movement.\n\nLet me discuss the theme of the peace accords and the possibilities in the framework of the agreement concerning the point of victims. That also is concerned with the theme of Transitional Justice for the peace. I must say that effectively the agreement over the point of transitional justice recently signed between the Colombian government and the insurgents of the FARC-EP (Revolutionary Armed Forces of Colombia-Peoples Army), contemplates the possibility we [political prisoners] will have the opportunity to access benefits such as pardon for those who may be in this moment sentenced and that of amnesty and cessation of procedures for those whose cases are pending. [This would happen] once they sign the accords and implement the tribunals that will apply the agreed special justice between the parties. In Colombia there are around 10,000 [political prisoners] divided between prisoners of conscience and prisoners of war.\n\nThe second of James' questions was whether I was arrested during the activities of a strike. Basically I was found in Bogotá officiating as part of the 2013 National Negotiation Commission of the Agrarian Strike when I was detained. I was accused of the crimes of rebellion and raising funds for terrorism. The charges were established as part of a judicial set-up by characters paid by the Attorney General and the National Police in order to put the brakes to what in that moment was developing into one of the most important farmers strikes in the last 30 years. From that moment I found myself confined in the La Picota jail in a detention that in all lights is illegal. All the established conditions of due process and the necessary and obligatory presumption of innocence that are so established by the law, the National Constitution and International Human Rights Law have been violated within this process.\n\nMy detention, then, is part of a policy of repression and criminalization of social protest in Colombia that has been applied for many, many years. It has brought many persons to the country's jails, many put at liberty after having passed two, three or four years or more in jail. We hope the signing of the peace accords might change the conception imposed by the North American Pentagon. By this we mean that of the internal enemy and what is called the Doctrine of National Security through which the Police, the Army, the DAS (Colombian intelligence service), the judges and attorneys are educated and indoctrinated in the Southern Command of the United States and in the School of the Americas. It will be necessary that we keep developing the social and popular struggle, given that the signing of the peace agreement is barely the beginning of the construction of a real and durable peace with social justice. We will continue doing this, will keep demanding our rights as workers and as the Colombian population through the mechanisms that they permit our organizational labor structure, such as the work stoppage, the strike and the mobilization.\n\nAnother of the questions is, is it possible following the peace accords, for the Left and democratic sectors to be able to reach unity? Since we come into this work with much experience, we have had different proposals. In this particular moment we come working to strengthen what we have denominated the Broad Front for Peace, Social Justice and Democracy. In this sense, we have taken very important steps given that the Front has converted into a guarantor and promoter of the Peace Dialogues. Besides this, through the request of the FARC-EP we serve as observers of the unilateral ceasefire that in various occasions has been decreed by the insurgency and that for their part remains in force. We aspire to convert that Broad Front for the Peace into the setting for political struggle and unity toward the dispute for power with the Colombian bourgeoisie. That is not easy! There obviously exist differences of political and ideological characters. This is natural in the Colombian Left and with the popular sectors that are organized into unions, the indigenous movement, the Afro-descendent movement, and other social sectors. But we come working diligently so that the Broad Front might be the place of encounter for all those who question the direction of this country and that we may be a force that can dispute for power with the hegemonic block of the oligarchy that has availed itself to the benefits of power in our country for around 200 years.\n\nConcerning the theme of the UP, I am one of the survivors of the genocide against the Unión Patriótica (Patriotic Union). I entered it being very young. I have occupied popularly-elected positions, at the time elected as a representative of the Unión Patriótica. We consider that effectively the situation of a genocide could return, return to repeat itself after the signing of the accords. We must consider what in this current moment can stop this from happening again.\n\nNumber one is that, at any rate, the world has changed a lot in the last 25 years and the theme of Human Rights has come to be very important. There exist many organizations and collectives both at the national as well as the international level that are vigilant that what was specified in the Universal Declaration of Human Rights be complied with. That is that no state, no government nor structure of this government such as the military forces will in this time have impunity when confronted with the grave crimes against humanity perpetrated by them in repression of the political opposition. This encourages us to believe that although they have the intention; it will not be so easy. Obviously, also, our experience that we have gained in the struggle for the defense of Human Rights is going to help us so that an episode like that may not be repeated. But I say again that, yes, we feel afraid because the government does not want to discuss at the dialogue table the structure of the Armed Forces and the Police, does not want to discuss the doctrine of these armed forces that gives rise to the formation of the para-state organisms that we know as paramilitarism in Colombia. It is a risk, but peace merits that risk and we are disposed to assume it for the sake of building a new society and a new country for the Colombians.\n\nIt is true what James expressed in his notes for the interview, that the government or governments of the United States, or, that is, the North American state, is an actor in the Colombian conflict, and an actor of the first order, the principal sponsor and, why not say it, one of the principal beneficiaries of the war in Colombia. We are conscious that this is not the sense of the North American people, but obviously we know that it is in the interest of the transnational companies, in the economic interests of the North American oligarchy that has promoted the violence in Colombia and not only in Colombia but in all Latin America and the world.\n\nWe hope that the backing that the United States government has demonstrated for peace in Colombia will not be concentrated in economic aid, nor in technological aid, but in a change in attitude and respect for the People's sovereignty and especially in the sovereignty of the Colombian people to decide their own future.\n\nAnd as your comrade also stated in his notes, international solidarity will play a supremely important role in maintaining the peace and in guaranteeing respect for the rights of Colombians and in particular for those who form the opposition in Colombia. The North American labor movement, the collectives that have formed on U.S. soil and that support the cause for peace in Colombia and the world have the very important task of exercising watchfulness and vigilance not only towards the intervention of your own government but towards the Colombian government. It must comply with all that it has agreed to so that the Colombian conflict will not be repeated, but will end precisely because the accords are fulfilled. Likewise the development of the economic, political and social transformations that are for a just, durable peace with social justice for the new future of the Colombians.\n\nI thank James for the opportunity for this interview. I thank all who have listened to me and I extend from the La Picota prison a fraternal embrace to all of you. I hope that some day when I regain my liberty I may be able to meet with all your labor organizations and their leaders to personally thank all for the solidarity work that you have shown in favor of freedom for the political prisoners and respect for Human Rights in Colombia.\n\nMany thanks and a hug!\n\nHubert de Jesús Ballesteros Gómez\n\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 7c24d703-ad76-40f5-8889-a30cb1700fd3
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 1c0c4377-b739-4293-a00a-331346b8aa16
+    -
+      entity: cd0b4a40-9b03-4048-a812-892416542fb4
+    -
+      entity: ca4e52ca-2d48-486f-8d00-3553c0a7f296
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false
+  field_tags:
+    -
+      entity: db37c597-23df-4a83-b2cc-0f2f3b69da01
+    -
+      entity: 9a13741d-8db2-4dce-b9f4-cf3b1b88a0a5
+    -
+      entity: a64fa2f8-f73c-4f83-bbdc-b45341948bae
+    -
+      entity: 6da45e2c-de4a-40eb-bded-8a61525ab00b
+    -
+      entity: 7239ad26-1d67-4988-8a77-c339cfb988db
+    -
+      entity: 66b5eb76-f6e4-446c-8900-2f694cad9634
+    -
+      entity: 65e98371-b445-464c-807f-77b7ca4de6f6
+    -
+      entity: 6fe84139-fcc1-47f7-9f51-e74d9134339d
+    -
+      entity: 14594479-d6bf-43d4-b492-e34f5e1b09b6
+    -
+      entity: 5642fb10-aeaf-4fe5-9d73-6e86f01c1314
+    -
+      entity: dad8fb60-ee71-40dc-ba8d-2153898e72da
+    -
+      entity: f641098b-c097-4053-9938-62306373e4cc
+    -
+      entity: a652463a-3d49-4938-8e1f-37e153815328
+    -
+      entity: cbb34cf0-3944-4473-889f-49d7489d4569
+    -
+      entity: 381d7a91-e5a4-4ded-a5fe-dfa81cfe4736
+    -
+      entity: d1d4488b-6cd4-4c36-9435-286fa3ba78c3
+    -
+      entity: e9ac88cc-8ffb-4fe4-926c-0a55470f5a62
+    -
+      entity: 3db85b4a-02c6-437a-a5f9-c3ab8cb3ae87
+    -
+      entity: 6f97c1bb-5638-4775-b41f-cdea5de05a0e
+    -
+      entity: 54ba92c8-4623-418c-b497-7639d1876f0c
+    -
+      entity: 14eca50c-267c-41ae-8dc0-cc0e0826f946
+    -
+      entity: e4a21c24-0be0-440e-a35c-a67c1c9f068b

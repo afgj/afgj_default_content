@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 33c8086b-30a4-4b72-b741-df3e1ce3594d
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Contact the conference secretariat'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<h2 class=\"text-center text--dark mb-5 mt-5\">Let's work <span class=\"text--colored\">together</span></h2>\r\n\r\n<div class=\"row border-top border-bottom py-lg-5 py-4 mt-3 justify-content-center\">\r\n<div class=\"col-xl-4 col-lg-6 text-lg-center mb-3 mb-xl-0\">\r\n<p class=\"extra-large\"><i class=\"fa fa-map-marker-alt mr-2 ml-1 d-inline-block text--colored\"></i> <span class=\"d-inline-block align-top text-left text--dark\">225 E 26th Street<br />\r\nSuite #1<br />\r\nTucson, AZ 85719</span></p>\r\n</div>\r\n\r\n<div class=\"col-xl-4 col-lg-6 text-lg-center mb-3 mb-xl-0\">\r\n<p class=\"extra-large\"><i class=\"fa fa-phone mr-2 ml-1 d-inline-block text--colored\"></i> <span class=\"d-inline-block align-top text-left text--dark\">(202) 540-8336</span></p>\r\n</div>\r\n\r\n<div class=\"col-xl-4 col-lg-6 text-lg-center\">\r\n<p class=\"extra-large\"><i class=\"far fa-envelope mr-2 ml-1 d-inline-block text--colored\"></i> <span class=\"d-inline-block align-top text-left text--dark\">AFGJ@AFGJ.org</span></p>\r\n</div>\r\n</div>\r\n"
+      format: full_html
+      summary: ''

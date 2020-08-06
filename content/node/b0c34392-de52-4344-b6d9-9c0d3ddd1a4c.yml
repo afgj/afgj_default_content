@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b0c34392-de52-4344-b6d9-9c0d3ddd1a4c
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Register Now! Venezuela Webinar: "Findings on the Humanitarian Situation in Venezuela and the Effects of International Sanctions"'
+  created:
+    -
+      value: 1515700290
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /register-now-venezuela-webinar-findings-humanitarian-situation-venezuela-and-effects-international
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"wp-image-7078 size-full aligncenter\" src=\"https://afgj.org/wp-content/uploads/2016/09/VSN-webinar.jpg\" alt=\"Venezuela Monthly Webinar Series Mural Header by Alliance for Global Justice and the Venezuela Solidarity campaign\" width=\"960\" height=\"510\" />\r\n\r\nThis series of one-hour webinars on the last Tuesday of each month\_features scholars, Venezuela government officials, writers, solidarity\_activists and others with firsthand knowledge of Venezuela and US-Venezuela relations. Venezuela remains a top target of US “regime\_change” strategies and will remain so no matter who is elected president\_in November. These webinars are designed to inform and motivate\_solidarity with the Bolivarian process in Venezuela and to expose and\_oppose US intervention.\r\n<h2 style=\"text-align: center;\"><a href=\"http://www.anymeeting.com/PIID=ED53D887854B31\" target=\"_blank\" rel=\"noopener\">Register Now!</a>\r\n\"Findings on the Humanitarian Situation in Venezuela and the Effects of International Sanctions\"</h2>\r\n<h2 style=\"text-align: center;\">Presenter: Alfred de Zayas\r\nSunday January 28,\r\n3 pm\_– 4 pm EST / Noon – 1 pm PST</h2>\r\nThis is a very important webinar with a UN official, Alfred de Zayas, who is the United Nations Independent Expert on the Promotion of a Democratic and Equitable International Order. He will be joining us from Geneva, Switzerland. Due to the number of time zones Geneva is from the US, we have changed the date and time from our regular last Tuesday of the month to Sunday at 3pm Eastern time and noon Pacific time. Below is a quote from de Zayas’ report:\r\n\r\nThe mainstream media reports that there is scarcity of food and medicines in Venezuela.\_\_There is scarcity of some foods and of some medicines, but the situation is very far\_from a humanitarian crisis.\_ Venezuela is nowhere close to the situations in many countries in Asia, Africa and Latin America, where there is much worse scarcity, or where the food and medicines exist but are not affordable, except for the rich.\_ Those who want to help Venezuela should demand an end to the economic war and unilateral sanctions\_-- similar to the economic war waged against Salvador Allende 1970-73.\_ The economic war, which started already when Hugo Chavez was elected president in 1999, is one of the principal causes of the current scarcity.\_ Humanitarian aid can be provided and distributed through the International Committee of the Red Cross and other neutral organizations. The Venezuelan government is keenly aware of the problems and has a food and medicine program to soften the effects of the boycotts and sanctions.\_ The Venezuelan government has also sought the assistance of the World Health Organization, the Food and Agriculture Organization and other UN agencies.\r\n<h2 style=\"text-align: center;\"><a href=\"http://www.anymeeting.com/PIID=ED53D887854B31\" target=\"_blank\" rel=\"noopener\">Register Now!</a></h2>\r\nPlease share the <a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED53D887854B31\" target=\"_blank\" rel=\"noopener\">registration link </a>widely. You can participate by phone or through\_your computer but your computer will give you a much fuller experience if you\_participate through your computer.\r\n<h2 style=\"text-align: center;\"><strong>These monthly webinars are one hour long\r\nand you must\_<a href=\"http://www.anymeeting.com/PIID=ED53D887854B31\" target=\"_blank\" rel=\"noopener\">REGISTER</a>\_to participate.\_\_</strong></h2>\r\nOur webinar platform only supports Chrome and Firefox, so if you use a different browser, you’ll need to download a free copy of Chrome or Firefox to participate.\r\n\r\n<hr />\r\n\r\nInterested in keeping up with the news from Venezuela?\_AfGJ's Venezuela Weekly\_contains a few useful articles on Venezuela that contain bite-sized dose of the truth\_so that you can fight the disinformation in your own community, that so much of the\_media, including alternative media are putting out.\_<strong><a href=\"http://org2.salsalabs.com/o/7315/signup_page/venweekly\" target=\"_blank\" rel=\"noopener\">Subscribe Here!</a></strong>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: dec6da5d-a520-4a00-8ee4-65fff86df8ab
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Resources on Venezuela'
+  created:
+    -
+      value: 1274717344
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /resources-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Venezuela Solidarity Organizations</strong>\r\n\r\n<a href=\"http://venezuelasolidarity.org/\">Venezuela Solidarity (Australia)</a>\r\n\r\n<a href=\"http://ushov.org/\">Hands Off Venezuela (US)</a>\r\n\r\n<a href=\"http://handsoffvenezuela.org/\">Hands Off Venezuela (UK)</a>\r\n\r\n<strong>Latin American Solidarity Organizations</strong>\r\n\r\n<a href=\"http://www.lasolidarity.org/\">Latin American Solidarity Coalition (LASC)</a>\r\n\r\n<strong>News (English)</strong>\r\n\r\n<a href=\"http://venezuelanalysis.com/\">Venezuela Analysis</a>\r\n\r\n<a href=\"http://www.rethinkvenezuela.com/\">Venezuela Information Office</a>\r\n\r\n<a href=\"http://venezuela-us.org/\">Venezuela Embassy in the US</a>\r\n\r\n<a href=\"http://www.latinamericapress.org/\">Latin American Press</a>\r\n\r\n<strong>Noticias (Español)</strong>\r\n\r\n<a href=\"http://www.aporrea.org/\">Aporrea</a>\r\n\r\n<a href=\"http://radiodefensavenezuela.com/\">Radio Defensa</a>"
+      format: full_html
+      summary: ''

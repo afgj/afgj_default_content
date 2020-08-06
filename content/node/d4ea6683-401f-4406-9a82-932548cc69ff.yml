@@ -1,0 +1,76 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d4ea6683-401f-4406-9a82-932548cc69ff
+  bundle: mt_showcase
+  default_langcode: en
+  depends:
+    ad7a7af5-7c80-4033-b8d2-c7f99e9b9fee: file
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela Solidarity'
+  created:
+    -
+      value: 1591190335
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-solidarity
+      langcode: en
+      pathauto: 0
+  field_mt_shw_body:
+    -
+      value: "<p>The United States government, especially under the Trump regime, has made completely clear that one of its top foreign policy priorities is to depose the democratically-elected government of Venezuela and to replace it with one that will open Venezuela’s vast oil reserves to exploitation by US transnational oil companies. An April 2019 report estimated that, at that time, civilian deaths caused by US-imposed unilateral sanctions had caused 40,000 preventable deaths. As the US efforts have repeatedly failed to foment a coup in favor of a government led by Juan Guaido, who has never run for national office, the Trump regime is attempting to cut off Venezuela’s access to international markets, the financial system, and it is targeting food distribution and threatening direct military action.</p>\r\n\r\n<p>Historically the Alliance for Global Justice has played a role coordinating US solidarity with Venezuela’s Bolivarian Revolution that blossomed with the election of deceased President Hugo Chavez who took office in 1999. In 2007 we organized a national conference which resulted in the formation of the Venezuela Solidarity Network which unfortunately did not survive the Great Recession in 2009. In 2014, when the first guarimbas – violent demonstrations in the wealthy neighborhoods of Caracas – began and the US Congress and Obama regime began considering unilateral sanctions, we pulled together the Venezuela Strategy Group (VSG) composed of solidarity groups and individuals with foreign policy expertise, to build and coordinate US solidarity and anti-intervention activities. We also publish the Venezuela Weekly compilation of links to important articles and videos.</p>\r\n\r\n<p>In 2018 individuals who had recently traveled to Venezuela formed the End US and Canada Sanctions Against Venezuela campaign which affiliated with the VSG as a working group. Other VSG Working Groups are: Media and Pledge of Resistance.</p>\r\n\r\n<p><b>How You Can Get Educated and Involved</b></p>\r\n\r\n<p>The Alliance for Global Justice currently publishes the Venezuela/ALBA Weekly every Friday.&nbsp;<a href=\"https://afgj.org/signup\">Subscribe Here</a>&nbsp;or read it every week on our web page.</p>\r\n\r\n<p>Sign up for the <a href=\"https://afgj.org/signup\">Alliance for Global Justice Alerts</a> to receive notification of the monthly Venezuela webinar plus other webinars, and mobilizations.</p>\r\n\r\n<p>AfGJ is a member of the&nbsp;<a href=\"https://afgj.org/focus-areas/venezuela-solidarity-campaign/campaign-to-end-us-and-canada-sanctions-against-venezuela\">Campaign to End US &amp; Canada Sanctions Against Venezuela</a>. The campaign invites you and/or your organization to endorse this call against the illegal, unjust and&nbsp;cruel sanctions being inflicted on the people of Venezuela.</p>\r\n\r\n<p><a href=\"https://afgj.org/focus-areas/take-the-pledge-of-resistance\">Join the Pledge of Resistance</a> pledging to take direct action or support those who do risk arrest in the event the US invades Venezuela or foments a coup.</p>\r\n\r\n<p>If you are interested in representing your organization in the Venezuela Strategy Group or being a participant in a working group, send an email to <a href=\"mailto:Chuck@AFGJ.org\">Chuck@AFGJ.org</a>.</p>\r\n"
+      format: full_html
+      summary: 'Historically the Alliance for Global Justice has played a role coordinating US solidarity with Venezuela.'
+  field_mt_shw_content_collapses:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 217596e7-6008-4ded-a776-eb30f042e8be
+          bundle: mt_collapse
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1591190392
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+  field_mt_shw_image:
+    -
+      entity: ad7a7af5-7c80-4033-b8d2-c7f99e9b9fee
+      alt: 'Pledge of Resistance'
+      title: ''
+      width: 820
+      height: 312
+  field_mt_shw_tags:
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5

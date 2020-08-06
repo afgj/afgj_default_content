@@ -1,0 +1,76 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8971e196-c244-43bd-8d46-7894ecb0c568
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    b801f94f-af9e-4af6-9c74-12307c5ce744: taxonomy_term
+    e291f5fc-b608-43bf-958c-d8485725315d: taxonomy_term
+    cb4617c7-3c39-4ae4-a5e6-a44b174be3d3: taxonomy_term
+    ff23272a-2c6a-4d3f-b137-4c19843845a6: taxonomy_term
+    0dfdb011-9c82-4762-89a0-db01e08f9fe3: taxonomy_term
+    47dbf152-55af-48f9-b366-923795d9a8c9: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Sweet Dreams and Nightmares – Can Colombia Achieve a Just Peace?'
+  created:
+    -
+      value: 1521306516
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /sweet-dreams-and-nightmares-can-colombia-achieve-just-peace
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "by James Patrick Jordan\r\n<p style=\"text-align: center;\"><img class=\"alignleft wp-image-9318\" src=\"https://afgj.org/wp-content/uploads/2018/03/queremos-la-paz.jpg\" alt=\"\" width=\"387\" height=\"293\" /></p>\r\nThe dream of achieving a just and durable peace in Colombia may be taking a turn for the worst, becoming a nightmare of massacre and abuse, where hopes of democracy have come head to head against a march toward fascism. That is the sad reality. But it is not an inevitable one. Popular movements in Colombia remain strong. Another development is the emergence of a center-left campaign that is leading current presidential polls. Popular and political power are the one-two punches that could knock out a right-wing intent on sabotaging the peace both in government and on the streets, legally and illegally, and always brutally.\r\n<p style=\"text-align: center;\"><span style=\"color: #ff0000;\">Be a Peacemaker - Join the Alliance for Global Justice Accompaniment <a href=\"https://afgj.org/travel-to-colombia\">Delegation to Colombia, May 19 - 29, 2018</a>! For more info, send an email to workertoworker@gmail.com (Some scholarships are available)</span></p>\r\nThe administration of Donald Trump is also working in alliance with the far right to undermine the peace accords. Trump met with former Colombian presidents Alvaro Uribe and Andres Pastrana, both opposed to the accords, at his Mar-a-Lago resort in Florida last April 2017. That meeting took place off Trump’s official schedule and without the knowledge or consent of the Colombian government. The timing of Trump’s planned visit to Colombia this April 2018 is obviously meant to encourage right-wing movements before May’s presidential election, and to pressure the Colombian government to leave the road of just peace in favor of paving the way for Empire and absolute domination by the most vicious elements of the ruling class. The Trump administration wants the Colombian government to abandon agreements for rural development as part of voluntary programs to eradicate illicit crops. Instead of crop substitution programs, market development, and road improvements, the Trump administration wants forced and armed eradication. That practice has resulted in massacres and escalation of human rights abuses.\r\n\r\nEvents surrounding Colombia’s recent congressional and primary campaigns were very discouraging because of virtually unchecked crowd violence by paid thugs directed at Leftist candidates. This was followed by rampant fraud and abnormalities during the March 11<sup>th</sup> primary and legislative elections. Center Left campaigns were undertaken amid the highest levels of political violence against social movements in fifteen years. Over 200 popular movement leaders, 30 former insurgents, and 14 family members of ex-insurgents have been killed since the peace accords were implemented at the end of November 2016.\r\n\r\nA key component of the peace accords is that of political participation – the idea that Left and Center-Left candidates can participate openly and safely in electoral processes. Instead, crowd violence instigated by paid thugs has been encouraged by the far right against campaign events by the Left. The new and legal FARC (Common Alternative Revolutionary Force) political party has been assaulted on multiple occasions, including once when two campaign workers were forced to take refuge from a lynch mob that literally wanted to kill them. The FARC finally suspended both its legislative and presidential campaigns because of the failure of the state to provide promised security. Leftists well remember the “peace” of the 1980s and 90s when more than 5,000 candidates, campaigners, and elected officials from the Patriotic Union (Unión Patriótica) were assassinated.\r\n\r\nThe fever-pitch of these shock troops reached a zenith when they attacked the campaign of <img class=\"alignright size-medium wp-image-9338\" src=\"https://afgj.org/wp-content/uploads/2018/03/petro-300x150.jpg\" alt=\"\" width=\"300\" height=\"150\" />Center-Left candidate Gustavo Petro. Petro’s campaign was attacked with eggs, rocks, and bullets in Cucutá, Norte de Santander. \_Petro, a supporter of the peace accords, is currently leading presidential polls. It is a clear escalation that these attacks occurred against a candidate considered mainstream.\r\n\r\nOne must question whether the upcoming presidential vote will be a legitimate and accurate test of the peoples’ will. The March elections were besought with problems. The most glaring was the shortage of ballots in over 20% of Colombia’s voting system, including the country’s three largest cities, forcing campaign workers to photocopy ballots. There were also tens of thousands of attempted cyber-attacks on the electoral system. The Electoral Observation Mission of Colombia reported some 1,290 campaign violations but had not set up enough offices in precincts to carry out investigations on most. Violations included vote buying and precinct workers who refused to hand over ballots. One election day poll reported that 30% of Colombian voters said they were not able to vote privately.\r\n\r\nShould the right wing’s chosen candidate, Ivan Duque, win the presidency by fraud, he can count on the support and recognition of the United States to help weather any hesitancy by the international community. The US quickly recognized Juan Orlando Hernández as the next president of Honduras last November 2017 despite his “victory” being the result one of the most fraudulent elections in history.\r\n\r\nColombia, like its patron the United States, is flirting dangerously with becoming an openly fascist government. The presidential elections could seal that fate. Fascism has five dominant traits: brutal and total repression by the state of opposition\_ and popular organizations; a far right government that exists to advance the interests of corporations while neglecting the most basic needs of its people; a rigid appeal to enforcement of law and order for the majority while the ruling class flaunts the law without consequence; the encouragement of racism, homophobia, sexism, attacks on “counter-culture”, and other forms of focusing hate and blame against perceived “others” for the “woes of the nation”; and the prominence of paramilitary and mob violence that proceeds with impunity against popular movements and oppressed populations. There can be no doubt that we are seeing all these elements at play in Colombia.\r\n\r\nOne threat to Colombia’s peace process has been the absence of a sufficiently large enough international peace, anti-war, and justice movements to meet the needs and the calls for solidarity by the Colombian social movements. This is not a statement of blame. Corporate media is doing its best to misinform and disinform about Colombia and the US Left is not immune.\r\n\r\nEven we internationalists frequently do not understand the regional and global importance of Colombia. But Empire gets it all too well. Colombia is a land rich in resources. Its strategic location places it as a gateway to South America, Central America, and the Caribbean. United States investment in Colombia’s military, police, and prisons has turned the country into a junior partner with imperialism, providing military and security training throughout Latin America and the world, and even engaging in joint military patrols with the US in Central American and West African air and sea spaces. Right now, the US is coordinating with Colombia as it amasses forces in two regions. One is in Tumaco. The Colombian Armed Forces have sent 2,000 troops to the region to undertake forced eradication projects, and to battle paramilitaries, narco-traffickers, and smaller insurgencies that are vying for control in the wake of the chaos created by the withdrawal of the FARC-EP, which had previously played a stabilizing role. The other troop concentration is on the border of Venezuela. Admiral Kurt Tidd, the head of the Pentagon’s Southern Command, visited both areas last month.\r\n\r\nFor some of us who do know what is happening in Colombia, there can be a tendency to look away with a sense of resigned cynicism. But to do so is fatalistic and illogical. There is class conflict, racist oppression, theft of resources – there are many and varied material, objective, and subjective conditions by which we may understand Colombia’s conflicts. But there is no metaphysical predisposition towards violence in Colombia, and likewise, there is no room for fatalism or cynicism in our solidarity with Colombia.\r\n\r\nEvery time we of the Alliance for Global Justice travel to Colombia, we are asked to help build international awareness and solidarity with their struggles, and to bring people there to learn and to accompany their leaders and communities who are under threat. When we fail to respond to such a call, when we write Colombia off as a lost cause, we do a great disservice to the indigenous, Afro-Colombian, rural farmers, and wage workers of Colombia who must undertake a daily fight for their rights and their survival.\r\n\r\nSo, this is our job, our responsibility: to support the Colombian people in their struggles, and, more, to dismantle the Empire, and to replace our own government with participatory democracy. We must take a stand in solidarity with Colombia because solidarity with Colombia is solidarity with every people’s movement in the Americas and the world.\r\n\r\nYes, Colombia, and the struggles of its peoples are THAT important.\r\n\r\nLet’s wake up from the nightmare of what is going down in Colombia and let’s change it for the sweet dreams of peace, justice, and liberation and let’s stand with Colombia as she tries to turn those dreams into something real.\r\n<p style=\"text-align: center;\">If you would like more information about <a href=\"https://afgj.org/travel-to-colombia\">AfGJ's May 19-29, 2018 Delegation of Accompaniment for Colombia's upcoming presidential elections, click HERE</a> or write workertoworker@gmail.com for more information</p>\r\n<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-9319\" src=\"https://afgj.org/wp-content/uploads/2018/03/afro-dancers-4.9.jpg\" alt=\"\" width=\"1192\" height=\"895\" /></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: b801f94f-af9e-4af6-9c74-12307c5ce744
+    -
+      entity: e291f5fc-b608-43bf-958c-d8485725315d
+    -
+      entity: cb4617c7-3c39-4ae4-a5e6-a44b174be3d3
+    -
+      entity: ff23272a-2c6a-4d3f-b137-4c19843845a6
+    -
+      entity: 0dfdb011-9c82-4762-89a0-db01e08f9fe3
+    -
+      entity: 47dbf152-55af-48f9-b366-923795d9a8c9
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

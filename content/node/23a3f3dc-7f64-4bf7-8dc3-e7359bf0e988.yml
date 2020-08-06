@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 23a3f3dc-7f64-4bf7-8dc3-e7359bf0e988
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Nicanotes
+  created:
+    -
+      value: 1495028418
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter size-full wp-image-6975\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"\" width=\"579\" height=\"195\" />\n\nThis blogger could not think of anything to write about this week, but I do want to offer up the following brief summaries of news from Nicaragua that I think is\_important or at least interesting to international solidarity activists.\n\n<hr />\n\n<strong>BRIEFS</strong>\n<ul>\n \t<li style=\"list-style-type: none\">\n<ul>\n \t<li>Informe Pastran pointed out that the omnibus spending bill passed by the US Congress to fund government through the\_September 30\_end of the fiscal\_year contains language restricting federal funds from countries that have recognized two breakaway republics – Abkhazia and South Ossetia – which succeeded\_from Georgia a few years ago. Nicaragua is one of several countries that have diplomatic relations with the two new countries. Presidential Economic Advisor\_Bayardo Arce responded to reporters’ questions about the effect of the language on US aid to Nicaragua. Arce said, “The United States government does not\_give anything to the government of Nicaragua as far as I know. I think there is some military aid, which I would say is a rather bad payment for the big favor we\_do them by stopping trafficking of the drugs that they consume in large quantities.” (Informe Pastran, May 12)</li>\n</ul>\n</li>\n</ul>\n&nbsp;\n<ul>\n \t<li style=\"list-style-type: none\">\n<ul>\n \t<li>Nicaragua Foreign Minister Denis Moncada and the Minister of Cooperation of the Grand Duchy of Luxembourg, Romain Schneider, signed a US$39\_million aid agreement May 9 in Managua. The funding will be used for the development of new projects in strategic sectors such as health, education and\_tourism. Schneider said that his country has increased the amount of cooperation with Nicaragua from US$31 to US$39 million dollars. [See above brief for\_comparison with US foreign aid to Nicaragua.] (Nicaragua News, May 10)</li>\n</ul>\n</li>\n</ul>\n&nbsp;\n<ul>\n \t<li style=\"list-style-type: none\">\n<ul>\n \t<li>Supreme Electoral Council (CSE) President Roberto Rivas announced \_municipal elections on\_November 5\_this year. \"All political parties must submit a\_list with at least 80% of their candidates, of which 50% must be men and 50% women,\" he said. Rivas also confirmed that the Organization of American States\_(OAS) will accompany the November municipal elections, as part of the agreements signed with the Nicaragua government. Earlier this year, the OAS ratified\_that they are working with the Nicaragua government to strengthen democracy and improve electoral processes in the country. Foreign Minister Denis Moncada\_also confirmed the OAS role which has angered the portion of the opposition that boycotted last year’s presidential election. The OAS participation will make it\_hard for the opposition to attack the legitimacy of the outcome. (Nicaragua News, May 9, 15)</li>\n</ul>\n</li>\n</ul>\n&nbsp;\n<ul>\n \t<li style=\"list-style-type: none\">\n<ul>\n \t<li>The Nicaragua Center for Exports (CETREX) reported that coffee exports totaled more than US$220 million during the first four months of this year,\_which is an incredible 22.4% increase over the same period of 2016. The United States, Venezuela, Germany, Belgium and Canada are among the main\_markets of Nicaraguan coffee exports. (Nicaragua News, May 9)</li>\n</ul>\n</li>\n</ul>\n&nbsp;\n<ul>\n \t<li style=\"list-style-type: none\">\n<ul>\n \t<li>Carolina Garcia, director of Marketing Promotion of the Nicaragua Tourism Institute (INTUR), announced that an international advertising campaign is\_being implemented to promote Nicaragua as an attractive adventure tourism destination. \"INTUR launched its latest advertising spot on the big screens of Times\_Square in New York last week. We will be making similar efforts in different countries to showcase and promote our volcanoes, beaches and nature reserves,\"\_García said. (Nicaragua News, May 11)</li>\n</ul>\n</li>\n</ul>\n&nbsp;\n<ul>\n \t<li style=\"list-style-type: none\">\n<ul>\n \t<li>In news that for this blogger is at best a mixed blessing, the Nicaraguan Institute of Tourism (INTUR) announced that 50 cruise ships docked in\_Nicaragua in 2016, a 31.6% increase over 2015. The visiting ships contained 62,517 passengers of which 32,826 visited at least one tourist attraction. A total of\_1.5 million foreign tourists visited Nicaragua in 2016, leaving behind US$642 million in foreign currency, more than the country brings in from coffee or beef\_exports. (El Nuevo Diario, May 16)</li>\n</ul>\n</li>\n</ul>\n&nbsp;\n<ul>\n \t<li>A celebration of the life of US solidarity activist Ben Linder and the two Nicaraguans who were executed by the Contras 30 years ago had been\_postponed in April in San Jose de Bocay due to the tragic death of a hydroelectric \_plant worker. That celebration has been rescheduled for\_Wednesday, May 24\_at 3pm. Everyone is invited but must make their own transportation arrangements, according to an announcement by Amanda Jones-Dominguez. (Casa Ben\_Linder List, May 14)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

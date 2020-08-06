@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: cfc4d0e3-abe8-4778-8f8c-08ffc9146e02
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'About '
+  created:
+    -
+      value: 1248071236
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /about
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: small;\"><strong><span style=\"font-size: medium;\">Our Vision</span></strong></span></span> <span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\"></span></span></p>\r\n\r\n<p><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\">We envision societies which explore and implement alternatives to the unjust domination of governments, global financial institutions and multinational corporations which denigrate the world’s peoples and devastate ecosystems. We envision the development of a unified domestic and international movement of transformational grassroots organizations that promote a socially, ecologically and economically just world.</span></span></p>\r\n\r\n<p><strong><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\">Our Mission</span></span></strong></p>\r\n\r\n<p><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\">It is the mission of the Alliance for Global Justice to achieve social change and economic justice by helping to build a stronger more unified grassroots movement. We recognize that the concentration of wealth and power is the root cause of oppression requiring us to work together across ideologies, issues and communities. The Alliance nurtures organizations seeking fundamental change in international and national conditions that disempower people, create disparities in access to wealth and power, poison the earth, and plunder its resources.</span></span> <span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\">We support locally-based grassroots organizing by sharing political analysis, mobilizing for direct action, monitoring the centers of corporate and government power, expanding channels of communication, and sharing skills and infrastructure. Our commitment to solidarity and to non-hierarchical democratic process enables us to respectfully listen and respond to each other within the movement.</span></span> <strong><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\"></span></span></strong></p>\r\n\r\n<p><strong><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\">Four Areas of Struggle</span></span></strong></p>\r\n\r\n<p lang=\"en-US\"><span style=\"color: #000000;\"><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\">We identify four main areas of interwoven struggle for liberation from Empire and for a better, more beautiful world. These are the struggles:</span></span></span></p>\r\n\r\n<p lang=\"en-US\"><span style=\"color: #000000;\"><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\">For Economic Justice--We stand in favor of community-based development versus corporate globalization and privatization. We believe a just society is oriented toward meeting the needs and supporting the sufficiency of its own people, not toward creating vast inequality and mega-profits for those at the top at the expense of the many.&nbsp; We oppose neoliberal economics and its manifestations as Free Trade Agreements and austerity programs imposed on other countries via \"aid\" programs that encourage privatization, the International Monetary Fund, the World Bank and various other institutions.</span></span></span></p>\r\n\r\n<p lang=\"en-US\"><span style=\"color: #000000;\"><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\">Against US Militarism--We recognize that at their roots, militarism and modern wars result from coercive force and violent oppression waged in favor of economic and political systems that seek to concentrate wealth, power and resources in the hands of a privileged few. Spending about as much as the rest of the world combined on military expenditures, the US war machine has become global Capital's \"insurance company\", fighting to open, secure, protect and guard the interests of transnational corporations via US military dominance around the world.</span></span></span></p>\r\n\r\n<p lang=\"en-US\"><span style=\"color: #000000;\"><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\">For Real Democracy--We work for participatory democracy and against false democratic forms that reinforce inequality and undermine communities. We denounce electoral processes that give enormous and undue influence to wealthy corporations while marginalizing the decision-making capabilities of our own communities.&nbsp; We consider to be a major part of our international solidarity work the task of exposing and opposing US interference in other countries via the mis-named National Endowment for Democracy and other components of US democracy manipulation efforts.</span></span></span></p>\r\n\r\n<p><span style=\"color: #000000;\"><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\">For Ecological Integrity--We advocate for ecological sustainability, threatened worldwide because of the consumptive excesses of wealthy nations and their constant search for new resources to exploit. Global warming is a direct result of this excess and the drive to put profits before the planet's own health.&nbsp; Another result is the ongoing effort by private, multinational corporations to gain control over natural resources. The communities that live in and are part of an ecosystem should have a direct voice in deciding how its resources will be used and managed, over and above corporate and foreign interests.</span></span></span></p>\r\n\r\n<p><strong>In Memory of Trim Bissell (1942-2002)</strong></p>\r\n\r\n<p><a href=\"https://afgj.org/wp-content/uploads/2011/08/Bissel.jpg\"><img alt=\"\" class=\"alignleft size-full wp-image-1402\" height=\"220\" src=\"https://afgj.org/wp-content/uploads/2011/08/Bissel.jpg\" style=\"padding: 5px;\" title=\"Trim Bissel's Painting\" width=\"220\" /></a></p>\r\n\r\n<p>The art utilized as the background for this website was painted by Trim Bissell. Trim founder and National Co-Coordinator of the Alliance for Global Justice's Campaign for Labor Rights, succumbed after a 20-month battle with a brain tumor and left the ranks of those who struggle for justice and peace. Trim died on June 15, 2002 in the home he shared with his wife, Ruth Evan. He was surrounded by his art, vividly colored paintings and sculptures that were his third passion in life following Ruth and the Campaign for Labor Rights. His memory is carried on in his art and the work of the Alliance for Global Justice. &nbsp; &nbsp;</p>\r\n"
+      format: full_html
+      summary: ''

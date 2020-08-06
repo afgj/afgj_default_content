@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 613e5145-7717-48fe-ade1-65160ef77295
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: fancy-image-1.jpg
+  uri:
+    -
+      value: 'public://2016-09/fancy-image-1.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 20125
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1474456320

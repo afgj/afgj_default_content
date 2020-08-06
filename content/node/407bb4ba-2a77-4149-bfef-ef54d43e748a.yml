@@ -1,0 +1,68 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 407bb4ba-2a77-4149-bfef-ef54d43e748a
+  bundle: article
+  default_langcode: en
+  depends:
+    0dfdb011-9c82-4762-89a0-db01e08f9fe3: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    a3f94878-29da-43ac-8e16-72034f953190: taxonomy_term
+    ebb4e233-3bb4-4490-8791-3f304795758d: taxonomy_term
+    56d64927-23c6-4dcd-9df3-5c99c171a4de: taxonomy_term
+    2086f118-57f1-4219-ad73-94cc219358df: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Join August 14 Int''l Day of Action for the End of Sanctions Against Venezuela!'
+  created:
+    -
+      value: 1534201815
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /join-august-14-intl-day-action-end-sanctions-against-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter wp-image-10449 size-full\" src=\"https://afgj.org/wp-content/uploads/2018/07/Logo-blue-expanded-map1.jpg\" alt=\"\" width=\"1280\" height=\"298\" />\r\n<h1 style=\"text-align: center;\">Join August 14 Int'l Day of Action:</h1>\r\n<h1 style=\"text-align: center;\">End of Sanctions Against Venezuela!</h1>\r\n<p style=\"text-align: center;\"><a href=\"https://www.facebook.com/hashtag/sanctionsarewar?source=feed_text\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.facebook.com/hashtag/sanctionsarewar?source%3Dfeed_text&amp;source=gmail&amp;ust=1534271278382000&amp;usg=AFQjCNFbBxuAbt7EGMJvSIc_-PA3VERKPg\"><span class=\"m_-474039550632496620858cl\">#</span><span class=\"m_-474039550632496620858cm\">SanctionsAreWar</span></a>\_<a href=\"https://www.facebook.com/hashtag/endvenezuelasanctions?source=feed_text\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.facebook.com/hashtag/endvenezuelasanctions?source%3Dfeed_text&amp;source=gmail&amp;ust=1534271278382000&amp;usg=AFQjCNE3lwLowKuz-GGAi7lMql71PfOTdw\"><span class=\"m_-474039550632496620858cl\">#</span><span class=\"m_-474039550632496620858cm\">EndVenezuela<wbr />Sanctions</span></a><u></u><u></u></p>\r\n<p style=\"letter-spacing: 0.8px;\"><img class=\"wp-image-10571 size-medium alignleft\" src=\"https://afgj.org/wp-content/uploads/2018/08/SanctionsAreWar-300x198.jpg\" alt=\"\" width=\"300\" height=\"198\" /></p>\r\n<p style=\"letter-spacing: 0.8px;\"><span style=\"letter-spacing: 0.05em;\">As part of the campaign to end the sanctions against Venezuela groups from the United States and Canada are calling for International Solidarity against war and sanctions.</span></p>\r\n<span class=\"aBn\" tabindex=\"0\" data-term=\"goog_600724\"><span class=\"aQJ\">Tuesday, August 14, 2018</span></span>\_marks the first anniversary of the Trump Administration's expansion of sanctions against Venezuela. On this day, people across North America opposed\_<span style=\"letter-spacing: 0.05em;\">to the economic war will be standing together to urge an end to sanctions against Venezuela.</span>\r\n\r\n<b style=\"letter-spacing: 0.05em;\"></b><b style=\"letter-spacing: 0.05em;\"><img class=\"wp-image-10570 size-medium alignright\" src=\"https://afgj.org/wp-content/uploads/2018/08/EndVenezuelaSanctions-300x185.jpg\" alt=\"\" width=\"300\" height=\"185\" /></b>\r\n\r\n<b style=\"letter-spacing: 0.05em;\">Using the hashtags, #SanctionsAreWar &amp; #EndVenezuelaSanctions, we are asking people to take a selfie or group photo, and send it with a short message urging an end to the destructive and counterproductive economic blockade by the United States, Canadian and Western nations that are having a devastating impact on the people of Venezuela. Post the photo on social media and send us your picture</b><span style=\"letter-spacing: 0.05em;\">\_at\_</span><a style=\"letter-spacing: 0.05em;\" href=\"mailto:EndVenezuelaSanctions@gmail.com\" target=\"_blank\" rel=\"noopener\">EndVenezuelaSanctions@gmail.<wbr />com</a>\r\n\r\n<u></u>Economic sanctions, referred to as unilateral coercive economic measures in Venezuela, are illegal under the Organization of American States (OAS) and the United Nations (UN) charters. The Trump administration has heightened sanctions, begun by President Obama, to have a broader impact across Venezuelan society preventing the government from: refinancing its debt and presenting barriers to trade. #SanctionsAreWar #EndVenezuelaSanctions<u></u><u></u>\r\n\r\n<u></u>The coercive and punishing economic actions are often a prelude to war and are part of efforts by the United States and right wing oligarchs in Venezuela to undermine democracy in Venezuela and force a coup. The recent assassination attempt against President Maduro and Venezuela’s leadership are part of a regime change campaign being led by the United States and their allies, including Canada.<u></u><u></u>\r\n\r\nThe brutal sanctions being imposed on the people of Venezuela by the US, Canada and the EU are an act of war; preventing the import of vital foods and medicines, while at the same time cutting Venezuela off from receiving payments for their exports and limiting their access to financing and foreign currency.\r\n\r\nHow to participate in the August 14th Day of Action:\r\n<ol>\r\n \t<li>Take a picture of yourself or group using the hashtags:\_<b style=\"letter-spacing: 0.05em;\">#SanctionsAreWar &amp; #EndVenezuelaSanctions</b></li>\r\n \t<li>Share on social media. Like and tag <a href=\"https://www.facebook.com/EndVenezuelaSanctions/\" target=\"_blank\" rel=\"noopener\">facebook.com/EndVenezuelaSanctions</a></li>\r\n \t<li>Sign and share the Call to Action:\_<a href=\"https://afgj.salsalabs.org/campaigntoendusandcanadasanctionsagainstvenezuela/index.html\" target=\"_blank\" rel=\"noopener\">afgj.salsalabs.org/campaigntoendusandcanadasanctionsagainstvenezuela</a></li>\r\n</ol>\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 0dfdb011-9c82-4762-89a0-db01e08f9fe3
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false
+  field_tags:
+    -
+      entity: a3f94878-29da-43ac-8e16-72034f953190
+    -
+      entity: ebb4e233-3bb4-4490-8791-3f304795758d
+    -
+      entity: 56d64927-23c6-4dcd-9df3-5c99c171a4de
+    -
+      entity: 2086f118-57f1-4219-ad73-94cc219358df

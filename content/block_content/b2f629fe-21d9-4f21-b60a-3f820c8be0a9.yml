@@ -1,0 +1,161 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: b2f629fe-21d9-4f21-b60a-3f820c8be0a9
+  bundle: mt_main_slideshow_block
+  default_langcode: en
+  depends:
+    320eb095-3886-41c7-a53c-95f6035cb4a0: file
+    e3e11e03-d2ba-4948-bcd5-a2855c4501f9: node
+    cc245e5e-ef3b-4a67-ba3c-900d80afd873: file
+    855a0103-2cab-4e72-beb8-ac3a74e70372: node
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Slideshow Fullwidth'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_main_slideshow_layout:
+    -
+      value: fullwidth
+  field_mt_main_slideshow_slide:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 79180dbe-12b0-4137-ac10-a62826f8c100
+          bundle: mt_main_slideshow_slide
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1479922871
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_ms_slide_caption:
+            -
+              value: 'Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.'
+          field_mt_ms_slide_caption_color:
+            -
+              value: 'region--light-typography region--black-background'
+          field_mt_ms_slide_caption_opac:
+            -
+              value: 0
+          field_mt_ms_slide_image:
+            -
+              entity: 320eb095-3886-41c7-a53c-95f6035cb4a0
+              alt: 'Slide One'
+              title: 'Slide One'
+              width: 1920
+              height: 650
+          field_mt_ms_slide_link:
+            -
+              target_uuid: e3e11e03-d2ba-4948-bcd5-a2855c4501f9
+              title: 'Read More'
+              options: {  }
+            -
+              uri: 'internal:/contact'
+              title: Contact
+              options: {  }
+          field_mt_ms_slide_title:
+            -
+              value: 'Slide One'
+          field_mt_ms_slide_volume:
+            -
+              value: 0
+          field_mt_ms_slide_youtube_id:
+            -
+              value: 3wbvpOIIBQA
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: befbfff8-904c-4aa7-b91a-3b5334245698
+          bundle: mt_main_slideshow_slide
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1479923132
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_ms_slide_caption:
+            -
+              value: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.'
+          field_mt_ms_slide_caption_color:
+            -
+              value: 'region--light-typography region--black-background'
+          field_mt_ms_slide_caption_opac:
+            -
+              value: 0
+          field_mt_ms_slide_image:
+            -
+              entity: cc245e5e-ef3b-4a67-ba3c-900d80afd873
+              alt: 'Slide Two'
+              title: 'Slide Two'
+              width: 1920
+              height: 650
+          field_mt_ms_slide_link:
+            -
+              target_uuid: 855a0103-2cab-4e72-beb8-ac3a74e70372
+              title: 'Read More'
+              options: {  }
+          field_mt_ms_slide_title:
+            -
+              value: 'Slide Two'
+          field_mt_ms_slide_volume:
+            -
+              value: 0
+          field_mt_ms_slide_youtube_id:
+            -
+              value: dfmr_TEcUKY
+  field_mt_ms_background_opacity:
+    -
+      value: 60
+  field_mt_ms_bullets_position:
+    -
+      value: right
+  field_mt_ms_effect:
+    -
+      value: slideright
+  field_mt_ms_effect_duration:
+    -
+      value: 9
+  field_mt_ms_ignore_header_height:
+    -
+      value: false
+  field_mt_ms_initial_height:
+    -
+      value: 650
+  field_mt_ms_navigation_style:
+    -
+      value: bullets
+  field_mt_ms_touch_swipe_nav:
+    -
+      value: true

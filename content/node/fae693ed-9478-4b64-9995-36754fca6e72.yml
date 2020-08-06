@@ -1,0 +1,77 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: fae693ed-9478-4b64-9995-36754fca6e72
+  bundle: mt_service
+  default_langcode: en
+  depends:
+    002cd25d-366c-4c16-9267-8551542d86c2: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Join the Campaign to End US and Canada Sanctions Against Venezuela'
+  created:
+    -
+      value: 1592257450
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_srv_banner_image:
+    -
+      entity: 002cd25d-366c-4c16-9267-8551542d86c2
+      alt: campaign
+      title: ''
+      width: 1024
+      height: 238
+  field_mt_srv_body:
+    -
+      value: "<p>Campaign to End US and Canada Sanctions Against Venezuela announces upcoming delegation dates:</p>\r\n\r\n<p>Join us in Venezuela for Bolivarian Independence Day</p>\r\n\r\n<p>Join the Campaign to End US and Canada Sanctions Against Venezuela<br />\r\n<strong>July 4 – 14, 2019</strong></p>\r\n\r\n<p><a href=\"https://afgj.org/delegation-announcement-campaign-to-end-us-and-canada-sanctions-against-venezuela-july-4-14-2019\">More information</a></p>\r\n\r\n<p>Ways to participate:</p>\r\n\r\n<p>Take Action: Tell your representatives, No to US and Canada-Engineered Coup in Venezuela.</p>\r\n\r\n<p><a href=\"https://afgj.org/take-action-now-oppose-us-regime-change-efforts-in-venezuela\"><img alt=\"\" height=\"157\" src=\"https://i0.wp.com/afgj.org/wp-content/uploads/2019/01/No_Coup.jpg?resize=300%2C157&amp;ssl=1\" width=\"300\" /></a></p>\r\n\r\n<ol>\r\n\t<li>Read and share the press released: (April 17, 2019) <a href=\"https://afgj.org/press-release-eyewitness-account-campaign-to-end-u-s-canada-sanctions-on-venezuela-delegation-returns\"><strong>Eyewitness Venezuela – U.S./Canada Delegation to Venezuela Returns After Fact-finding Mission to Study the Impact of Sanctions</strong></a></li>\r\n\t<li>Sign and share the <a href=\"https://afgj.org/take-action-now-oppose-us-regime-change-efforts-in-venezuela\">Action Alert!</a></li>\r\n\t<li><a href=\"https://www.dropbox.com/sh/kjjs3qdr5w1bshl/AADogtJBtTtk2fL5UGSCrpUBa/VE%20Anti-Sanctions%20Toolbox?dl=0&amp;subfolder_nav_tracking=1\">Toolbox</a>: Find materials to help your group/organization get connected to Anti-Sanctions work</li>\r\n\t<li><a href=\"https://afgj.org/statement-of-the-campaign-to-end-u-s-and-canada-sanctions-against-venezuela\">Read and share the Campaign to End US/Venezuelan Sanctions Against Venezuela – </a><a href=\"https://afgj.org/statement-of-the-campaign-to-end-u-s-and-canada-sanctions-against-venezuela\">(January 23, 2019)</a></li>\r\n\t<li><a href=\"https://afgj.salsalabs.org/campaigntoendusandcanadasanctionsagainstvenezuela/index.html\">Endorse and Share the Call to Action</a>&nbsp;|&nbsp;<a href=\"https://secureservercdn.net/198.71.233.161/jwp.e46.myftpupload.com/wp-content/uploads/2018/07/CALL-TO-ACTION-Final.pdf\">(Download a PDF Version HERE)</a></li>\r\n\t<li>Join a working group to build the campaign.&nbsp; See list of committees below and email&nbsp;EndVenezuelaSanctions@gmail.com for more information.</li>\r\n\t<li>Connect with us on Facebook<a href=\"https://www.facebook.com/EndVenezuelaSanctions/\">&nbsp;@EndVenezuelaSanctions</a></li>\r\n</ol>\r\n\r\n<h3><span>Campaign to End US and Canada Sanctions Against Venezuela Statement:</span></h3>\r\n\r\n<p><a href=\"https://afgj.salsalabs.org/campaigntoendusandcanadasanctionsagainstvenezuela/index.html\"><img alt=\"\" height=\"50\" src=\"https://i0.wp.com/afgj.org/wp-content/uploads/2018/08/button.png?resize=458%2C50&amp;ssl=1\" width=\"458\" /></a><span>&nbsp;</span></p>\r\n\r\n<p><strong>Ordinary Venezuelans are hurt by sanctions imposed by the US and Canada</strong><br />\r\nThe elderly grandmother who cannot get insulin for her diabetes, the child who is undernourished during an important stage of development, families who cannot afford to feed and clothe their children&nbsp;as a result of hyperinflation. US and Canadian sanctions are precipitating a rapid economic decline in&nbsp;Venezuela and ordinary Venezuelans are the primary victims.</p>\r\n\r\n<p><strong>Unilateral sanctions are illegal</strong><br />\r\nOn May 21, the day after the re-election of Venezuela’s President Nicolás Maduro, the US further&nbsp;expanded economic sanctions against Venezuela. Both the US and Canada have sanctions targeting&nbsp;senior Venezuelan government officials. These sanctions severely hamper the government’s ability to&nbsp;engage with international financial entities. Furthermore, unilateral sanctions violate the human rights&nbsp;of the Venezuelan people and are illegal under the charters of the OAS and the UN.&nbsp;The imposed sanctions prevent the government from borrowing money from major financial&nbsp;institutions and from repatriating dividends earned by state subsidiaries abroad, restricting&nbsp;Venezuela’s ability to import vital foods and medicines. The US and Canada hypocritically claim to be&nbsp;concerned about the humanitarian situation in Venezuela, while their sanctions regimes are&nbsp;deliberately designed to asphyxiate the Venezuelan economy.</p>\r\n\r\n<p><strong>Sanctions are a form of economic war and can be a prelude to actual war</strong><br />\r\nIn addition to the economic war being waged against Venezuela through sanctions, recent reports as&nbsp;well as public statements by US officials have made clear that a military option against Venezuela is&nbsp;under serious consideration.</p>\r\n\r\n<p>As people in the US and Canada, we have the responsibility to end our governments’ practice of&nbsp;illegal foreign intervention, including the current economic sanctions against the people of Venezuela.&nbsp;These sanctions are a collective punishment designed to create enough human misery to bring about&nbsp;the overthrow of a democratically-elected government, including via a military coup. Economic&nbsp;sanctions violate Venezuela’s national sovereignty and the basic rights of Venezuelan citizens.</p>\r\n\r\n<p><strong>The campaign invites you and/or your organization to endorse this call against the illegal, unjust and&nbsp;</strong><strong>cruel sanctions being inflicted on the people of Venezuela.</strong></p>\r\n\r\n<p><a href=\"https://afgj.salsalabs.org/campaigntoendusandcanadasanctionsagainstvenezuela/index.html\"><img alt=\"\" height=\"50\" src=\"https://i0.wp.com/afgj.org/wp-content/uploads/2018/08/button.png?resize=458%2C50&amp;ssl=1\" width=\"458\" /></a></p>\r\n\r\n<p><strong>Initial Signers</strong></p>\r\n\r\n<p>Akinyele K. Umoja, Founding Member, New Afrikan People’s Organization<br />\r\nAlexander Main, Director for International Policy, Center for Economic and Policy Research<br />\r\nAlliance for Global Justice<br />\r\nCommon Frontiers<br />\r\nCuba and Venezuela Solidarity Committee<br />\r\nDan Kovalik, Adjunct Professor of International Human Rights, University of Pittsburgh School of Law<br />\r\nFire this Time Movement for Social Justice – Venezuela Solidarity Campaign<br />\r\nFrederick B. Mills, Ph.D., Professor of Philosophy Department of History and Government Bowie State University<br />\r\nGerardo Renique, Associate Professor, City College (SUNY)<br />\r\nGregory Wilpert, Venezuelanalysis.com<br />\r\nInternational Committee for Peace, Justice and Dignity<br />\r\nIvan Dario Hernandez, Artist, Venezuela<br />\r\nMichael Bass, Convener, School of the Americas Watch-Oakland/East Bay<br />\r\nPopular Resistance<br />\r\nShirley Pate, DC Venezuela Action Network<br />\r\nShontae Cannon–Buckley, Co-owner, Burning Books, Buffalo, New York<br />\r\nStansfield Smith, Chicago ALBA Solidarity<br />\r\nSusan Scott, Member, National Lawyers Guild<br />\r\nTask Force on the Americas<br />\r\nTeri Mattson, Founder, The Intrepid News Fund<br />\r\nTom Gallagher, Chair, San Francisco Progressive Democrats of America<br />\r\nWilliam Camacaro, Venezuelan Activist/Radio Host WBAI Pacifica Network</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>We are building this campaign! Let us know if you are interested in participating and/or organizing an activity in one or more of the&nbsp;areas of work listed below that will help build a North American voice against sanctions imposed on&nbsp;Venezuela:</p>\r\n\r\n<ul>\r\n\t<li>Congressional/parliamentary work</li>\r\n\t<li>Days of action</li>\r\n\t<li>Media outreach</li>\r\n\t<li>Petitioning (online)</li>\r\n\t<li>Speaking tours</li>\r\n\t<li>Webinars</li>\r\n</ul>\r\n\r\n<p>For more information on how to get further involved, please email EndVenezuelaSanctions@gmail.com.</p>\r\n\r\n<p><strong>Venezuela Webinars</strong></p>\r\n\r\n<h2>The US Destabilization of Venezuela with Alexander Main, February 11, 2019</h2>\r\n\r\n<p><strong>Venezuela Webinars</strong></p>\r\n\r\n<h2>The US Destabilization of Venezuela with Alexander Main, February 11, 2019</h2>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2><strong>Launch of Campaign, July 31, 2018</strong></h2>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2><strong>Steve Ellner: The Hardship Imposed on the Venezuelan People by US-Canadian Sanctions, August 25th, 2018</strong></h2>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2><strong>Examining the effect of sanctions on human rights in Venezuela with SURES, October 30, 2018</strong></h2>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Background links:</strong></p>\r\n\r\n<ol>\r\n\t<li><a href=\"https://venezuelanalysis.com/analysis/13936\">Sanctions Don’t Help the Venezuelan People</a></li>\r\n\t<li><a href=\"https://www.reuters.com/article/usa-venezuela-bond/u-s-oks-transactions-for-state-run-venezuelan-oil-company-bond-idUSL1N1UF17H\">U.S. OKs transactions for state-run Venezuelan oil company bond</a></li>\r\n\t<li><a href=\"https://www.democracynow.org/2018/7/11/mark_weisbrot_trumps_threats_to_invade\">Mark Weisbrot: Trump’s Threats to Invade Venezuela Are Part of U.S. Strategy of Regime Change</a></li>\r\n\t<li><a href=\"https://therealnews.com/stories/venezuela-introduces-new-measures-to-halt-hyperinflation-will-they-work\"><span>Venezuela Introduces New Measures to Halt Hyperinflation: Will they Work?</span></a></li>\r\n\t<li><a href=\"https://www.spreaker.com/user/radiosputnik/who-was-behind-the-assassination-attempt\">Who Was Behind the Assassination Attempt of Nicolás Maduro?</a> With an introduction to \"The Campaign to End US &amp; Canada Sanctions against Venezuela\" by Teri Mattson</li>\r\n\t<li>Special Report Unilateral Coercive Measures Against Venezuela and Its Impact On Human Rights (Caracas, 2018) (<a href=\"https://drive.google.com/file/d/0B9aNJg0c6CMKVGR0aU16VlRfR2dlYi1uYlV6S0cwaHNhOWhZ/view\">pdf</a>)</li>\r\n\t<li>\r\n\t<p><a href=\"https://chicagoalbasolidarity.wordpress.com/2018/09/14/venezuela-alba-weekly-9-14-2018-full-un-and-sures-reports-on-impact-of-us-eu-sanctions-on-venezuela-human-rights/\">Full UN and SURES Reports on Impact of US-EU Sanctions on Venezuela Human Rights</a></p>\r\n\t</li>\r\n</ol>\r\n\r\n<p><strong>Media coverage: </strong></p>\r\n\r\n<h2><a href=\"https://afgj.org/join-august-14-intl-day-of-action-for-the-end-of-sanctions-against-venezuela\">International Day of Action </a></h2>\r\n\r\n<h2><strong>for the End of Sanctions Against Venezuela</strong></h2>\r\n\r\n<h2>- August 14th, 2018</h2>\r\n\r\n<ol>\r\n\t<li>Interview with Paul Dobson from Venezuela Analysis on economic warfare against Venezuela (<a href=\"https://venezuelanalysis.com/audio/14004\">American Freedom Radio</a>)</li>\r\n\t<li>New Facebook Alliance Endangers Access to News about Latin America by W. T. Whitney (<a href=\"https://www.counterpunch.org/2018/08/16/new-facebook-alliance-endangers-access-to-news-about-latin-america/\">Counterpunch</a>)</li>\r\n</ol>\r\n\r\n<p>(español)</p>\r\n\r\n<ol>\r\n\t<li><a href=\"https://www.prensa-latina.cu/index.php?o=rn&amp;id=203283&amp;SEO=sanciones-contra-venezuela-son-un-acto-de-guerra-denuncian-en-canada\">Sanciones contra Venezuela son un acto de guerra, denuncian en Canadá (+Foto)</a></li>\r\n\t<li><a href=\"http://www.rcinet.ca/es/2018/08/15/divergencias-entre-el-gobierno-de-canada-y-los-movimientos-sociales-en-torno-a-venezuela/\">Divergencias entre el gobierno de Canadá y los movimientos sociales en torno a Venezuela</a></li>\r\n\t<li>Interview with Jeanette Charles from Venezuela Analysis (in Spanish) (<a href=\"https://spotlightamericablog.files.wordpress.com/2018/08/jeanette-charles-en-sc08142018.mp3\">mp3</a>)</li>\r\n</ol>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_srv_highlight:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 94502aae-b952-4024-8b2c-1bf9e2c0dc85
+          bundle: mt_highlight
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1592257557
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+  field_mt_srv_subheader_body:
+    -
+      value: "<p>Help End Illegal Sanctions Against Venezuela!</p>\r\n\r\n<p>The campaign invites you and/or your organization to endorse this call against the illegal, unjust and&nbsp;cruel sanctions being inflicted on the people of Venezuela.</p>\r\n"
+      format: basic_html
+      summary: ''

@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 7655ce82-84e0-4f3f-adae-724c713564fd
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Webinar | Inside and Out: Live from the Siege at the Venezuela Embassy in DC'
+  created:
+    -
+      value: 1557323947
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /webinar-inside-and-out-live-siege-venezuela-embassy-dc
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Join us Friday, May 10th at 8:00pm EDT / 5:00pm PDT for this important webinar.\r\n\r\nFriday marks the one month anniversary of the forming of the Embassy Protections Collective. Formed in an effort to prevent an escalation of conflict between the US and Venezuela, Embassy Protections Collective members inside the embassy have vowed to stay there as legitimate and legal tenants as long it takes.\r\n\r\nCurrently, mob violence is escalating outside of the embassy, as pro coup/pro Guaidó crowds have formed a permanent occupation outside the embassy with tents. Embassy Protection Collective members and their allies on the ground have been physically assaulted, had their personal items stolen, have been threatened with rape, had strobe lights flashed into their faces, and sound machines blared in their ears at close range. Many if not all of this has occurred while police and Secret Service stand by and watch. Despite their official line, the Secret Service continues to block food and supply deliveries to those living at the embassy. Protectors report that it has become common for police to arrest the victims of assault, not the people who committed the assault.\r\n\r\nWe will be speaking with representatives who are living inside the embassy as well as those that are supporting from outside the embassy. Join us and find out how you can support and be in solidarity with those putting their bodies on the line for peace and justice.\r\n\r\n&nbsp;\r\n<h1 style=\"text-align: center;\"><a href=\"https://zoom.us/webinar/register/WN_ras3ZN6uRMqT-OZGoqTDXw\">REGISTER NOW</a></h1>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

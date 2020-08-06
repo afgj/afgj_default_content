@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8cc70755-fba6-402b-8146-0d9c4bbe2e5d
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+    2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela & ALBA Weekly: US Tightens Blockade on Cuba, More Sanctions and Military Maneuvers Against Venezuela'
+  created:
+    -
+      value: 1510318917
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-us-tightens-blockade-cuba-more-sanctions-and-military-maneuvers-against
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong> 11.10.2017</strong>\n\n<img class=\"size-full wp-image-8416 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/11/nov10.png\" alt=\"Jorge Rodriguez, Venezuela communications Manager Meme\" width=\"550\" height=\"274\" />\n\n<hr />\n\nThis weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\n\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\n\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\n\n<hr />\n\n<a href=\"http://www.plenglish.com/index.php?o=rn&amp;id=20754&amp;SEO=military-drills-in-amazonia-a-threat-for-venezula\" target=\"_blank\" rel=\"noopener\">US Led Military Operations in Amazonia a Threat to Venezuela</a>\n\n<a href=\"http://www.plenglish.com/index.php?o=rn&amp;id=20786&amp;SEO=the-trump-administration-ignores-the-world-hardens-blockade-on-cuba\" target=\"_blank\" rel=\"noopener\">Trump Administration Ignores the World and Hardens the Blockade on Cuba</a>\n\n<a href=\"https://www.telesurtv.net/english/news/New-US-Sanctions-Seek-to-Undermine-Government-Opposition-Dialogue-Venezuela-Socialists--20171109-0017.html\" target=\"_blank\" rel=\"noopener\">New US Sanctions on Venezuela Seeks to Undermine Government and Opposition Dialogue</a>\n\n<a href=\"http://misionverdad.com/mv-in-english/differences-between-venezuela-fighting-corruption-and-the-us\" target=\"_blank\" rel=\"noopener\">Mision Verdad: Differences Between Venezuela Fighting Corruption and the US</a>\n\n<a href=\"https://venezuelanalysis.com/analysis/13489\" target=\"_blank\" rel=\"noopener\">Social Programs in Venezuela Under the Chavista Governments</a>\n\n<a href=\"https://mronline.org/2017/09/01/people-are-radicalizing-the-bolivarian-revolution/\" target=\"_blank\" rel=\"noopener\">Monthly Review: People are radicalizing the Bolivarian Revolution -- Christina Schiavoni</a>\n\n<a href=\"https://www.telesurtv.net/english/news/Bolivia-Produces-More-Than-95-of-Its-Food-Minister-20170731-0023.html\" target=\"_blank\" rel=\"noopener\">Bolivia Now Produces More than 95% of its Own Food</a>\n\n<a href=\"http://www.plenglish.com/index.php?o=rn&amp;id=20684&amp;SEO=fsln-alliance-sweeps-municipal-elections-in-nicaragua\" target=\"_blank\" rel=\"noopener\">FSLN Sweeps Municipal Elections in Nicaragua</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+    -
+      entity: 2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb
+  field_mt_slideshow:
+    -
+      value: false

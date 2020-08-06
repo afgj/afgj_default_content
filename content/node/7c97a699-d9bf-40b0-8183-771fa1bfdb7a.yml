@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 7c97a699-d9bf-40b0-8183-771fa1bfdb7a
+  bundle: article
+  default_langcode: en
+  depends:
+    559721eb-b73d-4d86-a9b5-58f46584daa3: taxonomy_term
+    ca4e52ca-2d48-486f-8d00-3553c0a7f296: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Five Dead in Attacks on Indigenous Communities in Mexico'
+  created:
+    -
+      value: 1491895062
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /five-dead-attacks-indigenous-communities-mexico
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>This is an update by James Patrick Jordan on the recent alert concerning El Ojite Cuahtemoc and on other assaults on indigenous communities in Oaxaca and Michoacan.</strong>\n\n<img class=\"aligncenter size-full wp-image-7729\" src=\"https://afgj.org/wp-content/uploads/2017/04/unnamed-1.jpg\" alt=\"\" width=\"700\" height=\"466\" />\n\nThe Alliance for Global Justice sent out an <a href=\"http://org2.salsalabs.com/o/7315/t/0/blastContent.jsp?email_blast_KEY=1389145\">alert on April 2nd</a> warning about an impending assault on the community of El Ojite Cuauhtémoc in Oaxaca. Since that time we have received notification from the People's Human Rights Observatory about three confrontations between government agents and/or paramilitaries with indigenous communities. These communities are being dispossessed of land and their autonomies are threatened. In the worst of the recent confrontations, in Michoacan, five persons were killed, dozens wounded, an undetermined number disappeared, and many arrested and currently in jail.\n\n<strong>If you have ever questioned the effectiveness of these action alerts, we note that in El Ojite Cuauhtémoc, although authorities and paramilitaries did occupy the primary school there, there were no physical assaults on the people</strong>. The People's Human Rights Observatory has told us that they believe this is because of the presence of human rights observers and the many international declarations on the community's behalf.\n\nIn San Miguel Tetepelcingo, a village of the San Lorenzo municipality in Oaxaca, community members, elected representatives and teachers were beaten as paramilitaries of the Antorcha Campesina (Peasant Torch) and government agents occupied the town hall and local school. In both El Ojite Cuauhtémoc and San Miguel Tetepelcingo, the authorities and paramilitaries are trying to dislodge local families from their land, undermine the Mixteca character of the villages and bring standardized education by force to schools that currently have bilingual curricula that emphasizes the transmission of Mixteca culture and history. In both communities, vacated land is being made available for the activities of narco-traffickers.\n\nThe attack on the Arantepacua community in Michoacan was motivated by similar interests and alliances. The state government has repeatedly used force to attack indigenous, teachers' and popular movements in order to advance a neoliberal agenda of school privatization and resource theft.\n\nWe of the United States must recognize our complicity in these attacks. The US has provided billions of dollars worth of weaponry and hardware used for purposes of repression by the Mexican military and police. When people are taken to jails for their resistance, they are more than likely incarcerated in institutions that have been funded, advised and/or accredited by the US government and its agents. The US Empire is behind the repression of First Nations from Standing Rock, North Dakota to Arantepacua, Michoacan. International solidarity and liberation is an antidote to Empire and colonization.\n\n<strong>Take Action</strong>\n\n<a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=24639\">Click Here</a> to sign this declaration by the People's Human Rights Observatory about the repression of the Arantepacua community in Nahuatzen, Michoacan\n\nWill your organization endorse\_the PHRO statement? If so, send an email to <a href=\"mailto:James@AFGJ.org\">James@AFGJ.org</a>.\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 559721eb-b73d-4d86-a9b5-58f46584daa3
+    -
+      entity: ca4e52ca-2d48-486f-8d00-3553c0a7f296
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

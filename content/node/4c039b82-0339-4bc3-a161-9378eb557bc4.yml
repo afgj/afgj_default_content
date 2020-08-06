@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4c039b82-0339-4bc3-a161-9378eb557bc4
+  bundle: article
+  default_langcode: en
+  depends:
+    bce432a9-c8d4-4656-a968-f6cc71b1b890: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    87614bb5-404a-46a8-b7ea-8faa09106702: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'May Venezuela Webinar - May 28 at 8:00pm EDT / 5:00pm PDT'
+  created:
+    -
+      value: 1558782149
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /may-venezuela-webinar-may-28-800pm-edt-500pm-pdt
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2 style=\"text-align: center;\"><a href=\"https://zoom.us/webinar/register/4915589797089/WN_UXd2Em8cSgid-rSESwNt7Q\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Register now for this important webinar with</strong>\_Daniel Kovali</a>k</h2>\r\n<h1 style=\"text-align: center;\">Making War in Venezuela:\_the role of corporate media and economic\_sanctions</h1>\r\n<h2 style=\"text-align: center;\">May 28 at 8:00pm EDT / 5:00pm PDT</h2>\r\n<h1><img class=\"aligncenter wp-image-10780 size-full\" src=\"https://afgj.org/wp-content/uploads/2018/09/VSN-webinar.jpg\" alt=\"\" width=\"768\" height=\"408\" /></h1>\r\n<p style=\"text-align: center;\"><a href=\"https://zoom.us/webinar/register/4915589797089/WN_UXd2Em8cSgid-rSESwNt7Q\" target=\"_blank\" rel=\"noopener noreferrer\">Register here!</a></p>\r\nAs the US war hawks have Venezuela in their gaze, we dedicate ourselves to the work of lifting up voices of those exposing the truth despite our corporate\_media who is by all appearances working alongside US war hawks.\_ To that end, the May Venezuela webinar will feature Daniel Kovalik.\r\n\r\nKovalik recently returned from an eye-witness delegation to Venezuela that studied the impacts of US and Canada sanctions.\_ A report recently released by the Center for Economic and Policy Research (CEPR) found that 40,000 people have died as a result of sanction since 2017.\_Sanctions are depriving Venezuelans of lifesaving medicines, medical equipment, food\_and other essential imports.\_ Make no mistake, sanctions are war.\r\n\r\nIt is no surprise that corporate media around the world is telling the same pro-war, pro-intervention narrative, because they've done it countless times before.\_\_Kovalik will also give us an analysis of the corporate media's role in this drawn out coup attempt.\r\n\r\nDaniel Kovalik currently teaches International Human Rights at the University of Pittsburgh School of Law. \_He also served for over 25 years as Associate General Counsel of the United Steelworkers, AFL-CIO (USW), and is author of the forthcoming book,\_<em><a href=\"https://www.amazon.com/exec/obidos/ASIN/151075072X/counterpunchmaga?eType=EmailBlastContent&amp;eId=44444444-4444-4444-4444-444444444444\" target=\"_top\" rel=\"noopener noreferrer\">The Plot to Overthrow Venezuela, How the US is Orchestrating a Coup for Oil</a>, with a Foreword by Oliver Stone.</em>\r\n\r\n<a href=\"https://zoom.us/webinar/register/4915589797089/WN_UXd2Em8cSgid-rSESwNt7Q\"><img class=\"aligncenter wp-image-10366 size-medium\" src=\"https://afgj.org/wp-content/uploads/2018/07/register-now-300x162-300x162.jpg\" alt=\"\" width=\"300\" height=\"162\" /></a>\r\n\r\n<em>You must register to participate in the webinar. After registration you will be emailed your individual credentials to log into the webinar.\_ You can participate by computer for audio and video, or by phone for just audio.\_ In order to participate in the Q&amp;A you must participate by computer.\_</em>\r\n\r\n<hr />\r\n<p style=\"text-align: center;\">This\_webinar\_is one of a series of monthly\_webinars\_organized by the Alliance for Global Justice and Venezuela Strategy Group. For information:\_<a href=\"mailto:AFGJ@AFGJ.org\">AFGJ@AFGJ.org</a></p>\r\n<p style=\"text-align: center;\">Share widely!</p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bce432a9-c8d4-4656-a968-f6cc71b1b890
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: 87614bb5-404a-46a8-b7ea-8faa09106702
+  field_mt_slideshow:
+    -
+      value: false

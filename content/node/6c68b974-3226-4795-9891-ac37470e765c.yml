@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 6c68b974-3226-4795-9891-ac37470e765c
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela-ALBA Weekly #201, Venezuela Fights Back Against US Economic War'
+  created:
+    -
+      value: 1521796536
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-alba-weekly-201-venezuela-fights-back-against-us-economic-war
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1><img class=\"size-full wp-image-9391 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/03/image-1.png\" alt=\"\" width=\"1320\" height=\"990\" /></h1>\r\n<h1 style=\"text-align: center;\">The News This Week</h1>\r\n<p style=\"text-align: center;\">3.23.2018</p>\r\n<a href=\"https://fair.org/home/exonerating-the-empire-in-venezuela/\" target=\"_blank\" rel=\"noopener\">FAIR: Exonerating the Empire in Venezuela</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://mailchi.mp/925cb61588a5/p1riqc1c5o-740201?e=d15e2ab0fe\" target=\"_blank\" rel=\"noopener\">Network of Intellectuals and Artists in Defense of Humanity: A Time of Urgency: Halting U.S. Political, Diplomatic, and Military Intervention in the Sovereign Affairs of the Venezuelan People and the Bolivarian Government of Nicolas Maduro</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.mintpressnews.com/icc-plays-scripted-propaganda-role-regime-change-plot-venezuela/239400/\" target=\"_blank\" rel=\"noopener\">International Criminal Court plays Scripted Propaganda Role in Venezuela Regime Change Plot</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://www.truth-out.org/news/item/43900-in-venezuela-it-s-democracy-if-us-backed-candidates-are-empowered-tyranny-if-they-are-not\" target=\"_blank\" rel=\"noopener\">In Venezuela, It's \"Democracy\" if US-Backed Candidates Win, \"Tyranny\" if They Are Not</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/analysis/13734\" target=\"_blank\" rel=\"noopener\">Equity, Change and Popular Power: Venezuelans Talk About the Bolivarian Revolution</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://en.granma.cu/mundo/2018-03-21/the-united-states-expands-economic-sanctions-against-venezuela\" target=\"_blank\" rel=\"noopener\">The United States Expands Sanctions, Continues Attacks on Venezuelan</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/news/13727\" target=\"_blank\" rel=\"noopener\">Venezuela to Expand Small-Scale Urban Agriculture</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Maduro-236000-New-Homes-To-Be-Built-Thanks-To-Petro-20180320-0026.html\" target=\"_blank\" rel=\"noopener\">Maduro: 236,000 New Homes To Be Built Thanks To Petro; Goal of One Million More by 2019</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/-Venezuela-Has-the-Fourth-Largest-Gold-Mine-in-the-World-20180320-0025.html\" target=\"_blank\" rel=\"noopener\">Venezuela Has the Fourth Largest Gold Mine in the World</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://en.granma.cu/mundo/2018-03-22/nicaragua-rejects-exclusion-of-venezuela-from-summit-of-the-americas\" target=\"_blank\" rel=\"noopener\">Nicaragua Rejects Exclusion of Venezuela From Summit of the Americas</a>\r\n\r\n<hr />\r\n<p style=\"text-align: center;\"><strong>About the Weekly</strong></p>\r\nIt is AfGJ's conviction that we in the US defend Venezuela's sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n<hr />\r\n<p style=\"text-align: center;\"><strong>Other Issues</strong></p>\r\n<a href=\"https://afgj.org/take-action-demand-to-free-honduran-political-prisoners\">Demand Freedom for Honduran Political Prisioners!</a>\r\n\r\n<a href=\"http://hondurasresists.blogspot.com/2018/02/23-months-of-impunity-in-assassination.html\" target=\"_blank\" rel=\"noopener\">Anniversary of Her Murder: Honduras Resists on Berta Caceres</a>\r\n\r\n<a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/index.sjs?action_KEY=25696\" target=\"_blank\" rel=\"noopener\">Say No to the Nica Act</a>\r\n\r\n<a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25751\" target=\"_blank\" rel=\"noopener\">Help Free Honduran Activist Edwin Espinal</a>\r\n\r\n<hr />\r\n<p style=\"text-align: center;\"><strong>Delegations</strong></p>\r\n<a href=\"https://afgj.org/hondurasdelegation2018\" target=\"_blank\" rel=\"noopener\">April Human Rights Delegation to Honduras</a>\r\n\r\n<a href=\"https://afgj.org/travel-to-colombia\" target=\"_blank\" rel=\"noopener\">May Peacemakers Delegation to Colombia</a>\r\n\r\n<a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\">June Agrarian &amp; Worker Struggle Delegation to Nicaragua</a>\r\n\r\n<a href=\"https://afgj.org/artist-delegation-nicaragua\" target=\"_blank\" rel=\"noopener\">August Artist Delegation to Nicaragua</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

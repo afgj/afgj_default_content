@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: dd04f1f5-0157-4b02-94cf-28aa09cb9518
+  bundle: article
+  default_langcode: en
+  depends:
+    bce432a9-c8d4-4656-a968-f6cc71b1b890: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly: Three Years since Fidel Died, Remember his Example; Repression Worsens in Bolivia'
+  created:
+    -
+      value: 1575057834
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-three-years-fidel-died-remember-his-example-repression-worsens-bolivia
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"wp-image-12280 size-full aligncenter\" src=\"https://afgj.org/wp-content/uploads/2019/11/fidel-foto.jpg-words.jpg\" alt=\"\" width=\"648\" height=\"418\" />\r\n\r\n&nbsp;\r\n\r\n<strong>Cuba</strong>\r\n\r\n<a href=\"http://en.granma.cu/cuba/2019-11-27/three-keys-to-fidels-party\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"http://en.granma.cu/cuba/2019-11-27/three-keys-to-fidels-party\">Three Keys to the Political Party Fidel Built</a> Three key concepts, that sustain the essential political instrument that is our Party, are unity, providing an example, and sacrifice, as confirmed by notable historians, philosophers, writers, and journalists.\r\n\r\n<a href=\"https://orinocotribune.com/back-to-fidel\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://orinocotribune.com/back-to-fidel\">Back to Fidel </a>Three years after his death, it is important to review the many ways he was an example and his unusual abilities.\r\n\r\n<a href=\"http://misiones.minrex.gob.cu/en/articulo/faith-leaders-call-improved-us-cuba-relations\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"http://misiones.minrex.gob.cu/en/articulo/faith-leaders-call-improved-us-cuba-relations\">Open Letter by US Faith Leaders calls on President Trump for improved U.S.- Cuba relations</a> \_ And their Letter to Congress <a href=\"http://misiones.minrex.gob.cu/en/articulo/faith-based-organizations-call-improved-us-cuba-relations\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"http://misiones.minrex.gob.cu/en/articulo/faith-based-organizations-call-improved-us-cuba-relations\">here</a>\r\n\r\n<strong>Bolivia and US Coups</strong>\r\n\r\n<a href=\"https://thegrayzone.com/2019/11/27/operation-condor-2-coup-trump-nicaragua-mexico/\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://thegrayzone.com/2019/11/27/operation-condor-2-coup-trump-nicaragua-mexico/\">Operation Condor 2.0: After Bolivia Coup, Trump Declares Nicaragua “an unusual and extraordinary threat to the national security of the US”\_ along with Cuba and Venezuela, and Targets Mexico</a> These moves have led left-wing forces in Latin America to warn of a 21st-century revival of Operation Condor, the Cold War era campaign of violent subterfuge and US support for right-wing dictatorships and death squads across the region.\r\n\r\n<a href=\"https://chicagoalbasolidarity.wordpress.com/2019/11/25/evidence-talks-us-government-propelled-coup-in-bolivia/?fbclid=IwAR0pn7rSj8G__Uoi9-XxvicVF04J4D7OMc-1c5Y3I8DYeU_s-pED-M8kYe8\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://chicagoalbasolidarity.wordpress.com/2019/11/25/evidence-talks-us-government-propelled-coup-in-bolivia/?fbclid=IwAR0pn7rSj8G__Uoi9-XxvicVF04J4D7OMc-1c5Y3I8DYeU_s-pED-M8kYe8\">The Evidence on How the US Propelled the Coup in Bolivia</a> The U.S. government made preparations and orchestrated the final stages of the coup. It was in charge. It’s about money, U.S. influence within the Bolivian military, and U.S. control of the Organization of American States (OAS). There are these items:\r\n\r\n<a href=\"https://thegrayzone.com/2019/11/27/right-wing-coup-bolivia-complete-junta-hunting-dissidents/\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://thegrayzone.com/2019/11/27/right-wing-coup-bolivia-complete-junta-hunting-dissidents/\">With the right-wing coup in Bolivia nearly complete, the junta is hunting down the last remaining dissidents</a> The wrath of the coup regime, led by a once fringe far-right politician named Jeanine Añez, is felt all across the Bolivian left. Virtually anyone who represents a perceived challenge to the status quo is liable to be hit with manufactured charges of “sedition” or “terrorism.”\r\n\r\n<a href=\"https://www.mintpressnews.com/long-history-new-york-times-endorsing-us-backed-coups/263059/\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://www.mintpressnews.com/long-history-new-york-times-endorsing-us-backed-coups/263059/\">The New York Times Long History of Endorsing US-Backed Coups</a> The New York Times Editorial Board, it seems, rarely meets a coup backed by the US government that it doesn’t approve of. Despite the changing media landscape and the financial troubles of old school journalism models – including the New York Times – it remains the agenda setter. Social media often use or respond to Times stories. It is still probably the single most referenced news outlet in the U.S. Other websites, like Yahoo get more hits, but they do not report or create their own stories. The New York Times still ranks as the top investigative and opinion setting news organization.\r\n\r\n<a href=\"http://oneworld.press/?module=articles&amp;action=view&amp;id=1181\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"http://oneworld.press/?module=articles&amp;action=view&amp;id=1181\">Evo Morales declared a 'Terrorist' &amp; The Use of Fear-Mongering Labels as Weapons</a> Arturo Murillo, the coup-imposed \"Interior Minister\" of Bolivia, said in an exclusive interview with The Guardian over the weekend that (\"former\") President Morales should be jailed for life because of his supposedly \"terrorist\" activities following claims that a recording has surfaced of him allegedly urging his majority-indigenous supporters to set up roadblocks all across the country as a form of resistance against the US-backed regime change.\r\n\r\n<strong>Venezuela</strong>\r\n\r\n<a href=\"https://fair.org/home/media-wonder-why-cant-venezuela-be-more-like-bolivia/?fbclid=IwAR0BCkklCuRqUEHCjbaDFBTcQixLbctiZ2WceXSPhGjdk_ppvBBJsz8EekA\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://fair.org/home/media-wonder-why-cant-venezuela-be-more-like-bolivia/?fbclid=IwAR0BCkklCuRqUEHCjbaDFBTcQixLbctiZ2WceXSPhGjdk_ppvBBJsz8EekA\">The Corporate Media “Free Press” Wishes a Venezuela Coup was Like Bolivia</a> Western corporate media outlets have often cries foul when foreign elections don’t go the way the US empire wants them to, and find roundabout ways to label the violent attempts by vocal right-wing minorities to use military forces to overthrow leftist governments as “protests” rather than coups. But upt to now, it had still been rare to see them blatantly call for a right-wing coup without a hint of their usually subtler pretenses.\r\n\r\n<a href=\"https://orinocotribune.com/not-in-the-name-of-chavez\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://orinocotribune.com/not-in-the-name-of-chavez\">Not in the Name of Chavez: Problems with “Critical Chavismo”</a> Mision Verdad looks at the relation of “Critical Chavismo” with the enemies of the Bolivarian revolution.\r\n\r\n<strong>Nicaragua</strong>\r\n\r\n<a href=\"https://afgj.org/nicanotes-nicaragua-in-2019-would-make-anyone-proud\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://afgj.org/nicanotes-nicaragua-in-2019-would-make-anyone-proud\">NicaNotes: Nicaragua in 2019 Would Make Anyone Proud</a>\r\n\r\n<strong>Delegations</strong>\r\n\r\n<a href=\"https://revolucionalimentaria.org/2019/10/17/urgent-food-sovereignty-delegation-to-venezuela-witness-effects-of-sanctions-and-responses-on-the-ground-january-3-12-2020/?fbclid=IwAR1HEZu4M2LBPAiagEOtdujCPWxf21l9MgqgHptsgZdjnDZLhtwTcLiOCr0\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://revolucionalimentaria.org/2019/10/17/urgent-food-sovereignty-delegation-to-venezuela-witness-effects-of-sanctions-and-responses-on-the-ground-january-3-12-2020/?fbclid=IwAR1HEZu4M2LBPAiagEOtdujCPWxf21l9MgqgHptsgZdjnDZLhtwTcLiOCr0\">Food sovereignty delegation to Venezuela\_ January 3-12, 2020</a>\r\n\r\n<a href=\"https://organicgrowersschool.org/events/travel-to-cuba-2020/\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://organicgrowersschool.org/events/travel-to-cuba-2020/\">Organic Growers Association Cuba Agroecology Tour, January 7-16</a>\r\n\r\n<a href=\"http://www.humanagenda.net/events/2019/9/3/emulation-tour-to-cuba-jan-11-20-2020\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"http://www.humanagenda.net/events/2019/9/3/emulation-tour-to-cuba-jan-11-20-2020\">Tour of Worker Cooperatives in Cuba, January 11-20</a>\r\n\r\n<strong>Sites to Follow Venezuela, Bolivia:</strong>\r\n\r\n<a href=\"https://www.facebook.com/groups/FriendsofEvosBolivia/?ref=bookmarks\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://www.facebook.com/groups/FriendsofEvosBolivia/?ref=bookmarks\">Friends of Evo’s Bolivia</a>\r\n\r\n<a href=\"https://afgj.org/bolivia-updates-actualizaion-bolivia\" data-cke-saved-href=\"https://afgj.org/bolivia-updates-actualizaion-bolivia\">Updates on Bolivia – Actualizaciones sobre Bolivia \_</a>\r\n\r\n<a href=\"https://www.facebook.com/groups/StandwithVenezuela/\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://www.facebook.com/groups/StandwithVenezuela/\">Stand with Venezuela</a>\r\n\r\n<a href=\"https://orinocotribune.com/\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://orinocotribune.com/\">Orinoco Tribune</a>\r\n\r\n<a href=\"https://www.facebook.com/groups/162591360580435/\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://www.facebook.com/groups/162591360580435/\">Venezuela Solidarity New York</a>\r\n\r\n<a href=\"https://www.facebook.com/EndVenezuelaSanctions/\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://www.facebook.com/EndVenezuelaSanctions/\">End Venezuela Sanctions</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bce432a9-c8d4-4656-a968-f6cc71b1b890
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

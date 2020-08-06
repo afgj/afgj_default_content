@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3384ca5b-48b4-4a1f-8a24-f5cd00ebf195
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicanotes 2'
+  created:
+    -
+      value: 1490189559
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-2
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"aligncenter wp-image-6975 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" width=\"579\" height=\"195\" /></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #333333;\"><strong><a style=\"color: #333333;\" href=\"https://afgj.org/nicanotesabout\">About</a>\_ \_ \_ \_<a href=\"http://org2.salsalabs.com/o/7315/signup_page/nicanotessubscribe\" target=\"_blank\">Subscribe</a>\_ \_ \_ \_<a href=\"emailto:nicanet@afgj.org\">Contact</a></strong></span></p>\r\nNicaNotes is a blog for Nicaragua activists and those interested in Nicaragua, published by the <a href=\"http://www.nicanet.org/\" target=\"_blank\">Nicaragua Network</a>/<a href=\"https://afgj.org\">Alliance for Global Justice</a>. It provides news and analysis from the context of Nicaragua Network’s long history of struggle in solidarity with the Sandinista Revolution.\r\n<h2 style=\"text-align: center;\"><strong>PAGE 2</strong></h2>\r\nhttps://afgj.org/nicanotesappeal\r\n\r\nhttps://afgj.org/nicanotes22\r\n\r\nhttps://afgj.org/nicanotes21\r\n\r\nhttps://afgj.org/guest-post-fidel-by-tortilla-con-sal-and-the-nicaragua-network\r\n\r\nhttps://afgj.org/nicanotes20\r\n\r\nhttps://afgj.org/nicanotes19\r\n\r\nhttps://afgj.org/nicanotes18\r\n\r\nhttps://afgj.org/nicanotes17\r\n\r\nhttps://afgj.org/nicanotes16\r\n\r\nhttps://afgj.org/nicanotes15\r\n\r\nhttps://afgj.org/nicanotes14\r\n\r\nhttps://afgj.org/nicanotes13\r\n\r\nhttps://afgj.org/nicanotes12\r\n\r\nhttps://afgj.org/nicanotes11\r\n\r\nhttps://afgj.org/nicanotes10\r\n\r\nhttps://afgj.org/nicanotes9\r\n\r\nhttps://afgj.org/nicanotes8\r\n\r\nhttps://afgj.org/nicanotes7\r\n\r\nhttps://afgj.org/nicanotes6\r\n\r\nhttps://afgj.org/to-hell-with-the-buck-the-planet-stops-here\r\n\r\nhttps://afgj.org/nicanotes5\r\n\r\nhttps://afgj.org/nicanotes4\r\n\r\nhttps://afgj.org/nicanotes3\r\n\r\nhttps://afgj.org/nicanotes2\r\n\r\nhttps://afgj.org/nicanotes1"
+      format: full_html
+      summary: ''

@@ -1,0 +1,80 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3c542066-3bb8-4b8a-8e6c-16c3f9818907
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    cb4617c7-3c39-4ae4-a5e6-a44b174be3d3: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    b512b78b-0c6f-4c98-bae1-4aea59160789: taxonomy_term
+    2c115f7f-ef64-471c-8005-1d1a8c7e573d: taxonomy_term
+    2ba5895d-e563-4117-bc5f-fb46db7a2f42: taxonomy_term
+    b7711fbb-46cb-492b-9eb8-cf36e20a6651: taxonomy_term
+    2242dd80-4ffb-436b-8014-c7400d25be85: taxonomy_term
+    029f9f31-8907-439a-85b0-ac18a58ac3e8: taxonomy_term
+    940fdb6b-2130-485f-abe5-b9909e149b41: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Death Curse in Caloto - Colombian unionist and opposition candidate declared “military object”'
+  created:
+    -
+      value: 1564868452
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /death-curse-caloto-colombian-unionist-and-opposition-candidate-declared-military-object
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "[caption id=\"attachment_11969\" align=\"aligncenter\" width=\"403\"]<img class=\"wp-image-11969\" src=\"https://afgj.org/wp-content/uploads/2019/08/Gerardo-Barona-Avirama.jpeg\" alt=\"\" width=\"403\" height=\"401\" /> Gerardo Barona Avirama[/caption]\r\n\r\nby James Patrick Jordan\r\n\r\n<em>Note: Even as I finish writing and publishing this piece, we have received two more notifications of paramilitary murders of activists in the area of Caloto, Cauca. </em>\r\n<h3 style=\"text-align: center;\"><a href=\"https://afgj.salsalabs.org/colombiamustprotectgerardobaronaandandymurcia/index.html\">Send an email to Colombian authorities demanding protection and an end to the threats against Gerardo Barona and Andy Murcia</a></h3>\r\nUnder cover of night while those inside are sleeping, a manila envelope is slipped under the door. Rising in the morning to greet the day, Andy Murcia Parra picks it up and opens it. But even before reading the words, the intent of the message is already clear: it is a letter of death, a spell delivered to instill the curse of terror.\_ In Colombia, they say the best way to break the curse’s power, its stranglehold of fear, is to not be silent.\r\n\r\nThe note, dated July 24, 2019, declared Gerardo “Nene” Barona Avirama and Murcia as “military <img class=\"alignright size-medium wp-image-11970\" src=\"https://afgj.org/wp-content/uploads/2019/08/67225613_634356847074137_2796772223711444992_n-167x300.jpg\" alt=\"\" width=\"167\" height=\"300\" />objects”. Gerardo Barona is a candidate for the city council of Caloto, Cauca in Colombia, and Murcia is his campaign coordinator. They are both deeply committed to the defense of human rights and the peasant community where they live. While I do not know Murcia, Gerardo is a friend and I can personally attest to his bravery and commitment.\r\n\r\nThe note came from the Autodefensas Gaitanistas de Colombia (Gaitanista Self Defense of Colombia), a right-wing death squad. They are named for one of the Left’s most popular historical leaders, Jorge Eliecer Gaitan, who was assassinated in 1948. This is a paramilitary tactic, to sometimes adopt names connected with Left movements from the past in order to sow confusion among the public. The AGC has absolutely nothing to do with the legacy of that great leader.They are nothing less than right wing terrorists who carry out their actions in the shadows against those without defense. They are the definition of cowardice and cruelty.\r\n\r\nThis is what the letter said:\r\n\r\n“We are in the North of Cauca, attending to our mission to liberate Colombia from the militias.\r\n\r\nWe inform Mr. ANDY MURCIA PARRA who has confabulated with the militia member GERARDO BARONA…that they have been declared military objects on the part of our organization.\r\n\r\nYour days are numbered.\r\n\r\nOUR OBJECTIVE IS TO LIBERATE COLOMBIA FROM THE MILITIA PLAGUE”\r\n\r\nBy calling Gerardo a “militia member” they are accusing him of being a guerrilla. He is not that, nor has he ever been. He is a vocal supporter of the peace accord ending 52 years of civil war that disbanded the FARC-EP (Revolutionary Armed Forces of Colombia-People’s Army) as an armed insurgency. Such false accusations often precede assassinations.\r\n\r\nGerardo “Nene” Barona Avirama is not one of the silent, and neither is Andy Murcia Parra. Their proud advocacy for the people is a powerful contradiction to the cowards’ curses. I first met Gerardo in 2017 during an Alliance for Global Justice delegation. He spoke to us passionately as a member of REDDHFIC (Francisco Isaias Cifuentes Human Rights Network) about the precarious situation in his municipality. Since then, I have learned just how important a community leader and organizer he is. Gerardo is a unionist, an environmentalist, someone who fights for the rights of rural and indigenous people where he lives, and he is an advocate for gay rights on a national level. He is a member of FENSUAGRO (National Federation of Unified Agricultural Workers Unions) where he is responsible for their outreach to the LGBTQI community. Gerardo is also a member of the Marcha Patriotica (Patriotic March), one of Colombia’s largest popular movements for a just peace. His prominence as a leader means that he must travel accompanied by bodyguards.\r\n\r\nGerardo has filed a report with the authorities, but fears it is not being taken seriously, not being responded to. I have heard this story many times. Just last May, the Alliance for Global Justice distributed an alert over a similar situation concerning an indigenous women’s group in the Department of La Guajira. The <a href=\"https://afgj.org/death-squad-threatens-wayuu-womens-force-in-la-guajira-colombia\">Fuerza de Mujeres Wayúu (Wayúu Women’s Force)</a> told us the Attorney General’s office does not take the threats seriously. They dismiss them as “not credible” or say that they are from common criminals, and therefore they are local matters. They maintain this position despite that every 36 hours a Colombian human rights defender or social movement leader is murdered. Since the implementation of the peace accord in 2016, more than 730 such activists have been killed, and over 130 murdered ex-insurgents who laid down their arms as part of the negotiations. The vast majority are from rural areas, more than 40% are indigenous or Afro-Colombian, and more than 40% are affiliated with the Marcha Patriótica.\r\n\r\nNowhere in Colombia is the number of killings higher than in Cauca, and in Cauca, the violence is most concentrated in the North, where Caloto is located.\r\n\r\n<img class=\"alignleft wp-image-11971\" src=\"https://afgj.org/wp-content/uploads/2019/08/Garardo-2-113x150.jpeg\" alt=\"\" width=\"122\" height=\"157\" />I asked Gerardo why he was running for office. \_He responded, “My motivations are for the recognition [of the rights] of the Peasant Reserve Zone of Caloto.” These peasant reserve zones are special areas where the land is held collectively to prevent its exploitation by extraction industries, foreign companies, or big landowners. The zones are similar to the ejido system in Mexico, and have been a focus of rural struggle for decades. The right to establish these zones has been agreed to time and again by the government, including as part of the peace accord adopted in 2016. But the government has been slow to establish these zones, and land rights of peasant, indigenous, and Afro-Colombian reserves are under constant assault.\r\n\r\nGerardo explained that he and his campaign are being threatened because, “I am a Human Rights Defender and we care for the ecosystem and we will not permit the entrance of the multinationals in our territory, our Peasant Reserve Zone of Caloto.”\r\n\r\nThere is a strong parallel between the military presence in the area and paramilitary activity. Both have committed numerous attacks against the rural and indigenous populations. The military has fired against gatherings in defense of the land, and carried out violent campaigns to eradicate crops with illicit uses, in contravention of the peace accord. The accord calls for respect for indigenous and peasant land rights, and peaceful eradication coupled with rural development and crop substitution programs.\r\n\r\nHowever, at the insistence of the administration of US president Donald Trump, Colombian President Iván Duque has ignored and abandoned this component in favor of military incursions. This has resulted in occasions where communities have been attacked even while they were demonstrating for inclusion in substitution efforts, even while they were in the process of voluntary eradication.\r\n\r\nThis activity on the part of the official Colombian Armed Forces has coincided with paramilitary threats and murders. A common saying in rural Colombia is that, “By day, they are military, in military uniforms. By night, they change their clothes and become paramilitaries.” Or, as Gerardo explained, “The military forces pass through our territories and…[then] threats appear against the leaders and human rights defenders.”\r\n\r\nI asked Gerardo what we could do to help. He told me “I want you to help me by sending your letters to the national government so that they will provide me the means of protection.”\r\n\r\nAs I sit here finishing this article, I receive a message from Gerardo. A young man from the indigenous guard in the adjacent municipality of Toribio was killed by death squads in Caloto yesterday. Just a kid. He was 20 years old and his name was Gersaín Yatacue.\r\n\r\n[caption id=\"attachment_11972\" align=\"aligncenter\" width=\"300\"]<img class=\"wp-image-11972 size-medium\" src=\"https://afgj.org/wp-content/uploads/2019/08/Geraín-Yatacué-300x167.jpg\" alt=\"\" width=\"300\" height=\"167\" /> Gersaín Yatacué, Coordinator of the Indigenous Guard of San Julián, Toribío, murdered by paramilitary death squad, August 1, 2019 in Caloto, Cauca. He was 20 years old.[/caption]\r\n\r\nI remind myself as I so often do: these crimes are committed in our names. The tragedies and threats happening in Colombia are the direct results of US policies that have provided billions in funding for the military and so-called “security”. The situation has worsened because Duque and Trump and their allies are doing all they can to nullify what remains of the peace accord.\r\n\r\nWe must raise our voices and help break the curse of military and paramilitary violence in Colombia.\r\n\r\nPost-script: Even as I sit down to publish this article, I receive yet more bad news. Today, August 3, 2019, in nearby Corinto, a FENSUAGRO union member and community leader from Caloto has been assassinated by the death squads. He is José Eduardo Tumbó, a Community Action Council leader in his village and member of the Marcha Patriótica.\r\n\r\n&nbsp;\r\n\r\n[caption id=\"attachment_11973\" align=\"aligncenter\" width=\"290\"]<img class=\"wp-image-11973 \" src=\"https://afgj.org/wp-content/uploads/2019/08/José-Eduardo-Tambó-225x300.jpeg\" alt=\"\" width=\"290\" height=\"387\" /> José Eduardo Tambó and unidentified woman. Tambó, of Caloto, Cauca, was murdered August 3, 2019 by a paramilitary death squad in nearby Corinto.[/caption]\r\n<h2 style=\"text-align: center;\">Important actions you can take in solidarity with Colombia’s social movements:</h2>\r\n&nbsp;\r\n<ul>\r\n \t<li>\r\n<h3><a href=\"https://afgj.org/peoples-travel-advisory-on-colombia-call-for-international-actions-for-september-27-2019\">Please join Noam Chomsky, Piedad Córdoba, and Nobel Peace Prize Winner Adolfo Perez Esquivel and sign the People’s Travel Advisory on Colombia</a></h3>\r\n</li>\r\n</ul>\r\n<h3></h3>\r\n<ul>\r\n \t<li>\r\n<h3>Help organize an event in your city for the International Day for Peace in Colombia, September 27. Send an email to <a href=\"mailto:JAMES@AFGJ.ORG\">JAMES@AFGJ.ORG</a> for more information.</h3>\r\n</li>\r\n</ul>\r\n<h3></h3>\r\n<ul>\r\n \t<li>\r\n<h3>Consider going on the US Labor Against the War and AfGJ Labor Delegation to Colombia November 24-December 4, 2019. Send an email to JAMES@AFGJ.ORG for more information.</h3>\r\n</li>\r\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: cb4617c7-3c39-4ae4-a5e6-a44b174be3d3
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false
+  field_tags:
+    -
+      entity: b512b78b-0c6f-4c98-bae1-4aea59160789
+    -
+      entity: 2c115f7f-ef64-471c-8005-1d1a8c7e573d
+    -
+      entity: 2ba5895d-e563-4117-bc5f-fb46db7a2f42
+    -
+      entity: b7711fbb-46cb-492b-9eb8-cf36e20a6651
+    -
+      entity: 2242dd80-4ffb-436b-8014-c7400d25be85
+    -
+      entity: 029f9f31-8907-439a-85b0-ac18a58ac3e8
+    -
+      entity: 940fdb6b-2130-485f-abe5-b9909e149b41

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 65487dcc-8ae9-4d79-aa9e-c3c6f331e791
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Contact Honduran Authorities'
+  created:
+    -
+      value: 1521275816
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /contact-honduran-authorities
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<div id="d74cc10f-3376-4d68-8e97-d4a141bff5f6"><script type="text/javascript" src="https://default.salsalabs.org/api/widget/template/a2eaecc0-b245-4af5-a145-808714726520/?tId=d74cc10f-3376-4d68-8e97-d4a141bff5f6" ></script></div>'
+      format: full_html
+      summary: ''

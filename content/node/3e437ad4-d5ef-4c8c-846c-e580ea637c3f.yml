@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3e437ad4-d5ef-4c8c-846c-e580ea637c3f
+  bundle: article
+  default_langcode: en
+  depends:
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Sandino Vive! Delegation to Nicaragua February 13-23, 2020'
+  created:
+    -
+      value: 1576918821
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /sandino-vive-delegation-nicaragua-february-13-23-2020
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Join our solidarity delegation to Nicaragua, the beautiful Central American nation known as the “land of lakes and volcanoes.” Named by former U.S. NSA Security Advisor John Bolton as part of the “troika of tyranny” alongside Cuba and Venezuela, Nicaragua was subjected to an attempted coup d’etat in 2018 that left the international community wondering what is happening in the country. This is your chance to see what’s really going on in Nicaragua, 40 years after the triumph of the Sandinista Popular Revolution which overthrew the U.S.-backed Somoza dictatorship.\r\n\r\nOur delegation will meet with different sectors of the Nicaraguan population, including workers, farmers, women, youth, and journalists. An important part of the delegation will be spent in rural areas in communities organized by theRural Workers’ Association (<em>Asociación de Trabajadores del Campo</em>\_[ATC]), which is a founding member of the global peasant movement La Via Campesina. We will also visit important sites of the Sandinista Revolution as part of our efforts to preserve the historic memory of this nation’s long struggle for sovereignty. On February 21, we will remember the 86<sup>th</sup>\_anniversary of the assassination of Augusto C. Sandino, the “General of Free Women and Men”, who has inspired decades of anti-imperialist struggle in Nicaragua and around the world.\r\n\r\nThis delegation is co-sponsored by the Friends of the ATC solidarity network, La Via Campesina Nicaragua, and the Alliance for Global Justice.\r\n\r\n<strong>When:\_</strong>Thursday, February 13 to Sunday, February 23, 2020\r\n\r\n<strong>Where:</strong>\_We will begin and end our trip in the city of Managua, Nicaragua’s capital. We will visit urban and rural communities in different areas of the country, concentrating specifically in the northern mountainous regions. Lodging will take place in ATC schools, locally-run hotels, and family homestays.\r\n\r\n<strong>Who:</strong>\_Curious about or committed to peasant and worker rights, social movements, and internationalist solidarity? We’d love for you to travel with us! Most of all, we want delegates who wish to extend this experience to their own communities upon returning home.\r\n\r\n<strong>Cost:</strong>\_Sliding scale, $1000-$1500. Trip fee includes lodging, meals, in-country transport, translation, and staff coordination. You are responsible for international arrival (or other travel plans to Nicaragua) and personal expenses. We can provide ideas to help delegates fundraise to cover their trip fee.\r\n\r\n<strong>Interested in applying</strong>? Please email\_<a href=\"mailto:info@friendsatc.org\">info@friendsatc.org</a>\_for an application.\_<strong>Applications are due Sunday, December 22, 2019.</strong>\r\n\r\nhttps://friendsatc.org/delegations"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+  field_mt_slideshow:
+    -
+      value: false

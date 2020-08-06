@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 67a35f0d-7843-42b3-8944-e06d743976f1
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela Webinar Aug 29: Why We Must Defend Venezuela and the Bolivarian Revolution'
+  created:
+    -
+      value: 1503404524
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-webinar-aug-29-why-we-must-defend-venezuela-and-bolivarian-revolution
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"alignleft size-full wp-image-7078\" src=\"https://afgj.org/wp-content/uploads/2016/09/VSN-webinar.jpg\" alt=\"Venezuela Webinar\" width=\"960\" height=\"510\" />\n\nThis series of one-hour webinars on the last Tuesday of each month\_features scholars, Venezuela government officials, writers, solidarity\_activists and others with firsthand knowledge of Venezuela and US-Venezuela relations. Venezuela remains a top target of US “regime\_change” strategies and will remain so no matter who is elected president\_in November. These webinars are designed to inform and motivate\_solidarity with the Bolivarian process in Venezuela and to expose and\_oppose US intervention.\n<h2 style=\"text-align: center;\"><a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED51D682824B39\" target=\"_blank\" rel=\"noopener\">Register Now!</a>\nWhy We Must Defend Venezuela and the Bolivarian Revolution\nPresenter: Dan Kovalik\nTuesday, August 29th, 2017 at 8pm ET\_/\_5pm PT</h2>\n<p style=\"text-align: center;\">Dan Kovalik is a labor and human rights lawyer and teaches\_International\_Human Rights at the University of Pittsburgh School of Law.\_He accompanied\_the Constituyente (Constituent Assembly election) on July 30, 2017.</p>\n<p style=\"text-align: center;\"><strong>These monthly webinars are one hour long\nand you must\_<a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED51D682824B39\" target=\"_blank\" rel=\"noopener\">REGISTER</a>\_to participate.\_\_</strong></p>\n<p style=\"text-align: center;\">Please share the registration link widely. You can participate by phone or through\_your computer but your computer will give you a much fuller experience if you\_participate through your computer.</p>\n\n\n<hr />\n<p style=\"text-align: left;\">Interested in keeping up with the news from Venezuela?\_AfGJ's Venezuela Weekly\_contains a few useful articles on Venezuela that contain bite-sized dose of the truth\_so that you can fight the disinformation in your own community, that so much of the\_media, including alternative media are putting out.\_<strong><a href=\"http://org2.salsalabs.com/o/7315/signup_page/venweekly\" target=\"_blank\" rel=\"noopener\">Subscribe Here!</a></strong></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+  field_mt_slideshow:
+    -
+      value: false

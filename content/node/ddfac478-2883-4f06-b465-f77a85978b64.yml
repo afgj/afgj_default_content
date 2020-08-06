@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ddfac478-2883-4f06-b465-f77a85978b64
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Activist Kit for International Days for Peace in Colombia'
+  created:
+    -
+      value: 1532440843
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /activist-kit-international-days-peace-colombia
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2 style=\"text-align: center;\"><span style=\"color: #993300;\">Take part in the August Days for Peace in Colombia! </span></h2>\r\n<h3 style=\"text-align: center;\"><span style=\"color: #993300;\">For those organizing solidarity events, please send the date, time, and location of your event to James@AFGJ.org so we can publicize it for our lists.</span></h3>\r\n<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-7745\" src=\"https://afgj.org/wp-content/uploads/2017/05/20160926_182839-Copy.jpg\" alt=\"\" width=\"396\" height=\"527\" /></p>\r\n\r\n<h2 style=\"text-align: center;\"><span style=\"color: #0000ff;\"><strong>FOLLOWING IS AN ACTION KIT FOR YOUR LOCAL DAY FOR PEACE IN COLOMBIA!</strong></span></h2>\r\n<ol>\r\n \t<li><a href=\"https://afgj.org/wp-content/uploads/2018/07/Colombia-Fact-Sheet.pdf\">Fact Sheet on Colombia to hand out at local events</a></li>\r\n \t<li><a href=\"https://afgj.org/wp-content/uploads/2018/07/Colombia-Peace-petition.pdf\">Petition for Peace in Colombia</a></li>\r\n \t<li><a href=\"https://afgj.org/wp-content/uploads/2018/07/Corrected-International-Days-of-Action-for-Peace-in-Colombia-color-1.pdf\">Color poster for your local event (MAY OPEN CORRECTLY ONLY IN MICROSOFT EDGE)</a></li>\r\n \t<li><a href=\"https://afgj.org/wp-content/uploads/2018/07/Colombia-Day-of-Action-Poster-bw-01-1.jpg\">Black and White poster for your local event (MAY OPEN CORRECTLY ONLY IN MICROSOFT EDGE)</a></li>\r\n \t<li><a href=\"https://afgj.org/five-demands-for-peace-in-colombia\">IF YOU ARE PLANNING A MEETING WITH COLOMBIAN EMBASSY OR CONSULATE PERSONEL - Please take them a copy of the Five Demands for Peace in Colombia open letter signed by Noam Chomsky, Nobel Peace Prize Winner Adolfo Pérez Esquivel, and former Colombian Senator Piedad Córdoba. This link will take you to the English version.</a></li>\r\n \t<li><a href=\"https://afgj.org/cinco-demandas-por-la-paz-en-colombia\">Versión español de la carta abierta Cinco Demandas por la Paz de Colombia, firmado por Noam Chomsky, Adolfo Pérez Esquivel, y Piedad Córdoba. Llevalo para visitas con la embajada o los consulados colombianos.</a></li>\r\n</ol>\r\n<h2 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=26382\">Sign and share the Online Petition for Peace in Colombia!</a></h2>\r\nColombia is in a state of humanitarian crisis. Despite approval of the peace accords on November 30, 2016, since that date, Colombian paramilitary and US backed armed forces have killed around 400 social movement leaders, ex-insurgents, and their family members. Especially targeted are Afro-Colombian, indigenous, and rural communities, members of the Marcha Patriótica popular movement for a just peace, and members of Left and Center-Left parties. At least 161 of the victims are from the Marcha Patriótica and 25 from Fensuagro, the agricultural workers union. These are two of our closest sister groups in Colombia.\r\n\r\nOn August 7, Ivan Duque will take possession of the presidency. He won an election that was riddled with irregularities in a context of threats and violence against campaigns supporting Colombia's peace accords. Duque is a disciple of former president Älvaro Uribe, Colombia's main paramilitary patron and one its top 100 narco-traffickers (according to the US Defense Intelligence Agency). Since Duque's election, political assassinations of Leftists have occurred at the rate of more than one activist murdered per day.\r\n\r\nColombia Humana has called for August 7 to be a day of national actions in Colombia to demand an end to political violence, and that the peace accords be honored. The Alliance for Global Justice, School of the America's Watch, People's Human Rights Observatory, Task Force on the Americas, Party of Liberation and Socialism, Freedom Road Socialist Organization, Marcha Patriótica of California, Committee to Free Simón Trinidad, and Camino Común have called for August 5 - 11 to be International Days for Peace in Colombia and against Death Squad and State Terror. We are also urging solidarity actions on August 7th. However, we note that Colombian embassies and consulates will be closed on August 7, and that some organizers are considering events at consulates for alternative days.\r\n<h2 style=\"text-align: center;\"><span style=\"color: #993300;\"><a style=\"color: #993300;\" href=\"https://www.facebook.com/events/242275129833132/\">Attend AfGJ's Colombia Delegation Report-Back, which will also be live-streamed on Facebook for those not in the Tucson, Arizona area</a></span></h2>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

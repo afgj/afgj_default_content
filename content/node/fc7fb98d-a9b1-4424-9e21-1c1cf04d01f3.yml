@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: fc7fb98d-a9b1-4424-9e21-1c1cf04d01f3
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Resources
+  created:
+    -
+      value: 1274716974
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /resources
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>ON THE WEB</strong>\r\n\r\n<a title=\"Venezuela Analysis\" href=\"http://www.venezuelanalysis.com\" target=\"_blank\">Venezuela Analysis:</a> News and Analysis in English. This is the best comprehensive English-language site with the latest news from Venezuela. Particularly useful for readers outside of Venezuela.\r\n\r\n<a title=\"Alo Presidente\" href=\"http://www.alopresidente.gob.ve\" target=\"_blank\">Alo Presidente:</a> Presidential weekly TV program - Official spanish-language news website of the Venezuelan government - Live Streaming on Sundays\r\n\r\n<a title=\"Bolivarian News Agency\" href=\"http://www.abn.info.ve\" target=\"_blank\">Bolivarian News Agency:</a> Official spanish-language news website of the Venezuelan government\r\n\r\n<a title=\"Telesur\" href=\"http://www.telesurtv.net\" target=\"_blank\">Telesur News:</a> Latin American Television Network, 4 South American States created this network (Argentina, Cuba, Uruguay, Venezuela)\r\n\r\n<a title=\"Venezuelan State TV\" href=\"http://www.vtv.gov.ve\" target=\"_blank\">Venezuelan State TV:</a> Official spanish-language news website\r\n\r\n<a title=\"Aporrea\" href=\"http://www.aporrea.org\" target=\"_blank\">Aporrea:</a> A quality Spanish-Language, source for political and social updates\r\n\r\n<a href=\"www.radiodefensavenezuela.com\">Miami based spanish radio website - News, pictures, videos</a>\r\n\r\n<a href=\"www.embavenez-us.org\">The Venezuelan Embassy in the United States (English/Spanish)</a>\r\n\r\n<a href=\"www.rnv.gov.ve\">Venezuelan State Radio (Spanish). You can listen to President Chavez’s Sunday talk show, “Al? Presidente,” from this site.</a>\r\n\r\n<a href=\"www.cybercircle.net\">Search for news and make contacts with your local Bolivarian Circle</a>\r\n\r\n<a href=\" www.vicuk.org/\">The Venezuela Information Centre–a U.K. based solidarity organization</a>\r\n\r\n<a href=\" www.embavenez-us.org/constitution/intro.htm\">Venezuelan Constitution in English</a>\r\n\r\n<a href=\"www.georgetown.edu/pdba/Constitutions/Venezuela/ven1999.html\">Venezuelan Constitution in Spanish</a>\r\n\r\n<a href=\"www.nacla.org\">Search for English-Language news and analysis on Venezuela and all of Latin America</a>\r\n\r\n<a href=\"http://caracasconnect.blogspot.com\">Blog on US-Venezuelan relations, politics, policies, and culture. (English)</a>\r\n\r\n<a href=\"www.misionmiranda.com\">Venezuela friendly english website - Miranda is back! News, pictures, videos</a>\r\n\r\n<a href=\"www.rethinkvenezuela.org\">Venezuela Information Office</a>\r\n\r\n<strong>FILMS</strong>\r\n\r\nJourney with the Revolution\r\nDirected by Finn Arden and Nina López. A Global Women’s Strike production.\r\nSpanish and English with subtitles 61 minutes DVD\r\n\r\nJourney into the heart of the Venezuelan revolution. Meet the midwives, nurses, doctors, housewives, teachers, gay and disability activists, who are transforming Venezuela. Visit health clinics, soup kitchens, land committees, education and micro-credit programmes… The excitement of the revolution is contagious. If you want to find out what a revolution is, this is the film for you.\r\n\r\nFeatures: President Hugo Chávez, “the president of the poor”; Nora Castañeda, President of the Women’s Development Bank; Sharmini Peries, Adviser to President Chávez on International Relations.\r\n<a href=\"http://www.allwomencount.net/Publications/Forsalepage.htm\">\r\nOrder your copy online, </a>or by sending a check or money order to:\r\nCrossroads Books Box 11795 Philadelphia PA 19101.\r\n\r\n<a href=\"www.globalwomenstrike.net\">Visit their website.</a>\r\nphilly@crossroadswomen.net Tel: 215-848-1120\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''

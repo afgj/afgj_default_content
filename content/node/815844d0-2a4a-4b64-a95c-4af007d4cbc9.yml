@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 815844d0-2a4a-4b64-a95c-4af007d4cbc9
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Next Venezuela Webinar on July 31, 8pm Eastern: End US-Canadian Sanctions Against Venezuela Now!'
+  created:
+    -
+      value: 1532369212
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /next-venezuela-webinar-july-31-8pm-eastern-end-us-canadian-sanctions-against-venezuela-now
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter wp-image-7078 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/09/VSN-webinar.jpg\" alt=\"Venezuela Monthly Webinar Series\" width=\"960\" height=\"510\" />\r\n<h1 dir=\"ltr\" style=\"text-align: center;\">End US-Canadian Sanctions Against Venezuela Now!</h1>\r\n<p dir=\"ltr\" style=\"text-align: center;\"><a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED56DE84844638\" target=\"_blank\" rel=\"noopener\">Register here: Venezuela Webinar Invitation</a><b></b></p>\r\n<p dir=\"ltr\" style=\"text-align: center;\"><span class=\"aBn\" tabindex=\"0\" data-term=\"goog_787395451\"><span class=\"aQJ\">Tuesday, July 31, 2018 \_\_8pm EDT</span></span> / <span class=\"aBn\" tabindex=\"0\" data-term=\"goog_787395452\"><span class=\"aQJ\">5pm PDT</span></span></p>\r\n<p dir=\"ltr\">Learn about a new US-Canadian campaign to end sanctions against Venezuela from <strong>Teri Mattson</strong>, convener of the End Venezuela Sanctions Planning Group. Teri is a Bay Area organizer who has led numerous delegations to Venezuela.</p>\r\n<p dir=\"ltr\">Learn about the effects of sanctions on Venezuela and particularly on the ordinary people of Venezuela from long-time Venezuela expert <strong>Gregory Wilpert</strong>. Greg is a German-American sociologist and journalist, who currently works as host and producer for The Real News Network. Previously was director of the teleSur English website. Also, he is the co-founder of Venezuelanalysis.com and the author of Changing Venezuela by Taking Power: The History and Policies of the Chávez Government (Verso Books, 2007).</p>\r\n<p dir=\"ltr\">This is part of a monthly webinar series organized by the Alliance for Global Justice. You must be registered to participate.</p>\r\n<p dir=\"ltr\"><a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED56DE84844638\" target=\"_blank\" rel=\"noopener\"><img class=\"aligncenter wp-image-10366 size-medium\" src=\"https://afgj.org/wp-content/uploads/2018/07/register-now-300x162-300x162.jpg\" alt=\"\" width=\"300\" height=\"162\" /></a></p>\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

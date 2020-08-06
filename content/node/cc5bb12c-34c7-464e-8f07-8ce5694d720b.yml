@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: cc5bb12c-34c7-464e-8f07-8ce5694d720b
+  bundle: article
+  default_langcode: en
+  depends:
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Political Turmoil on the Right Gives a Pretext for the US to Question Upcoming Election'
+  created:
+    -
+      value: 1470208635
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /political-turmoil-right-gives-pretext-us-question-upcoming-election
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter wp-image-6975 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" width=\"579\" height=\"195\" />\n\nLast week the 16 members of the National Assembly loyal to veteran politician and banker Eduardo Montealegre, including Montealegre himself, were removed from the legislature and replaced by representatives who are members of the Independent Liberal Party (PLI). This move is bound to be blamed on President Daniel Ortega and the Sandinistas and used by the US and other opponents of Sandinismo to discredit the results of presidential and National Assembly elections this November.\n\nWith Ortega riding the highest in public esteem in at least 30 years, it would seem impossible to cast the elections in a negative way, but that has never been an obstacle to the State Department propaganda machine, and isn’t likely to be one now. The latest independent M&amp;R poll, conducted between June 29 and July 9 shows Ortega with a personal approval rating of 67.3%. People who thought he is leading the country in the right direction topped 79%, and 80% believe his administration promotes unity, while 74.8% believe it is democratic.\n\nSo before the hounds start ravaging Nicaragua’s democracy, let’s put some context behind what happened last week with the replacement of the PLI deputies.\n\nLet’s start in 2006. Montealegre was the US preferred candidate of the US and US Ambassador Paul Trivelli was practically his campaign manager, constantly at his side in newspaper photos. As I’ve often written, Trivelli told a delegation I was leading that he had between $12-13 million to spend on the election. The fractious small Liberal Parties in Nicaragua were united by former President Arnoldo Alemen in 1996 and fractured again in 2001 when he left office shadowed by charges of massive corruption and money laundering. He spent years in prison and home detention on multiple national and international charges while still keeping a loyal bloc of Liberal Parties under his Constitutional Liberal Party umbrella. Pro and anti-Aleman factions continued to fight despite the best efforts of three US ambassadors ending with Trivelli and Montealegre lost in 2006 to Daniel Ortega and the Sandinista Party. Daniel won with 38% of the vote, the bare minimum needed to win without a run-off.\n\nMontealegre remained the State Department’s Man-in-Managua during Ortega’s first term. With the 2011 election approaching, he engineered a hostile take-over of the Independent Liberal Party which had an automatic place on the ballot. Now the PLI wasn’t just any Liberal Party faction run by some <em>caudillo</em> (strong man). The PLI was the party that courageously split from the Dictator Somoza’s National Liberal Party and became part of the opposition. It’s historic leader, Virgilio Godoy, served as vice-president when Violeta Chamorro led the US-created UNO coalition to victory over the Sandinistas in 1990.\n\nWell, Montealegre, using what courts later determined were illegal tactics, seized control of the PLI party apparatus which then named Fabio Gadea as its standard bearer and pushed aside all the legislative nominees of the historical leadership of the PLI in favor of Montealegre’s friends and political supporters. The historical leadership filed suit before the election to restore its leadership and filed suit again after the election contesting that the 22 representatives should not be seated.\n\nAbout a month ago the Supreme Court ruled in favor of the historical leadership and returned the reins to them. Montealegre, and 16 members other member of the PLI caucus in the National Assembly refused to recognize the new leadership or turn over party financial records. Seven members of the caucus did stay with the PRI. Montealegre and his buddies had already formally left the PLI in order to start a new electoral party called Citizens for Freedom, so, other than that it is not the way we do things here in the United States, it should have come as no surprise that the PLI leadership, in the person of Pedro Reyes Vallejos, its president, would appeal to the Supreme Electoral Council (CSE) to replace the cohort that had stolen their party with representatives that were actually members of their party and who acknowledged the party structures!\n\nThe National Assembly leadership swore in 22 new Delegates (including 6 alternates) last week. There is bound to be a tussle in the National Assembly on Aug. 4, when the Assembly re-convenes.\_ With the Judicial, Electoral, and Legislative branches all in alignment, it is unlikely that Executive branch will intervene in the issue. Interesting for those in solidarity who still maintain nostalgia for old friends who left the party, two of the former PLI deputies are members of the Sandinista Renovation Movement which ran in alliance with Montealegre in 2011.\n\nBut don’t expect any explanation that includes historical context to stand a chance against the flood of propaganda the US government, the corporate media, and the opposition in Nicaragua will unleash when they think it’s time to cut Ortega down to size. The US government will work with him when it knows there is no viable alternative, but that doesn’t mean it accepts the situation as anything other than provisional. When the onslaught comes, you won’t remember the details of this short analysis, but ask yourself: “Why would a guy with 67% popularity need to stamp out an opposition that barely, if at all, rises out of single digits?\n\n&nbsp;\n\n***\n\n<strong>BRIEFS</strong>\n<ul>\n \t<li>The same M&amp;R poll referenced in my blog also found that fewer Nicaraguans want to leave the country. The poll showed that 65.3% want to stay and 70% are optimistic about the country’s economic future. Perhaps the US Congress should look at Nicaragua before trying to cut immigration from Guatemala, Honduras and El Salvador by increasing funding to security forces rather than to address poverty and its militarized Drug War <em>(Nicaragua News, July 26)</em></li>\n</ul>\n<ul>\n \t<li>President of the Sandinista Renovation Movement (MRS) participated in the Democratic National Convention in Philadelphia. She spoke on a panel of “world leaders” chaired by former Secretary of State Madeline Albright. The panel included representatives of the Cuban opposition, former Costa Rican President Laura Chinchilla, a Senator of the Colorado Party which overthrew elected president Fernando Lugo in a parliamentary coup, and other “leaders” of the same ilk. The panel was organized by the National Democratic Institute, the Democratic Party branch of the National Endowment for Democracy, that “democracy promotion” institution whose first success was the Sandinista electoral defeat of 1990. <em>(Informe Pastran, July 28)</em></li>\n</ul>\n<ul>\n \t<li>Nicaragua has diagnosed 790 cases of Zika to date, 280 of them pregnant women. None of the babies have thus far been born with microcephaly, the small head abnormality that makes Zika such a terrifying disease to child-bearing age couples. <em>(Radio La Primerisima, July 30)</em></li>\n</ul>\n<ul>\n \t<li>Well-known poet and cultural worker Vidaluz Meneses died July 27. She was 72 years old. Her poetry has been published in national literary and cultural supplements and other countries magazines. It has been translated into English, German, Italian, French, Portuguese and Norwegian and she has earned numerous awards for her writing and extensive cultural work. <em>(La Trinchera, July 28, 2016)</em></li>\n</ul>\n[Note to Readers: I am going on vacation for two weeks. Next week we will publish a guest blog by Paul Baker Hernandez who lives in the popular barrio La Primavera in Managua. The following week, there will be no blog. I’ll pick it up again when I return. – CK]\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

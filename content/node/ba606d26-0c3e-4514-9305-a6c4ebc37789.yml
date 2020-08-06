@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ba606d26-0c3e-4514-9305-a6c4ebc37789
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: '"Empire as a Way of Life"'
+  created:
+    -
+      value: 1313748327
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /empire-way-life
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Course:</strong> \"Empire as a Way of Life\"\r\n<strong>Instructor:</strong> John Marciano\r\n<strong>Duration:</strong> 5 weeks, online\r\n<a href=\"https://org2.democracyinaction.org/o/7315/t/13086/shop/shop.jsp?storefront_KEY=430\">Click here to register now!</a>\r\n\r\n<strong>Description:</strong> \r\nThis course is a critical analysis of the U.S. Empire and the imperialism and militarism that are its lifeblood. Historian William Appleman Williams asserts empire is “a way of life [that] defines the … character of a culture and society.” U.S. citizens believe they have a “manifest destiny” to impose their political and economic policies upon others. Historian and activist Michael Parenti defines imperialism as “the process of empire ... whereby the dominant …interests of one nation expropriate for their own enrichment the land, labor, raw materials, and markets of another people.” It is “the internationalization of class exploitation.” At the heart of U.S. imperialism is what the late journalist Andrew Kopkind called the “warrior state.” In 1991 he wrote, “America has been in a state of war – cold, hot, and lukewarm – for as long as most citizens now living can remember.” This “warrior state is so engrained in American institutions ... that the\r\ngovernment is practically unthinkable without it.” Historian Gabriel Kolko asserts that ending U.S. imperialism is “the essential precondition for [a] world in which mass hunger, suppression, and war are no longer [an] inevitable” destiny. This cannot occur, however, unless there is a systemic analysis of the society to be transformed, a plan of “appropriate means and tactics of change….”\r\n\r\n<strong>Skills/understanding that activists will have for organizing and opposing militarism after taking this course:</strong>\r\n\r\n<ul>\r\n\t<li>An accurate, critical and systemic understanding of the root causes ofr militarism</li>\r\n\t<li>A solid foundation to deepen and build activism and analysis</li>\r\n\t<li>Knowledge of the concept of empire and how it impacts the world today</li></ul>\r\n\r\n<strong>About the Instructor: Meet John Marciano</strong>\r\nJohn Marciano has been an activist, scholar and teacher in the antiwar/social justice movement for more than four decades, commencing as a graduate student at SUNY Buffalo where he was a founding member of SDS at that campus. His dissertation was on SDS at Cornell University. His experience includes six years as chair of a human rights commission in Ithaca, NY, where he worked with community groups to confront homophobia, racism, violence against women and war. He opposed the Vietnam War and subsequent U.S. militarism around the world; this included efforts on a national Vietnam War curriculum project with activists, historians and members of the Vietnam Veterans Against the War. \r\n\r\nNow Professor Emeritus at SUNY, Marciano has published two scholarly works, book chapters, numerous articles and dozens of opinion pieces on issues related to this course. These include <em>Teaching the Vietnam War</em> (with Willliam L. Griffen), 1979; and <em>Civic Illiteracy and Education: The Battle for the Hearts and Minds of American Youth</em>, 1997. Noam Chomsky and Howard Zinn read the Vietnam manuscript and Zinn wrote the preface; Chomsky also commented on Civic Illiteracy and wrote an endorsement. Since 2004, he has taught community courses for adults in Santa Monica on Howard Zinn’s <em>A People’s History of the United States</em> and <em>Empire as a Way of Life</em>, based on the work of William Appleman Williams."
+      format: full_html
+      summary: ''

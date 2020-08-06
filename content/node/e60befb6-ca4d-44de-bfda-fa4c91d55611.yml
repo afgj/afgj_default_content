@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e60befb6-ca4d-44de-bfda-fa4c91d55611
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'CONFLICT OF INTEREST POLICY'
+  created:
+    -
+      value: 1373557797
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /conflict-interest-policy-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<style type=\"text/css\"><!--\r\nP { margin-bottom: 0.08in; }\r\n--></style><span><span style=\"font-family: Palatino Linotype,serif;\"><span style=\"font-size: medium;\"><b>ALLIANCE FOR GLOBAL JUSTICE (AFGJ) CONFLICT OF INTEREST POLICY</b></span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Palatino Linotype,serif;\"><span style=\"font-size: medium;\">Conflict of interest arises whenever the personal or professional interest of a Board Member or Staff is potentially at odds with the best interests of AfGJ. Although the legal standards for avoiding conflict of interest for nonprofit organizations are fairly limited, AfGJ will avoid where possible the appearance of impropriety.</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Palatino Linotype,serif;\"><span style=\"font-size: medium;\">If an issue is to be decided by the Board or Board/Staff Collective that involves potential conflict of interest for a Board Member or Staff, it is the responsibility of the Board Member or Staff to:</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Palatino Linotype,serif;\"><span style=\"font-size: medium;\">1. Identify the potential conflict of interest.</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Palatino Linotype,serif;\"><span style=\"font-size: medium;\">2. Not participate in discussion of the program or motion being considered.</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Palatino Linotype,serif;\"><span style=\"font-size: medium;\">3. Not vote on the issue.</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Palatino Linotype,serif;\"><span style=\"font-size: medium;\">It is the responsibility of the Board or Board/Staff Collective to:</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Palatino Linotype,serif;\"><span style=\"font-size: medium;\">1. Only decide to hire or contract with the Board Member or Staff if they are the best qualified individuals available, and willing to provide the goods or services needed at the best, or market, price.</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Palatino Linotype,serif;\"><span style=\"font-size: medium;\">2. Record in the meeting minutes of the Board or Board/Staff Collective the potential conflict of interest, and the use of the procedures and criteria of this policy.</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Palatino Linotype,serif;\"><span style=\"font-size: medium;\">Although it is not a conflict of interest to reimburse Board Members or Staff for expenses incurred (such as the purchase of supplies or travel on AfGJ business), Board Members and Staff are prohibited by law from being paid for serving on the Board. Generally, Board Members and Staff will not receive pass-through dollars for individual projects.</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Palatino Linotype,serif;\"><span style=\"font-size: medium;\">If there is a family relationship between a Board Member and Staff, or among Board Members or Staff, it is the responsibility of the Board Member(s) and/or Staff to:</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Palatino Linotype,serif;\"><span style=\"font-size: medium;\">1. Identify the potential conflict of interest.</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Palatino Linotype,serif;\"><span style=\"font-size: medium;\">2. Not participate in discussion of the program or motion being considered.</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Palatino Linotype,serif;\"><span style=\"font-size: medium;\">3. Not vote on the issue.</span></span></span>\r\n\r\n<span style=\"color: #000000;\"><span style=\"font-family: Palatino Linotype,serif;\"><span style=\"font-size: medium;\"><i>For purposes of this section, family is defined as: </i></span></span></span><span style=\"font-family: MinionPro-Regular,serif;\"><i>spouse, ancestors, lineal descendants and spouses of lineal descendants</i></span>"
+      format: full_html
+      summary: ''

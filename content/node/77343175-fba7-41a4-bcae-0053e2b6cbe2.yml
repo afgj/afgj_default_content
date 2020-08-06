@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 77343175-fba7-41a4-bcae-0053e2b6cbe2
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicanotes: Sandinistas Sweep Nicaragua Municipal Elections'
+  created:
+    -
+      value: 1510138808
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-sandinistas-sweep-nicaragua-municipal-elections
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-7994 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/08/nicanotesbannerwbyline2.jpg\" alt=\"Nincanotes : A blog about nicaragua by solidarity activists\" width=\"594\" height=\"196\" />\n<p style=\"text-align: center;\">By Katherine Hoyt</p>\n<p style=\"text-align: center;\">Katherine Hoyt is the former National Coordinator of the\nNicaragua Network/Alliance for Global Justice.</p>\n\n\n<hr />\n\n<h2 style=\"text-align: center;\">The results of Nicaragua Municipal Elections on Sunday affirmed that voters credit the Sandinista party for the country’s stability and economic progress.</h2>\nThe elections were accompanied by two different international teams of observers and over 5,000 internal monitors. The opposition parties continued to show small, single digit support among the population which was a reflection of the economic and social progress made under Sandinista governance and the quarrelsome and divided character of the opposition parties themselves. There were a few incidents of violence to lament the day after the elections in the North Caribbean Autonomous Region and in the northern part of the country with several deaths.\n\nThe Sandinista Party (FSLN) carried the day, winning in 135 of the country’s 153 municipalities. Municipalities can be compared to counties in the United States and there are often several small rural communities in a municipality besides the principal town. Elected were mayors, deputy mayors and council members. The Constitutional Liberal Party (PLC) won in twelve municipalities, Citizens for Liberty (CxL), a new party, won seven mayoral slots, while the Nationalist Liberal Alliance (ALN) won just one. Violence broke out in Bilwi, Puerto Cabezas, where two people were killed and 27 injured after close results were announced showing the FSLN defeated the regional indigenous party, Yatama, by a difference of 1,800 votes out of thirty thousand votes cast.\n\nThe observation team from the Organization of American States lamented the outbreak of violence after the election but stated in its report that the voting occurred in a tranquil, peaceful manner and the problems that were noted and are part of recommendations for improvement did not affect in a substantial way the expression of the people’s will in the voting booths. It noted “important advances” in the electoral process and said that it would be presenting complaints of irregularities that it received on the day of the elections to the Supreme Electoral Council (CSE).\n\nThe OAS team recognized that the CSE presented the results of the voting by reading the tallies of every precinct which contributed to the transparency of the vote count. The report from International Mission of Electoral Experts, which included officials from Chile, Argentina, the Dominican Republic, El Salvador, Bolivia, and Honduras, stated that almost all voters had their voter identification cards which reduced to a minimum those requiring provisional voting documents and said that Nicaragua’s electoral system has evolved positively.\n\nReactions from the political parties varied. The president of the Conservative Party, Alfredo Cesar, said that his party had received numerous votes as an opposition party and added, “The recognition of the results by the Conservative Party is a reflection of the fact that there were no irregularities of sufficient weight to change the expression of the popular will.” The PLC, however, considered that the voting system had “collapsed” and the party would push for an electronic system. President Daniel Ortega and Vice-President Rosario Murillo said in a statement that they thanked each Nicaraguan who had voted with hope in the future and added that, united with their brothers and sisters, they wanted security, work, and prosperity for all.\n<h3 style=\"text-align: center;\">The accusations of lack of democracy that have been repeated\nonce again by the supporters of the NICA Act that recently\npassed in the US House of Representatives are shown to\nlack substance in light of thisnew election in Nicaragua.</h3>\nThis is especially true when the accusations are coming from a country that has a 230 year old, long outdated, electoral “college” system that violates the basic democratic principle that the person who wins the most votes wins the election. And, when the accusations come from a country where the voting districts in many states are so gerrymandered that a party with 40% of the vote can win 60% of the seats in state legislatures, it is difficult to put much credence in the criticism. These defects should bring pressure to invoke the Democratic Charter of the Organization of American States. Oh, I forgot, the US still maintains enough control (although it is beginning to fade, thankfully!) in that body to prevent any such thing from happening!\n\nOf course, Nicaragua’s voting system can still use improvement. But the electoral victories of the Sandinista Party are based on the country’s 4.5% economic growth year after year, the increases in social spending in each year’s budget resulting in progress in education (especially rural education), health care (including vastly increasing the numbers of maternity wait homes), increased numbers of formal sector jobs where workers are paying into Social Security for their retirement, more emphasis on providing affordable housing, etc., etc. Until the small, fractured opposition can offer Nicaraguans better prospects that these, the FSLN will continue to win elections.\n\n&nbsp;\n\n<hr />\n\n<strong>BRIEFS</strong>\n<ul>\n \t<li>The World Economic Forum Global Gender Gap Report, published last week, ranked Nicaragua in the number one position in the Western Hemisphere and number 6 worldwide in female empowerment, up four places since last year. The parameters of the study include access to education, healthcare, economic opportunities and female participation in politics. (Nicaragua News, Nov. 3)</li>\n</ul>\n<ul>\n \t<li>Vice President Rosario Murillo announced that the German government has approved US$104.9 million for the Managua Metropolitana Project. \"This is an important project that will significantly improve potable water service, the drainage system, and management of residual waters in Managua, Ciudad Sandino and Tipitapa municipalities,\" Murillo said. (Nicaragua News, Nov. 1)</li>\n</ul>\n<ul>\n \t<li>The United States Department of Homeland Security announced on Nov. 6 that the US was ending Temporary Protected Status (TPS) for around 5,000 Nicaraguans while deferring for six months a decision on the fate of 57,000 Hondurans also under TPS. Nicaraguans will lose their legal status on Jan. 5, 2019. Hondurans and Nicaraguans have been protected under TPS since Hurricane Mitch devastated those countries in 1998. Last week the mayors of 32 major US cities, including New York and Miami, had petitioned President Donald Trump to renew TPS. (El Nuevo Diario, Nov. 3, 6)</li>\n</ul>\n<ul>\n \t<li>With the close of the 2016-2017 coffee cycle, Nicaragua exported 2.98 million hundredweights (1.49 million tons) of coffee which represented a 19.7% increase by volume over the previous year, and 22.3% increase in revenue generated. We reported recently that international coffee futures have fallen in price on news that Brazil will have a bumper crop this year. Nicaraguan producers expect to exceed 3 million hundredweights of beans in the 2017-2018 season but coffee growers are worried that the price they get will be below their cost of production. (El Nuevo Diario, Nov. 2)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

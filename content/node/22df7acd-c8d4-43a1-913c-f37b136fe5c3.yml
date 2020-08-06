@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 22df7acd-c8d4-43a1-913c-f37b136fe5c3
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Earth Day to May Day!'
+  created:
+    -
+      value: 1390855094
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /earth-day-may-day
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Find out and start planning for 10 days Tearing Down the Walls to solving climate chaos! <a href=\"http://globalclimateconvergence.org/\">http://globalclimateconvergence.org/</a>\r\n<object width=\"560\" height=\"315\" classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0\"><param name=\"allowFullScreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"src\" value=\"//www.youtube.com/v/4_SpRL3UxLw?hl=en_US&amp;version=3\" /><param name=\"allowfullscreen\" value=\"true\" /><embed width=\"560\" height=\"315\" type=\"application/x-shockwave-flash\" src=\"//www.youtube.com/v/4_SpRL3UxLw?hl=en_US&amp;version=3\" allowFullScreen=\"true\" allowscriptaccess=\"always\" allowfullscreen=\"true\" /></object>\r\n<h1 style=\"text-align: center;\"><strong><span style=\"color: #008000;\">Global Climate Convergence</span></strong></h1>\r\n<h2 style=\"text-align: center;\"><strong><span style=\"color: #3366ff;\">PEOPLE PLANET PEACE OVER PROFIT</span></strong></h2>\r\n<h2 style=\"text-align: center;\"><strong>10 Days to Change Course Earth Day to May Day 2014</strong></h2>\r\n<h4 style=\"text-align: center;\">Mother Earth Day to May Day, 2014\r\nEducation &amp; Direct Action for Emergency Green Economic Transformation\r\n<a href=\"http://globalclimateconvergence.org/\">http://globalclimateconvergence.org/</a> #ClimateConvergence.org</h4>\r\nA movement for democracy &amp; justice is sweeping the globe – from democracy revolutions to anti-austerity uprisings, occupy protests; resistance to student debt &amp; school-to-prison pipelines; movements for rights of workers, immigrants, women &amp; indigenous peoples; for sustainable food, water &amp; renewable energy; uprisings against tar sands, fracking, nuclear power, GMOs &amp; more. The accelerating climate collapse intensifies all these struggles and provides new urgency for collaboration &amp; action.\r\n\r\nIn fact, the growing climate crisis is predicted to make civilization as we know it unlivable as soon as 2050, when we're expected to reach a critical threshold, (two to four degrees Celsius warming), bringing drought, flood, agricultural decline, rising seas, killer heat waves and mass extinctions sufficient to begin widespread civilization collapse. Clearly, the time for action is NOW!\r\n<h3 style=\"text-align: center;\">EARTH DAY, April 22 to MAY DAY, May 1, 2014 – Global Action for Emergency Green Economic Transformation</h3>\r\n<ul>\r\n\t<li>Actions across the US &amp; beyond, supporting the Earth Day to May Day continuum of justice.</li>\r\n\t<li>Bring a unifying call for People, Planet, Peace Over Profit &amp; and Emergency Green New Deal.</li>\r\n</ul>\r\n<h3 style=\"text-align: center;\">We Call For A Solution As Big As the Crisis We Face!\r\nAN EMERGENCY&lt; GLOBAL GREEN NEW DEAL including:</h3>\r\n<ul>\r\n\t<li>Full employment with community-based small businesses, worker co-ops, small farmers &amp; government jobs.</li>\r\n\t<li>100% clean renewable energy by 2030. International binding treaty for swift, deep cuts to carbon emissions. Wealthy polluting nations pay for technology transfer &amp; climate adaptation.</li>\r\n\t<li>Universal free healthcare &amp; education (through college), affordable housing, moratorium on foreclosures.</li>\r\n\t<li>Secure the global food supply while rescuing the climate. Support small farmers – the major source of world food production. Put carbon back in the soil through restoration grazing and climate-smart sustainable agriculture. Ensure equitable rights to land, food sovereignty and gender equality.</li>\r\n\t<li>Economic democracy including replacing “too big to fail” banks with public banks; ensuring workers rights, support for co-operative enterprise &amp; fair trade; taxing Wall Street &amp; the rich. End third world &amp; student debt.</li>\r\n\t<li>Demilitarization–at least 50% cut to the military, freeing up resources for social programs &amp; infrastructure. Foreign policy based on international law, human rights and diplomacy – not the military-industrial complex.</li>\r\n\t<li>An end to mass incarceration &amp; deportations.Treat immigrant rights as human rights. Treat substance abuse as a public health problem.</li>\r\n\t<li>Political democracy including that all people, not corporations, have the right to self-government, to vote, &amp; have our votes count; public financing, proportional representation &amp; free use of public airways for elections.</li>\r\n\t<li>Civil liberties including the rights of free speech, protest, privacy, internet freedom. Close Guantanamo, end Torture/Renditions, pardon whistle blowers including Chelsea Manning, Edward Snowden, Julian Assange.</li>\r\n\t<li>Support Rights of Mother Earth, the call for peace &amp; an end to colonialism &amp; imperialism, as called for in the Cochabamba People’s Agreement.</li>\r\n</ul>\r\n<h3 style=\"text-align: center;\">Preparing for the Next Earth Day to May Day (2015) and More!\r\nLocal Action, Global Mobilization</h3>\r\n<ul>\r\n\t<li>Hold People's Movement Assemblies, trainings in rights &amp; safety in direct action &amp; civil disobedience.</li>\r\n\t<li>Connect across movements. Plan next direct actions. Build legal, financial, etc. foundations of direct action 2015. Consider a possible Global Climate Strike to signal massive public refusal to participate in the engines of economic &amp;ecological destruction.</li>\r\n</ul>\r\n<iframe src=\"https://www.indiegogo.com/project/global-climate-convergence-earth-day-to-may-day-artful-activism/widget\" width=\"224px\" height=\"486px\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+      format: full_html
+      summary: ''

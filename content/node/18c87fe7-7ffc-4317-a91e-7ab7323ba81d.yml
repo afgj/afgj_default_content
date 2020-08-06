@@ -1,0 +1,76 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 18c87fe7-7ffc-4317-a91e-7ab7323ba81d
+  bundle: article
+  default_langcode: en
+  depends:
+    559721eb-b73d-4d86-a9b5-58f46584daa3: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    d7484f78-fd8a-49f7-afcb-5b7fed9db70f: taxonomy_term
+    ca4e52ca-2d48-486f-8d00-3553c0a7f296: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Urgent Call for Solidarity with Oaxaca''s Teachers Union'
+  created:
+    -
+      value: 1466512414
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /urgent-call-solidarity-oaxacas-teachers-union
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"alignleft wp-image-6742\" src=\"https://afgj.org/wp-content/uploads/2016/06/2016-06-20T181854Z_1_LYNXNPEC5J19J_RTROPTP_2_POLITICA-MEXICO-MAESTROS.JPG.cf_.jpg\" alt=\"2016-06-20T181854Z_1_LYNXNPEC5J19J_RTROPTP_2_POLITICA-MEXICO-MAESTROS.JPG.cf\" width=\"407\" height=\"283\" />The Alliance for Global Justice denounces the brutal repression on June 19, 2016 against striking teachers in Oaxaca, Mexico that has left 12 teachers and students dead. They were killed by federal, state and local police who fired on unarmed, nonviolent demonstrators. According to a report by Telesur, the dead include 10 in Nochixtlan, one in Hacienda Blanca and one in Juchitán. Many persons have been wounded, and at least 23 persons disappeared. Witnesses report that wounded protesters and civillians were being turned away from the hospital at Nochixtlan, only police officers being admitted.\n\n[caption id=\"attachment_6743\" align=\"aligncenter\" width=\"371\"]<img class=\"wp-image-6743\" src=\"https://afgj.org/wp-content/uploads/2016/06/IMG-20160620-WA0005.jpg\" alt=\"IMG-20160620-WA0005\" width=\"371\" height=\"659\" /> Photo provided by Observatorio de Derechos Humanos de los Pueblos[/caption]\n\nPLEASE TAKE ACTION\n<h3><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action3/common/public/?action_KEY=23245\">1) IF YOU DO NOTHING ELSE, send an email to Mexican authorities to demand a halt to police attacks on striking teachers; the immediate liberty of Rubén Nuñez and Francisco Villalobos and all teachers union members jailed for their labor activities; the reinstatement of all educational workers fired for supporting the strike; that the government enter immediately and without conditions into negotiations to end the strike.</a></h3>\n<h3>2) Consider organizing a demonstration or vigil at the nearest Mexican consulate or embassy. Vigils are already being organized for Wednesday in Chicago, and Friday in Phoenix and Tucson, Arizona. Please send us photos from your event to JAMES@AFGJ.ORG . We will post these on social media and send them to the People's Human Rights Observatory in Oaxaca.</h3>\n<h3>3) Share this email with you lists and/or post on social media: <a href=\"https://afgj.org/urgent-call-for-solidarity-with-oaxacas-teachers-union\">https://afgj.org/urgent-call-for-solidarity-with-oaxacas-teachers-union</a></h3>\nBACKGROUND:\n\nby James Patrick Jordan\n\nEven before the fatal repression of June 19, 2016, widespread and indiscriminate arrests were among the tactics being used to try to break the the teachers union. Detentions include the capture of the two top leaders of Oaxaca's Section 22 of the National Coordinator of Education Workers (CNTE). Both Rubén Nuñez Ginezi, Section 22's General Secretary, and Francisco Villalobos, Organizational Secretary, were arrested on June12<sup>th</sup> and promptly flown far away to the new federal penitentiary, Cefereso 11 (Federal Center for Social Readaptation 11), in the northern city of Hermosillo, Sonora. This prison, built with funding from the United States government and with US training and accreditation, is Mexico's first privately managed, for-profit prison.\n\nThis is not the only US connection to the repression going on. Much of the weaponry\n\n[caption id=\"attachment_6744\" align=\"alignright\" width=\"368\"]<img class=\" wp-image-6744\" src=\"https://afgj.org/wp-content/uploads/2016/06/IMG-20160620-WA0009.jpg\" alt=\"Photo provided by Observatorio de Derechos Humanos de los Pueblos\" width=\"368\" height=\"245\" /> Photo provided by Observatorio de Derechos Humanos de los Pueblos[/caption]\n\nand hardware used to attack the protesters was bought from or provided by the US government. Major components of the educational reform package the teachers are striking against originated in the US. For instance, USAID funded and Washington DC based Partnership for Educational Revitalization in the Americas advocated for firings and measures to dismantle teachers colleges throughout Mexico. Mexico is raising its spending on military equipment mostly from the United States and cutting funding for schools and social services. Meanwhile, the US is in the midst of a project to build 16 new federal prisons in Mexico, giving new gravity to the phrase “school to prison” pipeline.\n\nThe CNTE is leading resistance to the implementation of new laws that would result in massive teacher lay-offs; lead to the closure of teachers schools, or “normals”; and, along with cuts to educational spending, sacrifice indigenous and other cultural and community based curricula. The reforms would replace the current educational system with one that de-emphasizes critical thinking in favor of standardized testing. Mexican President Enrique Peña Nieto has refused to negotiate with strikers and has stated that the only way the government would meet with the teachers union is if they return to work and agree to support the educational reforms.\n\n<img class=\"alignleft wp-image-6745\" src=\"https://afgj.org/wp-content/uploads/2016/06/Clau9raUkAAm_ZP.jpg\" alt=\"Clau9raUkAAm_ZP\" width=\"422\" height=\"285\" />Oaxaca is the epicenter of a teachers strike that has been going on since May 16, 2016. Members of the Alliance for Global Justice were in Oaxaca at the beginning and first few days of the strike, and returned on June 13 and 14 to participate in the founding of the new People's Human Rights Observatory, where we also observed various marches and demonstrations led by the CNTE. At no time did we witness any kind of violent behavior or provocations that would warrant such a massive and violent response on the part of the state authorities. Instead, we saw teachers, parents and students united together to demand fair and just working conditions, community educational autonomy and social investment.\n\nThe CNTE is a democratic movement within the larger National Union of Education Workers. The CNTE has its largest base in the states of Oaxaca, Guerrero, Michoacan and Chicapas, where the strike is strongest. Section 22, based in Oaxaca, has played a particularly leading role.\n\nThe Mexican government has been cracking down on the CNTE well in advance of the present wave of repression, having imprisoned several teachers and union leaders over the past year. AfGJ visited with one such political prisoner, Adán Mejía, in Oaxaca, in May, and with family members of Roberto Jimenez, a teacher being held under extreme conditions of solitary confinement, not even provided with reading material in his cell. On April 14, authorities arrested Aciel Sibaja, Section 22's Financial Secretary. Labor reporter David Bacon writes, “Sibaja's crime? Accepting dues given voluntarily by teachers across Oaxaca. Sección 22 [Section 22], the state teachers union, has had to collect in cash since last July, when state authorities froze not only the union's bank accounts but even the personal ones of its officers. Sibaja was responsible for keeping track of the money teachers paid voluntarily, which the government called 'funds from illicit sources.'” The June 12 arrests of both Nuñez and Villalobos are based on related charges. Villalobos has also been accused of stealing textbooks last year. On June 20, authorities additionally arrested Eugenio Rodriguez Cornejo, Technical Secretary of CNTE's Section 18 in Michoacán. Mexico's Attorney General, Gilberto Higuera Bernal on June 13, one day after the arrests of Nuñez and Villalobos, announced that he has arrest warrants for 24 members of the CNTE. According to a report by Telesur, the attacks by local, state and federal police on June 19 were accompanied by the arrests of 64 teachers, 15 of them union leaders. Obviously, the charges are part of a frame up designed to destroy the teachers union.\n\nMass firings of teachers are already occurring. On May 19, Mexico's Secretary of Public Education Aurelio Nuño Mayer, made an unprecedented announcement of the firing of 3,000 teachers in Oaxaca, Guerrero and Michoacan for having missed work the first three days of the strike. Nuño had in March paved the way for this by declaring that anyone with a degree in any subject could be hired to teach. This is seen as a direct attack on teachers colleges, called “normals”. These colleges have provided decades of specialized training and opportunities for aspiring teachers from the poor and working class to receive employment in the nation's schools. They have also been centers of dissent and resistance to the neoliberal policies of the Mexican government. The 43 vicitms of extrajudicial execution in Iguala, Guerrero were from the Normal school in Ayotzinapa.\n\nThese casualties, disappearances and arrests are occurring on the tenth anniversary of a similarly heavy assault on the teachers union and social movements in Oaxaca between June and December, 2006. Oaxaca's Secretary of Indigenous Affairs, Adelfo Region Montes, resigned in protest from the cabinet of Governor Gabino Cué, noting that when elected in 2010, Cué had promised this kind of repression would never take place again. Cué had originally supported Oaxaca's teachers' opposition to federal educational reforms, but has since changed his position.\n\n<img class=\"aligncenter wp-image-6746\" src=\"https://afgj.org/wp-content/uploads/2016/06/matanza-de-maestros-en-oaxaca-1100.jpg\" alt=\"matanza-de-maestros-en-oaxaca-1100\" width=\"635\" height=\"343\" />\n\n&nbsp;\n\n<strong>LIST OF VICTIMS OF THE JUNE 19TH REPRESSION, PROVIDED BY THE PEOPLE'S HUMAN RIGHTS OBSERVATORY.</strong>\n\nLista de personas ejecutadas extrajudicialmente:\n\n1. Andres AGUILAR SANABRIA, Profesor de Educación Indígena.\n\n2. Andrés SANABRIA GARCÍA, 23 años.\n\n3. Anselmo CRUZ AQUINO, 33 años de edad, Comerciante de Santiago Amatlán.\n\n4. Antonio PÉREZ GARCÍA, estudiante de secundaria.\n\n5. Jesús CADENA, 19 años de edad, estudiante de Asunción Nochixtlan.\n\n6. Omar GONZÁLEZ SANTIAGO, 22 años.\n\n7. Oscar AGUILAR RAMÍREZ, 25 años.\n\n8. Oscar NICOLAS SANTIAGO, 22 años de edad, originario de Las Flores Tilantongo.\n\n9. Yalid JIMENEZ SANTIAGO, 29 años de edad, originario de Santa María Apazco distrito\n\nde Nochixtlan, conducía una camioneta Urban que balaceó la Policía Federal.\n\n10. Silvano Sosa Chávez 19 años de edad, de San Pedro, San Juan Ñumi, Tlaxiaco.\n\n11. Antonio Pérez García estudiante de secundaria.\n\nLista de personas desaparecidas:\n\n1. Agustín JIMÉNEZ, 22 años.\n\n2. Alfonso QUIRÓZ LÓPEZ, 20 años.\n\n3. Alfredo QUIRÓZ LÓPEZ, 23 años.\n\n4. Angel SANTIAGO HERNÁNDEZ, 38 años.\n\n5. Arturo QUIRÓZ LÓPEZ, 22 años.\n\n6. Cecilio LÓPEZ VELASCO, 55 años.\n\n7. Daniel MEDINA, 35 años.\n\n8. Edgar Daniel ZÁRATE LÓPEZ, 45 años.\n\n9. Emilio AMAYA CRUZ, 19 años.\n\n10. Enrique CRUZ LÓPEZ, 65 años.\n\n11. Hermenegilda SÁNCHEZ MARTÍNEZ.\n\n12. Jesús MANZANO LÓPEZ, 38 años.\n\n13. Juan AMAYA CRUZ, 24 años.\n\n14. Juan AMAYA JIMÉNEZ, 43 años.\n\n15. Juan Carlos PÉREZ SILVA, 25 años.\n\n16. Juan VELASCO MÉNDEZ.\n\n17. Luis Tiburcio GARCÍA LÓPEZ, 38 años.\n\n18. Marcos CRUZ ANTONIO, 21 años.\n\n19. María CARRILLO, 23 años.\n\n20. Pedro Antonio GARCÍA, 55 años.\n\n21. Pedro SAN PEDRO, 30 años.\n\n22. Sergio LÓPEZ JIMÉNEZ, 46 años.\n\n23. Simón PÉREZ LÓPEZ 46 años.\n\nLista de heridos y hospitalizados:\n\n1. Abraham BARRAGÁN GRACIDA, 30 años.\n\n2. Agripino CRUZ HERNÁNDEZ, 39 años.\n\n3. Alberto QUIRÓZ JIMÉNEZ, 30 años.\n\n4. Alberto SEVILLA JIMÉNEZ, 18 años.\n\n5. Alejandro SANTIAGO CRUZ, 36 años.\n\n6. Alfredo SANTIAGO GARCÍA, 18 años.\n\n7. Andrés GARCÍA, 42 años.\n\n8. Antonio VÁSQUEZ CORTÉS, 42 años.\n\n9. Bernardino ALEXANDER MALDONADO, 27 años.\n\n10. Cayetano CRUZ, 23 años.\n\n11. Celso CRUZ CRUZ.\n\n12. César Ángel GUZMÁN JUÁREZ.\n\n13. César HERNÁNDEZ SANTIAGO, 19 años.\n\n14. Cesar Iván SÁNCHEZ LÓPEZ, 28 años.\n\n15. Desconocido, 30 años.\n\n16. Diego Azael SORIANO CRUZ, 29 años.\n\n17. Diódoro MEDINA RAMÍREZ, 24 años.\n\n18. Elizabeth MEJÍA, 30 años.\n\n19. Elizabeth MÉNDEZ GAZA, 42 años.\n\n20. Eloy CRUZ.\n\n21. Enrique GONZÁLEZ BAUTISTA, 42 años.\n\n22. Felipe RODRÍGUEZ CRUZ.\n\n23. Ghandi AVENDAÑO LIRA, 16 años.\n\n24. Héctor LÓPEZ RODRÍGUEZ, 34 años.\n\n25. Iván ESCOBAR ROMÁN, 31 años.\n\n26. Jaime MORALES, 30 años.\n\n27. Jorge ARMANDO CRUZ, 24 años.\n\n28. José Carlos VELASCO PÉREZ, 16 años.\n\n29. José CRUZ REYES, 17 años.\n\n30. Juan Antonio AVENDAÑO JIMÉNEZ, 19 años.\n\n31. Juan CARLOS REYES, 23 años.\n\n32. Juan José ACEVEDO MARTÍNEZ, 23 años.\n\n33. Julio Ricardo NICOLÁS LÓPEZ, 32 años.\n\n34. Lucía GUTIÉRREZ NICOLÁS, 50 años.\n\n35. Luis Alberto MARTÍNEZ, 30 años.\n\n36. Luis BAUTISTA HERNÁNDEZ, 38 años.\n\n37. Luis Felipe GUZMÁN, 25 años.\n\n38. Luis Fernando CORONADO RODRÍGUEZ, 17 años.\n\n39. María de la Paz CALDERÓN, 42 años.\n\n40. Misael DURÁN GUZMÁN, 32 años.\n\n41. Pedro RODRÍGUEZ RODRÍGUEZ, 28 años.\n\n42. Raúl LÓPEZ GARCÍA, 22 años.\n\n43. René REYES GARCÍA, 39 años.\n\n44. Rodrigo LÓPEZ GARCÍA, 48 años.\n\n45. Víctor MANUEL SANTIAGO, 23 años."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 559721eb-b73d-4d86-a9b5-58f46584daa3
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: d7484f78-fd8a-49f7-afcb-5b7fed9db70f
+    -
+      entity: ca4e52ca-2d48-486f-8d00-3553c0a7f296
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

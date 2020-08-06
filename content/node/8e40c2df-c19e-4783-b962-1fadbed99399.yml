@@ -1,0 +1,61 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8e40c2df-c19e-4783-b962-1fadbed99399
+  bundle: article
+  default_langcode: en
+  depends:
+    7c24d703-ad76-40f5-8889-a30cb1700fd3: taxonomy_term
+    8a513676-bf65-4895-b8a5-9c0075aba7f3: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Chuck Kaufman Talk on Honduras,  Nov 2017'
+  created:
+    -
+      value: 1513338089
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /chuck-kaufman-talk-honduras-nov-2017
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<iframe src=\"https://player.vimeo.com/video/247518335\" width=\"640\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\"><span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\">﻿</span>﻿</span></iframe>\n\n&nbsp;\n<div dir=\"ltr\">Alliance for Global Justice National Co-Coordinator Chuck Kaufman talks about the history and current situation in Honduras following the Nov. 26, 2017 fraudulent presidential election. He is speaking at Revolutionary Grounds Coffeehouse in Tucson, AZ on Dec. 6.</div>\n<div class=\"yj6qo ajU\"></div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 7c24d703-ad76-40f5-8889-a30cb1700fd3
+    -
+      entity: 8a513676-bf65-4895-b8a5-9c0075aba7f3
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

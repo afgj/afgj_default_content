@@ -1,0 +1,65 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 18dc1432-7c77-4b0b-b804-5bd46ab9769a
+  bundle: mt_dropdowns_block
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Header Dropdowns'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_dropdown:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: a32a9c5a-7f86-4503-b836-c55c58ce22bb
+          bundle: mt_dropdown
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1485777460
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_dropdown_block:
+            -
+              target_id: searchform_4
+          field_mt_dropdown_fa_icon:
+            -
+              icon_name: search
+              style: fas
+              settings:
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''

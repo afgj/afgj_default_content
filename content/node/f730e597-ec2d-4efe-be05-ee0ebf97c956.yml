@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f730e597-ec2d-4efe-be05-ee0ebf97c956
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Participating Groups'
+  created:
+    -
+      value: 1379847044
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /participating-groups
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<span style=\"letter-spacing: 0.05em; line-height: 1.6875;\">African Awareness</span>\r\nAlianza Indigena Sin Fronteras\r\nAlliance for Global Justice\r\nANSWER Coalition\r\nAZ4NORML\r\nBackbone Campaign\r\nCalifornia Coalition of Women Prisoners\r\nCampaign to End the New Jim Crow\r\nChiapas Support Committee\r\nChicago Committee to Free the Cuban 5\r\nCindy’s Soapbox\r\nCoalicion de Derechos Humanos\r\nCoalitions of Mutual Endeavor\r\nCode Pink\r\nColorado Foreclosure Resistance Coalition \r\nCommittee to Stop FBI Repression\r\nCourage to Resist\r\nCreating A Culture of Peace\r\nCreating a New Paradigm\r\nDenver Homeless Out Loud\r\nEnd Streamline Coalition\r\nFellowship of Reconciliation\r\nFIST- Fight Imperialism, Stand Together\r\nFood Not Bombs\r\nFreedom Archives\r\nGlobal Women's Strike\r\nGlobal Justice Ecology Project\r\nGuatemala Human Rights Campaign/USA\r\nHope for Climate Change\r\nInternational Action Center\r\nThe International Campaign for Justice in Bhopal, North America (ICJB NA)\r\nInteroccupy\r\nIt’s Our Economy\r\nJavier Sicilia\r\nJustice4Families\r\nLabor Party Advocates / Por Partido Obrero\r\nLakota Solidarity Project\r\nLajee Center\r\nLatin America Solidarity Coalition\r\nLatin America Solidarity Coalition Drug War Working Group\r\nLive from Lockdown\r\nMarin Task Force on the Americas\r\nMedia Island International\r\nMove To Amend\r\nNational Immigrant Solidarity Network\r\nNational Network on Cuba\r\nNetwork in Solidarity with the People of Guatemala (NISGUA)\r\nNicaragua Network\r\nNo More Deaths\r\nNonviolence Legacy Project\r\nOccupy Tucson\r\nOffice of the Americas\r\nOWS Screen Printer Co-op\r\nPan-African Roots\r\nPan Left Productions\r\nParty for Socialism and Liberation\r\nPeople’s Puppets\r\nPoor People’s Economic Human Rights Campaign\r\nProgressive Democrats of America-Tucson\r\nProject Safe Haven\r\nPurpose Focused Alternative Learning\r\nRed Bird Prison Abolition\r\nRicardo Soberon\r\nSalt of the Earth Labor College\r\nSchool of the Americas Watch\r\nSeattle Solidarity Network\r\nSex Workers Outreach Project\r\nSierra Club –So. AZ\r\nStudents for Justice in Palestine-University of Arizona chapter\r\nSyria Solidarity Movement\r\nTucson Activist Black Cross\r\nTucson Anti-Authoritarian Network\r\nUS Labor Against the War (USLAW)\r\nUS Social Forum\r\nVenezuela Solidarity Network\r\nWomen on the Rise Telling HerStory\r\nW,O,R,D, Women Organized to Resist and Defend\r\nWorld Can’t Wait"
+      format: full_html
+      summary: ''

@@ -1,0 +1,64 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e47e8e37-fb8c-4980-b458-c51fe4746bde
+  bundle: mt_team_member
+  default_langcode: en
+  depends:
+    7040591e-76b4-4de5-a42c-35d9ed51f442: file
+    d1ed624d-4d8b-497d-90b3-ab83d4690488: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Katherine Hoyt'
+  created:
+    -
+      value: 1591129031
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /team/katherine-hoyt
+      langcode: en
+      pathauto: 1
+  field_mt_tmm_body:
+    -
+      value: "<p><strong>Katherine Hoyt</strong>&nbsp;was the National Co-Coordinator of Alliance for Global Justice and its Nicaragua Network program. She lived eighteen years in Latin America – two years in Chile and sixteen in Nicaragua. She holds a Ph.D. in political science from Rutgers University and has authored numerous academic and activist publications including The Many Faces of Sandinista Democracy from Ohio University Press. She has taught at Wayne State University, Rutgers University and Whitman College. In the mid-eighties she served as the Michigan coordinator of the Pledge of Resistance as director of the Michigan Interfaith Committee on Central American Human Rights (MICAH) in Detroit.</p>\r\n\r\n<p>At Alliance for Global Justice, she has worked on campaigns to support Nicaragua’s garment workers and on campaigns against IMF mandated privatization and user fees. In the 2000s, she actively represented the Nicaragua Network in the Stop CAFTA Coalition. In 2016 Kathy retired and joined the AfGJ board.</p>\r\n"
+      format: full_html
+      summary: ''
+  field_mt_tmm_featured:
+    -
+      value: false
+  field_mt_tmm_member_photo:
+    -
+      entity: 7040591e-76b4-4de5-a42c-35d9ed51f442
+      alt: Kathy
+      title: ''
+      width: 1365
+      height: 1365
+  field_mt_tmm_member_photo_wide:
+    -
+      entity: d1ed624d-4d8b-497d-90b3-ab83d4690488
+      alt: Kathy
+      title: ''
+      width: 1887
+      height: 1194
+  field_mt_tmm_subtitle:
+    -
+      value: 'Board Member'

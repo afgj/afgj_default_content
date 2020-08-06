@@ -1,0 +1,61 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 47071fce-0e38-41b9-b64d-8dfbd1b22218
+  bundle: article
+  default_langcode: en
+  depends:
+    196ada50-d89c-465a-9c41-f44a9feaaead: taxonomy_term
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    3ad1f134-ace5-4b4d-bdb3-efff4e632423: taxonomy_term
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicanotes: Internationalists, What Exactly are We Supporting?'
+  created:
+    -
+      value: 1525869794
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-internationalists-what-exactly-are-we-supporting
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-7994\" src=\"https://afgj.org/wp-content/uploads/2017/08/nicanotesbannerwbyline2.jpg\" alt=\"Nincanotes : A blog about nicaragua by solidarity activists\" width=\"594\" height=\"196\" />\r\nBy Chuck Kaufman</p>\r\nAs the whole bewildering situation in Nicaragua has unfolded since April 18, I have been struck repeatedly by the reaction of internationalists who ignore or discount the gains accomplished by the Sandinista Revolution since Daniel Ortega was returned to the presidency in 2007 through democratic elections. Why, I ask myself, do so many people who don’t believe the US government and right-wing discourse on Iraq and Afghanistan, and who don’t believe that Russia-bots swung the 2016 election to Trump, believe every negative statement when it applies to Nicaragua, Venezuela, and Cuba?\r\n\r\nWhy are internationalists, who hold countries with Left governments to a higher standard of democracy than they hold their own countries, so quick to support extra constitutional replacement of said governments through early elections or outright coups as happened in the Ukraine? And who or what do they imagine is going to replace these flawed Leftists who they are so anxious to condemn? Does anyone imagine that these so-called corrupt dictators are going to be replaced by someone more democratic, more socialist, less corrupt? One needs only look at Libya post-Kaddafi to see the foolishness of that hope.\r\n\r\nI think it is one thing to recognize that both our gods and heroes have clay feet. It is another thing to use the language of the enemy -- dictator, authoritarian, corrupt, regime, dynasty – to weaken the ability of people to chart their own course in their own country and to reduce the resistance in our own countries to intervention on behalf of US hegemony and transnational capitalism. Those of us who oppose imperialism in all its aspects and in every case, are accused of uncritical support for monsters. And yet no one criticizes the quislings for supporting Empire.\r\n\r\nI could not make the points made by Melissa Castillo in her important essay, “<a href=\"http://www.latinorebels.com/2018/04/29/mycontraparents/\" target=\"_blank\" rel=\"noopener\">My Contra Parents Are Marching for a New ‘Old’ Nicaragua: Are We, Too?</a>” published by <a href=\"http://www.latinorebels.com/\" target=\"_blank\" rel=\"noopener\">Latino Rebels</a> on April 29, 2018 without being attacked, as I have been over the last few weeks as being a “knee-jerk supporter of dictators,” as having “betrayed the principles of the Nicaragua Network” and “abandoning the vision of the Alliance for Global Justice.” Maybe Ms. Castillo, as a child of Contras, can make her points, penetrating the noise of anti-government rhetoric. Here are the opening paragraphs of her essay. I whole heartedly recommend that you click on the link and read the whole thing.\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: center;\"><a href=\"http://www.latinorebels.com/2018/04/29/mycontraparents/\" target=\"_blank\" rel=\"noopener\">My Contra Parents Are Marching For a New ‘Old’ Nicaragua: Are We, Too?</a></h2>\r\nMelissa Castillo. Latino Rebels. April 29, 2018\r\n\r\nI grew up in Miami, Florida in the 1990s, surrounded by Cubans and Nicaraguans who had much of their material wealth and social status appropriated by popular revolutions. My family, here and abroad, resented the Sandinistas for “taking their country away.” To their dismay, I chose to study law in order to address systemic poverty, pursuing a career as a public defender because I believe in standing with the poor against an oppressive political system. My parents mockingly refer to this as “Sandinista talk.”\r\n\r\nMany of my Latinx friends here in the U.S. are like me. We share views on various domestic issues like healthcare for all, expansion of public education, end to mass incarceration, and humane treatment of all migrants. Imagine my surprise when, unbeknownst to them, these same friends, my “Contra” family, and the U.S. administration are all agreeing on the facts underlying the current crisis in Nicaragua. I even received the same White House petition, “Human Rights Violations in Nicaragua due to the oppression and rule of Dictatorship Daniel Ortega and Rosario Murillo,” from two Latinxs on opposite sides of the political spectrum. This might lead you to believe, “Wow! We all agree! This isn’t a partisan issue!” But, for me at least, knowing the political values of the older Nicaraguan community in Miami, this alignment across my social network raises concerns.\r\n\r\nNotably, despite the charge that Ortega is the same as Anastasio Somoza, no one is asking why the U.S. government is so quick to condemn Ortega but had no problem installing the Somoza dynasty and supporting it for 40 years. The Somozas inflicted human rights abuses and repressed the majority of the population in favor of maintaining a banana republic for U.S government and corporate interests. Ortega, while not without fault, has focused on creating poverty-reduction programs to address areas such as education, malnourishment, healthcare, and shelter.\r\n\r\nAdditionally, the U.S. government now condemning Ortega and supporting the opposition is the same U.S. government that has been actively antagonistic to Black Lives Matter, undocumented immigrants (through the expansion of ICE), water protectors at Standing Rock, and similar movements whose purposes are to give a voice to disempowered people domestically. Now they care about human rights abuses? I am confused why this paradox does not seem to bother others.\r\n<p style=\"text-align: center;\"><strong><a href=\"http://www.latinorebels.com/2018/04/29/mycontraparents/\" target=\"_blank\" rel=\"noopener\">Click here to continue reading…</a></strong></p>\r\n\r\n\r\n<hr />\r\n\r\n<strong>BRIEFS</strong>\r\n<ul>\r\n \t<li>Economist Nestor Avendaño predicts that the economic impact of the protests with their violence, deaths, injuries and property damage will begin to be felt in the latter half of the year but will hit hardest in 2019. He said the perception of greater risk and uncertainty will lower growth in the Gross National Product from the projected 4.7% to 3.2% and will affect every sector of the economy except mining. (Informe Pastran, May 4)</li>\r\n</ul>\r\n<ul>\r\n \t<li>Antonia Urrejola, commissioner of the Inter-American Commission of Human Rights (IACHR), stated that the Sandinista government has not refused to cooperate as is being claimed by right-wing forces. “The government has asked us to postpone the visit, but it is not true that they have canceled it,” she said adding that the government has asked them to wait for the implementation of the national dialogue. But, on May 7, the IACHR said on its Twitter account that the visit to Nicaragua was “urgent.” (Informe Pastran, May 4; El Nuevo Diario, May 7)</li>\r\n</ul>\r\n<ul>\r\n \t<li>The Nicaraguan Center for Human Rights (CENIDH) released a report stating that there were 45 deaths in the recent protests and more than 400 people injured. Besides the names of the victims, the report also listed the television channels closed by the government during the disturbances and the journalist killed in Bluefields. US-funded human rights groups are claiming higher death totals. (Informe Pastran, May 4; El Nuevo Diario, May 5)</li>\r\n</ul>\r\n<ul>\r\n \t<li>The National Assembly elected its five members to the Truth Commission which will investigate the days of violence in April following the government’s announcement of reforms intended to shore up the social security system. Catholic liberation theology priest Uriel Molina and Mirna Cunningham, who helped found and lead the Autonomous University of the Caribbean Coast, are the best known to international solidarity activists. Also included are Jaime Lopez Lowery a former police official who is now vice-rector of the National Autonomous University of Nicaragua, Adolfo Jarquin Ortel, a former Liberal Party member and diplomat, and media commentator Cairo Amador. All were elected with only the votes of the Sandinista bench. (El Nuevo Diario, May 7)</li>\r\n</ul>\r\n<ul>\r\n \t<li>Students opposed to the government formed a coalition in response to an invitation by the Catholic bishops to appoint representatives to the national dialogue that will be moderated by the bishops. Coalition spokesperson Valeska Valle said that, since the invitation on May 3, “we began an arduous process of dialogue in which we have agreed on the most important demands for the democratization of the country.” The students have not yet chosen their representatives to the dialogue, but they have rejected the Truth Commission calling it “illegitimate.” (El Nuevo Diario, May 6)</li>\r\n</ul>\r\n<ul>\r\n \t<li>US Vice-president Mike Pence denounced the recent “repression” of protests in Nicaragua during a White House ceremony on May 2 swearing in new US ambassador to the OAS, Carlos Trujillo. Pence said the Trump government will stand firmly against oppressors in Nicaragua, Cuba, and Venezuela to promote “freedom” in the continent. “In recent weeks, the government of Nicaragua has brutally repressed its own people for raising their voices in peaceful protests,” Pence claimed. (El Nuevo Diario, May 3)</li>\r\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 196ada50-d89c-465a-9c41-f44a9feaaead
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: 3ad1f134-ace5-4b4d-bdb3-efff4e632423
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

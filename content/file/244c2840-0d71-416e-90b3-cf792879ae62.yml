@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 244c2840-0d71-416e-90b3-cf792879ae62
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: IMG_1893-2.jpg
+  uri:
+    -
+      value: 'public://2020-06/IMG_1893-2.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 543662
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1591190878

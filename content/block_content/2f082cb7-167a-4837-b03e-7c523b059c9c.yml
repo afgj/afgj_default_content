@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 2f082cb7-167a-4837-b03e-7c523b059c9c
+  bundle: basic
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Buy a ticket'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<h4 class=\"text-center mt-5 mb-4\">Aren’t you convinced yet? You should come.</h4>\r\n<p class=\"text-center\"><a class=\"button button--hover-style-2\" href=\"#\">Buy a Ticket</a></p>\r\n"
+      format: raw_html
+      summary: ''

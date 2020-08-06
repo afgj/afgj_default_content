@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3f7876db-95d2-4af8-ab0b-1a3c4853661c
+  bundle: article
+  default_langcode: en
+  depends:
+    55ce4aea-5d67-4df1-861b-3701ab9eb46c: taxonomy_term
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+    10a9386a-1426-45c8-87e6-53fb3301da59: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Honduran Migrant March — A refugee crisis caused by US Policy and US Partners'
+  created:
+    -
+      value: 1540212532
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /honduran-migrant-march-refugee-crisis-caused-us-policy-and-us-partners
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Originally Published <a href=\"http://www.hondurassolidarity.org/2018/10/20/honduran-migrant-march-a-refugee-crisis-caused-by-us-policy-and-us-partners/\">HERE</a>.\r\n\r\nOn October 12, 2018, hundreds of women, men, children, youth and the elderly decided to leave Honduras as a desperate response to survive. The massive exodus that began in the city of San Pedro Sula, reached more than 3 thousand people by the time the group crossed to Guatemala. The caravan, which is headed north to Mexico first, and to the United States as the goal- is the only alternative this people have to reach a bit of the dignity that has been taken from them. They are not alone in their journey. Various waves of Hondurans, whose numbers increase every hour, are being contained by Honduran security forces on their border with El Salvador and Guatemala.\r\n\r\nThe Honduras Solidarity Network in North America condemns any threats and acts of repression against the refugee caravan, human rights activists and journalists that accompany their journey. The conditions of violence, marginalization and exploitation in which this refugee crisis find its origins, have been created, maintained and reproduced by US-backed social, economic and military interventionist policies, with the support of its Canadian and regional allies. We call on people in the US to reject the criminalization, prosecution, detention, deportation and family separation that threaten the members of this march and the lives of all those refugees forced from their homes in the same way. We urge a change of US policy in Honduras and to cut off security aid to stop human rights abuses and government violence against Hondurans.\r\n\r\nThis refugee crisis has been exacerbated by the governments of Guatemala and Mexico, who subservient to Donald Trump’s administration, have chosen the path of repression. Bartolo Fuentes, a Honduran journalist and spokesperson for the refugees, has been detained in Guatemala. Meanwhile the Mexican government has sent two planeloads of its National Police to the border with Guatemala. Irineo Mujica, a migrant rights activist and photojournalist, was arrested in Chiapas by agents of the Mexican National Institute of Migration when he was getting ready to support the Honduran migrant march. Today (Friday) in the afternoon, tear gas was fired into the group as they tried to come into Mexico on the border bridge. Honduran human rights organizations report that a 7 month old baby was killed.\r\n\r\nThe massive forced flight of people from Honduras is not new; it is the legacy of US intervention in the country. Since the 2009 US-backed coup in Honduras, the post-coup regime has perpetuated a system based on disregard for human rights, impunity, corruption, repression and the influence of organized crime groups in the government and in the economic power elite. Since the coup, we have seen the destruction of public education and health services through privatization. The imposition of mining, hydro-electric mega-projects and the concentration of land in agro-industry has plunged 66 percent of the Honduran population into poverty and extreme poverty. In the last 9 years, we have witnessed how the murder of Berta Cáceres and many other activists, indigenous leaders, lawyers, journalists, LGBTQ community members and students has triggered a humanitarian crisis. This crisis is reflected in the internal displacement and the unprecedented exodus of the Honduran people that has caught the public’s eye during recent days.\r\n\r\nThe fraudulent November 2017 elections, in which Juan Orlando Hernández -president since questionable elections in 2013- was re-elected for a second term in violation of the Honduran constitution, sparked a national outrage. The people’s outrage was confronted by an extremely violent government campaign with military and US-trained security forces to suppress the protests against the fraud. The result of the repression was more than 30 people killed by government forces, more than a thousand arrested and there are currently 20 political prisoners being held in pre-trial prison.\r\n\r\nTo the repression, intimidation and criminalization faced by the members of the refugee caravan, we respond with a call for solidarity from all the corners of the world. In the face of the violence that has led to the mass exodus of hundreds of thousands of Hondurans, we demand an end to US military and security aid to Juan Orlando’s regime, not as the blackmail tool used by Donald Trump, but as a way to guarantee the protection of the human rights of the Honduran people. We demand justice for Berta Cáceres, for all the victims of political violence as a consequence of the post coup regime, and the approval of the Berta Cáceres Human Rights in Honduras Act H.R. 1299. We demand freedom for all the \_political prisoners in Honduras. We demand the US end the criminalization, imprisonment, separation, deportation and killing of migrants and refugees.\r\n\r\n<strong>Today we fight so that every step, from Honduras to the north of the Americas, is dignified and free</strong>\r\n\r\n<strong>Honduras Solidarity Network of North America</strong>\r\n\r\n<strong>October 19, 2018</strong>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 55ce4aea-5d67-4df1-861b-3701ab9eb46c
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+    -
+      entity: 10a9386a-1426-45c8-87e6-53fb3301da59
+  field_mt_slideshow:
+    -
+      value: false

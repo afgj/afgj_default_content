@@ -1,0 +1,56 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2a7f8c48-8f1a-4aa6-bc05-bc7be4f1b935
+  bundle: mt_team_member
+  default_langcode: en
+  depends:
+    0efd1eda-a713-4700-a881-f341808c01e8: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Eduardo Garcia'
+  created:
+    -
+      value: 1591128330
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /team/eduardo-garcia
+      langcode: en
+      pathauto: 1
+  field_mt_tmm_body:
+    -
+      value: "<p><strong>Eduardo Garcia</strong> is an activist and photojournalist born in Mexico City. His work has been focused primarily on the struggles of indigenous peoples in Mexico, Central American migration, forced disappearance and social movements in Latin America. His work as a researcher and photographer has gotten him involved with the Undocumented Migrant Project of the University of Michigan. Eduardo is also co-founder of the Michigan Solidarity Network with Mexico and co-founder of the Militarization in the Americas Research Collective. He studied Political Science at the Universidad de las Americas Puebla, with special interest in political philosophy and Latin American Studies. Eduardo is a former SOA Watch member, where he collaborated as the Media and Communications coordinator, research consultant and organizer. Today he coordinates AFGJ’s Prison Imperialism Project and supports the solidarity work in Honduras.</p>\r\n"
+      format: full_html
+      summary: ''
+  field_mt_tmm_featured:
+    -
+      value: false
+  field_mt_tmm_member_photo:
+    -
+      entity: 0efd1eda-a713-4700-a881-f341808c01e8
+      alt: Eduardo
+      title: ''
+      width: 1536
+      height: 2048
+  field_mt_tmm_subtitle:
+    -
+      value: 'National Co-Coordinator'

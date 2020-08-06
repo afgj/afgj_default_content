@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a1364cea-4376-49e1-8973-c67b25b6606b
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    801e3bde-8887-4341-9509-1363185a5f6e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Join the USLAW – AfGJ Delegation to Colombia Nov. 24 – Dec. 4, 2019'
+  created:
+    -
+      value: 1561456189
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /join-uslaw-afgj-delegation-colombia-nov-24-dec-4-2019
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-5822\" src=\"https://afgj.org/wp-content/uploads/2014/08/IMG_4968.jpg\" alt=\"\" width=\"420\" height=\"315\" /></p>\r\nThe Alliance for Global Justice (AfGJ) and United States Labor Against the War (USLAW) are pleased to announce a joint delegation to Colombia from November 24 – December 4, 2019. This delegation is timed to coincide with the third anniversary of Colombia’s peace accord that ended more than five decades of war between the government and the Revolutionary Armed Forces of Colombia – People’s Army (FARC-EP). It will also occur 8 ½ years after the signing of the Labor Action Plan (LAP), a side agreement of the US-Colombia Free Trade Agreement to address repression of the labor movement. The delegation will assess the changing situation for Colombian labor unions and working and farming people since these key dates and will issue a comprehensive report on our findings. The delegation will provide a prime opportunity for the establishment of new, direct worker-to-worker solidarity among unionists. While the delegation will mainly include union members, there are some slots available for community allies and students. The cost for the trip is $1,400, not including international airfare. THOSE UNABLE TO PAY ARE ENCOURAGED TO CONTACT ORGANIZERS ABOUT FUNDRAISING IDEAS AND OPPORTUNITIES AND TO SEE IF YOU QUALIFY FOR A DISCOUNT OR SCHOLARSHIP.\r\n\r\n&nbsp;\r\n<h3 style=\"text-align: center;\"><span style=\"color: #808000;\">FOR MORE INFORMATION, SEND AN EMAIL TO:</span></h3>\r\n<h3 style=\"text-align: center;\"><span style=\"color: #808000;\">James Jordan, Alliance for Global Justice:\_<a style=\"color: #808000;\" href=\"https://default.salsalabs.org/T0fd5f7d9-0b5f-47fc-a22e-260c32901bdf/d9d78d26-9841-42e5-ae4a-e24c8ecda71e\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T0fd5f7d9-0b5f-47fc-a22e-260c32901bdf/d9d78d26-9841-42e5-ae4a-e24c8ecda71e&amp;source=gmail&amp;ust=1561566284006000&amp;usg=AFQjCNHbBu2xiRZMIgKHid2zl9Aj761EUQ\">James@AFGJ.org</a></span></h3>\r\n<h3 style=\"text-align: center;\"><span style=\"color: #808000;\">or</span></h3>\r\n<h3 style=\"text-align: center;\"><span style=\"color: #808000;\">Yasemin Zahra, US Labor Against the War:\_\_</span></h3>\r\n<h3 style=\"text-align: center;\"><span style=\"color: #808000;\"><a style=\"color: #808000;\" href=\"mailto:yasemin.zahra@gmail.com\">yasemin.zahra@gmail.com\_</a></span></h3>\r\n&nbsp;\r\n\r\nColombia’s peace accord is in crisis and labor unionists are among the most affected. Since January 2016, 700 social movement leaders have been murdered, as well as at least 160 ex-insurgents and family members participating in the peace process. That is at least 860 persons killed in political violence at a rate of one victim every 1.5 days, or two victims every three days.\r\n\r\nBetween January 2016 and the end of 2018, 70 unionists were murdered. Since the adoption of LAP, 172 unionists have been murdered. While LAP was adopted to protect unionists, it has had no effective enforcement mechanism. Colombia continues to be the most dangerous place in the world to be a union member and its rate of unionization is lower than many countries where it is illegal to belong to a union. The Fensuagro union of agricultural workers has had more victims of political and anti-union violence than any other union. Fensuagro represents rural workers, the segment of society most targeted for repression and forced displacement. Fensuagro is a founding member of the Marcha Patriótica, a group that makes up more than 40% of the victims. The vast majority of acts of political and anti-union violence are committed by right-wing paramilitary death squads and Colombia’s Armed Forces. The violence and displacement almost always happen in areas where transnational corporations and big landowners want to acquire and exploit resources for private profits.\r\n\r\nThe labor and peace crises are rooted in and exacerbated by US government policies. Through Plan Colombia, the US has provided more than $12 billion in mostly military and “security” funding. The administration of President Donald Trump has had Colombia’s Peace Accord in its sights, attacking key components, including provisions designed to improve the conditions of rural workers.\r\n\r\nThis delegation will divide its time between the capital city of Bogotá and the Departments of Cauca and Valle de Cauca. Cauca is home to the largest indigenous population in Colombia, and has endured the highest level of political violence. Valle de Cauca is similarly impacted. It is also home to Buenaventura, with the largest urban concentration of Afro-Colombians. Buenaventura is Colombia’s largest port on the Pacific Ocean and an important center for union activity. We are planning an agenda to include meetings with national and local leadership of Fensuagro as well as unions representing oil workers, miners, port workers, electricians, flower cutters, bottlers, injured workers, and more.\r\n\r\nPart of the delegation price will include contributions toward a new community and workers center in Cali, which will be managed by the Permanent Committee for Human Rights (CPDH) serving the Cauca and Valle de Cauca areas. Besides providing a meeting space for social and labor movements, the center will include lodging for international accompaniment and for unionists and activists who are in need of transitional housing because of threats against them.\r\n\r\nJoin the USLAW-AfGJ delegation and help build lasting peace and labor rights in Colombia!\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: 801e3bde-8887-4341-9509-1363185a5f6e
+  field_mt_slideshow:
+    -
+      value: false

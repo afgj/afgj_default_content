@@ -1,0 +1,67 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3b68bae6-5cfd-4f2f-8031-270a969f29f2
+  bundle: article
+  default_langcode: en
+  depends:
+    559721eb-b73d-4d86-a9b5-58f46584daa3: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Honduran Democracy Activist Urgently Needs Your Solidarity'
+  created:
+    -
+      value: 1516557237
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /honduran-democracy-activist-urgently-needs-your-solidarity-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<table width=\"600\">\n<tbody>\n<tr>\n<td width=\"500\">Honduran democracy activist Edwin Espinal Robelo has been detained by authorities. Even though he is a civilian, he is scheduled to appear before a military tribunal this week. Espinal has been denied the right to meet with his lawyer.\n<h1 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25751\">Act NOW to demand the immediate liberty of Edwin Espinal Robelo!</a></h1>\n<img class=\"alignleft wp-image-8878\" src=\"https://afgj.org/wp-content/uploads/2018/01/Edwin-Espinal-Robelo.jpg\" alt=\"\" width=\"365\" height=\"634\" />Edwin Robelo Espinal has a long history advocating against the government that came into power as the result of a right-wing coup in 2009. He is a staunch defender of the Honduran people’s human and voting rights. Because of this history, he has been the target of threats and intimidation by state security forces and of slander in the media. He has been receiving protective measures since July 2010, when they were requested by the Inter-American Commission for Human Rights. Espinal has been framed on charges of arson and property destruction during a January 12, 2018 protest in Tegucigalpa. Honduras has been the site of large demonstrations due to the November 26, 2017 presidential election that Honduran popular movements and international observers have widely denounced as rigged.\n\nAccording to Victoria Cervantes, member of the Honduras Solidarity Network and the Alliance for Global Justice Board of Directors,\n\n“Edwin Espinal Robelo is a well-known activist since the 2009 coup; part of the motorcycle riders that have escorted all the protests since then and a community organizer activist in his neighborhood in Tegucigalpa. His fiancée, Wendy Avila was killed by the massive tear gas attack against protesters supporting President Zelaya's return to Honduras in front of the Brazilian Embassy in September 2009. He has been harassed, detained, threatened, had his home arbitrarily searched, and been the target of numerous social media slanderous campaigns organized by the government and its hired trolls.”\n<h1><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25751\">Send an email to Honduran authorities and the US Embassy to demand justice for Edwin Espinal Robelo! </a></h1>\n&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 559721eb-b73d-4d86-a9b5-58f46584daa3
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

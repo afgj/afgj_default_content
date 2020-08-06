@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 746bbc2e-eb81-4560-9901-d8db3c794aac
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: mt-product-4.jpg
+  uri:
+    -
+      value: 'public://2018-02/mt-product-4.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 28656
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1517510681

@@ -1,0 +1,61 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 6d95ff7e-05b0-4216-9929-391e5bdc0342
+  bundle: article
+  default_langcode: en
+  depends:
+    f3a04f7a-4b52-4ce7-a043-ae2c1dc03d17: taxonomy_term
+    196ada50-d89c-465a-9c41-f44a9feaaead: taxonomy_term
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Podcast Interview: New sanctions imposed on Venezuela as Trump openly discusses backing a coup'
+  created:
+    -
+      value: 1538042016
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /podcast-interview-new-sanctions-imposed-venezuela-trump-openly-discusses-backing-coup
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Listen to this interview with Chuck Kaufman on the Loud &amp; Clear Podcast with Brian Becker.\r\n</strong><strong>Chuck Kaufman is the National Co-Coordinator with the Alliance for Global Justice:</strong>\r\n\r\nThe US has imposed new sanctions on several high-ranking officials in Venezuela, including Congresswoman Cilia Flores who also is the wife of President Maduro. The New York Times also published an op-ed today called “Time for a Coup?” about overthrowing President Maduro. Chuck Kaufman, the National Co-Coordinator of the Alliance for Global Justice, joins the show.\r\n\r\n<a class=\"spreaker-player\" href=\"https://www.spreaker.com/user/radiosputnik/new-sanctions-imposed-on-venezuela-as-tr\" data-resource=\"episode_id=15815725\" data-theme=\"light\" data-autoplay=\"false\" data-playlist=\"false\" data-cover=\"https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/85e6638b7d41165440f3341132c2796b.jpg\" data-width=\"100%\" data-height=\"400px\">Listen to \"New sanctions imposed on Venezuela as Trump openly discusses backing a coup\" on Spreaker.</a><script async src=\"https://widget.spreaker.com/widgets.js\"></script>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: f3a04f7a-4b52-4ce7-a043-ae2c1dc03d17
+    -
+      entity: 196ada50-d89c-465a-9c41-f44a9feaaead
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

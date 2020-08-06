@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ffbfac83-2c5e-4ea3-b3d9-79444c8e4516
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: false
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Courage to Resist'
+  created:
+    -
+      value: 1348493663
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /courage-resist
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<address>(Global Justice Monitor September/October 2012)</address>By Elane Spivak Rodriguez\r\n<h3><span style=\"color: #800000;\">Introducing AfGJ's Fiscally Sponsored Project...</span></h3>\r\n<img class=\"alignleft\" title=\"Courage to Resist logo\" src=\"http://org2.democracyinaction.org/o/7315/images/CTRlogo-150.jpg\" alt=\"\" width=\"150\" height=\"150\" />\r\n\r\n<em><strong>Courage to Resist</strong></em> joined the Alliance for Global Justice fiscal sponsorship network from their former sponsor, the International Humanities Center.\_ Many people in the fiscal sponsorship world recognize that name as the organization that went under last year and collectively lost over a million dollars of their projects’ money.\_ Fortunately Courage to Resist got out just before this collapse.\r\n\r\nI spoke with Jeff Paterson, co-founder and current Project Director and asked him about their history – where they came from and where they are going. I asked about their challenges and set-back, their current big campaigns and projects and about their organizational principles. Their story follows:\r\n\r\nCourage\_to\_Resist\_came together in 2006 to systematically support a wave of resistance from within the US military to the Iraq War. Many of us had been working to support individual GI objectors since 2004, so it made sense to create an ongoing project to support future objectors.\r\n\r\nI have a personal interest in this work as I served for four years as a US Marine artilleryman before refusing to deploy to Iraq in August of 1990. The military had earlier turned down my application to be discharged as a conscientious objector; however, I was still unable or unwilling to follow orders that I viewed as morally wrong.\r\n\r\nCourage\_to\_Resist\_has supported hundreds of individual service members, and we’ve raised significant funds for about three dozen objectors that have faced military court martials related to their vocal objections to our government’s immoral occupation wars. Last year we published “About Face: Military Resisters Turn Against War” from PM Press to help chronicle these very diverse stories—each a life altering process for the individuals involved.\r\n\r\nWe “support the troops who refuse to fight”—which is our tagline—by providing counseling, public support, and in many cases, legal aid. Many of the questions we get involve the military’s Individual Ready Reserve program that can involuntarily drag former soldiers back into the military years after their active duty discharge, the conscientious objection process, and the possible repercussions of simply leaving the military without authorization to do so.\r\n\r\nWe’re currently in the third year of our most challenging and high-stakes campaign yet, the defense of accused WikiLeaks whistle-blower US Army PFC Bradley Manning. Bradley, a 24-year-old Army intelligence analyst, faces life in prison for releasing the “Collateral Murder” video of a US helicopter attack that killed 11 civilians and wounded two children in Baghdad. He is also charged with blowing the whistle on the “Iraq War Logs”, the “Afghan Diaries”, the “Gitmo Files”, and embarrassing US State Department cables. In short, he’s been charged with telling us the truth. By providing the organizational foundation for the Bradley Manning Support Network, we expect to free Bradley Manning sooner than later. This high profile court martial is expected to begin in February 2013.\r\n\r\nWhile there are those who would like to dismiss war resisters as \"cowards,\" the reality is that it takes exceptional\_courage\_to\_resist\_unjust, illegal, and/or immoral orders. For many resisters, it was their first-hand experiences as occupation troops that compelled them to take a stand. For others, \"doing the right thing\" and acting out of conscience began to outweigh their military training in obedience.\r\n\r\nCourage\_to\_Resist\_believes in \"informed resistance.\" It's important for service members contemplating public resistance to have a basic understanding of both the benefits and consequences of doing so, particularly in the context of the very arbitrary military discipline and\_justice\_systems. We work closely with our allies The GI Rights Hotline, the Military Law Task Force of the National Lawyers Guild, and Veterans for Peace, to provide the most support possible for each person—while remaining independent of any political party or organization. We’re motivated by a \"people power\" strategy that we believe can weaken the pillars that maintain war and occupation in Iraq, Afghanistan, and elsewhere. By supporting GI resistance, counter-recruitment, and draft resistance, we hope to diminish the number of troops available for unjust war and occupation.\r\n\r\n&nbsp;\r\n\r\nContact:\r\nCourage to Resist\r\nJeff Patterson\r\n484 Lake Park Ave # 41,\r\nOakland CA 94610\r\n<a href=\"http://www.couragetoresist.org\">www.couragetoresist.org</a>\r\n510-488-3559"
+      format: full_html
+      summary: ''

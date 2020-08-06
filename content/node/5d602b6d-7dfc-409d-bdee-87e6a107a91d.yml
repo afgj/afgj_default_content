@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5d602b6d-7dfc-409d-bdee-87e6a107a91d
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Core Projects'
+  created:
+    -
+      value: 1274429836
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /core-projects
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/campaign-for-labor-rights\"><strong>Campaign for Labor Rights</strong></a>\r\nIt is the mission of the Campaign for Labor Rights (CLR) to mobilize grassroots support throughout the United States to promote economic and social justice by campaigning to end labor rights violations around the world. CLR educates about, and advocates against, the underlying causes of the global sweatshop. Its campaign strategies are designed in collaboration with workers struggling to gain the right to organize, the right to earn a living wage in a clean, safe work environment, and the right to bargain collectively with their bosses. Through these campaigns CLR's goal is to empower workers. We prioritize campaigns which have the goal of worker empowerment through union recognition and collectively bargained contracts. We operate on the solidarity model, taking our lead from the workers whose livelihood and lives are at stake. Our goal is to be a resource to local activists who are organizing in their communities in support of workers world wide. To contact by email send to James@AFGJ.org\r\n\r\n<strong><a href=\"http://nicanet.org/\">Nicaragua Network</a></strong>\r\n\r\nThe Nicaragua Network has been organizing in solidarity with the people of Nicaragua for\_over 30\_years. In February of 1979, the Network was founded to support the popular struggle to overthrow the 45 year US-supported Somoza family dictatorship, and after the July 19 victory, to support the efforts of the Sandinista Revolution to provide a better life for the nation’s people. Thus, for over three decades, the Network has been a leading organization in the United States committed to social and economic justice for Nicaragua, Latin America and the world, based on respect for sovereignty and self-determination. The Network advocates for sound U.S. foreign policies that respect human rights and international law. The Nicaragua Network provides information and organizing tools to interested individuals and solidarity, sister city, and peace and justice committees across the U.S.\r\n\r\nPublications include the weekly Nicaragua News Bulletin and occasional monographs. The Network organizes study tours and brigades to Nicaragua. Some important recent campaigns have been: exposure of US intervention in Nicaragua’s elections, preventing a cut off of US aid to Nicaragua based on the property issue, support for banana workers affected by the pesticide Nemagon and for sugar workers suffering from kidney disease.\r\n\r\n<em>To contact the Nicaragua Network\_ by email, write to\_<a href=\"mailto:nicanet@afgj.org\" target=\"_blank\">nicanet@afgj.org</a>.\_ We can also be contacted by phone at\_<a href=\"tel:202-544-9355\" target=\"_blank\">202-544-9355</a>\_or by mail at 1247 E St. SE, Washington, DC 20003.\_</em>\r\n\r\n<strong><a href=\"http://respect4democracy.wordpress.com/\">Respect for Democracy Campaign</a></strong>\r\nThe Respect for Democracy Campaign works toward broad based, participatory democracy, and against efforts by the US government and government-funded institutions to undermine democratic processes around the world. When elections are manipulated, it is usually to benefit an elite few by taking power from working families and communities–from real, grassroots majorities.\r\n\r\nA major goal of the Respect for Democracy Campaign is to close the misnamed National Endowment for Democracy. The NED was created by Congress in 1983 and is more than 90% funded by US taxes. Yet it is officially designated a private organization–thus it carries out foreign policy efforts in the name of US citizens, with our tax money, but with no meaningful public oversight. This has lead to many abuses, such as NED funding and coordination of the groups that overthrew Haiti’s elected government in 2004, leading to the bloodiest year in Haiti’s modern history. It also supported the coup leaders who unsuccessfully tried to overthrow Hugo Chavez in Venezuela in 2004. NED’s first successful election manipulation was in Nicaragua, in 1990. The NED spent more than $20 per voter to influence the presidential elections–more than had been spent per voter by both campaigns combined in the in the 1988 US elections! The NED has even supported parties and groups in Europe with ties to the most far right wing elements, such as NED work with convicted Nazi collaborator Lazslo Pasztor. For more information send an email to James@AFGJ.org\r\n\r\n<a href=\"https://afgj.org/venezuela-solidarity-campaign\"><strong>Venezuela Solidarity Campaign</strong></a>\r\nThe purpose of the Venezuela Solidarity Campaign is to expose and oppose US government and corporate intervention in Venezuela’s sovereign affairs; to mobilize US residents to demand that relations between the two countries be based on peace and respect; and, to promote people-to-people exchanges between our two countries. For more information send an email to Bruce@AFGJ.org"
+      format: full_html
+      summary: ''

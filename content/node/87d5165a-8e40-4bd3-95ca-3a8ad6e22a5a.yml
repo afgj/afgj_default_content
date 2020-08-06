@@ -1,0 +1,73 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 87d5165a-8e40-4bd3-95ca-3a8ad6e22a5a
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    cd0b4a40-9b03-4048-a812-892416542fb4: taxonomy_term
+    3468b7af-04af-4097-aa0f-28fcb8dcb1d5: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Declaración de la Alianza por la Justicia Global sobre los Ataques contra el Proceso de Paz en Colombia'
+  created:
+    -
+      value: 1473702946
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /declaracion-de-la-alianza-por-la-justicia-global-sobre-los-ataques-contra-el-proceso-de-paz-en
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Denuncia de la Alianza por la Justicia Global sobre el Asesinato de Cecilia Coicue y la Represión contra los Campesinos y Campesinas de Colombia</strong>\n\n<a href=\"https://afgj.org/afgj-denounces-attacks-on-peace-process-in-colombia\"><em>In English</em></a>\n\n<img class=\"alignleft size-full wp-image-7051\" src=\"https://afgj.org/wp-content/uploads/2016/09/Cecilia-Coicue-foto.jpg\" alt=\"cecilia-coicue-foto\" width=\"283\" height=\"373\" />Nosotros de la Alianza por la Justicia Global (Alliance for Global Justice) de los Estados Unidos expresamos nuestra tristeza y enojo profundo al saber del asesinato de Cecilia Coicue en Vereda la Cominera, Municipalidad de Corinto, Cauca. Consideramos que este asesinato cruel constituye un ataque contra el proceso por la paz. Coicue fue la dueña de un predio donde se planea ubicar el Punto Transitorio de Normalización, un componente importante para la terminación del conflicto armado en esta región. Mismo lugar donde se recibirán las armas decomisionadas por las FARC-EP (Fuerzas Armadas Revolucionarias de Colombia-Ejército del Pueblo). Además, Coicue era integrante de FENSUAGRO (Federación Nacional Unitaria Agropecuaria), el Movimiento Político y Social Marcha Patriótica, la Asociación de Trabajadores Campesinos de la Zona de Reservas Campesinas de Corinto (ANZORC) y el Proceso de Unidad Popular del Suroccidente Colombiano. Como impulsadores de la paz, exigimos que los autores de este crimen sean llevados a la justicia y que no desaparezcan detrás de la cortina de la impunidad.\n\nPara la Alianza por la Justicia Global, la muerte de Cecilia Coicue tiene una significancia particular. Durante nuestra primera delegación a Colombia, viajemos a Corinto en la compañía de Hubert Ballesteros, dirigente de FENSUAGRO que hoy en día es un prisionero político a causa de sus actividades por los campesinos de Colombia y por la paz. El asesinato de Coicue y el encarcelamiento de dirigentes sindicales como Ballesteros forman manchas oscuras en las esperanzas del pueblo colombiano por la paz.\n\nEstamos extremamente preocupados por las situaciones tan graves que se están enfrentando prácticamente cada día sobre amenazas y asaltos contra sindicalistas, defensores de derechos humanos, dirigentes campesinos, indígenas y afrocolombianos, y ellos que aman y abogan por la paz. Estamos enfrentando situaciones que atenta contra la paz. Hemos recibido informes por parte de la Marcha Patriótica que existen por lo menos 116 integrantes de este movimiento que han sido asesinados desde su instalación en 2012, mismo año que empezaron las negociaciones en la Habana, Cuba. Nos enteramos en julio sobre el asesinato de cinco indígenas en el norte de Cauca, incluyendo a Beatriz Nohemí Morano, con 9 meses de gestación. Mataron a la madre y su bebé. En agosto recibimos noticias del asesinato de tres dirigentes campesinos en el municipio de Almaguer. Entendemos que desde el inicio del proceso por la paz, han aumentado las cifras de tales asaltos.\n\nCondenamos las acciones del Estado que indican una falta de sinceridad del gobierno para construir una verdadera paz que además sea sostenible. Acompañamos además las denuncias sobre las acciones de la policía nacional y las autoridades municipales de Aronja, Bolívar del desplazamiento de más de 1100 personas de 350 familias ocupando la Finca Sorpresa. Estas familias son personas ya desplazadas por la guerra y que no cuentan con recursos ni mucho menos con la ayuda del Estado.\_ En su desesperación tomaron refugio en esta finca aparentemente abandonado. El compromiso del gobierno colombiano debe estar en dar recursos para ayudar los desplazados, no a desalojarlos una vez más.\n\nLa lista sigue. Entendemos que el gobierno ha reanudado la fumigación con glifosato en el Departamento de Putumayo como manera de erradicación de cultivos de coca. Aún peor, han metido las Fuerzas Armadas de Colombia en el departamento para represar las protestas justas de los campesinos. Pero también entendemos que el gobierno se ha comprometido a través de los acuerdos de la paz, que únicamente usarán fumigación en casos extremos. Estos acuerdos son centrales al compromiso del gobierno que desarrolla\_ la infraestructura campesina y la sustitución de cultivos nuevos en lugar de la coca. Así, esta campaña de fumigación nos parece una violación del espíritu de los acuerdos y peor, es un ataque frontal contra la población y el ecosistema con químicos conocidos por sus daños a seres humanos y el ambiente. ¿Cómo puede confiar la gente de Colombia y el mundo en las promesas del gobierno si, en los inicios de esta nueva edad de paz, el Estado una vez más está envenenando a la población y a la tierra en tal manera? Llamamos al gobierno colombiano que muestra su compromiso a la paz y acabar con la fumigación en Putumayo. Llamamos al gobierno estadounidense que termina su financiamiento de la fumigación en Colombia.\n\nEntendemos que la guerra ha sido financiada y aconsejada por los Estados Unidos y por eso nos comprometemos a dar seguimiento a estos procesos.\_ Nos comprometemos a abogar por un cambio de políticas en nuestro país que afectan el pueblo colombiano.\n\nEn memoria de Cecilia Coicue\_ y de todas las víctimas de la guerra civil, pedimos que el gobierno de Colombia honre sus compromisos que hizo en los acuerdos por la paz. Que el gobierno de Colombia tome acciones definitivas para proteger a su propios ciudadanas y ciudadanos, especialmente las comunidades de campesinos, indígenas y afrocolombiano a los cuales atenta el terrorismo paramilitar. Denunciamos también los abusos del estado y exigimos que actúe decisivamente por la paz y la justicia.\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: cd0b4a40-9b03-4048-a812-892416542fb4
+    -
+      entity: 3468b7af-04af-4097-aa0f-28fcb8dcb1d5
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+  field_mt_slideshow:
+    -
+      value: false

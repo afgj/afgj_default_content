@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 19b4c4b7-c388-45ba-ac55-7a2f03043b6c
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Nicanotes
+  created:
+    -
+      value: 1490865149
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-100
+      langcode: en
+      pathauto: 0
+  body:
+    -
+      value: "<p><a href=\"https://afgj.org/nicanotes\"><img alt=\"\" class=\"aligncenter size-full wp-image-6975\" height=\"195\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" width=\"579\" /></a> Dear Readers, This week, on the verge of my 65th birthday, I had a “senior moment.” I could have sworn that one of you sent me a guest blog that I was planning to use. I can’t remember who sent it or what the subject was, so perhaps I dreamed the whole thing because I had nothing I particularly wanted to write about this week! But if you did send me a submission for this space, please send it to me again because I can’t find it anywhere! After 64 years of keeping my To Do list in my head, I guess I’m going to have to start writing stuff down!</p>\r\n\r\n<hr />\r\n<p><strong>BRIEFS</strong></p>\r\n\r\n<ul>\r\n\t<li>The Discovery Channel television network conducted a survey via Facebook that highlighted Ometepe Island in Lake Nicaragua as the best island in Latin America. The beautiful Nicaraguan island competed with other islands of the continent such as Ecuador's Galapagos Islands, Isla Grande de Chiloé in Chile, and Roatán Island in Honduras. The survey noted that Ometepe received the majority of votes with more than 12,200, followed by Roatan 5,000, the Galapagos Islands 3,360 and Isla Grande de Chiloé 852. The Washington Post also promoted Nicaragua as one of the most attractive tourist destinations in Latin America. \"Nicaragua is a peaceful country, with stability and a flourishing tourism sector. Beautiful colonial cities, active volcanoes, lush jungles and the best beaches for surf enthusiast are just a few of the many attractions of the land of lakes and volcanoes\", the Washington Post said. (Nicaragua News, Mar. 27, 20)</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>Nicaragua’s right-wing opposition has further fractured since the government and the OAS signed agreements for election accompaniment in this Fall’s municipal elections. It looks like the Sandinista Renovation Movement (MRS) will be virtually alone in its refusal to recognize the legitimacy of the elections and in promoting a voter boycott. Perennial Liberal candidate and US darling, Eduardo Montealegre, led his forces into a new party seeking official recognition and the ability to field candidates in the upcoming election. His new party is called Citizens for Freedom. This generated an angry response from MRS leader Dora Maria Tellez who accused Montealegre of making a pact with the Sandinista Front (FSLN). She alleged that Montealegre’s brother, Alvaro, is getting special treatment in the courts as a result of this so-called pact. She said that the opposition Deputies in the National Assembly are “hostages of Daniel Ortega.” She called them “mosquitos” [“zancudos” is a negative name for a party that collaborates with a strongman in power in exchange for political benefits.] and said that Citizens for Freedom would also become “mosquitos.” “There is no turning back,” Tellez said. One wonders whether there is a way forward for the MRS without its alliance with the pro-US opposition. The MRS does not have enough supporters in enough municipalities to meet the constitutional and electoral law requirements to register as a party and run candidates. Montealegre’s popularity is in the single digits and the MRS stands at less than one percent. (Informe Pastran, Mar. 24)</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>World Water Day, March 22, was used by the HKND Group, the Chinese company with the concession to build an interoceanic canal through Nicaragua, to make its case that the canal will improve the quality of Lake Cocibolca rather than harm it. Lake Cocibolca (Lake Nicaragua) is the second largest freshwater lake in Latin America and a major part of the route for the proposed Grand Canal. HKND used the day to reiterate that protection of the lake is one of the key objectives of the environmental and water management plans that the company would implement during the construction and operation of the canal. The HKND Group pointed out that its environmental impact studies “show that this precious and vital resource has experienced decades of deterioration due to soil erosion, increasing levels of sedimentation, and the use of water for human consumption and economic activities.” A 2013 World Bank study said an annual average of 13.3 tons per hectare of sediment is flowing into the shallow lake. In addition, the watershed feeding the lake has been largely deforested due to ranching and agriculture in the last decade. HKND argues that the canal can help contribute to sustainable development of Lake Cocibolca because it is an opportunity to minimize and reverse the deterioration. Reforestation will help restore the health of the watershed, and the canal is designed so that there is no net use of water during operations. They claim they will also restore water lost to climate change by diverting surplus water from the Punta Gorda basin, which flows into the Caribbean, westward into Lake Cocibolca, plus a new reservoir will supply water during extreme weather conditions. Of course, there are many others who see the risk of environmental damage to the lake by construction of the canal as being too high to justify moving forward. (Informe Pastran, Mar. 24)</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>Nicaragua Vice President Rosario Murrillo celebrated the 37th anniversary of the Great National Literacy Crusade carried out in 1980, stating that Nicaragua continues to make progress not only against illiteracy but also against poverty. \"The historic Literacy Crusade was also a great learning experience for the Nicaraguan youth, because they were mobilized and deployed throughout the country as freedom fighters against ignorance and we were victorious,\" the Vice President said. (Nicaragua News, Mar. 24)</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>The Nicaragua government is promoting the production and layout of textbooks to be used in the teaching-learning process in communities of the Caribbean Coast. The Ministry of Education (MINED) and the University of the Autonomous Regions of the Nicaragua Caribbean Coast (URACCAN) are preparing 12 textbooks for seventh, eighth and ninth grade students covering the subjects of Spanish and English Languages, History of the Caribbean Coast, Geography of the Caribbean Coast, Cultural Promotion and Physical Education. Also included is the development of programs and methodological guidelines in Miskitu, Tuahka, Kriol, Panamahka and Ulwa. The Rector of URACCAN, Alta Hooker announced that the textbooks are being prepared under the guidelines of the Regional Autonomous Educational System (SEAR) and are based on bilingual intercultural education, which is the centerpiece for education in the Autonomous Regions of the Nicaragua Caribbean Coast. (Nicaragua News, Mar. 24)</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<ul>\r\n\t<li>The Director of the Pan American Health Organization (PAHO) Emergency and Disaster Regional Program, Dr. Ciro Ugarte highlighted the effectiveness of the Nicaragua Emergency Response Model during a meeting in Managua on March 21. \"We have witnessed firsthand the efficacy of the Nicaragua multi-sectoral working model. The work of the brigades and mobile clinics is at a level to merit the classification we refer to as level one emergency response medical teams\", Dr. Ugarte said. He also noted that during his brief stay in Nicaragua he was able to assess the effective participation of the communities and an outstanding early warning system to deal with disaster situations, and that this is motivation for PAHO to maintain its ongoing support to ensure that the population has better access to the healthcare systems. (Nicaragua News, Mar. 23)</li>\r\n</ul>\r\n"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

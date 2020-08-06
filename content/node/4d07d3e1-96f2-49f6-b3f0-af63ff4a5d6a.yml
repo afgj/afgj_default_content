@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4d07d3e1-96f2-49f6-b3f0-af63ff4a5d6a
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Take the Pledge of Resistance for Venezuela'
+  created:
+    -
+      value: 1550729902
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /take-pledge-resistance-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.salsalabs.org/pledgeofresistance/index.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img class=\"aligncenter wp-image-11374 size-full\" src=\"https://afgj.org/wp-content/uploads/2019/02/2019.-Pledge-fb-cover.png\" alt=\"\" width=\"820\" height=\"312\" /></a>\r\n<h5 style=\"text-align: left;\"><strong>The Pledge of Resistance is co-sponsored by Code Pink, Women's March on the Pentagon,\_Committee for Peace and Human Rights, Popular Resistance and Alliance for Global Justice.</strong></h5>\r\nThe United States government, in complete violation of international laws and norms has declared its intention to remove the democratically elected government of Venezuela and replace it with an unelected president, Juan Guaido, who never won a single vote in a national campaign. The US has illegally seized Venezuela’s foreign assets and claims to be making them available to the opposition, an act which, on top of the already severe and illegal sanctions, exacerbates the suffering of poor and working Venezuelans. Without regard to how we individually feel about Venezuelan President Nicolas Maduro and the Bolivarian Process put in place by the late President Hugo Chavez, those of us in the United States must oppose the illegal actions of our government.\r\n\r\n<strong>We urge you to sign the Pledge of Resistance and to organize yourself with others in your community to respond within 24 hour with direct action if the US invades Venezuela or in response to a call for direct action from the combined co-sponsoring groups.</strong>\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: center;\"><strong><span style=\"color: #ff0000;\">Pledge of Resistance:</span></strong></h2>\r\n<div style=\"text-align: center;\">I pledge to join with others in my community to perform direct action and risk arrest if the US invades or otherwise overthrows the democratically elected government of Venezuela.</div>\r\n<div style=\"text-align: center;\"></div>\r\n<h2 style=\"text-align: center;\"><strong><span style=\"color: #ff0000;\">Support Pledge for those who cannot risk arrest:</span></strong></h2>\r\n<div style=\"text-align: center;\">\r\n\r\nI pledge to support people in my community who take action and risk arrest if the US invades or otherwise overthrows the democratically elected government of Venezuela\r\n\r\n</div>\r\n<p style=\"text-align: center;\"><a style=\"background: #0c5ba3; padding: 10px; margin: 10px 0px; text-align: center; text-decoration: none; font-size: 12pt; color: #ffffff; font-family: Arial, Helvetica, sans-serif; display: inline-block;\" href=\"https://afgj.salsalabs.org/pledgeofresistance\" target=\"_blank\" rel=\"noopener noreferrer\">Take the Pledge of Resistance</a></p>\r\n\r\n<h5 style=\"text-align: center;\"></h5>\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: left;\">Help promote the pledge!</h2>\r\nSocial media resources:\r\n<ol>\r\n \t<li>Please change your Facebook Cover Photo and share the link to the pledge, TinyURL/PledgeofResistance (<a href=\"https://afgj.org/wp-content/uploads/2019/02/2019.-Pledge-fb-cover.png\" target=\"_blank\" rel=\"noopener noreferrer\">png</a>)</li>\r\n \t<li>Share on Instagram (<a href=\"https://afgj.org/wp-content/uploads/2019/02/Instagram.png\" target=\"_blank\" rel=\"noopener noreferrer\">png</a>)</li>\r\n \t<li>Use hashtag #PledgeOfResistance to connect with other folks taking the pledge</li>\r\n</ol>\r\nResources:\r\n\r\nPledge to print: These images than can be used to print, sign and keep in pocket. They can be printed as small as the size of a wallet.\r\n\r\n<a href=\"https://afgj.org/wp-content/uploads/2019/02/Pledge-of-Resistance-promo.png\"><img class=\"alignnone wp-image-11390 size-medium\" src=\"https://afgj.org/wp-content/uploads/2019/02/Pledge-of-Resistance-promo-300x300.png\" alt=\"\" width=\"300\" height=\"300\" /></a> <a href=\"https://afgj.org/wp-content/uploads/2019/02/Pledge-of-Resistance-2-1.png\"><img class=\"alignnone wp-image-11389 size-medium\" src=\"https://afgj.org/wp-content/uploads/2019/02/Pledge-of-Resistance-2-1-300x300.png\" alt=\"\" width=\"300\" height=\"300\" /></a>\r\n\r\nScale-able flyer:\_This can be printed out as a poster flyer or a really tiny flyer.\_ It works well to print 4 and 6 to a page.\r\n\r\n<a href=\"https://afgj.org/wp-content/uploads/2019/02/2019.-Pledge-flyer.png\"><img class=\"alignnone wp-image-11386 size-medium\" src=\"https://afgj.org/wp-content/uploads/2019/02/2019.-Pledge-flyer-232x300.png\" alt=\"\" width=\"232\" height=\"300\" /></a>\r\n\r\nSocial Media:\r\n\r\n<a href=\"https://afgj.org/wp-content/uploads/2019/02/Pledge-fb-cover.png\"><img class=\"alignnone wp-image-11374 size-medium\" src=\"https://afgj.org/wp-content/uploads/2019/02/2019.-Pledge-fb-cover-300x114.png\" alt=\"\" width=\"300\" height=\"114\" /></a>\r\n\r\n<img class=\"alignnone size-medium wp-image-11390\" src=\"https://afgj.org/wp-content/uploads/2019/02/Pledge-of-Resistance-promo-300x300.png\" alt=\"\" width=\"300\" height=\"300\" /> <img class=\"alignnone size-medium wp-image-11389\" src=\"https://afgj.org/wp-content/uploads/2019/02/Pledge-of-Resistance-2-1-300x300.png\" alt=\"\" width=\"300\" height=\"300\" />\r\n\r\n&nbsp;\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''

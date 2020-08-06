@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 9abec2f5-098d-46bc-8955-5cc0b536e427
+  bundle: article
+  default_langcode: en
+  depends:
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly 12.21.2018 : Women’s Position in Nicaragua, Cuban Constitution, Venezuela Militia now 1.6 Million Strong'
+  created:
+    -
+      value: 1545948898
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-12212018-womens-position-nicaragua-cuban-constitution-venezuela-militia-now
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://default.salsalabs.org/Tb3763ee8-11b0-4181-b613-bf9340a3a6a0/635188df-f085-4fb3-a344-6f11901605cc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tb3763ee8-11b0-4181-b613-bf9340a3a6a0/635188df-f085-4fb3-a344-6f11901605cc&amp;source=gmail&amp;ust=1545708372608000&amp;usg=AFQjCNGocmHwU-MJk64lw52jwtRBG4PA6Q\">ALBA 16th Summit: Towards a Democratic International Order</a>\r\n\r\n&nbsp;\r\n\r\n<span class=\"il\">Venezuela</span>\r\n\r\n<a href=\"https://default.salsalabs.org/Te6eebaf0-08a5-4842-9272-3288d1df2606/635188df-f085-4fb3-a344-6f11901605cc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Te6eebaf0-08a5-4842-9272-3288d1df2606/635188df-f085-4fb3-a344-6f11901605cc&amp;source=gmail&amp;ust=1545708372608000&amp;usg=AFQjCNEPwglzcey6ToWDgeur7bo7y7gFhw\">ANC Deputy Julio Escalona: The People are Angry Because They Consider that We Aren't Doing Our Job</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T8ed08b74-4713-4dce-8a19-27d8a6fab3f5/635188df-f085-4fb3-a344-6f11901605cc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T8ed08b74-4713-4dce-8a19-27d8a6fab3f5/635188df-f085-4fb3-a344-6f11901605cc&amp;source=gmail&amp;ust=1545708372608000&amp;usg=AFQjCNF145IHnNw12dSnCjHzyA4ClZlVBQ\"><span class=\"il\">Venezuela</span>\_Attorney General Saab's Ongoing anti-corruption campaign</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T2fcfcc1a-1dad-4061-afd2-7ba648166651/635188df-f085-4fb3-a344-6f11901605cc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T2fcfcc1a-1dad-4061-afd2-7ba648166651/635188df-f085-4fb3-a344-6f11901605cc&amp;source=gmail&amp;ust=1545708372608000&amp;usg=AFQjCNF6k2kWZFSq4cFNHo9LEqHNE5EDbg\">Bolivarian Militia now account for 1.6 million citizens across\_<span class=\"il\">Venezuela</span></a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tf52bece0-0bda-435b-950e-2b6a5de378a4/635188df-f085-4fb3-a344-6f11901605cc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tf52bece0-0bda-435b-950e-2b6a5de378a4/635188df-f085-4fb3-a344-6f11901605cc&amp;source=gmail&amp;ust=1545708372608000&amp;usg=AFQjCNGrPcjD3LqwQBLxbZqHld6QSquFdA\"><span class=\"il\">Venezuela</span>\_Oil Joint Venture with China \_has doubled Oil Production in Just seven months</a>\r\n\r\n&nbsp;\r\n\r\nNicaragua\r\n\r\n<a href=\"https://default.salsalabs.org/Tbad45fe8-9279-4ac4-9143-434bcc1f024b/635188df-f085-4fb3-a344-6f11901605cc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tbad45fe8-9279-4ac4-9143-434bcc1f024b/635188df-f085-4fb3-a344-6f11901605cc&amp;source=gmail&amp;ust=1545708372608000&amp;usg=AFQjCNFTtQoMKlIwxL873wEVNGXmKYwnwQ\">Nicaragua in Fifth Position For Gender Equality in The World</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T2514a44d-3dc6-4fa5-b28f-11efa195cfcb/635188df-f085-4fb3-a344-6f11901605cc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T2514a44d-3dc6-4fa5-b28f-11efa195cfcb/635188df-f085-4fb3-a344-6f11901605cc&amp;source=gmail&amp;ust=1545708372608000&amp;usg=AFQjCNF4zUd7rzS-LiooHr8Xoy_M6r-7sA\">NICA Act Signed into Law and Imposes Sanctions; Nicaragua Targets US Funding Pipeline to the Opposition</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T96680f0d-a70a-429d-8c47-2cb3dd79816d/635188df-f085-4fb3-a344-6f11901605cc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T96680f0d-a70a-429d-8c47-2cb3dd79816d/635188df-f085-4fb3-a344-6f11901605cc&amp;source=gmail&amp;ust=1545708372608000&amp;usg=AFQjCNFUUz_GvEpjwcOyj_60Kr9AtPMHCw\">Brian Willson: The Obsession with and Lies about Nicaragua</a>\r\n\r\n&nbsp;\r\n\r\nCuba\r\n\r\n<a href=\"https://default.salsalabs.org/T2efb81a3-3e2f-4ecf-9490-e701797af44e/635188df-f085-4fb3-a344-6f11901605cc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T2efb81a3-3e2f-4ecf-9490-e701797af44e/635188df-f085-4fb3-a344-6f11901605cc&amp;source=gmail&amp;ust=1545708372608000&amp;usg=AFQjCNGb_AxCOh6qJmg4i88335747H6TMg\">Cuban Draft Constitution: Communism Is an 'Aspiration for All', enshrines the prominence of socialist property and the people's ownership over the fundamental means of production</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T8d4394be-e085-41ca-bff1-7958d90b1ccd/635188df-f085-4fb3-a344-6f11901605cc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T8d4394be-e085-41ca-bff1-7958d90b1ccd/635188df-f085-4fb3-a344-6f11901605cc&amp;source=gmail&amp;ust=1545708372608000&amp;usg=AFQjCNF4Q2RDFd6vxcoo7BPvwKYXAP0eWA\">George H.W. Bush, Luis Posada Carriles, and the dirty war against Cuba</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T6d69ce0e-b037-4c5c-a40e-875845550a56/635188df-f085-4fb3-a344-6f11901605cc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T6d69ce0e-b037-4c5c-a40e-875845550a56/635188df-f085-4fb3-a344-6f11901605cc&amp;source=gmail&amp;ust=1545708372608000&amp;usg=AFQjCNHGYq4BKfUwcft2n6eGn7xO9rua8w\">US \_Premiere of the Film Cubanas Mujeres en Revolución</a>\_and\_<a href=\"https://default.salsalabs.org/Td236871a-589c-4303-a3ad-6bd05e97ad67/635188df-f085-4fb3-a344-6f11901605cc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Td236871a-589c-4303-a3ad-6bd05e97ad67/635188df-f085-4fb3-a344-6f11901605cc&amp;source=gmail&amp;ust=1545708372608000&amp;usg=AFQjCNEpWIn15r_8StdexwZowHZ5vO41mg\">trailer(here)</a>\r\n\r\n&nbsp;\r\n\r\nBolivia\r\n\r\n<a href=\"https://default.salsalabs.org/T118b69b0-5422-4876-9f8d-df7930f04618/635188df-f085-4fb3-a344-6f11901605cc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T118b69b0-5422-4876-9f8d-df7930f04618/635188df-f085-4fb3-a344-6f11901605cc&amp;source=gmail&amp;ust=1545708372608000&amp;usg=AFQjCNFi0JJe8vSFLca2DhxXRtS23RzzWA\">Bolivian President Evo Morales seeks fourth term; The Accomplishments of his first three terms</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T40a9f682-eb7f-4314-9587-ff19302e16f4/635188df-f085-4fb3-a344-6f11901605cc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T40a9f682-eb7f-4314-9587-ff19302e16f4/635188df-f085-4fb3-a344-6f11901605cc&amp;source=gmail&amp;ust=1545708372608000&amp;usg=AFQjCNEBfBhf_SvfcczChYeDO3I2FioUxQ\">Bolivia Touts Record Year for Coca Eradication</a>\r\nDelegations\r\n\r\n<a href=\"https://default.salsalabs.org/T19e0f0e2-5701-4ddf-a46f-10357729e48c/635188df-f085-4fb3-a344-6f11901605cc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T19e0f0e2-5701-4ddf-a46f-10357729e48c/635188df-f085-4fb3-a344-6f11901605cc&amp;source=gmail&amp;ust=1545708372608000&amp;usg=AFQjCNHKZNC7tns0xjZy9QNQjycXBH3g1A\">14th May Day International Volunteer Work Brigade in Solidarity with Cuba\r\nApril 21 to May 5, 2019</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T01579172-ac8f-4b58-a91c-d2bc0cd4f462/635188df-f085-4fb3-a344-6f11901605cc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T01579172-ac8f-4b58-a91c-d2bc0cd4f462/635188df-f085-4fb3-a344-6f11901605cc&amp;source=gmail&amp;ust=1545708372608000&amp;usg=AFQjCNFvCtHsZnGyFdVBpn33fkUPw1fhyQ\">IFCO/Pastors for Peace delegations to Cuba</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T00c3c2a3-15dd-450e-986b-12fd6d836abb/635188df-f085-4fb3-a344-6f11901605cc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T00c3c2a3-15dd-450e-986b-12fd6d836abb/635188df-f085-4fb3-a344-6f11901605cc&amp;source=gmail&amp;ust=1545708372608000&amp;usg=AFQjCNGnEqTUjKdu2M_TTrmulsUBiZyoeg\">Delegation to\_<span class=\"il\">Venezuela</span>, March 17-24, 2019</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

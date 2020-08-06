@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 7bf8ea0f-1e14-43ca-97d6-7060ad4265be
+  bundle: article
+  default_langcode: en
+  depends:
+    196ada50-d89c-465a-9c41-f44a9feaaead: taxonomy_term
+    8ec8e0dc-b6ed-4683-a718-bd2452edec59: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Trump takes aim at Russia for standing with long-time ally Venezuela'
+  created:
+    -
+      value: 1553770739
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /trump-takes-aim-russia-standing-long-time-ally-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Listen to this interview on Sputnik Radio with AFGJ's Chuck Kaufman!\r\n\r\nDonald Trump demanded today that Russia “get out” of Venezuela, referring to the arrival of Russian military personnel in the country that the Venezuelan government said was a routine part of defense cooperation between the two long-standing allies. The coup attempt in Venezuela is rapidly taking on importance of a global scope. Chuck Kaufman, the National Co-Coordinator of the Alliance for Global Justice, joins the show.\r\n\r\n<iframe src=\"https://widget.spreaker.com/player?episode_id=17456617&amp;theme=light&amp;autoplay=false&amp;playlist=false&amp;cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F85e6638b7d41165440f3341132c2796b.jpg\" width=\"100%\" height=\"400px\" frameborder=\"0\"></iframe>\r\n\r\nRead more <a href=\"https://sputniknews.com/analysis/201903281073607384-Venezuela-Sovereign-Make-Deals-Wishes/\">HERE</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 196ada50-d89c-465a-9c41-f44a9feaaead
+    -
+      entity: 8ec8e0dc-b6ed-4683-a718-bd2452edec59
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

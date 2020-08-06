@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 8bae5a71-5700-48a1-b7f8-99cf4727327f
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: image-button-1.png
+  uri:
+    -
+      value: 'public://2018-05/image-button-1.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 7182
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1527256696

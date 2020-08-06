@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 64e6088b-3bba-40e9-aa8a-300f0a2f3ab4
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+    2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela and ALBA Weekly 11.3.2017 : World Stand with Cuba against US Blockade'
+  created:
+    -
+      value: 1509782954
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-and-alba-weekly-1132017-world-stand-cuba-against-us-blockade
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-8398\" src=\"https://afgj.org/wp-content/uploads/2017/11/VenWeeklyn10.4.png\" alt=\"The US is a Champion of Dirty Wars.. Evo Morales\" width=\"750\" height=\"463\" />\n\n&nbsp;\n\nThis weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\n\nIt is AfGJ's conviction that we in the US defend Venezuela's sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\n\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\n\n<hr />\n\n<a href=\"https://www.anymeeting.com/bqogdnpvfdkbr/E956DB88814C3E\" target=\"_blank\" rel=\"noopener\">AFGJ \_Venezula Webinar Recording with K. Kozarek on Communes In Bolivarian Revolution</a>\n\n<a href=\"https://thenextsystem.org/learn/stories/social-programs-venezuela-under-chavista-governments\" target=\"_blank\" rel=\"noopener\">Steve Ellner: Social Programs in Venezuela Under the Chavista Governments</a>\n\n<a href=\"https://venezuelanalysis.com/news/13474\" target=\"_blank\" rel=\"noopener\">Canadian activists Interrupt Forum with former Venzula Attorney General Luisa Ortega on Right-wing Plans to “Resolve” Venezuela’s Political Crisis</a>\n\n<a href=\"https://www.telesurtv.net/english/news/World-Votes-to-Lift-Blockade-on-Cuba-as-US-Israel-Vote-No-20171101-0005.html\" target=\"_blank\" rel=\"noopener\">UN General Assembly Stands with Cuba against US Blockade, 191-2</a>\n\n<a href=\"http://en.granma.cu/mundo/2017-11-02/we-will-persevere-with-the-consensus-of-our-people-and-especially-the-patriotic-commitment-of-the-youngest-cubans\" target=\"_blank\" rel=\"noopener\">Speech by Cuban Foreign Minister as UN General Assembly\_</a>\n\n<a href=\"http://www.miaminewtimes.com/news/jfk-docs-cia-plotted-to-bomb-miami-kill-refugees-and-blame-castro-9782696\" target=\"_blank\" rel=\"noopener\">CIA Considered Bombing Miami and Killing Refugees to Blame Castro</a>\n\n<a href=\"https://www.telesurtv.net/english/opinion/Nicaragua-Local-Elections-A-Vote-for-Stability-and-Better-Life-20171102-0009.html\" target=\"_blank\" rel=\"noopener\">Tortilla con Sal: Nicaragua Local Elections: A Vote for Stability and Better Life</a>\n\n<a href=\"https://venezuelanalysis.com/news/13480\" target=\"_blank\" rel=\"noopener\">Venezuela &amp; Russia Agree to Debt Restructure</a>\n\n<a href=\"http://cepr.net/blogs/the-americas-blog/the-media-venezuela-and-hunger-statistics-a-case-study-in-careless-reporting\" target=\"_blank\" rel=\"noopener\">CEPR: The Media, Venezuela, and Hunger Statistics: A Case Study in Careless Reporting</a>\n\n<hr />\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+    -
+      entity: 2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb
+  field_mt_slideshow:
+    -
+      value: false

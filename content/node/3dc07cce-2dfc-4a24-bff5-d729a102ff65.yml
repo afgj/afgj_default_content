@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3dc07cce-2dfc-4a24-bff5-d729a102ff65
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Organizing and the Freedom of Information Act'
+  created:
+    -
+      value: 1310567965
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /organizing-and-freedom-information-act
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Course:</strong> Organizing and the Freedom of Information Act\r\n<strong>Instructor:</strong> Gitanjali S. Gutierrez\r\n<strong>Duration:</strong> 5 weeks, online\r\n<a href=\"https://org2.democracyinaction.org/o/7315/t/13086/shop/shop.jsp?storefront_KEY=430\">Click here to register now!</a>\r\n\r\n<strong>Description:</strong> \r\nIn an increasingly challenging political environment, the Freedom of Information Act (FOIA) and other open government requests can be a powerful tool for obtaining information that activists can use to draw attention to government abuses or to plan more effective strategies. Anyone can file a request - no lawyer is necessary. This course will introduce activists to the FOIA and walk them through the process of filing and pursuing a request. The course will cover an overview of state and federal laws, the type of information available, how to make a request, thinking strategically about who should make the request and where to send the request, the mechanics of negotiating for records (including issues around processing fees), FOIA exemptions, administratively appealing a response, FOIA litigation, strategies for preparing to use the information, and helpful resources. Activists will also share their success stories in using FOIA to challenge government actions.\r\n\r\n<strong>Skills/understanding that activists will have for organizing and opposing militarism after taking this course:</strong>\r\n<ul>\r\n\t<li>Knowledge of how to think through the strategies for preparing a FOIA request</li>\r\n\t<li>An understanding of how of how to follow up and pursue a response to a FOIA request</li>\r\n\t<li>Ideas for how to use the response for future organizing or media actions</li></ul>\r\n\r\n<strong>About the Instructor: Meet Gitanjali S. Gutierrez</strong>\r\nGitanjali S. Gutierrez is an attorney with the <a href=\"http://ccrjustice.org/\">Center for Constitutional Rights</a> (CCR), a New York-based human rights organization litigating extensive challenges to the Executive’s post-9/11 anti-terrorism policies. Gutierrez’s work focuses on challenging unlawful detention and torture; litigating Freedom of Information Act (FOIA) cases seeking disclosure of records related to government detention, rendition, interrogation and immigration practices; and representing men detained in Guantanamo Bay. Gitanjali graduated magna cum laude from Cornell Law School (’01) and was a Managing Editor for the Cornell Law Review. Following graduation, she clerked for the Honorable Guido Calabresi, United States Court of Appeals, Second Circuit, taught International Human Rights Law and Terrorism at Cornell Law School, and served as a Gibbons Fellow in Public Interest and Constitutional Law at Gibbons, P.C. Prior to law school, Gitanjali was a civil rights and HIV/AIDS activist in Upstate New York for six years and has extensive experience providing formal and informal education to communities on numerous civil rights and social justice issues."
+      format: full_html
+      summary: ''

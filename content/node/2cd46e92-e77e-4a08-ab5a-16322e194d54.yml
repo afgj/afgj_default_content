@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2cd46e92-e77e-4a08-ab5a-16322e194d54
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela & ALBA Weekly, June 29, 2018: Target Nicaragua and Venezuela'
+  created:
+    -
+      value: 1530242272
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-june-29-2018-target-nicaragua-and-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter size-full wp-image-10280\" src=\"https://afgj.org/wp-content/uploads/2018/06/Bad-News-From-Venezuela.jpg\" alt=\"\" width=\"304\" height=\"499\" />\r\n<p dir=\"ltr\"><a href=\"https://venezuelanalysis.com/analysis/13900\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://venezuelanalysis.com/analysis/13900&amp;source=gmail&amp;ust=1530336711732000&amp;usg=AFQjCNG4MYwmLFEk8hk0ApeGHrVabZTKIg\">SURES (Estudio y Defensa en Derechos Humanos) Report on Sanctions Effect on Venezuelan People’s Human Rights</a></p>\r\n\r\n\r\n<hr />\r\n<p dir=\"ltr\"></p>\r\n<p dir=\"ltr\"><a href=\"https://fair.org/home/why-venezuela-reporting-is-so-bad/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://fair.org/home/why-venezuela-reporting-is-so-bad/&amp;source=gmail&amp;ust=1530336711732000&amp;usg=AFQjCNG6qZDPXAGwd9b6PkFyYCKGKP8Njg\">Joe Emersberger: Why Venezuela Reporting Is So Bad, Review of Alan MacLeod's Bad News From Venezuela</a><a href=\"https://ahtribune.com/world/americas/2316-us-nicaragua.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://ahtribune.com/world/americas/2316-us-nicaragua.html&amp;source=gmail&amp;ust=1530336711732000&amp;usg=AFQjCNEysctHCFYJBuCfJ_8_ZGzVA7M_rQ\">Dan Kovalik: The US, Nicaragua and the continuing counter-revolutionary War</a></p>\r\n\r\n\r\n<hr />\r\n<p dir=\"ltr\"></p>\r\n<p dir=\"ltr\"><a href=\"https://therealnews.com/stories/us-govt-regime-change-machine-fuels-nicaraguas-violent-right-wing-insurgency\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://therealnews.com/stories/us-govt-regime-change-machine-fuels-nicaraguas-violent-right-wing-insurgency&amp;source=gmail&amp;ust=1530336711732000&amp;usg=AFQjCNH1hJUKHDyxAhvMJ-4t48rsQW2hiA\">Real News Network: US Gov’t Regime Change Machine Exacerbates Nicaragua’s Violent Protests</a></p>\r\n\r\n\r\n<hr />\r\n<p dir=\"ltr\"></p>\r\n<p dir=\"ltr\"><a style=\"letter-spacing: 0.05em;\" href=\"https://www.telesurtv.net/english/opinion/Nicaragua-Breaking-Out-of-Soft-Coup-Psychosis-20180625-0006.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/opinion/Nicaragua-Breaking-Out-of-Soft-Coup-Psychosis-20180625-0006.html&amp;source=gmail&amp;ust=1530336711732000&amp;usg=AFQjCNHX81SHreeXtAyh51jXnS4bzohnXQ\">Tortilla con Sal on the latest Regime Change events in Nicaragua</a></p>\r\n\r\n\r\n<hr />\r\n<p dir=\"ltr\"></p>\r\n<a href=\"https://www.telesurtv.net/english/news/Maduro-DubsUS-VPMike-Pence-a-Viper-TouringLatin-America-20180628-0007.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Maduro-DubsUS-VPMike-Pence-a-Viper-TouringLatin-America-20180628-0007.html&amp;source=gmail&amp;ust=1530336711732000&amp;usg=AFQjCNHhiHTHR4qxm5iOkpl4LJ8d0WycZQ\">Maduro Dubs US VP Mike Pence a 'Viper' who is Touring Latin America</a>\r\n\r\n<hr />\r\n\r\n&nbsp;\r\n<p dir=\"ltr\"><a href=\"https://venezuelanalysis.com/news/13902\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://venezuelanalysis.com/news/13902&amp;source=gmail&amp;ust=1530336711732000&amp;usg=AFQjCNHarV5FENE9YKyuNZ1h3Ivd7zgGWQ\">Venezuelan Campesinos Occupy Land Institute in Ongoing Confrontation </a></p>\r\n\r\n\r\n<hr />\r\n\r\n<a href=\"http://en.granma.cu/mundo/2018-06-27/general-strike-against-failed-policy-paralyzes-argentina\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://en.granma.cu/mundo/2018-06-27/general-strike-against-failed-policy-paralyzes-argentina&amp;source=gmail&amp;ust=1530336711733000&amp;usg=AFQjCNH1MYuTEjaP4JjG3_nq8BOgJP9_TA\">General strike against failed policy paralyzes Argentina</a>\r\n\r\n<hr />\r\n<p dir=\"ltr\"><a href=\"http://en.granma.cu/cuba/2018-06-26/family-medicine-in-cuba-an-achievement-of-the-revolution\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://en.granma.cu/cuba/2018-06-26/family-medicine-in-cuba-an-achievement-of-the-revolution&amp;source=gmail&amp;ust=1530336711733000&amp;usg=AFQjCNFTbWi0BmnaMt8qctfEnLmrB_jdcw\">An Example for the US: Family medicine in Cuba, an achievement of the Revolution</a></p>\r\n\r\n\r\n<hr />\r\n<p dir=\"ltr\"><a href=\"https://www.anymeeting.com/WebConference/RecordingDefault.aspx?c_psrid=E957DA89884A39\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.anymeeting.com/WebConference/RecordingDefault.aspx?c_psrid%3DE957DA89884A39&amp;source=gmail&amp;ust=1530336711733000&amp;usg=AFQjCNHl71KVH-Kac7f6z1uZETxcs8NKhA\">AFGJ Venezuela webinar with William Camacaro</a></p>\r\n\r\n\r\n<hr />\r\n<p dir=\"ltr\"></p>\r\n<p dir=\"ltr\"><a href=\"https://mailchi.mp/ef532e7e94e6/tfa-fall-newsletter-is-out-821841?e=48d064a48e\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://mailchi.mp/ef532e7e94e6/tfa-fall-newsletter-is-out-821841?e%3D48d064a48e&amp;source=gmail&amp;ust=1530336711733000&amp;usg=AFQjCNEIktvhoM2pnbcmQOnVfcb5sXCLqg\">Task Force on Americas Reportback on Venezuela delegation <span class=\"aBn\" data-term=\"goog_1829793636\"><span class=\"aQJ\">July 1</span></span></a></p>\r\n\r\n\r\n<hr />\r\n\r\n<h2 id=\"m_777319361513180780gmail-m_-4546164052145643394gmail-m_8774691331061159411gmail-m_-8213335874581264356gmail-m_-2776178258433599685gmail-m_-9020789454698019944gmail-m_6252858159261738354DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\"><strong>About the Weekly</strong></h2>\r\n<div>\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

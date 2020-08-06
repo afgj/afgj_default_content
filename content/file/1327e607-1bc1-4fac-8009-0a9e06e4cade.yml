@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 1327e607-1bc1-4fac-8009-0a9e06e4cade
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: mt-service-1-highlight-4.jpg
+  uri:
+    -
+      value: 'public://2018-05/mt-service-1-highlight-4.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 28656
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1527005004

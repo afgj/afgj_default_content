@@ -1,0 +1,61 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 1bbc97dc-3ea4-420d-aedc-1153738b20ea
+  bundle: article
+  default_langcode: en
+  depends:
+    9f76256a-afc1-494c-9f6c-44c6aa49b1d0: taxonomy_term
+    ca4e52ca-2d48-486f-8d00-3553c0a7f296: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Tucsonans Demand “No War on Climate and People in Syria”!'
+  created:
+    -
+      value: 1450449832
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /tucsonans-demand-no-war-climate-and-people-syria
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "by James Jordan\n\n[caption id=\"attachment_6329\" align=\"alignleft\" width=\"300\"]<img class=\"size-medium wp-image-6329\" src=\"https://afgj.org/wp-content/uploads/2015/12/IMG_20151211_1645191-300x225.jpg\" alt=\"AfGJ's Chuck Kaufman joins others outside the Tucson office of Senator John McCain to protest oil war in Syria\" width=\"300\" height=\"225\" /> AfGJ's Chuck Kaufman joins others outside the Tucson office of Senator John McCain to protest oil war in Syria[/caption]\n\n“Climate justice and climate war don't mix! Don't bomb syria ” Tucsonans took that message to the office of Senator John McCain (R-Arizona) on Friday, December 11. Protesters chose the date because it fell between separate calls for protests against the war in Syria (Peace and Planet, Dec. 10), and for climate (Dec. 12, last day of UN climate summit). Organizers maintain that the two issues are not so separate—that the war in Syria is motivated by a lust for oil, which in turn, leads to more carbon emissions.\n\nA lively crowd of some 40 persons marched through the Fourth Avenue Street Fair and through downtown Tucson with a brief stop at the Tucson Federal Building before arriving at McCain's office. McCain is an enthusiast for oil wars and policies that place people and planet at risk. The US has already entered the air war against Syria and Sen. McCain wants to escalate the aggression even more. This is despite that US/NATO military actions are already killing many more civilians than armed combatants. The alleged 'war on terror' has functioned as a justification for what are more correctly described as oil wars.\n\nAccording to Jim Byrne of the Tucson Anti-War Committee, “That's why the drones are over there, that's why we're raining hellfire from the skies....We're out to get primary access to the number one commodity in the world right now, and that is oil. And it takes oil to go get oil. The number one polluter on the planet is the United States military. Their number of foreign US military bases is upward to 900 to 1,000 bases around the planet. They are far distances away and it takes a lot of oil to move the tankers, the planes, troops, etc., etc. It's very expensive and it takes money away that we need for education, housing, healthcare....So we are here today to support the people of Syria, to end this war as fast as possible, to bring the drones down, to pull back the bases, to start spending that money here at home where we've got our own problems to handle.”\n\nOrganizers released a statement that declares “As a response to the final day of the UN climate talks in Paris and in solidarity with international days of action, we will be marching...to oppose war in Syria and illustrate the many connections between wars abroad and climate injustice. This mobilization...connects some very difficult things happening right now: a high level of corporate co-optation and repression of communities organizing in Paris at COP21 (using counterterrorism as a smokescreen to arrest activists and journalists), and a fanning of the flames of Islamaphobia and racism against Muslim and Arab people after the tragedies in Paris and San Bernardino, driving more bombing of Syrian families and creating more refugees and asylum seekers, who are then denied asylum with electric fences. Climate change-induced drought in Syria has exacerbated water scarcity and famine and has pushed 2-3 million people into extreme poverty. We denounce the war on the climate and the war on the Syrian people.”\n\nIsabel Garcia, of the immigrant rights Derechos Humanos Coalition told protestors, “It is of vital importance this issue of war and peace and the terracide we're committing against Mother Earth....We know that immigration will be massive, migration is already massive, because of economic restructuring and ecological threats. Capitalism is grinding people down to the max. We're going back to the robber baron era and we're going to cause more and more displacement. We're making the victims and the survivors the criminals, and we must stop it.”\n\nMohyeddin Abdulazziz, Tucson director of the\n\n[caption id=\"attachment_6332\" align=\"alignright\" width=\"300\"]<img class=\"size-medium wp-image-6332\" src=\"https://afgj.org/wp-content/uploads/2015/12/IMG_20151211_165448-300x225.jpg\" alt=\"Mohyeddin Abdulazziz of the American-Arab Anti-Discrimination Committee addresses the rally\" width=\"300\" height=\"225\" /> Mohyeddin Abdulazziz of the American-Arab Anti-Discrimination Committee addresses the rally[/caption]\n\nAmerican-Arab Anti-Discrimination Committee, spoke poignantly about his experience as an immigrant to the US:\n\n“I sometimes identify myself as an Arab American and as a Palestinian American. But today I would like to tell Donald J. Trump that I am also a Muslim American. I never wear my beliefs on my shirt. I am an immigrant to this country and I came here by choice. I came here for many reasons, but one of them was the promise that I won't be labeled or categorized or treated or mistreated for my beliefs. So Donald J. Trump should know very well that with your help, with people of conscience everywhere and in Tucson and everywhere in this country, we will not be intimidated. Although Mr. Trump and Senator McCain say they don't like each other, they are very much the same. They use a different set of vocabulary, but their ideology, their policies of war, destruction, intimidation, discrimination are actually the same....We all want peace, and today hopefully there is some light, a very dim light, at the end of the tunnel in Syria. That is the [recent meeting in] Saudi Arabia...to start a process of [negotiations toward] peaceful transition or political transition. I have no doubt that there are serious problems with human and civil and political rights in Syria, but Assad and his regime were pushed into this war. The countries that are responsible for this awful situation in Syria...pushed a militant stand for regime change against the interests of their own people.”\n\nMari Galup from Rising Tide – Tucson called for mutual support of struggles, saying, “It is time. We're small right now. We need to get more people involved. So let's show up to each others events....Let's bring our friends, let's educate more and have conversations about the intersections of issues, Black Lives Matter, climate justice, the immigrant rights work that's being done, the anti-war or peace movement, indigenous defense of the land. Let's show up for each other, and let's show up for the Pacha [Mother Earth*], because without the Pacha, we wouldn't be here.”\n\n&nbsp;\n<p style=\"text-align: center;\"><img class=\"size-medium wp-image-6331 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2015/12/IMG_20151211_164420-300x225.jpg\" alt=\"IMG_20151211_164420\" width=\"300\" height=\"225\" /></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 9f76256a-afc1-494c-9f6c-44c6aa49b1d0
+    -
+      entity: ca4e52ca-2d48-486f-8d00-3553c0a7f296
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

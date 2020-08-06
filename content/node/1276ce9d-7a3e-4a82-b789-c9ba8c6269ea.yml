@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 1276ce9d-7a3e-4a82-b789-c9ba8c6269ea
+  bundle: article
+  default_langcode: en
+  depends:
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Solidarity with Nicaragua! Webinar - Delegation Report Back Video'
+  created:
+    -
+      value: 1555574686
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /solidarity-nicaragua-webinar-delegation-report-back-video
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Part One of a webinar series leading up to the July “Solidarity with Nicaragua!” delegation organized by Friends of the ATC and the Alliance for Global Justice\r\n\r\nWednesday, April 17th 3pm PST/6pm EST:\r\nReport back by delegates on the January 2019 Food Sovereignty &amp; Agroecology delegation to Nicaragua\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AQY_vKvZI_A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\r\n\r\n<a href=\"http://www.tortillaconsal.com/live_from_nicaragua_uprising_or_coup.pdf\">Here is the ebook \"Live From Nicaragua Uprising or Coup\" that Chuck was talking about</a>\r\n\r\n<a href=\"https://whyhunger.org/category/blog/food-sovereignty-and-agrarian-reform-in-nicaragua/\">Here is an essay on food sovereignty and agrarian reform in Nicaragua from Why Hunger</a>\r\n\r\n<a href=\"https://whyhunger.org/category/blog/globalize-the-hope-how-a-women-led-coffee-cooperative-transforms-their-society-through-food-sovereignty-feminism-and-family/\">Here is another Why Hunger article on the women's cooperative in Santa Julia</a>\r\n\r\n<a href=\"https://afgj.org/life-under-the-dictatorship-vs-life-under-sandinismo\">Here is a testimony on the difference between pre and post revolutionary Nicaragua</a>\r\n\r\n<a href=\"https://afgj.org/fresh-eyes-on-nicaragua-a-renewed-sense-of-internationalism\">Here is David's reflection essay on the delegation</a>\r\n\r\n<a href=\"http://usfoodsovereigntyalliance.org/food-sovereignty-and-peasant-agroecology-in-nicaragua-part-one/\">Here is another essay inspired by the delegation from the US Food Sovereignty Alliance</a>\r\n\r\n<a href=\"https://afgj.org/wp-content/uploads/2019/04/2019.04.17-Delegation-Report-Back.pdf\">Here are Erika's Slides</a>\r\n\r\nHere is more information about the upcoming July delegation\r\nhttps://www.friendsatc/delegations\r\n\r\nRegister for the next webinar on Sunday\r\nhttps://afgj.org/webinars\r\n\r\nPlease follow AFGJ @All4GlobalJust on Twitter Instagram and Facebook"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+  field_mt_slideshow:
+    -
+      value: false

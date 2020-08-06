@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e4028e41-7631-4632-80b4-5335985705e4
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Global Justice Center'
+  created:
+    -
+      value: 1423663056
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /global-justice-center
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p><strong>THE GLOBAL JUSTICE CENTER, 225 EAST 26TH STREET, TUCSON, ARIZONA, 85713 </strong> <strong><span style=\"color: #ff0000;\">REQUESTING EVENTS AT THE GJC: To make reservations with the Alliance for Global Justice to use the Global Justice Center for your next event you can email <a href=\"mailto:glc@afgj.org\">gjc@afgj.org</a> for scheduling or download the request form <a href=\"https://docs.google.com/document/d/1nduxhuZweXYmpTdDFHGzcz4sVEz8ZMwv7do6rmD1VX4/edit?usp=sharing\">here</a>. Printed forms are also available within the Global Justice Center.</span></strong> <strong>Check out what events are happening below and availability!</strong></p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"600\" scrolling=\"no\" src=\"https://calendar.google.com/calendar/embed?src=globaljusticefacilities%40gmail.com&amp;ctz=America%2FPhoenix\" style=\"border: 0;\" width=\"750\"></iframe>Since 2013 the Alliance for Global Justice has repurposed Tucson’s classic Star Dust Lounge into the Global Justice Center (GJC), providing office space for local grassroots organizations and event/meeting space for both community and private usage. We want the Global Justice Center to be a community space for progressive movement work which fits within the ideals of justice and solidarity of the Alliance for Global Justice. Individuals and groups who want to schedule events are encouraged to familiarize themselves with the <a href=\"https://afgj.org/about/our-mission\">vision, mission, four areas of struggle,</a> and <a href=\"https://afgj.org/about/our-principles\">principles</a> of the AfGJ to ensure proposed events are not in conflict with our values.</p>\r\n\r\n<h2 style=\"text-align: center;\">Activist and Community Use Guidelines</h2>\r\n\r\n<p>Please give us<strong> 10 days</strong> to respond to inquiries. **In specific situations of rapidly developing and urgent struggles, we are willing to work outside the 10-day notice to accommodate mobilizations and their preparations, but clear communication between event planners and GJC staff is needed. Please keep in mind that the Global Justice Center hosts tenants with a regularly scheduled work week. We normally do not book events before 5pm Mon-Fri.</p>\r\n\r\n<p><strong>Keys:&nbsp;</strong>Tenant organizations are responsible for opening and closing events they are sponsoring or co-sponsoring, and for set-up and clean-up. If there is no tenant co-sponsor, event planners must make arrangements to pick up a key and get a brief orientation of the space at least 12 hours before the event. A $25 refundable deposit is required for use of the key which will be returned to event planner once key is returned. Keys must be dropped in key box beside the front door (through slot in panel to the bottom left side of front door). Failure to return the key at the pre-agreed upon time will result in loss of the key deposit.</p>\r\n\r\n<p><strong>Clean-up:</strong>&nbsp; An additional $25 refundable deposit is required for clean-up for all events without a tenant co-sponsor. The $25 fee will be returned to event planner after GJC is found in condition which does not require cleaning by GJC staff. For larger events, the deposit may be raised to $50 at the discretion of the Alliance for Global Justice. A cleaning check list is posted in the building. Consistent failure to leave the space clean will result in a temporary to permanent ban from using the GJC.</p>\r\n\r\n<p><strong>In the Case of Emergency:&nbsp;&nbsp;</strong>For threats, assaults or health/safety emergencies, one should dial 911.&nbsp; For other urgent matters involving the GJC, call&nbsp;202-54<a href=\"tel:202-544-8336\">0</a>-8336, ext. 1</p>\r\n\r\n<p><strong>Parking:&nbsp;&nbsp;</strong>Please do not park in the El Torero parking lot, directly east of the GJC, &nbsp;or the parking area of the Gloo Factory (across the street from the GJC). If the GJC parking areas are full, there are plenty of parking spaces on the nearby residential streets. For events where more than 20 persons are expected to attend, we kindly ask for event coordinators to designate the task of monitoring parking and redirecting attendees from the El Torero parking lot. **For weekend events the City of South Tucson has granted the AfGJ permission to use their employee parking facilities at 26<sup>th</sup> St. and 5<sup>th</sup> Ave.</p>\r\n\r\n<p><strong>CHARGES FOR PRIVATE PARTIES, FUNDRAISERS AND PAID ADMISSION EVENTS BY NON-GJC RESIDENT ORGANIZATIONS THAT ARE NOT ORIENTED TOWARD PEOPLE’S MOVEMENT BUILDING:</strong>&nbsp; $150-$350 per day. We encourage people to list their public event on the <a href=\"http://www.tucsonpeacecalendar.org/\">Tucson Peace Calendar</a>.</p>\r\n"
+      format: full_html
+      summary: ''

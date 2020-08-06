@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 39192b37-1d02-40ee-b2b9-5e28a0b4d9bb
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+    2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly 12.15.2017 Venezuela''s Open Elections vs Honduras Fraud; ALBA Calls for Unity against US Aggression'
+  created:
+    -
+      value: 1513351034
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-12152017-venezuelas-open-elections-vs-honduras-fraud-alba-calls-unity-against
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-8616 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/12/image2.png\" alt=\"\" width=\"600\" height=\"340\" />\n\n<hr />\n\nThis weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\n\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\n\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\n\n<hr />\n\n<h2 style=\"text-align: center;\">The News This Week from Venezuela and Alba</h2>\n<a href=\"http://laht.com/article.asp?ArticleId=2447436&amp;CategoryId=10717\" target=\"_blank\" rel=\"noopener\">Venezuela: More than $3 Billion Frozen Due to Sanctions\_</a>\n<div>\n\n<b>\_</b><b>The US sanctions imposed on Venezuela August have already robbed it of at least more than $3 billion</b>, by freezing its assets. Foreign Minister\_Arreaza condemned\_“the absolute coordination between the US government’s anti-democratic imperialist policy against Venezuela’s democracy” and the\_European Union and Canada\_to target Caracas.\_Venezuela has had difficulty in making payments on debt, which the Maduro government\_blames on US sanctions and on growing controls international banks are applying on transactions originating from the country.\n\n<hr />\n\n</div>\n<a href=\"http://therealnews.com/t2/index.php?option=com_content&amp;task=view&amp;id=31&amp;Itemid=74&amp;jumival=20679#pop1\" target=\"_blank\" rel=\"noopener\">Real News Network: Lucas Koerner of Venezuelanalysis on the Recent Venezuela Elections.\_</a><span style=\"letter-spacing: 0.05em;\">The Opposition Sidelines itself, handing the victory to the Chavistas.</span>\n\n<a href=\"https://venezuelanalysis.com/news/13550\" target=\"_blank\" rel=\"noopener\">US State Dept Donates Almost $1M to Pro-Venezuelan Opposition Group Connected with Ukraine and Syria Regime Change Organizations\_</a>USAID Complains the Money May Be Used to Promote Dialogue Rather than Regime Change\n\n<a href=\"https://www.telesurtv.net/english/news/Cuba-Bolivia-Invest-Most-in-Education-in-Latin-America-20171213-0031.html\" target=\"_blank\" rel=\"noopener\">Cuba and Bolivia Invest the Most in Education in Latin America</a>\n<div></div>\n<a href=\"https://venezuelanalysis.com/analysis/13548\" target=\"_blank\" rel=\"noopener\">UN Human Rights Representative: Statement on Venezuela Humanitarian Situation and Sanctions</a>\n\n<a href=\"https://www.telesurtv.net/english/opinion/Chavismo-Triumphant-in-Municipal-Elections-15-Key-Factors-20171211-0016.html\" target=\"_blank\" rel=\"noopener\">Mision Verdad: Chavismo PSUV Wins in Municipal Elections: 15 Key Factors</a>\n\n<a href=\"https://www.telesurtv.net/english/news/ALBA-TCP-Political-Council-Opens-in-Havana-20171214-0013.html\" target=\"_blank\" rel=\"noopener\">16th ALBA-TCP Political Council Opens, Calls for Defense of Venezuela, Unity Against US Interventionism in Latin America</a>\n\n<a href=\"https://videosenglish.telesurtv.net/video/692861/corruption-in-ecuador-justice-or-soft-coup/\" target=\"_blank\" rel=\"noopener\">Ecuador VP Glas Convicted of Corruption: Soft Coup Against Citizens Revolution?</a>\n\n<a href=\"https://www.investigaction.net/en/from-one-coup-to-another-honduras-under-siege/\" target=\"_blank\" rel=\"noopener\">From One Coup to Another: Honduras Under Siege</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+    -
+      entity: 2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb
+  field_mt_slideshow:
+    -
+      value: false

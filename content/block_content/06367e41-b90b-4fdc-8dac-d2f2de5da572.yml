@@ -1,0 +1,252 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 06367e41-b90b-4fdc-8dac-d2f2de5da572
+  bundle: mt_video_gallery_block
+  default_langcode: en
+  depends:
+    65cb1700-66fc-4fbe-9dd2-2644e0eb324e: file
+    ed647481-6cff-4cdd-982e-04cbcc5b5039: file
+    a1992b54-d913-454f-908a-520b9e7bc5e9: file
+    f01dd072-dda2-4bae-b068-36be8d215873: file
+    0101acb1-423e-48ca-94bb-10e33c72a861: file
+    50506724-59e2-4525-9458-050cb34d168b: file
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Video Gallery block'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_video_gallery_slides:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: fc2903bb-731f-42ac-a018-f43408e43648
+          bundle: mt_video_gallery_slide
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1480419791
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_vgs_slide_title:
+            -
+              value: 'GoPro: HERO3+ Black Edition: Smaller, lighter, mightier still.'
+          field_mt_vgs_thumbnail:
+            -
+              entity: 65cb1700-66fc-4fbe-9dd2-2644e0eb324e
+              alt: 'First Video thumbnail'
+              title: ''
+              width: 400
+              height: 226
+          field_mt_vgs_volume:
+            -
+              value: 0
+          field_mt_vgs_youtube_id:
+            -
+              value: 3wbvpOIIBQA
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 235c48c9-cb37-454d-b88f-a45b02b72e27
+          bundle: mt_video_gallery_slide
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1480420174
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_vgs_slide_title:
+            -
+              value: 'Dartmoor Timelapse Trailer'
+          field_mt_vgs_thumbnail:
+            -
+              entity: ed647481-6cff-4cdd-982e-04cbcc5b5039
+              alt: 'Second Video thumbnail'
+              title: ''
+              width: 400
+              height: 226
+          field_mt_vgs_vimeo_id:
+            -
+              value: '82642494'
+          field_mt_vgs_volume:
+            -
+              value: 0
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 9c858d73-5430-42e1-8145-2188a622380d
+          bundle: mt_video_gallery_slide
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1480420200
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_vgs_slide_title:
+            -
+              value: 'China: A Skier’s Journey'
+          field_mt_vgs_thumbnail:
+            -
+              entity: a1992b54-d913-454f-908a-520b9e7bc5e9
+              alt: 'Third Video thumbnail'
+              title: ''
+              width: 400
+              height: 226
+          field_mt_vgs_vimeo_id:
+            -
+              value: '175629655'
+          field_mt_vgs_volume:
+            -
+              value: 0
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: c28c1e1f-8eb4-4faa-b48d-4fc2d2603e9e
+          bundle: mt_video_gallery_slide
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1480420230
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_vgs_slide_title:
+            -
+              value: 'Arctic Lightscapes'
+          field_mt_vgs_thumbnail:
+            -
+              entity: f01dd072-dda2-4bae-b068-36be8d215873
+              alt: 'Fourth Video thumbnail'
+              title: ''
+              width: 400
+              height: 226
+          field_mt_vgs_vimeo_id:
+            -
+              value: '189599205'
+          field_mt_vgs_volume:
+            -
+              value: 0
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 84fae026-7fa2-4c1c-b5cd-da0736d42a95
+          bundle: mt_video_gallery_slide
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1480420272
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_vgs_slide_title:
+            -
+              value: 'Fantastic Beasts and Where to Find Them Trailer'
+          field_mt_vgs_thumbnail:
+            -
+              entity: 0101acb1-423e-48ca-94bb-10e33c72a861
+              alt: 'Fifth Video thumbnail'
+              title: ''
+              width: 400
+              height: 226
+          field_mt_vgs_volume:
+            -
+              value: 0
+          field_mt_vgs_youtube_id:
+            -
+              value: ViuDsy7yb8M
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: fc6a3c35-6006-45b3-a414-cbec7f0843f3
+          bundle: mt_video_gallery_slide
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1480420292
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_vgs_slide_title:
+            -
+              value: 'The Grand Tour: The Official Trailer'
+          field_mt_vgs_thumbnail:
+            -
+              entity: 50506724-59e2-4525-9458-050cb34d168b
+              alt: 'Sixth Video thumbnail'
+              title: ''
+              width: 400
+              height: 226
+          field_mt_vgs_volume:
+            -
+              value: 0
+          field_mt_vgs_youtube_id:
+            -
+              value: kLtpcxtk4HI

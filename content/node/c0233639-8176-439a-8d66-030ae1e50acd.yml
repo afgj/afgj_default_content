@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c0233639-8176-439a-8d66-030ae1e50acd
+  bundle: article
+  default_langcode: en
+  depends:
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Week of Action: Stand with the Honduran People Against Dictatorship'
+  created:
+    -
+      value: 1515776470
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /week-action-stand-honduran-people-against-dictatorship
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1 style=\"text-align: center;\"><img class=\"alignleft size-full wp-image-8835\" src=\"https://afgj.org/wp-content/uploads/2018/01/HSNCALLTOACTION.jpg\" alt=\"\" width=\"2000\" height=\"1093\" />\r\nAction Week:\_January 22 - 27 2018</h1>\r\nOn\_January 27th, the illegitimate presidency of Juan Orlando Hernandez is scheduled to be inaugurated in Honduras. The Honduran people continue to make it clear that they will not accept the imposition of Hernandez and they reject the \"official\" fraudulent\_November 26\_election results that claim his victory.\_ Massive protests continue and a national protest campaign has\_been called to begin\_January 20th.\r\n\r\n<img class=\"wp-image-8572 size-medium aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/12/Screen-Shot-2017-12-12-at-4.11.33-PM-300x124.png\" alt=\"\" width=\"300\" height=\"124\" />\r\n<h2 style=\"padding-left: 30px;\">The Honduras Solidarity Network in North America calls for solidarity actions with the Honduran people at this critical time. We are deeply concerned about even greater violent repression being unleashed by the Honduran government against people exercising their rights and defending their vote.</h2>\r\nFrom November 27th to December 30th at least 30 people have been executed in the streets by police or military. Hundreds have been injured, some with permanent consequences.\_ Human rights organizations in Honduras have sounded the alarm about the activation of death squads, forced disappearances of people and the prosecution and torture of political prisoners as hundreds have been arrested and charged with serious crimes including \"terrorism\" for participating in non-violent protests.\r\n\r\nOn December 23, 2017 the US government officially recognized Hernandez as the elected president of Honduras. This flies in the face of\_fact but is not surprising given the US support for Hernandez over the past 4 years and its support for the earlier coup governments that came into power after the 2009 coup. The US is\_spending our tax money to support the dictatorship with military and police aid, sales of weapons and riot gear,\_ and the training of military and police.\_ This must stop! The US must end its economic and political support for the Hernandez regime!\r\n\r\nHonduras Solidarity Network supports the calls from Honduran resistance movement to take actions the week of the inauguration, to\_support the protests in Honduras, and to defend human and civil rights.\r\n\r\nWe will share the list of actions planned in different cities before the 20th as well as plans for social media actions.\r\n\r\nPlease share any activities planned\_in your area with us so we can put them on the list. Mail to:\_<a href=\"mailto:honsolnetwork@gmail.com\">honsolnetwork@gmail.com</a>\r\n\r\nSo far there are actions planned in Chicago, the San Francisco Bay Area, New York City and Detroit.\_ For more information:\_<a href=\"mailto:honsolnetwork@gmail.com\">honsolnetwork@gmail.com</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

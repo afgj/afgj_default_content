@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: ed647481-6cff-4cdd-982e-04cbcc5b5039
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: video-thumb-2.jpg
+  uri:
+    -
+      value: 'public://2016-11/video-thumb-2.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 5408
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1480420194

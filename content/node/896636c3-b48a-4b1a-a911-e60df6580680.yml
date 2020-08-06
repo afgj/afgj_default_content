@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 896636c3-b48a-4b1a-a911-e60df6580680
+  bundle: article
+  default_langcode: en
+  depends:
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Summer Delegations!'
+  created:
+    -
+      value: 1460638964
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-summer-delegations
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter size-full wp-image-6635\" src=\"https://afgj.org/wp-content/uploads/2016/04/Summer-delegations-2016.jpg\" alt=\"Summer-delegations-2016\" width=\"484\" height=\"272\" />\n\nRegistration Deadlines for Summer Delegations are quickly approaching. \_Please consider joining us:\n\n<strong><a href=\"https://afgj.org/honduras-delegation-2016\" target=\"_blank\">Human Rights Accompaniment and Struggle in Honduras</a></strong>\n\nDate: June 27-July 6.\n\nApplications due: May 27th\n\n&nbsp;\n\n<strong><a href=\"https://afgj.org/nicaragua-delegation-2016\" target=\"_blank\">Is the US Still Interfering with Nicaragua's Democracy?</a></strong>\n\nDates: August 5-14\n\nApplications due: July 5\n\n&nbsp;\n\n<strong>Space is limited so don't delay! Click through on the titles to learn more, and for an application email <a href=\"mailto:Delegations@afgj.org\" target=\"_blank\">Delegations@afgj.org</a></strong>\n\n&nbsp;\n\n<img class=\"size-full wp-image-6641 alignnone\" src=\"https://afgj.org/wp-content/uploads/2016/04/Summer-Delegations-Flyer-jpegs.jpg\" alt=\"Summer-Delegations-Flyer-jpegs\" width=\"504\" height=\"684\" />\n<p style=\"text-align: center;\">Flyer available for <a href=\"https://org2.salsalabs.com/o/7315/images/Summer%20Delegations%20Flyer%20copy.pdf\" target=\"_blank\">Download!</a> Print it out to share with your colleagues, students, customers and friends.</p>\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

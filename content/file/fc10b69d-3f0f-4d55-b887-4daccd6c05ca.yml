@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: fc10b69d-3f0f-4d55-b887-4daccd6c05ca
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: detailed-feature-2.jpg
+  uri:
+    -
+      value: 'public://2018-05/detailed-feature-2.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 7439
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1527695697

@@ -1,0 +1,53 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 15824895-c476-4c34-b028-23f174c8a242
+  bundle: mt_testimonial
+  default_langcode: en
+  depends:
+    e5e3a3ed-8626-46fd-9fab-8e27aba76337: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Robbin J. Ortiz'
+  created:
+    -
+      value: 1477562092
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_tst_body:
+    -
+      value: "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor&nbsp;magna aliqua. Ut enim ad minim veniam.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_tst_subtitle:
+    -
+      value: 'Assistant Manager at Biomedics '
+  field_mt_tst_testimonial_image:
+    -
+      entity: e5e3a3ed-8626-46fd-9fab-8e27aba76337
+      alt: 'Testimonial image'
+      title: ''
+      width: 750
+      height: 750

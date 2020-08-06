@@ -1,0 +1,60 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: aceda7c3-1de2-47af-9bdc-8ebde57203f2
+  bundle: mt_team_member
+  default_langcode: en
+  depends:
+    73e0e117-99b4-4e98-ae19-cf9f811ece06: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'James Patrick Jordan'
+  created:
+    -
+      value: 1591126941
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /team/james-patrick-jordan
+      langcode: en
+      pathauto: 1
+  field_mt_tmm_body:
+    -
+      value: "<p><strong>James Patrick Jordan</strong> has lived in Tucson, Arizona since 1983, where he has a long history of grassroots organizing. His main duties at AfGJ are the facilitation of AfGJ’s labor, ecological, and Colombia solidarity campaigns. &nbsp;He serves on the Board of the Liberty Tree Foundation and represents AfGJ in the Observatorio de Derechos Humanos de los Pueblos (Peoples Human Rights Observatory) and the Coalition against US Foreign Military Bases.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_tmm_featured:
+    -
+      value: false
+  field_mt_tmm_member_photo:
+    -
+      entity: 73e0e117-99b4-4e98-ae19-cf9f811ece06
+      alt: James
+      title: ''
+      width: 2448
+      height: 3264
+  field_mt_tmm_subheader_body:
+    -
+      value: "<p>Demand Peace for Colombia!</p>\r\n"
+      format: full_html
+  field_mt_tmm_subtitle:
+    -
+      value: 'National Co-Coordinator'

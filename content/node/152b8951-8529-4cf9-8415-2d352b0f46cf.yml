@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 152b8951-8529-4cf9-8415-2d352b0f46cf
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicanotes:  Prosperity and Security in Central America'
+  created:
+    -
+      value: 1501049417
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-prosperity-and-security-central-america
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"aligncenter size-full wp-image-6975\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"\" width=\"579\" height=\"195\" /></a>\n<h3 style=\"text-align: center;\"><strong><a href=\"https://afgj.org/nicanotesabout\">About</a>\_ \_ \_ \_<a href=\"http://org2.salsalabs.com/o/7315/signup_page/nicanotessubscribe\" target=\"_blank\" rel=\"noopener noreferrer\">Subscribe</a>\_ \_ \_ \_<a href=\"emailto:nicanet@afgj.org\">Contact</a></strong></h3>\n<h2 style=\"text-align: center;\"><strong>Prosperity and Security in Central America</strong></h2>\n<p style=\"text-align: center;\">By John Kotula and Chuck Kaufman</p>\n<strong>“Countries like Nicaragua, Costa Rica and Panama… have the lowest homicide rates in Central America, light-years from their neighbors in the so-called Northern Triangle.” New York Times, July 16, 2017</strong>\n\nOn June 15 and 16, 2017, The United States put on a conference in Miami titled, “The Conference on Prosperity and Security in Central America.” I first became interested in this event because the Nicaraguan press reported that Nicaraguan President Daniel Ortega <u>had been excluded</u> from attending. The focus of the multinational gathering was on the Northern Triangle countries of El Salvador, Guatemala and Honduras, that small triumvirate called by the New York Times, <u>“the world homicide capital.” </u>However, Costa Rica, Panama, Colombia and Belize participated as observers. Mexico was also a participant and co-sponsor of the event. US Vice President Mike Pence was the keynote speaker.\n\nAlthough Nicaragua did in fact send a delegation to Miami, The United States’ staging of this event illustrates much of what is wrong with our so-called diplomacy in Central America.\n\nI’ve looked in vain for anything in Mike Pence’s background that would qualify him to be the keynote speaker at this conference. There is no mention of Central America in his resume. The idea that he should have a central role in the conference and that Daniel Ortega should be sidelined is ludicrous. The current president of Nicaragua has lived and made the history of the region. He is also governing what is generally regarded as the <u>safest country in Central America</u> and, one with <u>solid economic growth.</u> It would make more sense for Ortega to be the keynote speaker than Pence. What is going on here? Why limit the role of a country that has something to teach the rest of the region?\n\nIf The United States were to offer an honest answer to this question, it would go something like this: “We define Central America as all the countries South of Texas and North of Columbia, except of course Nicaragua. We get to ignore the geography, history and culture of the region as we see fit, because we’ve got the most money and guns. Nicaragua doesn’t get a seat at the table, because it doesn’t do what we tell it to. We got rid of that commie Ortega once back in 1990. Damned if we’ll acknowledge him now, even if he did get reelected by the people of Nicaragua. Some private and some public dollars are going to flow from this conference and by shutting the door on Nicaragua, we’ll make sure they don’t get a slice of the pie. That’ll teach them!” For those of us who pay attention to our relationships with Latin America, it is important to recognize that this is nothing other than imperialism; a more powerful country dictating what happens to less powerful countries.\n\nAnother sector that The Conference on Prosperity and Security in Central America ignored was non-governmental organizations. Groups which have studied, analyzed, and worked on the crises in much more depth than has the US government were neither invited nor consulted. For example, <u>Doctors Without Borders issued a statement</u> of concern that said in part, “The US and Mexico are turning a blind eye to Central America’s humanitarian crisis. Given the extraordinarily high violence at the root of the problem, there should be attention to the emergency needs of people forced from their homes. Addressing the crisis in Central America cannot only be about future prosperity and security; it must also be about saving and protecting lives today.” Similarly, the Washington Office on Latin America (WOLA) <u>issued a list of key concerns</u> about the conference and its possible impact on US engagement in the region. Both of these reports are well worth reading.\n\nIt would be possible for the US to use its resources to organize a conference on Prosperity and Security in Central America that would serve the needs of the people of the region. However, it would look very different than the dog and pony show that was staged in Miami. For starters, all voices would be included, differences would be acknowledged and valued, and no one would try to impose solutions on others. Mike Pence could attend, but only to learn from those who actually know what is going on.\n\n<hr />\n\nBRIEFS\n<ul>\n \t<li>At the celebration of the 38th anniversary of the Sandinista Revolution on July 19, President Daniel Ortega called on the country’s economic and social sectors to unify to eradicate poverty and to confront external threats. He called on the United States to promote dialogue and peace in the world rather than blockades and war. He promised to continue to fight for unity and economic integration in Latin America and the Caribbean as the best way to confront the global economy, “uniting forces and respecting the processes of each country without imposing models on anybody so that each country’s people can decide its own future”. He reaffirmed Nicaragua’s support for Venezuela and denounced threats from the US administration of Donald Trump to impose new sanctions on that country. Attending the celebration were Bolivian President Evo Morales, Salvadoran President Salvador Sánchez Cerén, Cuban Vice-President Miguel Diaz-Canel, and representatives of other countries and parties. (Informe Pastran, July 19)</li>\n</ul>\n<ul>\n \t<li>While La Prensa reported (as noted in Nicanotes above) that Nicaragua was not invited to the Conference on Prosperity and Security in Central America held in Miami on June 15 and 16, Denis Moncada, Nicaragua’s Foreign Minister, attended as an observer, along with the foreign ministers of other countries from as far away as Spain and Chile. In an official statement following the conference, the Nicaraguan government said, “From our strategy of sovereign security and as a wall of contention, Nicaragua will continue supporting and participating in all actions to stop drug trafficking, bring order to migration” and promote sustainable growth, jobs and peace for Central America. (El Nuevo Diario, July 17)</li>\n</ul>\n<ul>\n \t<li>The credit risk agency, Moody’s Investor Services, continued Nicaragua’s sovereign credit rating of B2 with a “stable” and “positive” outlook. Nicaragua has maintained this credit level since July 2015 when Moody’s raised it from B3. A country’s credit rating affects the level of interest it has to pay on the world market. (El Nuevo Diario, July 21)</li>\n</ul>\n<ul>\n \t<li>A new IMF report estimates that 11% of Nicaragua’s total population has emigrated and that the remittances they send home equal 9.4% of the country’s Gross Domestic Product. The report studied Latin America and the Caribbean. In the region, which includes Panama, Belize, Dominican Republic, and Mexico. El Salvador has far and away the highest percentage of its population who have migrated to other countries at 24% and Costa Rica only has 3.5% of its populous living outside its borders. The report noted that a much higher percent of South American immigrants are educated than those of Central America and the Caribbean, the majority of whom have little education. (El Nuevo Diario, July 21)</li>\n</ul>\n<ul>\n \t<li>A World Wind Energy Association report has Nicaragua in sixth place among Latin American countries taking advantage of wind power. The report states that the Camilo Ortega Saavedra II wind farm with 40 MW of power will become operational in 2018 and in 2019 the \"Ato Grande\" plant with 23 MW, both belonging to Alba Generation, will be contributing to the Nicaragua energy matrix. It is projected that by the year 2030 Nicaragua will be generating 143 megawatts of wind energy. (Nicaragua News, July 20)</li>\n</ul>\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e6b4da83-7a6f-4d35-9744-185b1add698b
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Fiscal Sponsorship Hub'
+  created:
+    -
+      value: 1502959824
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /fiscal-sponsorship-hub
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Hello Projects! Welcome to AFGJ's new one stop page for many of the answers to many of your questions!\r\n\r\nDonations FAQ\r\n\r\nHow to Read your Monthly Report- CHUCK\r\n\r\nWhat are my responsibilities as a project?\r\n\r\nWhat are AFGJ's responsibilities as your fiscal sponsor?\r\n\r\nWhat am I allowed to do regarding elections? -CHUCK\r\n\r\nRequest a Disbursement - How long will it take to receive my check? Wire? Etc?\r\n<div class=\"\">What is Dropbox, why we use it, how to use it (view link vs. sync)</div>\r\n<div></div>\r\n<div class=\"\">Paying contractors (1099)</div>\r\n<div></div>\r\n<div class=\"\">Paying Staff</div>\r\n<div></div>\r\n<div class=\"\">Health insurance</div>\r\n<div></div>\r\n<div class=\"\">Should I thank my donors?</div>\r\n<div></div>\r\n<div class=\"\">IRS receipts (under donations FAQ)</div>\r\n<div></div>\r\n<div class=\"\">Crowdfunding how-to (under donations FAQ) and What are my responsibilities?</div>\r\n<div></div>\r\n<div></div>\r\n<div class=\"\">Applying for grants (possibly include links to necessary documents?)</div>\r\nEvent Insurance- DANIELE\r\n\r\nHow do I open a bank account?\r\n\r\nServices Offered- Detailed\r\n\r\nFAQ\r\n\r\n&nbsp;\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''

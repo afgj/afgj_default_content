@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 1d0ce522-3148-437a-be3e-ab8a33888048
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Conflict of Interest Policy'
+  created:
+    -
+      value: 1359372177
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /conflict-interest-policy
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>ALLIANCE FOR GLOBAL JUSTICE (AFGJ) CONFLICT OF INTEREST POLICY</strong>\r\n\r\nConflict of interest arises whenever the personal or professional interest of a Board Member or Staff is potentially at odds with the best interests of AfGJ. Although the legal standards for avoiding conflict of interest for nonprofit organizations are fairly limited, AfGJ will avoid where possible the appearance of impropriety.\r\n\r\nIf an issue is to be decided by the Board or Board/Staff Collective that involves potential conflict of interest for a Board Member or Staff, it is the responsibility of the Board Member or Staff to:\r\n\r\n1. Identify the potential conflict of interest.\r\n\r\n2. Not participate in discussion of the program or motion being considered.\r\n\r\n3. Not vote on the issue.\r\n\r\nIt is the responsibility of the Board or Board/Staff Collective to:\r\n\r\n1. Only decide to hire or contract with the Board Member or Staff if they are the best qualified individuals available, and willing to provide the goods or services needed at the best, or market, price.\r\n\r\n2. Record in the meeting minutes of the Board or Board/Staff Collective the potential conflict of interest, and the use of the procedures and criteria of this policy.\r\n\r\nAlthough it is not a conflict of interest to reimburse Board Members or Staff for expenses incurred (such as the purchase of supplies or travel on AfGJ business), Board Members and Staff are prohibited by law from being paid for serving on the Board. Generally, Board Members and Staff will not receive pass-through dollars for individual projects.\r\n\r\nIf there is a family relationship between a Board Member and Staff, or among Board Members or Staff, it is the responsibility of the Board Member(s) and/or Staff to:\r\n\r\n1. Identify the potential conflict of interest.\r\n\r\n2. Not participate in discussion of the program or motion being considered.\r\n\r\n3. Not vote on the issue.\r\n\r\n<em>For purposes of this section, family is defined as: </em><em>spouse, ancestors, lineal descendants and spouses of lineal descendants</em><em></em>"
+      format: full_html
+      summary: ''

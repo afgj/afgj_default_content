@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 55e56092-5d32-46bf-a3aa-61042880bfcb
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 552961012_5fdde37ae1.png
+  uri:
+    -
+      value: 'public://2020-06/552961012_5fdde37ae1.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 222458
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1591191335

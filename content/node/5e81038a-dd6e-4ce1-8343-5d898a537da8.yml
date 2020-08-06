@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5e81038a-dd6e-4ce1-8343-5d898a537da8
+  bundle: mt_testimonial
+  default_langcode: en
+  depends:
+    2fd27f03-56be-4d5e-acbf-aae35532bac4: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Michelle F. Behne'
+  created:
+    -
+      value: 1477562392
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_tst_body:
+    -
+      value: "<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_tst_subtitle:
+    -
+      value: 'Counselor at Research For All'
+  field_mt_tst_testimonial_image:
+    -
+      entity: 2fd27f03-56be-4d5e-acbf-aae35532bac4
+      alt: 'Testimonial image'
+      title: ''
+      width: 750
+      height: 750
+  field_mt_tst_testimonial_link:
+    -
+      uri: 'http://www.morethanthemes.com/'
+      title: 'Testimonial Link'
+      options: {  }

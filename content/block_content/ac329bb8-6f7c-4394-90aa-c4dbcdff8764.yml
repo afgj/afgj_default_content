@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: ac329bb8-6f7c-4394-90aa-c4dbcdff8764
+  bundle: basic
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Interested in investing with us?'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<h3 class=\"block-title text-center\">Interested in<br />\r\n<span>investing with us?</span></h3>\r\n\r\n<p class=\"text-center\">We are an international private company found and led by the team of investors,<br />\r\nmanagers and entrepreneurs.</p>\r\n\r\n<p class=\"text-center\"><a class=\"button\" href=\"#\"><i class=\"fas fa-envelope\"></i> contact us</a></p>\r\n"
+      format: full_html
+      summary: ''

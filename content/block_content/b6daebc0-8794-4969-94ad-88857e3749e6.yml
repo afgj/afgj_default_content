@@ -1,0 +1,110 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: b6daebc0-8794-4969-94ad-88857e3749e6
+  bundle: mt_fancy_tabs_block
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Front Page tabs'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_fancy_tab:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 4b1e65ec-afc1-47e1-a873-f903a37e81e2
+          bundle: mt_fancy_tab
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1472139605
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_fancy_block_reference:
+            -
+              target_id: businessplus_views_block__mt_products_masonry_block_1
+          field_mt_fancy_subtitle:
+            -
+              value: 'Explore Now'
+          field_mt_fancy_title:
+            -
+              value: 'Newest Products'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 3b6aa44f-5363-48b9-9753-b58608d7e5db
+          bundle: mt_fancy_tab
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1472139628
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_fancy_block_reference:
+            -
+              target_id: businessplus_popularsalesstatic
+          field_mt_fancy_subtitle:
+            -
+              value: 'Explore Now'
+          field_mt_fancy_title:
+            -
+              value: 'Popular Items'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 95097e79-16de-48b4-a72f-d41197511a87
+          bundle: mt_fancy_tab
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1475084322
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_fancy_block_reference:
+            -
+              target_id: businessplus_views_block__mt_collections_masonry_block_1
+          field_mt_fancy_subtitle:
+            -
+              value: 'Explore Now'
+          field_mt_fancy_title:
+            -
+              value: 'Product Groups'

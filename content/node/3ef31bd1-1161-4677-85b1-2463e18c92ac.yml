@@ -1,0 +1,67 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3ef31bd1-1161-4677-85b1-2463e18c92ac
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+    ff23272a-2c6a-4d3f-b137-4c19843845a6: taxonomy_term
+    4d58c480-4afa-42db-9320-32d1579a7036: taxonomy_term
+    47dbf152-55af-48f9-b366-923795d9a8c9: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Honduran Democracy Activist Urgently Needs Your Solidarity'
+  created:
+    -
+      value: 1516557237
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /honduran-democracy-activist-urgently-needs-your-solidarity
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<table width=\"600\">\r\n<tbody>\r\n<tr>\r\n<td width=\"500\">Honduran democracy activist Edwin Espinal Robelo has been detained by authorities. Even though he is a civilian, he is scheduled to appear before a military tribunal this week. Espinal has been denied the right to meet with his lawyer.\r\n<h1 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25751\">Act NOW to demand the immediate liberty of Edwin Espinal Robelo!</a></h1>\r\n<img class=\"alignleft wp-image-8878\" src=\"https://afgj.org/wp-content/uploads/2018/01/Edwin-Espinal-Robelo.jpg\" alt=\"\" width=\"365\" height=\"634\" />Edwin Robelo Espinal has a long history advocating against the government that came into power as the result of a right-wing coup in 2009. He is a staunch defender of the Honduran people’s human and voting rights. Because of this history, he has been the target of threats and intimidation by state security forces and of slander in the media. He has been receiving protective measures since July 2010, when they were requested by the Inter-American Commission for Human Rights. Espinal has been framed on charges of arson and property destruction during a January 12, 2018 protest in Tegucigalpa. Honduras has been the site of large demonstrations due to the November 26, 2017 presidential election that Honduran popular movements and international observers have widely denounced as rigged.\r\n\r\nAccording to Victoria Cervantes, member of the Honduras Solidarity Network and the Alliance for Global Justice Board of Directors,\r\n\r\n“Edwin Espinal Robelo is a well-known activist since the 2009 coup; part of the motorcycle riders that have escorted all the protests since then and a community organizer activist in his neighborhood in Tegucigalpa. His fiancée, Wendy Avila was killed by the massive tear gas attack against protesters supporting President Zelaya's return to Honduras in front of the Brazilian Embassy in September 2009. He has been harassed, detained, threatened, had his home arbitrarily searched, and been the target of numerous social media slanderous campaigns organized by the government and its hired trolls.”\r\n<h1><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25751\">Send an email to Honduran authorities and the US Embassy to demand justice for Edwin Espinal Robelo! </a></h1>\r\n&nbsp;</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+    -
+      entity: ff23272a-2c6a-4d3f-b137-4c19843845a6
+    -
+      entity: 4d58c480-4afa-42db-9320-32d1579a7036
+    -
+      entity: 47dbf152-55af-48f9-b366-923795d9a8c9
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

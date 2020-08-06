@@ -1,0 +1,61 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2304f85f-4236-4f07-a828-65663fd8c095
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ba842cf2-7a7d-4535-9c55-44b659434c8d: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Support the Injured Colombian Workers!!!'
+  created:
+    -
+      value: 1424189712
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /support-injured-colombian-workers
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"margin-bottom: 0.11in; line-height: 107%; text-align: center;\"><img class=\"alignnone\" src=\"http://www.asotrecol.org/wp-content/uploads/2013/09/wheelchair-e1379787248705.jpg\" alt=\"\" width=\"350\" height=\"233\" /></p>\n<p style=\"margin-bottom: 0.11in; line-height: 107%;\">by Paige Shell Spurling</p>\n<p style=\"margin-bottom: 0.11in; line-height: 107%;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\">On February 16, 2015, 20 injured workers from the Colombian petroleum industry joined the injured Colombian General Motors workers in the tent encampment in front of the U.S. Embassy in Bogota that the GM workers have occupied for the last </span></span></span></span><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\">3 </span></span><span style=\"font-family: Calibri,serif;\"><span style=\"font-size: medium;\">½</span></span><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\"> years</span></span>. Many of their wives accompanied them, bringing the total number in the encampment up to around 30.</span></span></span></span></p>\n<p style=\"margin-bottom: 0.11in; line-height: 107%;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\">Disabling injuries are increasingly a problem in Colombia, where protections have become more lax and healthcare has been privatized (leading occupational healthcare insurers to deny coverage by claiming that worker's injuries are non-occupational). Companies such as General Motors, Halliburton (oil sector), Coca Cola, Drummond Coal and others, realizing that they were not going to be required to follow labor laws have increasingly exposed workers to conditions which resulted in disabling injury and then get rid of the problem by getting rid of the worker, a practice which is illegal on the books but in wide practice in Colombia.\n</span></span></p>\n<p style=\"margin-bottom: 0.11in; line-height: 107%;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\">The GM workers developed disabling injuries while working for GM at its assembly plant in Bogota, Colombia and were dismissed after becoming injured on the job, rather than being relocated to positions they could do with their injuries (what the law requires).</span></span></p>\n<p style=\"margin-bottom: 0.11in; line-height: 107%;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\">The oil sector workers who traveled 6 hours from the southwestern Colombia department of Huila to join the tent encampment, include workers who have lost their legs to the petroleum industry's rush to get as much oil out of the ground as quickly as possible. Equipment goes unmaintained and when a valve fails, it can cost the worker his leg. Companies do their best to blame the injured worker for the accident.</span></span></p>\n<p style=\"margin-bottom: 0.11in; line-height: 107%;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\">Throughout the country, injured workers try the official channels and run into dead ends. That is what led the injured GM workers to camp in front of the U.S. Embassy and what led the other injured workers to join them.</span></span><span style=\"font-size: medium;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"> Injured workers are left without work, healthcare, or the support of the Colombian or U.S. governments to challenge companies that are taking advantage of the lack of enforcement of labor laws.\_</span></span></p>\n<p style=\"margin-bottom: 0.11in; line-height: 107%;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\">These Colombian workers are calling on the U.S. government for help since their rights have clearly been violated despite guarantees that were made to Colombian workers through the Labor Action Plan of the U.S.-Colombia Free Trade Agreement. But </span></span></span></span><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\">U.S. Ambassador Kevin Whitaker has not met with the injured workers once in the 9 months that he has been in the country.</span></span></span></span></span></span></p>\n<p style=\"margin-bottom: 0.11in; line-height: 107%;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\">The workers need your support in order to get a meeting with the Ambassador to discuss possible solutions. Also, </span></span><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: underline;\"><b>the demonstration of community support helps ensure that aggressions are not carried out against the injured workers.</b></span></span></span></p>\n<p style=\"margin-bottom: 0.11in; line-height: 107%;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: medium;\">Please make a call today.\_</span></span></p>\n<p style=\"margin-bottom: 0in; background: none repeat scroll 0% 0% #ffffff; line-height: 0.14in;\" align=\"center\"><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\"><span style=\"color: #222222;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: large;\"><span style=\"text-decoration: underline;\"><b>Support the Injured Colombian Workers!!!</b></span></span></span></span></span></span></p>\n<p style=\"margin-bottom: 0in; background: none repeat scroll 0% 0% #ffffff; line-height: 0.14in;\" align=\"center\"><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\"><span style=\"color: #222222;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"font-size: large;\">Call the U.S. Embassy in Bogota, Colombia (FOR FREE!)</span></span></span></span></span></p>\n<p style=\"margin-top: 0.19in; margin-bottom: 0.06in; background: none repeat scroll 0% 0% #ffffff; line-height: 0.14in;\"><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\"><span style=\"color: #222222;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"text-decoration: underline;\"><b style=\"font-family: Adobe Heiti Std R,serif;\">HOW TO MAKE THE CALL</b></span></span></span></span></span></p>\n<p style=\"text-indent: 0.5in; margin-bottom: 0in; background: none repeat scroll 0% 0% #ffffff; line-height: 0.14in;\"><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\"><span style=\"color: #222222;\"><span style=\"font-family: Adobe Heiti Std R,serif;\">Dial the</span></span><span style=\"color: #222222;\"><span style=\"font-family: Adobe Heiti Std R,serif;\">\_</span></span><span style=\"color: #222222;\"><span style=\"font-family: Adobe Heiti Std R,serif;\">Embassy</span></span><span style=\"color: #222222;\"><span style=\"font-family: Adobe Heiti Std R,serif;\">\_</span></span><span style=\"color: #222222;\"><span style=\"font-family: Adobe Heiti Std R,serif;\">phone number: </span></span><span style=\"color: #222222;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"text-decoration: underline;\"><b>011-57-1-275-2000</b></span></span></span></span></span></p>\n<p style=\"margin-left: 0.5in; margin-bottom: 0in; background: none repeat scroll 0% 0% #ffffff; line-height: 0.14in;\"><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\"><span style=\"color: #222222;\"><span style=\"font-family: Adobe Heiti Std R,serif;\">(Embassy is open M-F <span class=\"aBn\" tabindex=\"0\" data-term=\"goog_484933681\"><span class=\"aQJ\">9am-4pm EST</span></span>)\n[</span></span><span style=\"color: #222222;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><i>They might answer in Spanish, but they will understand you if you speak English</i></span></span><span style=\"color: #222222;\"><span style=\"font-family: Adobe Heiti Std R,serif;\">]</span></span></span></span></p>\n<p style=\"text-indent: 0.5in; margin-bottom: 0in; background: none repeat scroll 0% 0% #ffffff; line-height: 0.14in;\"><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\"><span style=\"color: #222222;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><span style=\"text-decoration: underline;\"><b>Ask for the Ambassador's office</b></span></span></span></span></span></p>\n<p style=\"margin-left: 0.5in; margin-bottom: 0in; background: none repeat scroll 0% 0% #ffffff; line-height: 0.14in;\"><span style=\"font-family: Times New Roman,serif;\"><span style=\"font-size: medium;\"><span style=\"color: #222222;\"><span style=\"font-family: Adobe Heiti Std R,serif;\">[</span></span><span style=\"color: #222222;\"><span style=\"font-family: Adobe Heiti Std R,serif;\"><i>If they try to tell you to send a FAX instead, or to call some other number it means they are receiving a lot of calls. Just insist that you have a quick message and you need the Executive office.</i></span></span><span style=\"color: #222222;\"><span style=\"font-family: Adobe Heiti Std R,serif;\">]</span></span></span></span></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ba842cf2-7a7d-4535-9c55-44b659434c8d
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

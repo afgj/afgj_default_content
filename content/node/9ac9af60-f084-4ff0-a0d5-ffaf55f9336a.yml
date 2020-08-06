@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 9ac9af60-f084-4ff0-a0d5-ffaf55f9336a
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA News 8.16.2018 Building Opposition to US'' Cuba Blockade and Venezuela Sanctions'
+  created:
+    -
+      value: 1534506050
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-news-8162018-building-opposition-us-cuba-blockade-and-venezuela-sanctions
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2>The News This Week</h2>\r\n<div>\r\n\r\n<strong><a href=\"https://default.salsalabs.org/T5e441853-d588-406b-baf7-4974bbd55696/2bd47860-b383-4d78-a073-30bb8abc98da\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://default.salsalabs.org/T5e441853-d588-406b-baf7-4974bbd55696/2bd47860-b383-4d78-a073-30bb8abc98da&amp;source=gmail&amp;ust=1534616448110000&amp;usg=AFQjCNEK-p50OkwU-Oqxm-bjUxGMJR6G9Q\"><u>Steve Ellner Fall Speaking Tour on The Hardship Imposed on the Venezuelan people by US-Canadian Sanctions</u></a></strong>\r\n\r\n<a href=\"http://www.anymeeting.com/PIID=ED56DB82884F3F\"><strong>AFGJ Webinar with Steve Ellner <span class=\"m_5141547802558396606m_-2769548131985587476aBn\"><span class=\"m_5141547802558396606m_-2769548131985587476aQJ\"><span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1846132522\"><span class=\"aQJ\">August 28</span></span></span></span></strong></a>\r\n\r\n<strong>Venezuela</strong>\r\n\r\n<strong><a href=\"https://sputniknews.com/latam/201808161067239471-exiled-court-naduro-sentence/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://sputniknews.com/latam/201808161067239471-exiled-court-naduro-sentence/&amp;source=gmail&amp;ust=1534616448110000&amp;usg=AFQjCNE5xvlN6yHxzJijsRj-SUd0sBBSgA\"><u>While OAS’ Luis Almagro is Silent on Maduro Assassination attempt, Opposition’s “Supreme Tribunal” in Colombia sentences Maduro to 18 years in prison</u></a></strong>\r\n\r\n<strong><a href=\"https://www.telesurtv.net/english/news/Facebook-Taketh-Facebook-Giveth-What-Facebook-Told-TeleSUR-20180815-0029.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Facebook-Taketh-Facebook-Giveth-What-Facebook-Told-TeleSUR-20180815-0029.html&amp;source=gmail&amp;ust=1534616448110000&amp;usg=AFQjCNEiP19pSPff4d2lSHH4Eu7wWlp_xg\"><u>Facebook deleted TeleSur English and their story why they did it</u></a></strong>\r\n\r\n<strong><a href=\"https://venezuelanalysis.com/news/13990\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://venezuelanalysis.com/news/13990&amp;source=gmail&amp;ust=1534616448110000&amp;usg=AFQjCNEPzx0Jkckk6OUxDUB7yiDwQgOeVA\"><u>Venezuelanalysis: Official Statement on Facebook's Removal of Our Page</u></a></strong>\r\n\r\n<strong><a href=\"https://www.archyworldys.com/us-judge-authorizes-seizure-of-citgo-for-debt-of-venezuela/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.archyworldys.com/us-judge-authorizes-seizure-of-citgo-for-debt-of-venezuela/&amp;source=gmail&amp;ust=1534616448110000&amp;usg=AFQjCNFZoHM1rsuQc_ZUWyhKdMaHAs4zKg\"><u>U.S. Judge Authorizes Seizure of Venezuela’s Citgo</u></a></strong>\r\n\r\n<strong><a href=\"https://www.telesurtv.net/english/news/Venezuela-Top-Prosecutor-34-Involved-In-Failed-Assassination-On-Maduro-20180814-0009.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Venezuela-Top-Prosecutor-34-Involved-In-Failed-Assassination-On-Maduro-20180814-0009.html&amp;source=gmail&amp;ust=1534616448110000&amp;usg=AFQjCNF2_4w1ZAKhFlgHfrVErilozUdp5A\"><u>Venezuela Top Prosecutor: 34 Involved In Failed Assassination On Maduro</u></a></strong>\r\n\r\n<strong>Bolivia</strong>\r\n\r\n<strong><a href=\"http://resumen-english.org/2018/08/the-u-s-deploys-its-third-major-attempt-to-destabilize-the-government-of-evo-morales/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://resumen-english.org/2018/08/the-u-s-deploys-its-third-major-attempt-to-destabilize-the-government-of-evo-morales/&amp;source=gmail&amp;ust=1534616448110000&amp;usg=AFQjCNHVn52-UmXtPmCtcO8weUvsyu23Xg\"><u>The U.S. Deploys its Third Major Attempt to Destabilize the Government of Evo Morales</u></a></strong>\r\n\r\n<strong><a href=\"http://www.plenglish.com/index.php?o=rn&amp;id=32498&amp;SEO=bolivia-reports-increase-in-health-investment-in-12-years\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.plenglish.com/index.php?o%3Drn%26id%3D32498%26SEO%3Dbolivia-reports-increase-in-health-investment-in-12-years&amp;source=gmail&amp;ust=1534616448111000&amp;usg=AFQjCNFG9S90j63EsCxrobPQdJvfEFxWmQ\"><u>Bolivia Reports sevenfold Increase in Health Investment under Evo Morales</u></a></strong>\r\n\r\n&nbsp;\r\n\r\n<strong>Nicaragua</strong>\r\n\r\n<strong><a href=\"https://www.mintpressnews.com/nicaraguas-left-wing-mrs-lobbies-west-regime-change/247850/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.mintpressnews.com/nicaraguas-left-wing-mrs-lobbies-west-regime-change/247850/&amp;source=gmail&amp;ust=1534616448111000&amp;usg=AFQjCNE2tzqfYRQUWOvFHloMXHBXQ-wJkA\"><u>Max Blumenthal: Nicaragua’s ‘Left-Wing’ Opposition MRS Lobbies the West for Regime Change</u></a></strong>\r\n\r\n<strong><a href=\"https://quixote.org/lessons-from-haiti-another-view-on-the-nicaraguan-crisis/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://quixote.org/lessons-from-haiti-another-view-on-the-nicaraguan-crisis/&amp;source=gmail&amp;ust=1534616448111000&amp;usg=AFQjCNEtd2sYTjP-1P-Jw7-psxdYFVxN-w\"><u>Quixote Center: Lessons from Haiti: Another View on the Nicaraguan Crisis</u></a></strong>\r\n\r\n<strong><a href=\"https://popularresistance.org/open-letter-to-democracy-now-criticizing-their-nicaragua-coverage/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://popularresistance.org/open-letter-to-democracy-now-criticizing-their-nicaragua-coverage/&amp;source=gmail&amp;ust=1534616448111000&amp;usg=AFQjCNELujNRdHsDuYXjHmIHZ3SeWenPwg\"><u>Open Letter to DemocracyNow! Criticizing their Nicaragua Coverage</u></a></strong>\r\n\r\n<strong>Cuba</strong>\r\n\r\n<strong><a href=\"http://theinternationalcommittee.org/days-of-action-against-the-blockade-2018-in-cuba-education-is-a-national-priority-in-the-us-education-is-under-attack/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://theinternationalcommittee.org/days-of-action-against-the-blockade-2018-in-cuba-education-is-a-national-priority-in-the-us-education-is-under-attack/&amp;source=gmail&amp;ust=1534616448111000&amp;usg=AFQjCNHESMW0pkZy1YLZ6vZQyYkedq1ccA\"><u>Days of Action Against the Blockade 2018: In Cuba Education is a National Priority, in the US Education is Under Attack</u></a></strong>\r\n\r\n&nbsp;\r\n\r\n<strong>Ecuador</strong>\r\n\r\n<strong><a href=\"https://www.youtube.com/watch?v=7GUuVlt2Ixc&amp;feature=youtu.be\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3D7GUuVlt2Ixc%26feature%3Dyoutu.be&amp;source=gmail&amp;ust=1534616448111000&amp;usg=AFQjCNFEwKs92qaZFoDS_lRyVsBfbl_TAA\"><u>John Pilger's speech at Sydney rally to free Julian Assange</u></a></strong>\r\n\r\n&nbsp;\r\n\r\n<strong>Colombia</strong>\r\n\r\n<strong><a href=\"http://en.granma.cu/mundo/2018-08-09/more-than-300-assassinations-of-colombian-leaders-over-the-last-two-years\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://en.granma.cu/mundo/2018-08-09/more-than-300-assassinations-of-colombian-leaders-over-the-last-two-years&amp;source=gmail&amp;ust=1534616448111000&amp;usg=AFQjCNEEeCSullZd-3Dx16jFiJpfLRNPQQ\"><u>More than 300 assassinations of Colombian leaders over the last two years</u></a></strong>\r\n\r\n</div>\r\n<h2><strong>About the Weekly</strong></h2>\r\nIt is AfGJ’s conviction that we in the US defend\_Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with\_Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=CXvEe3XdlZsS65OWFs3PGMFc5AxV%2FeFs\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://org2.salsalabs.com/dia/track.jsp?v%3D2%26c%3DCXvEe3XdlZsS65OWFs3PGMFc5AxV%252FeFs&amp;source=gmail&amp;ust=1534616448111000&amp;usg=AFQjCNHsodaHo47tKKZ0VD787s0hGgdGMQ\">stansfieldsmith100@gmail.c<wbr />om</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

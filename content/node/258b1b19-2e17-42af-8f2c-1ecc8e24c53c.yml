@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 258b1b19-2e17-42af-8f2c-1ecc8e24c53c
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Respect for Democracy News Feed: Latin America Resists in Real Time!     /     Respecto por la Democracia Servicio de Noticias: ¡Latinoamérica Resiste En Vivo!'
+  created:
+    -
+      value: 1573642104
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /respect-democracy-news-feed-latin-america-resists-real-time-respecto-por-la-democracia-servicio-de
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "&nbsp;\r\n\r\n<img class=\"alignleft wp-image-12490\" src=\"https://afgj.org/wp-content/uploads/2020/02/astracan-alert-1.jpg\" alt=\"\" width=\"366\" height=\"267\" />\r\n\r\n<em>Español abajo</em>\r\n\r\nThis news feed was started <span style=\"letter-spacing: 0.8px;\">shortly</span><span style=\"letter-spacing: 0.8px;\">\_</span><span style=\"letter-spacing: 0.05em;\">following the US-backed coup in Bolivia in November 2019 as an alternative to misleading information from corporate media and politicians who portrayed the coup as completed and popular when it was neither. We reached out to the People’s Human Rights Observatory and the Alberto Lovera Bolivarian Circle as well as individual experts to help us maintain this service.</span>\r\n\r\nThe situation in Bolivia is not happening in an isolated context. All over Latin America millions of people are marching, demonstrating, and striking in resistance to neoliberal transnational capitalism and its protector and guarantor, the United States and NATO Empire. But we hear little about this and what we do hear is inaccurate. Therefore, we are expanding the scope of this feed to\_ all the mass mobilizations in Latin America that are part of this hemispheric resistance.\r\n\r\nWe receive much information in both English and Spanish, and, unfortunately, do not have the capacity to translate it all. Most posts will not be available in both languages, therefore we recommend that readers who are not bilingual avail themselves of a good translation program. One that has been highly recommended to us is DeepL at <a href=\"https://www.deepl.com/translator\">https://www.deepl.com/translator</a>.\r\n\r\nEsta transmisión de noticias se inició poco después del golpe respaldado por los Estados Unidos en Bolivia en noviembre de 2019 como una alternativa a la información engañosa de los medios de comunicación corportivas y los políticos que presentaban el golpe como completo y popular cuando no era ni lo uno ni lo otro. Nos pusimos en contacto con el Observatorio de Derechos Humanos del Pueblo y el Círculo Bolivariano Alberto Lovera, así como con expertos individuales para ayudarnos a mantener este servicio.\r\n\r\nLa situación en Bolivia no se da en un contexto aislado. En toda Latinoamérica millones de personas marchan, se manifiestan y huelgan en resistencia al capitalismo transnacional neoliberal y a su protector, el Imperio de los Estados Unidos y de la OTAN. Pero escuchamos poco sobre esto y lo que escuchamos es inexacto. Por lo tanto, estamos ampliando el alcance de este servicio a todas las movilizaciones masivas en Latinamérica que forman parte de esta resistencia hemisférica.\r\n\r\nRecibimos mucha información tanto en inglés como en español y, desafortunadamente, no tenemos la capacidad de traducirla toda. La mayoría de los mensajes no estarán disponibles en ambos idiomas, por lo que recomendamos a los lectores que no sean bilingües que se sirvan de un buen programa de traducción. Uno que nos ha sido altamente recomendado es DeepL en <a href=\"https://www.deepl.com/translator\">https://www.deepl.com/translator</a>.\r\n<h3>Read the AFGJ statement and background on the coup in Bolivia <a href=\"/afgj-statement-and-background-on-the-coup-in-bolivia\">HERE</a></h3>\r\n<iframe style=\"border: 0; width: 100%; height: 800px; border-radius: 4px;\" src=\"https://go.arena.im/embed?publisher=afgj.org&amp;event=ohno&amp;v=2\"></iframe>"
+      format: full_html
+      summary: ''

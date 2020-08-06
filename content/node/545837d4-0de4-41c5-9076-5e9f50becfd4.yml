@@ -1,0 +1,128 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 545837d4-0de4-41c5-9076-5e9f50becfd4
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    e2cd83a2-4ff6-40be-8260-0b38e269f80f: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    b2c352f2-62d9-485a-b8f0-d6687d083f48: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    db37c597-23df-4a83-b2cc-0f2f3b69da01: taxonomy_term
+    9a13741d-8db2-4dce-b9f4-cf3b1b88a0a5: taxonomy_term
+    a64fa2f8-f73c-4f83-bbdc-b45341948bae: taxonomy_term
+    3e828d2d-3331-4ce2-81bc-5ca65d92ca91: taxonomy_term
+    6fe84139-fcc1-47f7-9f51-e74d9134339d: taxonomy_term
+    14594479-d6bf-43d4-b492-e34f5e1b09b6: taxonomy_term
+    dad8fb60-ee71-40dc-ba8d-2153898e72da: taxonomy_term
+    f641098b-c097-4053-9938-62306373e4cc: taxonomy_term
+    cbb34cf0-3944-4473-889f-49d7489d4569: taxonomy_term
+    381d7a91-e5a4-4ded-a5fe-dfa81cfe4736: taxonomy_term
+    d1d4488b-6cd4-4c36-9435-286fa3ba78c3: taxonomy_term
+    e9ac88cc-8ffb-4fe4-926c-0a55470f5a62: taxonomy_term
+    3db85b4a-02c6-437a-a5f9-c3ab8cb3ae87: taxonomy_term
+    6f97c1bb-5638-4775-b41f-cdea5de05a0e: taxonomy_term
+    54ba92c8-4623-418c-b497-7639d1876f0c: taxonomy_term
+    ec407e46-82fb-4ca6-8469-e09565e765ed: taxonomy_term
+    14eca50c-267c-41ae-8dc0-cc0e0826f946: taxonomy_term
+    e4a21c24-0be0-440e-a35c-a67c1c9f068b: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'The Guantanamo of Colombia: Pressure Mounts to Shut Down Notorious US-Funded Prison'
+  created:
+    -
+      value: 1454342813
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /guantanamo-colombia-pressure-mounts-shut-down-notorious-us-funded-prison
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong><a href=\"http://Originally published in Upside Down World\">Originally published in Upside Down World</a></strong>\n\n<span class=\"small\">Written by John Ocampo </span>Friday, 29 January 2016 14:29\n<p style=\"text-align: center;\"><em><strong><a href=\"https://afgj.salsalabs.org/closetramacatheguantnamoofcolombia/index.html\">SIGN THE PETITION TO CLOSE LA TRAMACÚA, COLOMBIA'S US FUNDED TORTURE PRISON!</a></strong></em></p>\nThe campaign to shut down Colombia’s infamous\_<em>Establecimiento Penitenciario y Carcelario de Alta y Mediana Seguridad de Valledupar “La Tramacua”</em> prison, located in the country’s sweltering Caribbean region and often referred to as the “Guantanamo of Colombia”, could be on the verge of a major breakthrough. On Tuesday, January 19<sup>th</sup>, 2016, for the first time in its 14 years of operation, a high-level governmental commission entered the prison to investigate whether the notoriously abysmal conditions merit its closure as mandated by Colombia’s Constitutional Court in a 2014 ruling. That year, the high court issued an ultimatum to prison administrators: either grant prisoners access to potable water and dignified medical attention or immediately close “La Tramacua.”\n\nBuilt in the year 2000, with U.S. Federal Bureau of Prisons and USAID funding, as part of the penitentiary restructuring component of Plan Colombia, “La Tramacua” is a veritable house of horrors. Despite temperatures that regularly climb above 100° Fahrenheit, water is only available in the prison for 10 to 20 minutes a day and only on the first floor. During these few minutes, 1,448 prisoners are forced to collect as much water as possible in a desperate attempt to meet their daily needs; many prisoners resort to urinating and defecating in plastic bags because flushing excrement down the toilet requires wasting their meager supply of water. Required medical attention, including life-saving operations, is often delayed or denied to prisoners and referrals to specialists are treated as nonexistent by the authorities. The prison has no ventilation system and the entry of electric fans is strictly prohibited. International visitors have observed raw sewage flowing through the kitchen and the United Nations Commission on Human Rights has documented fecal contamination of the food doled out to prisoners. Instances of beatings and torture have also been documented inside “La Tramacua”. Inmates who fall out of favor with the authorities owing to disciplinary problems, or merely because they protest or demand access to medical treatment, are locked in a cell known as Villa Mosquito that, as the name indicates, is infested with insects. These hellish conditions have led to at least three suicides since 2014 and, last month, to 438 prisoners going on a weeks-long hunger strike.\n\nLazos de Dignidad, an organization of human rights lawyers in Colombia that has accompanied prisoners and led the fight to close “La Tramacua”, participated in last week’s commission visit to the penitentiary. \"We, at Lazos de Dignidad, consider it shameful that in a country in which a peace process is underway, more than 1,000 persons are held in torturous conditions due to the obstinacy of the government in keeping open at all costs a penitentiary that is emblematic of a new model of prisons, imposed by the United States, to the detriment of the dignity and human rights of the inmate population,” remarked attorney and Lazos de Dignidad member July Henriquez after the visit. According to her, “It has been proven that conditions at ‘La Tramacua’ prison do not meet international human rights standards and, thus, the most sensible next step is the closure of this torture center and a contribution to the relief of overcrowding in the national penitentiary system via the release of inmates who are legally eligible, and the more than 100 political prisoners that are held there, while the nation reviews and redefines its criminal and prison policies. Today, more than ever, it is imperative that we mobilize to close ‘La Tramacua’ in a symbolic rejection of the prison-industrial complex and demand that we eradicate torturous incarceration in all of Colombia.\"\n\nThe fate of “La Tramacua” is now hanging in the balance.\_<em>El Espectador</em>, one of Colombia’s two national newspapers, <a href=\"http://www.elespectador.com/noticias/judicial/tramacua-una-prision-punto-de-cerrarse-articulo-611279\">described</a> “La Tramacua” as a “prison on the point of being closed” just a few days ago. The international “Tramacua Nunca Más” campaign to shut down the prison, led by Colombia’s Coalición Larga Vida las Mariposas and by the Alliance for Global Justice (AfGJ), encourages individuals to sign <a href=\"http://org2.salsalabs.com/o/7315/p/dia/action3/common/public/?action_KEY=19390\">this petition</a> and call Colombian authorities to demand the immediate closure of “La Tramacua” as ordered by Colombia’s Constitutional Court ruling T-282 in 2014. Hand-written letters can also be mailed to Colombia (addresses below) and organizational resolutions and statements can be sent to AfGJ at\_<a href=\"mailto:james@afgj.org\" target=\"_blank\" rel=\"noopener\">james@afgj.org</a>. Victory in this campaign is possible and closer than ever if we keep the pressure on. If we act fast we can shut down the Guantanamo of Colombia.\n\n<strong>JUAN MANUEL SANTOS</strong>\n\nPresidente de la República\_Carrera 8 No. 7 – 26,\nPalacio de Nariño\L, Santa Fe de Bogotá\nFax: +57 1 566 20 71\n\nCorreos:\_\_\_<a href=\"mailto:comunicacionesvp@presidencia.gov.co\" target=\"_blank\" rel=\"noopener\">comunicacionesvp@presidencia.gov.co</a> -\_\_<a href=\"mailto:contacto@presidencia.gov.co\" target=\"_blank\" rel=\"noopener\">contacto@presidencia.gov.co</a>\n\n<strong> CORTE CONSTITUCIONAL COLOMBIANA</strong>\n\nPalacio de Justicia Calle 12 No. 7 - 65\nRelatoría Carrera 8 No 12A 19\nBogotá D.C.- Colombia\n\nPBX: <span id=\"skype_c2c_container\" class=\"skype_c2c_container notranslate\" dir=\"ltr\"><span class=\"skype_c2c_highlighting_inactive_common\" dir=\"ltr\"><span id=\"non_free_num_ui\" class=\"skype_c2c_textarea_span\"><span class=\"skype_c2c_text_span\">(57 1) 350 62 00</span> </span></span></span>, @CConstitucional<span class=\"skype_c2c_print_container notranslate\">(57 1) 350 62 00</span>\n\n<strong> JORGE ARMANDO OTALORA</strong>\n\nDefensor Nacional del Pueblo\nPatricia Ramos -Delegada para Asuntos Penitenciarios\nCalle 55 # 10-32, Bogotá\n\nFax: (+571) 640.04.91\nE-mail:\_<a href=\"mailto:secretaria_privada@hotmail.com\" target=\"_blank\" rel=\"noopener\">secretaria_privada@hotmail.com</a>;\_<a href=\"mailto:agenda@agenda.gov.co\" target=\"_blank\" rel=\"noopener\">agenda@agenda.gov.co</a>\n\n<strong> Alejandro Ordóñez Maldonado</strong>\nProcuraduría General de la Nación\nCarrera 5 #. 15-80 - Bogotá, D.C.\nFax:\_<a href=\"tel:%28%2B571%29%203429723\" target=\"_blank\" rel=\"noopener\">(+571) 3429723</a> - 2847949 Fax:\_<a href=\"tel:%28%2B571%29%203429723\" target=\"_blank\" rel=\"noopener\">(+571) 3429723</a>\n\nE-mail:\_<a href=\"mailto:cap@procuraduria.gov.co\" target=\"_blank\" rel=\"noopener\">cap@procuraduria.gov.co</a>,\_<a href=\"mailto:quejas@procuraduria.gov.co\" target=\"_blank\" rel=\"noopener\">quejas@procuraduria.gov.co</a>\n<a href=\"mailto:webmaster@procuraduria.gov.co\" target=\"_blank\" rel=\"noopener\">webmaster@procuraduria.gov.co</a>\n\n<em>John Ocampo is the coordinator of the <a href=\"https://afgj.org/campaign-for-labor-rights\">Campaign for Labor Rights</a>, a project of the <a href=\"https://afgj.org/\">Alliance for Global Justice</a>.</em>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: e2cd83a2-4ff6-40be-8260-0b38e269f80f
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: b2c352f2-62d9-485a-b8f0-d6687d083f48
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false
+  field_tags:
+    -
+      entity: db37c597-23df-4a83-b2cc-0f2f3b69da01
+    -
+      entity: 9a13741d-8db2-4dce-b9f4-cf3b1b88a0a5
+    -
+      entity: a64fa2f8-f73c-4f83-bbdc-b45341948bae
+    -
+      entity: 3e828d2d-3331-4ce2-81bc-5ca65d92ca91
+    -
+      entity: 6fe84139-fcc1-47f7-9f51-e74d9134339d
+    -
+      entity: 14594479-d6bf-43d4-b492-e34f5e1b09b6
+    -
+      entity: dad8fb60-ee71-40dc-ba8d-2153898e72da
+    -
+      entity: f641098b-c097-4053-9938-62306373e4cc
+    -
+      entity: cbb34cf0-3944-4473-889f-49d7489d4569
+    -
+      entity: 381d7a91-e5a4-4ded-a5fe-dfa81cfe4736
+    -
+      entity: d1d4488b-6cd4-4c36-9435-286fa3ba78c3
+    -
+      entity: e9ac88cc-8ffb-4fe4-926c-0a55470f5a62
+    -
+      entity: 3db85b4a-02c6-437a-a5f9-c3ab8cb3ae87
+    -
+      entity: 6f97c1bb-5638-4775-b41f-cdea5de05a0e
+    -
+      entity: 54ba92c8-4623-418c-b497-7639d1876f0c
+    -
+      entity: ec407e46-82fb-4ca6-8469-e09565e765ed
+    -
+      entity: 14eca50c-267c-41ae-8dc0-cc0e0826f946
+    -
+      entity: e4a21c24-0be0-440e-a35c-a67c1c9f068b

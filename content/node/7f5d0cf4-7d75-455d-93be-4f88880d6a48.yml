@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 7f5d0cf4-7d75-455d-93be-4f88880d6a48
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    cb4617c7-3c39-4ae4-a5e6-a44b174be3d3: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Repression Already Underway, Even Before the Launching of Colombia’s National Strike'
+  created:
+    -
+      value: 1574321277
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /repression-already-underway-even-launching-colombias-national-strike
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter  wp-image-12024\" src=\"https://afgj.org/wp-content/uploads/2019/08/IMG_2650-300x225.jpg\" alt=\"\" width=\"495\" height=\"379\" />\r\n\r\nReport from James Jordan, with interview of Lorena Ochoa from Lazos de Dignidad\r\n\r\nColombia’s machinery of repression started kicking in even though the National Strike for peace, justice, and human rights was still a day away. My partner, Raquel Mogollón, and I arrived in Bogotá at 3am on Wednesday November 20, 2019. After a much needed sleep, I woke up mid-morning to news that the police in Palmira, Valle de Cauca, had raided the seat of the Communist Party and the Patriotic Union (Unión Patriótica) based on some vague allegation that there was a “dangerous person” at their office. Later in the day, at a meeting with Fundacion Lazos de Dignidad (Links of Dignity Foundation), we would hear that these kinds of raids have been happening throughout Colombia. (Lazos de Dignidad is a legal collective that works for human rights, focusing on cases involving ex-insurgents participating in the peace process, and current and former political prisoners.) We also ourselves saw more than the usual military and police out on the streets and heard about deployments around the country in preparation for the strike. Our friends in the Fensuagro federation of agricultural workers unions warned us that the situation is very tense.\r\n\r\nThe strike is planned for Thursday, November 21. We will be accompanying leaders from both Fensuagro and Lazos de Dignidad, who are already under threat from enemies of Colombia’s peace process. We will be reporting throughout the day as events unwind.\r\n\r\nThe context in Colombia is that every 30 hours, on average, a human rights defender, social movement leaders, rural activist, or ex-insurgent is being murdered. At least 40% of those targeted are Afro-Colombian or indigenous, and over the past few weeks, according to some reports, three indigenous leaders are being murdered every day. Although ex-insurgents from the former FARC-EP (Revolutionary Armed Forces of Colombia – People’s Army) have been fully compliant with the terms of the peace accords, the government has only fulfilled between a quarter and a third of its commitments. The US government has had a direct hand in undermining the peace accords. Besides funding Colombia’s military, police, and other organs of repression, the Trump administration has worked eagerly to encourage the Colombian government to renege on commitments for rural development and crop substitution in exchange for the voluntary eradication of crops with illicit uses. Instead, the White House has demanded forced, violent eradication, with no development, as well as the use of glyphosate (developed as Monsanto’s RoundUP Ultra), which is sprayed indiscriminately on communities in coca and marijuana growing regions. US policies, Colombian government noncompliance, and the ongoing murders and displacement of social movement leaders and ex-insurgents has put Colombia’s entire peace process at risk.\r\n\r\nFollowing is a video interview with Lorena Ochoa, one of the volunteers at Lazos de Dignidad, who has been helping coordinate their activities in support of the strike.\r\n<h2 style=\"text-align: center;\"><a href=\"https://www.facebook.com/642196696/videos/10156513038126697/UzpfSTE4MTAyMDYxODY3ODc4OToyNTQxMjA2NjkyNjYwMTU4/\">CLICK HERE TO WATCH LAZOS DE DIGNIDAD VIDEO ABOUT COLOMBIA'S NATIONAL STRIKE</a></h2>\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: cb4617c7-3c39-4ae4-a5e6-a44b174be3d3
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

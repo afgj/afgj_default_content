@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 14640c2c-79f8-4889-b961-5d78c6f92dfc
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly 2.16.2018 US Threatens Military Intervention to Stop Venezuela''s Democratic Elections'
+  created:
+    -
+      value: 1518799355
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-2162018-us-threatens-military-intervention-stop-venezuelas-democratic
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter wp-image-9048 size-full\" src=\"https://afgj.org/wp-content/uploads/2018/02/venweekly2.16.png\" alt=\"Venezuela Presidential Election Dates and Process\" width=\"944\" height=\"944\" />\r\n\r\n<a href=\"http://therealnews.com/t2/index.php?option=com_content&amp;task=view&amp;id=31&amp;Itemid=74&amp;jumival=21050\" target=\"_blank\" rel=\"noopener\">Real News Network: Trump Preemptively Dismisses Upcoming Venezuelan Presidential Vote</a>\r\nIn an effort to discredit Venezuela's upcoming presidential election, the Trump administration is rallying conservative governments in Latin America to discredit the vote and isolate Venezuela.\r\n\r\n<hr />\r\n\r\n<a href=\"http://therealnews.com/t2/index.php?option=com_content&amp;task=view&amp;id=31&amp;Itemid=74&amp;jumival=21060\" target=\"_blank\" rel=\"noopener\">Carlos Ron: Tillerson Tries and Fails to Rally Latin American Support for Sanctions Against Venezuela</a>\r\nUS Secretary of State recently completed a tour of Latin American countries where he unsuccessfully tried to rally support for regional sanctions against Venezuela. However, as Venezuela's Charge D'Affairs in DC explains, US unilateral financial sanctions against Venezuela is causing significant problems for the country\r\n\r\n<hr />\r\n\r\n<a href=\"http://therealnews.com/t2/index.php?option=com_content&amp;task=view&amp;id=767&amp;Itemid=74&amp;jumival=21119\" target=\"_blank\" rel=\"noopener\">Venezuelan Opposition Undecided Over Whether and Who to Run in Presidential Race</a>\r\nFollowing several months of negotiations between Venezuelan government and opposition representatives, the opposition refuses to sign the agreement, despite pressure from Spain's ex-Prime Minister. Carlos Rin,Venezuela's Charge D'Affairs in DC explains the panorama from the government's perspective\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/news/13650\" target=\"_blank\" rel=\"noopener\">Colombia, Brazil Deploy More Security Forces to Venezuela Border</a>\r\nColombia says it will send more than 2000 more troops to its border with Venezuela, with Brazil replicating the measure.\r\n\r\n<hr />\r\n\r\n<a href=\"http://en.granma.cu/cuba-us-diplomatic-relations/2018-02-15/cuba-rejects-interference-and-exclusion-of-venezuela-from-summit-if-the-americas\" target=\"_blank\" rel=\"noopener\">Cuban Ministry of Foreign Affairs Statement: Cuba rejects interference and exclusion of Venezuela from Summit of the Americas</a>\r\n\"Aggression and coup violence against Venezuela hurt all of Our America and only benefit the interests of those who attempt to divide us, in order to assert their dominance over our peoples.\"\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Evo-Morales-Unasur-Must-Reinforce-Venezuelan-Sovereignty-20180213-0034.html\" target=\"_blank\" rel=\"noopener\">Evo Morales Requests UNASUR Summit to Oppose Escalating US Threats of Military Intervention</a>\r\n\"Tillerson comes to visit several countries, I imagine, to convince or influence his right-wing presidents to participate in a military intervention or drowning in Venezuela.\"\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/analysis/China-and-Latin-Americas-New-Era-of-Globalization-20180214-0013.html\" target=\"_blank\" rel=\"noopener\">China and Latin America's New Era of Globalization</a>\r\nLatin American leaders are increasingly aligning their economies with China, and the United States seems worried. Chinese President Xi Jinping has pushed to integrate Latin America into the Belt and Road Initiative, and governments across America have firmed up infrastructure and resource deals with China.\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.youtube.com/watch?v=XKEs4mE7INs&amp;t=283s\" target=\"_blank\" rel=\"noopener\">Cuban Documentary \"All Guantanamo is Ours\" 115 Years of US Occupation</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.counterpunch.org/2018/01/12/why-i-resigned-as-ecuadors-un-representative/\" target=\"_blank\" rel=\"noopener\">Guillaume Long: Why I Resigned as Ecuador’s UN Representative</a>\r\nOn January 4th, Guillaume Long resigned his position as Ecuador’s permanent representative to the United Nations in Geneva.His letter of resignation, translated below, eloquently expresses dismay with Ecuador’s new president, Lenin Moreno, who is presently attempting an audacious power grab with the support of Ecuador’s private and public media.\r\n\r\n<hr />\r\n\r\n<a href=\"https://gem.godaddy.com/p/5ccbab?fe=1&amp;pact=764485-143971157-7790606959-e2fdd72f88a65503a7a40ebade9e9530899671d0\" target=\"_blank\" rel=\"noopener\">Leonard Peltier's Statement on 43 Years in Prison</a>\r\nPeltier appeals for support for his fight to combat his frame-up sentence.\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: center;\">About the Weekly</h2>\r\nThis weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=4G62FrZLtKpw2pDTihLPd6j1FjKE8bC9\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=JbzVeknDe0hE4xsuH37RNKj1FjKE8bC9\">Venezuelanalysis.com</a>.\r\n\r\n<hr />"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

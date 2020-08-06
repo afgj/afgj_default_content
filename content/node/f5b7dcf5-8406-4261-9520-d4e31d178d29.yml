@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f5b7dcf5-8406-4261-9520-d4e31d178d29
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Join AFGJ at the US Social Forum this June!'
+  created:
+    -
+      value: 1433489989
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /join-afgj-us-social-forum-june
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<iframe src=\"https://www.youtube.com/embed/lKjKkFNnaS8\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\n\n<a href=\"https://www.ussocialforum.net/\"><img class=\"\" src=\"http://www.ussocialforum.net/sites/default/files/SF%20Cover.jpg\" alt=\"\" width=\"851\" height=\"315\" /></a>\n<p style=\"text-align: center;\"><a href=\"https://www.ussocialforum.net/registration\" target=\"_blank\"><strong>Register</strong></a></p>\n<p style=\"text-align: center;\"><strong>What is the US Social Forum? </strong></p>\nThe US Social Forum (USSF) is a movement building process. It is not a\L conference but it is a space to come up with the peoples’ solutions to the \Leconomic and ecological crisis. The USSF is politically and economically independent, and is led by impacted communities. We are not beholden to the power structure, nor to the large institutional funders (sometimes described as the \"non-profit industrial complex\"). We certainly welcome institutional funders to collaborate with us, but we do not allow fundraising to dictate our work.\n\nThe third US Social Forum will be an important step in our\L struggle to build a powerful multi-racial, multi-sectoral, inter-generational, diverse, inclusive, internationalist movement that transforms this country and\L changes history.\n\nWe must declare what we want our world to look like and we \Lmust start planning the path to get there. The USSF provides spaces to learn from each other’s experiences and struggles, share our analysis of the problems \Lour communities face, build relationships, and align with our international \Lbrothers and sisters to strategize how to reclaim our world.\n\nWe live day to day in crisis and struggle. For the first time in history we are experiencing a rapidly deepening crisis of global capitalism affecting millions in the United States and billions world-wide – producing austerity policies and massive permanent unemployment and poverty, unimaginable climate, ecological and social destruction, and intensifying political attacks, repression, and the threat of fascism and war everywhere. At the same time, resistance, activism and organizing are on the rise across all continents, sectors, at nd fronts of struggle.\n<p style=\"text-align: center;\"><strong>Where is the US Social Forum being held in each of the location?</strong></p>\nIn Philadelphia, the Forum will be held at Temple University. Howard Gittis Student Center at Temple University (1755 N 13th St Philadelphia, PA) as well as along American Street in Kensington between York Street and Cumberland Street.\n\nIn San Jose the Forum will be centralized at Washington United Youth Center, 921 S. First St, in San Jose along with series of community venues and spaces.\n<p style=\"text-align: center;\"><strong>What Happens At A US Social Forum?</strong></p>\n<p style=\"text-align: center;\">Self-Organized Workshops\nPeople's Movement Assemblies\nPlenaries\nExpanded activities with internet and radio interface\nArts &amp; Culture - Performances, Exhibitions, Film Festival\nChildren's Social forum &amp; Youth Activities\nLocal Organizing\nInternational Participation\nDirect Action\nOpen Spaces\nTours\nGrassroots Fundraising\nSkills sharing</p>\n<p style=\"text-align: center;\"><strong>How do I <a href=\"https://www.ussocialforum.net/registration\" target=\"_blank\">register</a> as an individual or an organization?</strong>\nRegistration is available online until June 19th</p>\nRegister as an individual and select the Forum site you're planning to attend\nOR\_Register as an organization and register either three people (for $125) or 10 participants (at $200)\n\nIf you register as an organization, participant can attend the Forum at different sites. Organizations that register may go on to apply for a workshop or People's Movement Assembly. Workshops require one organizational sponsor. PMAs require two.\n\nRemember that you can also register for the Forum in person but we encourage you to register as soon as you can. That will allow organizations to propose workshops or PMAs (that registration process will close in April) and it also supports our organizing the Forum since the event is mainly funded through registrations. We do not turn people away from the Social Forum if they can't pay.\n<p style=\"text-align: center;\"><strong>How do I register a workshop or PMA?</strong>\nRegistration For Workshops and PMA’s is available until June 5th</p>\nThe US Social Forum is accepting submissions for both Workshops and Peoples Movement Assemblies (PMA). Before you can submit your proposal you must be registered as an organization for the US Social Forum. If you have not yet registered, please Register now!. Each organization may submit a maximum of one workshop proposal and one PMA proposal.\n\nThis years US Social Forum is dedicated to the idea that we need more than just skill shares, panels and discussions. We need to dedicate ourselves to strategic thinking, political organization and collective awareness. We are happy to be hosted in Philadelphia and San Jose, along with a host of other People's Movement Assemblies across the South from Jackson to SC and more to be announced. On that note, we are looking for creative concepts and innovative thinkers. We are looking for organizations, individuals and collectives from all over the country with a vision for what the world might be, and strategies on how to get there.\n<p style=\"text-align: center;\"><strong>After you have registered, you may submit a proposal for either:</strong></p>\nWorkshop: a 1.5 hour session that requires 1 registered Sponsoring Organizations.\nPeoples Movement Assembly: a 4 hour session that requires 2 registered Sponsoring Organizations.\n<p style=\"text-align: center;\"><strong>What are Satellite sites?</strong></p>\nYou can learn more about the Satellite sites at the following links:\nJackson:\nhttps://www.ussocialforum.net/jackson\n\nFlorence:\nhttps://www.ussocialforum.net/florence\n\nMexico:\nhttps://www.ussocialforum.net/aboutmexico\n<p style=\"text-align: center;\"><strong>Would you like to sponsor the US Social Forum? Are you interested in tabling?</strong></p>\n<p style=\"text-align: left;\">You can learn more about sponsorship here:</p>\n<p style=\"text-align: left;\">https://www.ussocialforum.net/sponsortheussf</p>\nYou can get information on tabling here:\nhttps://www.ussocialforum.net/ussftable\n<p style=\"text-align: center;\"><strong>What about housing and food?</strong></p>\nFor the most part, folks will be on their own for food. However, there will be plenty of food spaces available for folks at both locations in terms of vendors, restaurants and other options. Please check out www.ussfphilly.org and www.ussfsanjose.com for more details.\n\nHousing has been, and continues to be a struggle, so please be on the lookout in the next couple of days for more information in this regard.\n<p style=\"text-align: center;\"><strong>What are some examples of the programming that is currently available?</strong></p>\nYou can view all accepted programming for Philadelphia and San Jose at the following link.\nhttps://www.ussocialforum.net/submissions\n\nAgain, the deadline for submissions has been moved to June 5th.\n<p style=\"text-align: center;\"><strong>Stay Tuned for more information!!</strong></p>\nOn the Edge of Silicon Valley\nhttps://www.youtube.com/watch?v=qDq23hwy2co\n\nThe Real Philadelphia\nhttps://www.youtube.com/watch?v=GCbIPfT-t6Y"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

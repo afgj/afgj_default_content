@@ -1,0 +1,45 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 2097ae93-a297-410b-acc6-d59748d40e90
+  bundle: mt_background_image_block
+  default_langcode: en
+  depends:
+    e3116523-c795-43e0-a5d0-44b826877578: file
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Background image block - Albums (carousel)'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_background_image:
+    -
+      entity: e3116523-c795-43e0-a5d0-44b826877578
+      alt: albums
+      title: ''
+      width: 1920
+      height: 1080
+  field_mt_bg_image_color:
+    -
+      value: 'region--light-typography region--dark-background'
+  field_mt_bg_image_layout_mode:
+    -
+      value: container
+  field_mt_bg_image_opacity:
+    -
+      value: 80
+  field_mt_bg_image_positioning:
+    -
+      value: false
+  field_mt_block_reference:
+    -
+      target_id: views_block__mt_albums_carousel_block_1
+    -
+      target_id: tellusaboutyourproject

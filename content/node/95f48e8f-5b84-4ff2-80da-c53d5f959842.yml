@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 95f48e8f-5b84-4ff2-80da-c53d5f959842
+  bundle: article
+  default_langcode: en
+  depends:
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Help Save Lives – Support Honduras Solidarity Network'
+  created:
+    -
+      value: 1451503633
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /help-save-lives-support-honduras-solidarity-network
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "[caption id=\"\" align=\"alignright\" width=\"372\"]<img class=\"\" src=\"http://org2.salsalabs.com/o/7315/images/accompaniment.jpeg\" alt=\"\" width=\"372\" height=\"209\" /> AfGJ delegation to Honduras[/caption]\n\n&nbsp;\n\nIf it were not for the Honduras Solidarity Network (US &amp; Canada), Honduras would be an even more dangerous place to be a union organizer, a peasant cooperative member, an indigenous activist, a student demonstrator, an LGBT organizer, an investigative journalist, or a human rights worker.\n\n[caption id=\"\" align=\"alignleft\" width=\"328\"]<img class=\"\" src=\"http://org2.salsalabs.com/o/7315/images/honduras2.jpg\" alt=\"\" width=\"328\" height=\"246\" /> Chicago teachers and youth accompanying indigenous community at Rio Blanco[/caption]\n\n&nbsp;\n\nIt is the courageous people of Honduras, organized in their social movements, who will refound their State and build a true democracy. But it is also important that the spotlight of international attention be focused on Honduras. The murderers, thieves, corrupt officials, drug-running oligarchy, and the torturers in the police and military, want to conduct their crimes under the cover of darkness. The Honduras Solidarity Network – with your help – keeps that international spotlight illuminating the darkest parts of the post-coup power structure.\n\n[caption id=\"\" align=\"alignright\" width=\"391\"]<img class=\"\" src=\"http://org2.salsalabs.com/o/7315/images/Honduras1.jpg\" alt=\"\" width=\"391\" height=\"250\" /> La Voz/HSN delegations accompanying evicted campesino communities[/caption]\n\n<a href=\"https://org2.salsalabs.com/o/7315/donate_page/hsn\">We need your financial and activist support to keep the pressure on. Our actions save lives in Honduras.</a>\n\nWe also need your support to pressure our own government. After the coup of June 28, 2009, the Obama Administration, directed by the Clinton-run State Department, left no stone unturned in an effort to force the world to accept the coup government. As a result, Honduras is now a virtually failed State with US armed and trained military and police leading the violence against those who want democracy and justice.\n\nDue to the efforts of the 30 groups in the Honduras Solidarity Network, majorities of Democrats in Congress have signed on to letters to the administration that demand restrictions on lethal aid and an end to impunity and corruption.\n\n[caption id=\"\" align=\"alignleft\" width=\"434\"]<img class=\"\" src=\"http://org2.salsalabs.com/o/7315/images/honduras_teach_union.jpg\" alt=\"\" width=\"434\" height=\"289\" /> Chicago teachers visiting school in Tegucigalpa[/caption]\n\n&nbsp;\n\nWon’t you help us help the brave people of Honduras with a generous tax-deductible donation? Together we can make 2016 a safer year to be a Honduran and help give hope that their efforts to build a better country will bear fruit.\n\n&nbsp;\n<p style=\"text-align: right;\"><strong><a href=\"https://org2.salsalabs.com/o/7315/donate_page/hsn\">Make a tax-deductible donation by credit card online!</a></strong></p>\n<p style=\"text-align: right;\"><strong>Donate by Check: make check payable to HSN/AfGJ and mail to:</strong></p>\n<p style=\"text-align: right;\"><strong>Honduras Solidarity Network</strong>\n<strong>c/o Alliance for Global Justice</strong>\n<strong>225 E 26th St., Ste. 1</strong>\n<strong>Tucson, AZ 85713</strong></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

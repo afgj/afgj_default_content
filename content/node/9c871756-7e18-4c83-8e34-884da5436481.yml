@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 9c871756-7e18-4c83-8e34-884da5436481
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Tear Down the Walls Delegation to Mexico, March 2017'
+  created:
+    -
+      value: 1485946364
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /tear-down-walls-delegation-mexico-march-2017
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2 style=\"text-align: center;\">March 10-20, 2017. For an application, send an email to <a href=\"mailto:DELEGATIONS@AFGJ.ORG\">DELEGATIONS@AFGJ.ORG</a></h2>\r\nDonald Trump has signed his executive order on border security and immigration enforcement. He has put into hyper-drive policies that have been underway in various forms since construction of the border wall began under the Clinton administration. He has not only called for finishing the wall, but for more deportations, more border militarization, more immigrant detention prisons. We must prepare, educate ourselves, and reach across the border and unite in binational resistance to this madness.\r\n\r\n<a href=\"https://afgj.org/the-peoples-hammer-can-tear-down-any-border-wall\">On both sides of the US-Mexico border, working, rural and indigenous people are under attack. On both sides of the border, the oligarchies of Mexico and the United States are meeting together to maximize social control so they can maximize profits. And on both sides of the border, people are rising up and fighting back!</a>\r\n\r\nThe cost of the delegation is $1,400 and includes all domestic flights in Mexico, \_delegation-related land travel, lodging, meals, translation services and other delegation related costs. Our hosts in Mexico will be the <a href=\"http://codepappo.org/CODEP-MNPP/observatorio-d-h-de-los-pueblos/\">Peoples Human Rights Observatory</a>, the <a href=\"http://codepappo.org/\">Council for the Defense of the People’s Rights</a> and the <a href=\"http://limeddh.blogspot.com/\">Mexican League in Defense of Human Rights</a>. Some scholarships and discounts may be available. Send an email to <a href=\"mailto:DELEGATIONS@AFGJ.ORG\">DELEGATIONS@AFGJ.ORG</a> to apply. Applications are due by February 8, 2016.\r\n<h3>\_Why We're Going and What We'll Do</h3>\r\nThe Tear Down the Walls Delegation to Mexico has two goals: 1) to learn about Mexico’s major struggles and build links with our struggles in the US; 2) to study in depth the role of the United States in promoting mass incarceration and police and border militarization both inside and outside Mexico.\r\n\r\n<strong><u>Delegation Itinerary</u></strong>\r\n\r\nMarch 10: Forum in Tucson, Arizona—Drug War and Immigration Lies: Foundations for Prison and Border Walls\r\n\r\nMarch 11: Arizona border militarization tour and trip to Cananea, Mexico, where workers are striking against the Grupo Mexico mine. That mine is responsible for the worst environmental disaster in Mexican history. We will spend the night in Nogales, Sonora and meet with immigrant rights and popular movement leaders.\r\n\r\nMarch 12: In Hermosillo, Sonora we will meet with leaders of the teachers union (CNTE) and hear about their successful campaign for the release of political prisoners from Cefereso #11, the federal penitentiary built with US funding and the first of Mexico’s \_private, for-profit prisons.\r\n\r\nMarch 13: We hope to arrange a morning tour of Cefereso #11.\r\n\r\nMarch 14-16: In Oaxaca, we will meet with former political prisoners and family of current political prisoners as well as with teachers union, indigenous, prisoner rights and popular movement activists. We will travel to an indigenous village and learn about their struggles. We will take an afternoon to visit the Monte Alban ruins.\r\n\r\nMarch 17: Travel to Mexico City where we will attend events associated with the anniversary of the Mexican League in Defense of Human Rights (LIMEDDH).\r\n\r\nMarch 18-19: In Mexico City we will meet with Tortura No Mas (No More Torture), the Comité Cerezo (former political prisoners and prisoner and human rights activists), labor union leaders and experts on immigration and prison issues. As an added treat, we will keep evenings relatively free for those who wish to attend the Vive Latino music festival or enjoy other cultural outings.\r\n\r\nMarch 20: End of Delegation"
+      format: full_html
+      summary: ''

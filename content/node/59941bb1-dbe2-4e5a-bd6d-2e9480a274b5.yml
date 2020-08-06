@@ -1,0 +1,61 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 59941bb1-dbe2-4e5a-bd6d-2e9480a274b5
+  bundle: article
+  default_langcode: en
+  depends:
+    6b8869c4-03b6-44c5-911b-2ca0221d637f: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Fourth Article'
+  created:
+    -
+      value: 1465328752
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /fourth-article
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise <a href=\"#\">with competitive technologies</a>. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n\r\n<blockquote>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies. Appropriately communicate adaptive imperatives rather than value-added potentialities.</blockquote>\r\n\r\n<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise <a href=\"#\">with competitive technologies</a>. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n\r\n<h3>Lorem ipsum dolor sit amed consetatur</h3>\r\n\r\n<p>Compellingly <a href=\"#\">recaptiualize enterprise-wide web-readiness</a> for robust strategic theme areas. Synergistically reconceptualize user-centric functionalities via revolutionary strategic theme areas. Progressively transition out-of-the-box leadership skills rather than top-line and <a href=\"#\">this is a hover link</a>.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_image:
+    -
+      entity: 6b8869c4-03b6-44c5-911b-2ca0221d637f
+      alt: 'Fourth Article'
+      title: 'Fourth Article'
+      width: 750
+      height: 500
+  field_mt_slideshow:
+    -
+      value: false
+  field_mt_video:
+    -
+      value: 'https://www.youtube.com/watch?v=3wbvpOIIBQA'
+  field_tags:
+    -
+      target_id: 9
+    -
+      target_id: 10

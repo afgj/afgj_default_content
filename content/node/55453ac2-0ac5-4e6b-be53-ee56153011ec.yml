@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 55453ac2-0ac5-4e6b-be53-ee56153011ec
+  bundle: article
+  default_langcode: en
+  depends:
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Paraguay Delegation Report Now Available'
+  created:
+    -
+      value: 1522332586
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /paraguay-delegation-report-now-available
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter wp-image-7879 size-full\" src=\"https://afgj.org/wp-content/uploads/2017/06/paraguardelsmall.jpg\" alt=\"\" width=\"489\" height=\"439\" />\r\n\r\nNovelist Augusto Roa Bastos once described his native and insular Paraguay as “an island surrounded by land”. In August of 2017, AfGJ Board Member John Ocampo led this first-time AfGJ delegation to Paraguay, a little-known country to\_US solidarity activists, students, and Latin American Studies departments. Paraguay has the most unequal land\_distribution in the world and its agro-export model leaves little land to grow food for its own people, earning the\_country the label of “Soy Republic.”\r\n<h1 style=\"text-align: center;\"><a href=\"https://afgj.org/wp-content/uploads/2018/03/Paraguay-Delegation-AUG-2017-AFGJ.pdf\" target=\"_blank\" rel=\"noopener\">Read More in the Delegation's Report</a></h1>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

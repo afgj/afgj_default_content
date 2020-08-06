@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5852cac2-f2d8-4968-b4f6-dc0182f758bc
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Meet with Colombia Peace Negotiators in Havana, Cuba'
+  created:
+    -
+      value: 1420025218
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /meet-colombia-peace-negotiators-havana-cuba
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=z2v4oOJzvltvJf5HpWw7dTxLm3gjKsPV\" target=\"_blank\">Havana, Cuba--<span class=\"aBn\" data-term=\"goog_1981731905\"><span class=\"aQJ\">April 11</span></span>-<span class=\"aBn\" data-term=\"goog_1981731906\"><span class=\"aQJ\">18, 2015</span></span></a></h1>\r\n<p style=\"text-align: center;\"><img class=\"aligncenter  wp-image-5986\" src=\"https://afgj.org/wp-content/uploads/2014/12/cuba1.jpg\" alt=\"cuba1\" width=\"525\" height=\"397\" /></p>\r\n<strong>The Alliance for Global Justice</strong> has been invited by the Comité Permanente por la Defensa de los Derechos Humanos (Permanent Committee for the Defense of Human Rights - CPDH) to visit Havana, Cuba in support of the Colombian peace process. Negotiaters are making historic progress toward ending the world's longest standing major war. Delegates will have a unique and unprecedented opportunity to hear from both parties at the negotiating table as well as from representatives of the supporting countries of Cuba, Norway, Venezuela and Chile. This delegation will conduct a thorough investigation of the peace process, including assessing the role of the United States in regards to the armed conflict and how our country can help make this process a success.\r\n\r\nAfGJ is also thrilled by the recent thaw in US-Cuba relations and we continue to celebrate the release of all of the Cuban Five anti-terrorist heroes. We will therefore be including in our itinerary visits with Cuban officials, unionists, students and social movement leaders, as well as with members of the Cuban Five and their families, both to learn about Cuba and to learn what we can do to be in solidarity with the citizens of that country during this new period.<img class=\"alignright wp-image-5985 \" src=\"https://afgj.org/wp-content/uploads/2014/12/cuba2-150x112.jpg\" alt=\"cuba2\" width=\"231\" height=\"230\" />\r\n\r\n<em>We have tentatively set a delegation price-tag of $1,500 per person, which includes lodging, meals, translation, transportation from Cancún, México to Havana, in-country transportation and other delegation-related expenses. Round trip air fare from the United States to Cancún is not included.</em>\r\n\r\n⇒Flyer <a href=\"https://afgj.org/wp-content/uploads/2014/12/Cuba-Delegation-Flyer.pdf\">Cuba Delegation Flyer</a>\r\n\r\n⇒For more information email Chuck Kaufman (Chuck@AfGJ.org).\r\n\r\n⇒ To pay your delegation deposit and fee, <a href=\"https://org2.salsalabs.com/o/7315/donate_page/delegation-payment-2\">click here</a>."
+      format: full_html
+      summary: ''

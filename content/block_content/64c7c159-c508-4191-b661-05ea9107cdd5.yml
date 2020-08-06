@@ -1,0 +1,185 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 64c7c159-c508-4191-b661-05ea9107cdd5
+  bundle: mt_if_block
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: Benefits
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_if:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: bb3e9a4b-4570-47b8-9f8e-7047547602f0
+          bundle: mt_icon_features
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1521738021
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_if_body:
+            -
+              value: "<p>We seek the truth, and write about all of it. Quisque dictum dapibus tortor, ut tristique ex cursus nec. Sed non pharetra risus, vel pretium justo. Sed in gravida mauris. Morbi mollis convallis enim vitae pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et accumsan enim. Vestibulum neque quam, facilisis at mauris non, viverra iaculis felis. Nam finibus eu massa non vehicula. Mauris maximus nec sem vitae fringilla.</p>\r\n"
+              format: full_html
+          field_mt_if_fa_icon:
+            -
+              icon_name: balance-scale
+              style: fas
+              settings:
+                size: fa-4x
+                duotone:
+                  swap-opacity: 0
+                  opacity:
+                    primary: ''
+                    secondary: ''
+                  color:
+                    primary: '#000000'
+                    secondary: '#000000'
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''
+          field_mt_if_title:
+            -
+              value: 'Justice and Truth'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 8ea543e3-4ad1-404b-aff7-f044e7212322
+          bundle: mt_icon_features
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1521738021
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_if_body:
+            -
+              value: "<p>Utilize AFGJ as your fiscal sponsor organization. Vestibulum volutpat vitae turpis quis dictum. Suspendisse tempus, elit a viverra hendrerit, enim nisl accumsan enim, eget consequat lectus dolor in augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget eros mattis, dapibus massa vitae, ultrices massa.</p>\r\n"
+              format: full_html
+          field_mt_if_fa_icon:
+            -
+              icon_name: money-bill-alt
+              style: fas
+              settings:
+                size: fa-4x
+                duotone:
+                  swap-opacity: 0
+                  opacity:
+                    primary: ''
+                    secondary: ''
+                  color:
+                    primary: '#000000'
+                    secondary: '#000000'
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''
+          field_mt_if_title:
+            -
+              value: 'Fiscal Sponsorship'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 4ee4b60a-a192-43c9-b663-cd43a003c14d
+          bundle: mt_icon_features
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1521738050
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_if_body:
+            -
+              value: "<p>We are building a more unified people's movement. Nullam sollicitudin libero a ligula fermentum, quis luctus turpis malesuada. Integer eleifend erat vitae magna luctus, dapibus faucibus eros aliquam. Maecenas at ante lorem. Sed risus metus, luctus suscipit accumsan et, gravida eu massa. Proin et augue nec ligula hendrerit imperdiet id a nunc. Suspendisse et dictum arcu. Quisque quis risus pharetra odio vulputate placerat fringilla lobortis justo. Donec quis leo quis lorem laoreet gravida.</p>\r\n"
+              format: full_html
+          field_mt_if_fa_icon:
+            -
+              icon_name: sitemap
+              style: fas
+              settings:
+                size: fa-3x
+                duotone:
+                  swap-opacity: 0
+                  opacity:
+                    primary: ''
+                    secondary: ''
+                  color:
+                    primary: '#000000'
+                    secondary: '#000000'
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''
+          field_mt_if_title:
+            -
+              value: 'People''s Organizing'

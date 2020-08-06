@@ -1,0 +1,79 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 7035108d-f0ef-4376-bae2-a7d3d2e7d3dc
+  bundle: article
+  default_langcode: en
+  depends:
+    559721eb-b73d-4d86-a9b5-58f46584daa3: taxonomy_term
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    1c0c4377-b739-4293-a00a-331346b8aa16: taxonomy_term
+    cd0b4a40-9b03-4048-a812-892416542fb4: taxonomy_term
+    ca4e52ca-2d48-486f-8d00-3553c0a7f296: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Massacre in Tumaco - US Pushes for More Repression'
+  created:
+    -
+      value: 1507548656
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /massacre-tumaco-us-pushes-more-repression
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "by James Jordan\n\n<img class=\"alignleft wp-image-8302\" src=\"https://afgj.org/wp-content/uploads/2017/10/WhatsApp-Image-2017-10-06-at-6.20.37-PM.jpeg\" alt=\"\" width=\"383\" height=\"258\" />The Colombian National Police massacred between 8 and 16 persons, wounding more than 50, in the municipality of Tumaco, Nariño on Thursday afternoon, October 5, 2017. The attack was directed against protesting coca growing families demanding the government fulfill its commitments to voluntary eradication programs.\n\nAdditionally, on Sunday, October 8, 2017, the National Police attacked an international team sent to investigate the massacre. The police used tear gas and stun grenades to disperse representatives from the United Nations, the Organization of American States, and a journalist from the Colombian weekly, Semana. The National Police and Colombia's military are both under the direction of the Ministry of Defense.\n<ul>\n \t<li>\n<h2><a href=\"http://org2.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=1&amp;url=http%3A%2F%2Forg2.salsalabs.com%2Fo%2F7315%2Fp%2Fdia%2Faction4%2Fcommon%2Fpublic%2F%3Faction_KEY%3D25431\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://org2.salsalabs.com/dia/track.jsp?key%3D-1%26url_num%3D1%26url%3Dhttp%253A%252F%252Forg2.salsalabs.com%252Fo%252F7315%252Fp%252Fdia%252Faction4%252Fcommon%252Fpublic%252F%253Faction_KEY%253D25431&amp;source=gmail&amp;ust=1507660206630000&amp;usg=AFQjCNH1ShxNKVsieke-QhNTb6YOqVn4vQ\">Demand that Colombia's government end the violence and fulfill commitments to crop substitution programs in Tumaco</a></h2>\n</li>\n \t<li>\n<h2><a href=\"http://org2.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=2&amp;url=http%3A%2F%2Forg2.salsalabs.com%2Fo%2F7315%2Fp%2Fdia%2Faction4%2Fcommon%2Fpublic%2F%3Faction_KEY%3D25430\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://org2.salsalabs.com/dia/track.jsp?key%3D-1%26url_num%3D2%26url%3Dhttp%253A%252F%252Forg2.salsalabs.com%252Fo%252F7315%252Fp%252Fdia%252Faction4%252Fcommon%252Fpublic%252F%253Faction_KEY%253D25430&amp;source=gmail&amp;ust=1507660206630000&amp;usg=AFQjCNF9NnaaOCNpFK9FxfxL2zW8DbiIEQ\">Demand that the White House support voluntary eradication and stop encouraging violence against rural Colombians</a></h2>\n</li>\n</ul>\nInitially, the Colombian government claimed that the massacre was the result of an attack by dissident insurgents who oppose accords between the Colombian government and the Revolutionary Armed Forces of Colombia - People's Army (FARC-EP). However, eyewitnesses from the community concur that the violence was perpetrated by the police. Since the implementation of the accords, Tumaco has been the site of several assassinations of local leaders and attacks against protesters by the armed forces and paramilitaries.\n\nColombian peace accords were implemented as the law of the land in late November 2016. They include provisions for crop substitution and infrastructure development to create a viable alternative to illicit crops. Under the National Comprehensive Program for Illicit Crop Substitution, the Colombian government has signed 105,000 crop substitution pacts with rural families and it is estimated that its goal of crop substitution programs for 50,000 hectares will be reached by the end of the year. The government has also forcibly eradicated another 50,000 hectares during the same period, often in the same areas where it has signed substitution agreements.\n\nEven when substitution pacts have been signed, they have been beset with delays in payments and infrastructure and road improvements. Some peasant families complain that they must travel through areas of paramilitary activity to access benefits. Another difficulty has been that some communities requesting to participate in the voluntary program have been ignored and subjected to forced eradication.\n\nThe Trump administration is pressuring Colombia to abandon the voluntary program in favor of forced eradication which frequently results in state violence. The White House is also urging Colombia to return to aerial fumigation of illicit crops with Monsanto’s RoundUp Ultra. Vice President Mike Pence, Ambassador to Colombia Kevin Whitaker, and William Brownfield, the Assistant Secretary of State for the Bureau of International Narcotics and Law Enforcement Affairs, have all declared that the US will not support voluntary eradication programs because they are the result of accords signed between the Colombian government and the FARC-EP. The fact does not seem to matter that these accords have brought an end to a 52-year civil war that left more than 220,000 persons dead; 92,000 disappeared; and 6 million rural families displaced. Nor does it matter that the FARC-EP no longer exists and former insurgents have disarmed. The new FARC, the Common Alternative Revolutionary Force, is a legal, nonviolent, and civilian political party that is integrated into civil society.\n\nThe White House justifies their position by repeating the myth that the now defunct FARC-EP have been and continue to be major narcotics traffickers. However, both Colombian and US government studies have debunked this assertion. It is generally recognized that the FARC-EP had levied a tax on narco-traffickers, but had not been major producers or merchants of narcotics. A 2001 Colombian government study found right wing paramilitaries to be responsible for more than 40% of the cocaine trade and the FARC-EP for no more than 2.5%.\n\nDonnie Marshall, the head of the Drug Enforcement Agency under Pres. George W. Bush has gone on record saying, “…there is no evidence that any FARC or ELN units have established international transportation, wholesale distribution or drug money-laundering networks in the United States or Europe.”\n\nAccording to Rafael Suarez, who was a military advisor to the Uribe administration, “if you reduce the FARC to just a drug cartel, you make the possibility of negotiating a political settlement more difficult.” Of course, if the goal is not peace, but the consolidation of stolen lands, then the strategy works well of branding the FARC-EP as major drug traffickers and carrying out a “War on Drugs” that is really a War of Displacement and a War against Farmers.\n\nOn the other hand, Colombia’s former president Álvaro Uribe was on a Defense Intelligence Agency list in 1991 as one of Colombia's top narco-traffickers. His administration received billions of dollars in US funding via Plan Colombia.\n\nWilliam Brownfield first came to the State Department in 1979, under the Carter Administration. He was promoted to his current position as an Assistant Secretary of State under Pres. Barak Obama and continues in the job under the Trump administration. Before that, he had served as Ambassador to Colombia during the Uribe administration, and as Ambassador to Chile and to Venezuela. He has had assignments with the State Department and the Pentagon's Southern Command in El Salvador, Argentina, Panama, and Honduras. He is accused of helping cover up an incident in which four Honduran community members, including two pregnant women, were killed with shots fired from a State Department helicopter in 2012. He has announced his imminent retirement.\n\nBut given his long background as a promotor of the US Empire, his pronouncements against voluntary eradication programs in Colombia are chilling. On August 2, 2017, Brownfield reported that, \"The United States is not currently supporting the Colombian government's voluntary eradication and crop substitution program because the FARC is involved.... In 2016, 675 attempted eradication operations were cancelled in the field due to restrictive rules of engagement that prevented security forces from engaging protestors.\"\n\n<img class=\"alignleft wp-image-8299\" src=\"https://afgj.org/wp-content/uploads/2017/10/IMG_20160603_180634.jpg\" alt=\"\" width=\"436\" height=\"320\" />We of the Alliance for Global Justice are intimately familiar with circumstances facing rural Colombian families who are forced to cultivate illicit crops such as coca, marijuana, and poppies. We have a close relationship with FENSUAGRO, Colombia's federation of agricultural workers and peasant farmers unions. We have traveled extensively with FENSUAGRO on barely passable roads to villages where families are trying to raise and sell legal crops, especially in coffee growing areas. They do so against incredible odds. We have traveled roads that have required us to stop every 15 to 20 minutes to make repairs just so we could keep going. We have trampled in the rainy season to villages like Maracaibo, Tolima, where we were laboring through paths so muddy that we were covered up to and past our knees. We have seen again and again rural villages that lack schools and teachers (or that have schools with virtually no supplies), health services, electricity, or any viable way to get crops to markets. In such cases, families turn to the cultivation of illicit crops because narcotraffickers are the only economic interests who will travel to these villages to make purchases.\n\nFor the United States government to demand forced eradication over voluntary programs constitutes nothing less than a cynical call for bloody repression of Colombian farming families. The Trump administration does not want peace in Colombia. It wants more death and displacement so that access to natural resources is cleared for transnational corporations. It wants Colombia to exist first and foremost as an outpost of Empire and a threat to the stability of the entire region. We who love peace and justice want something very different. We know that a Colombia at peace and rooted in justice would be a major step towards peace, justice, and liberation from Empire throughout Latin America and, indeed, the world.\n\n&nbsp;\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 559721eb-b73d-4d86-a9b5-58f46584daa3
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 1c0c4377-b739-4293-a00a-331346b8aa16
+    -
+      entity: cd0b4a40-9b03-4048-a812-892416542fb4
+    -
+      entity: ca4e52ca-2d48-486f-8d00-3553c0a7f296
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

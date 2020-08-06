@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3df46e43-22d0-45de-9423-16b7491ff351
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    cb4617c7-3c39-4ae4-a5e6-a44b174be3d3: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Climate Justice Means Solidarity with Colombia'
+  created:
+    -
+      value: 1568969238
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /climate-justice-means-solidarity-colombia
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "&nbsp;\r\n<p style=\"text-align: center;\"><img class=\" wp-image-12101 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2019/09/3-1024x1024.png\" alt=\"\" width=\"444\" height=\"444\" /></p>\r\nby James Patrick Jordan\r\n\r\nBack in 2015, I went with leaders of the Fensuagro agricultural workers federation to observe a series of consultations in the coffee growing areas of the Department of Tolima. These consultations were to ask rural communities about what their hopes were for the pending Peace Accord, and what kinds of benefits and developments they looked forward to via the agreement. A major component of the accord, which would be finalized in November 2016, was a commitment by the state for rural development to create alternatives to the cultivation of crops with illicit uses, open up new markets, and build decent roads to get those crops to those markets.\r\n\r\n[caption id=\"attachment_12116\" align=\"alignleft\" width=\"365\"]<img class=\" wp-image-12116\" src=\"https://afgj.org/wp-content/uploads/2019/09/IMG_20160603_140920-1024x768.jpg\" alt=\"\" width=\"365\" height=\"274\" /> Consultation with Fensuagro farmers in the village of Maracaibo, township of Rioblanco,Tolima[/caption]\r\n\r\nI was very surprised by the main content of the consultations. Yes, the farmers talked about their expectations for peace. Yes, they talked about the relief they longed to experience cultivating crops without fear of war and political violence. But what they talked even more about had to do with their concerns around climate change. In every community we visited, we heard about how the farmers were being impacted by new weather patterns that were shrinking the zones where coffee could be grown. They also talked about new infestations of pests that were plaguing their fields as a result of warming temperatures. The issue of substitution was no longer just one of converting illicit cultivation to licit. They were discussing substituting new crops for coffee because the ecosystem had been irreversibly altered.\r\n\r\nSince the Peace Accord was implemented, virtually none of the commitments of the state for rural development have been honored. The administration of US President Donald Trump has advocated repeatedly against those commitments and called for forced eradication of coca and marijuana fields with no development in return. The White House has demanded a return to the spraying of entire communities with the carcinogen glyphosate (developed by Monsanto as RoundUp), that defoliates not only illegal crops, but also natural vegetation as well as alternative and legal agricultural production. The puppet administration of Colombia’s President Ivan Duque has been all too willing to comply with Trump’s demands.\r\n\r\nThis has coincided with the highest levels of political violence against popular movements and rural communities in many years. An oft repeated statistic is that every 30 hours a social movement leader or human rights defender is murdered in Colombia. Most these can also be described as environmental activists and land and water protectors. As many as 75% of the victims are from rural communities.\r\n\r\nColombia’s rural, indigenous, and Afro-Colombian communities are truly on the front line when it comes to combating the effects of climate change and other attacks on the environment. Earth defenders are killed, and families are forcibly displaced because the territories they inhabit are coveted by oil companies, mining companies, hydroelectric companies, big agribusinesses wanting to impose vast fields of monoculture crops, and narco-traffickers. One example is the village of Las Vegas in the municipality of Dolores, Tolima, where coffee growers were being forced off their land because the area had been found to contain oil reserves.\r\n\r\nI have also traveled extensively in Colombia’s far north, where the Department of La Guajira is found. In that department, every\r\n\r\n[caption id=\"attachment_12118\" align=\"alignright\" width=\"491\"]<img class=\" wp-image-12118\" src=\"https://afgj.org/wp-content/uploads/2019/09/IMG_4144-1024x768.jpg\" alt=\"\" width=\"491\" height=\"368\" /> Springtime in La Guajira, no green to be seen[/caption]\r\n\r\nyear 600 to 700 Wayuú indigenous children die because of a drought exacerbated by coal mining developments. There and in the next-door Department of César, big coal mining projects like Cerrejón and the Drummond mines are diverting water resources and contaminating the water that remains. The region’s rivers and streams are the lifeblood of local agriculture. The theft and contamination of these water sources has worsened the effects of the drought, pushing hunger, and malnutrition to epic proportions.\r\n\r\nIt is no secret how oil and coal mine development contribute to global warming. However, what is less understood by many is the intimate link between the struggle for climate justice and ecological sustainability, and the struggle for liberation from Empire and the spread of global capitalism. The diffusion of transnational and private access to resources is backed up by the military might of the United States and its allies.\r\n\r\nWhen we investigate what propels global warming, threat number one is the US/NATO/Transnational Corporate Empire. It follows, then, that the best way to save the Earth is to dismantle that Empire. The Empire has invested more than $12 billion in Colombia to militarize that nation. Whether repressing its own popular movements within or providing a launching pad for aggressions against Venezuela and other independent voices in the region, the Empire is using Colombia to silence and subdue those that stand in the way of privatization.\r\n\r\nThe Empire leads the drive toward ecological collapse. The single largest institutional source of greenhouse gasses is the Pentagon. In 2014, the Alliance for Global Justice was one of 37 popular movement organizations from around the world that signed the <a href=\"https://afgj.org/if-we-want-to-save-the-world-an-internationalist-declaration\">“If You Want to Save the World” declaration</a>, which stated that,\r\n<p style=\"padding-left: 40px;\">“Only five companies are responsible for 12.5% of the greenhouse gasses that are emitted into the atmosphere:\_\_Chevron-Texaco, Exxon-Mobil, British Petroleum, Shell Oil and Conoco-Phillips. Their protector, the US armed forces is in turn\_the single governmental or corporate institution that consumes more petroleum products and emits more greenhouse gasses than any other in the world. Nevertheless, the US demands that the climate impact caused by the US military will not be brought up in any of the climate negotiations—and the UN accepts this.</p>\r\nThe declaration also spoke about exactly what it would take to truly reverse this rush toward planetary destruction:\r\n<p style=\"padding-left: 40px;\">“The same imperialism that has caused so much damage to the Global South today continues expanding and threatening the whole planet. Consequently, the struggle for climate justice has converted into a struggle for the liberation of all workers, peasants, indigenous and ecosystems. The struggle against Empire is a struggle to save life on Earth.”</p>\r\nAny serious effort to save the world, to end war, to establish peace and justice, including climate justice, is always, at its heart, a struggle to dismantle the stranglehold of Empire. This is especially true with regards to Colombia. Colombia provides the most crucial base of operations for the Empire in Latin America. The US has access to military bases throughout the country, with a permanent presence at seven of them. Colombia is strategically positioned with coasts on both the Pacific and Atlantic Oceans, and sits as a bridge connecting South America with Central America, the Caribbean, and Mexico. Together, the neighboring nations of Colombia and Venezuela form the strategic heart for Empire’s designs in the Americas. <a href=\"https://mailchi.mp/ec3990c62a02/the-peoples-mobe-is-here-get-the-details?e=5f7f88e442\">The defense of Venezuela’s autonomy</a> and support for Colombia’s liberation are two of the most vital components of any effort to stop the Empire’s march toward total domination of the region.\r\n\r\n<a href=\"https://globalclimatestrike.net/\">On Friday, September 20, young people around the world are conducting a Climate Strike</a> that will serve as a valiant wake-up call to all of us to take action to curb the ecological disaster we are facing. The following Friday, September 27, solidarity activists throughout North and Latin America are coming together to serve notice to Colombian embassies and consulates of a new permanent grassroots campaign to end the political violence and displacement in Colombia. The actions <a href=\"https://afgj.org/peoples-travel-advisory-on-colombia-call-for-international-actions-for-september-27-2019\">on September 27 will kick off the campaign for the People’s Travel Advisory on Colombia</a>. This campaign is a response to an ongoing effort to portray Colombia as a safe paradise for tourists.\_ We are saying, as internationalists, that Colombia is not safe until political violence has ended and the Peace Accord is honored. Both the Climate Strike and the September 27 actions are interrelated. It is up to us to make the connection: climate justice and liberation from Empire are two goals that cannot and must not be separated, that can only be achieved together. Striking for the Climate and standing up for peace in Colombia are good places to start.\r\n\r\n[caption id=\"attachment_12117\" align=\"aligncenter\" width=\"565\"]<img class=\"wp-image-12117\" src=\"https://afgj.org/wp-content/uploads/2019/09/IMG_20160604_083531-1024x768.jpg\" alt=\"\" width=\"565\" height=\"424\" /> Farmers arrive for consultations in the historic El Davis region, Rioblanco, Tolima[/caption]"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: cb4617c7-3c39-4ae4-a5e6-a44b174be3d3
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 50d18c35-5fa2-4fd7-9947-e688d87593ff
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NicaNotes: Humor and Irony from the United States'
+  created:
+    -
+      value: 1484144421
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-humor-and-irony-united-states
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"aligncenter wp-image-6975 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"nicanotesbannerwbyline\" width=\"579\" height=\"195\" /></a>\n<p class=\"p1\">This week’s NicaNotes guest blog is by a long-time friend of the Nicaragua\_Network, Felipe Stuart.\_Felipe Stuart C. is a dual Nicaraguan-Canadian\_citizen and a longtime socialist and solidarity activist. He is a member of the\_Nicaraguan Frente Sandinista de Liberación Nacional (FSLN).\_His short\_commentary addresses the media hysteria about allegations that the\_Russian government hacked and released embarrassing emails by the\_Democratic National Committee revealing how the DNC was manipulating\_the elections. Felipe asks some questions at the end of his piece. I’d be\_interested in your thoughts. If I get enough good ones, I’ll publish them in an\_upcoming NicaNotes blog. Send your comments to\_<a href=\"mailto:Chuck@AFGJ.org\">Chuck@AFGJ.org</a>.</p>\n\n\n<hr />\n<p class=\"p1\" style=\"text-align: center;\"><strong><span class=\"s1\">Humor and Irony from the United States</span></strong></p>\n<p class=\"p1\">From a Nicaraguan point of view, the “declassified” report on Putin's alleged\_electoral interference in the US presidential election is a mix of humor and\_irony.</p>\n<p class=\"p1\">In our most recent national elections last November, Washington did to\_Nicaragua’s Sandinista party (the FSLN) everything Putin is alleged to have\_done against the USA Democratic Party and Hillary Clinton.</p>\n<p class=\"p1\">On a per capita basis, we faced an army of US-paid anti-Sandinista internet\_trolls hundreds of times the size of those supposedly employed by the\_alleged Putin pro-Trump campaign. On top of that, the entirety of Western\_MSM (mainstream media) participated in this disinformation war. Worse still,\_the assault on Nicaraguan sovereignty has not ended – we ain’t seen nothin\_yet. Now, we are being threatened by the NICA Act, intended, when adopted\_by the Trump regime, to deny Nicaragua access to international credit\_unless we say “Uncle” and dump the FSLN government.</p>\n<p class=\"p1\">Nicaraguans have experienced this kind of electoral intervention ever since\_1984 (and decades back – 1928 -- when US Marines “counted” the votes).\_In 1984, not just trolls and paid journalists attacked our presidential\_elections, but also the Contras, armed to the teeth by the USA. In 1990, we\_voted with guns in our faces, just two months after the US invaded Panama\_and bombed the central part of its capital, killing 20,000 people.</p>\n<p class=\"p1\">Of course, we now have the internet, and Sandinistas – especially the youth\_– have learned how to wage the battle of ideas in that media. The FSLN\_won the youth vote overwhelmingly. Even the pulpit is no longer exclusively\_in the hands of reactionary religious currents. A majority of both\_Evangelicals and Roman Catholics supported the FSLN, often with a\_favorable nod from their “Shepherds.”</p>\n<p class=\"p1\">It is difficult, from afar, and never having been educated in USAmerican-style electoral machinations, to understand what is really behind the attempt\_to Putinize Trump. Is this a dress rehearsal for an impeachment campaign?\_Or, is it another ratcheting up of the Russophobic cold war campaign? Or\_both?</p>\n\n\n<hr />\n<p class=\"p1\"><strong>BRIEFS</strong></p>\n<p class=\"p1\"><span class=\"s1\">\_</span></p>\n\n<ul>\n \t<li class=\"p1\">Rosendo Mayorga, president of the Nicaragua Chamber of\_Commerce, reported that the commercial sector achieved US$2.065 billion\_in total sales for 2016, 8.7% above 2015. \"It was a very good year because\_we surpassed the US$1.9 billion recorded in 2015. This growth in sales was\_driven by an increase in the purchase of food, beverages and household\_goods,\" Mayorga said.\_(Nicaragua News, Jan. 6)</li>\n</ul>\n<ul>\n \t<li class=\"p1\">An International Living report, published in FORBES Magazine last\_week, ranked Nicaragua among the top 10 countries in which to retire in\_2017. The report is based on an evaluation which includes safety,\_healthcare, climate, low living costs, geographical location, and procedures\_to purchase new property.\_(Nicaragua News, Jan. 6)</li>\n</ul>\n<ul>\n \t<li class=\"p1\">Organizations representing people with disabilities are pleased with\_the progress they have made convincing businesses to hire people with\_visual, hearing, and motor disabilities. Dr. Orlando Sevilla, president of the\_Telethon Foundation said, “We have advanced. There has been a great\_opening in the private sector.” He noted that companies in the Free Trade\_Zones are increasingly hiring people with disabilities. Alma Baltodano,\_executive secretary of the Nicaraguan Federation of Associations of\_Persons with Disabilities (FECONORI) cited as examples an auto parts\_manufacturing company that hired 20 deaf people and paid for an interpreter\_for three months while they trained. She also gave the example of tobacco\_companies in Esteli which reportedly employ over 100 people with\_disabilities.\_(El Nuevo Diario, Jan 6)</li>\n</ul>\n<ul>\n \t<li class=\"p1\">Chamber of Energy President Cesar Zamora announced that\_Nicaraguan businesses have 10 renewable energy projects totaling US$600\_million with funding assured. He said they will sit down with the government\_in February to discuss energy priorities and development of the projects.\_Projects include hydroelectric, geothermal, wind, solar and biomass. In\_2016, according to Zamora, US$200 million was invested in renewable\_energy. Zamora also said the business community will meet with the\_government on Jan. 15 to discuss electricity rates.\_(El Nuevo Diario, Jan. 5)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

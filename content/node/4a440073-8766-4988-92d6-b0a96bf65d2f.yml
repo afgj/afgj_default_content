@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4a440073-8766-4988-92d6-b0a96bf65d2f
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+    2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela & ALBA Weekly 1.26.2018 US, EuroUnion Denounce Venezuela for Calling Elections, Impose Sanctions'
+  created:
+    -
+      value: 1516990243
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-alba-weekly-1262018-us-eurounion-denounce-venezuela-calling-elections-impose-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-8903 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/01/image.png\" alt=\"venezuela meme\" width=\"1200\" height=\"781\" />\n\n<b>Jan 26th, 2018</b>\n\nThis weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\n\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\n\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=4G62FrZLtKpw2pDTihLPd6j1FjKE8bC9\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=JbzVeknDe0hE4xsuH37RNKj1FjKE8bC9\">Venezuelanalysis.com</a>.\n\n<hr />\n<p style=\"text-align: center;\"><strong><a href=\"https://venezuelanalysis.com/donate\" target=\"_blank\" rel=\"noopener\">Help Support Venezuelanalysis: Halfway to Their Fundraising Goal</a></strong></p>\n\n\n<hr />\n<p style=\"text-align: center;\"><strong>Featured:</strong></p>\n<p style=\"text-align: center;\"><strong><a href=\"https://afgj.org/register-now-venezuela-webinar-sunday-un-official-present-venezuela\" target=\"_blank\" rel=\"noopener\">Venezuela Webinar Sunday January 28 with Alfred de Zayas,\nUN Representative</a></strong></p>\n\n\n<hr />\n\n<a href=\"https://www.investigaction.net/en/the-sanctions-must-be-terminated-and-the-economic-war-must-end-alfred-de-zayas/\" target=\"_blank\" rel=\"noopener\">Interview “The Sanctions Must be Terminated and the Economic War Must End” – Alfred de Zayas, UN Representative</a>\n\n<a href=\"http://www.venezuelasolidarity.co.uk/frequently-asked-questions-the-current-situation-in-venezuela/\" target=\"_blank\" rel=\"noopener\">VenezuelaSolidarityUK: Frequently Asked Questions : The Current Situation in Venezuela</a>\n\n<a href=\"https://www.greenleft.org.au/content/venezuela-european-union-sanctions-presidential-elections\" target=\"_blank\" rel=\"noopener\">1984 in action: US, Almagro, European Union Condemn Venezuela Elections, Impose Sanctions on the People, While Calling for \"Democracy\" and \"Human Rights\"</a>\n\n<a href=\"http://reinounido.embajada.gob.ve/index.php?option=com_content&amp;view=article&amp;id=820%3Acomunicadosanciones&amp;catid=3%3Anoticias-de-venezuela-en-el-mundo&amp;Itemid=19&amp;lang=en\" target=\"_blank\" rel=\"noopener\">Venezuela Condemns European Union Sanctions \"Today the European Union once again offers irrefutable proof of its obvious subordination to the racist and supremacist government of Donald Trump\"</a>\n\n<a href=\"http://en.granma.cu/cuba/2018-01-24/washington-creates-internet-task-force-to-promote-subversion-in-cuba\" target=\"_blank\" rel=\"noopener\">Washington Creates Internet Task Force to Promote Subversion in Cuba</a>\n\n<a href=\"https://www.telesurtv.net/english/news/CIA-Head-Admits-Having-Inspired-US-Sanctions-Against-Venezuela-20180123-0021.html\" target=\"_blank\" rel=\"noopener\">CIA Head Admits Having Inspired US Sanctions Against Venezuela</a>\n\n<a href=\"https://www.cepal.org/en/pressreleases/eclac-highlights-importance-and-opportunity-strengthening-ties-between-china-and-latin\" target=\"_blank\" rel=\"noopener\">CELAC Meeting: Latin American Trade with China at $266 billion in 2017, will Rise to $500 billion. US- Latin America trade at $244 billion in 2017</a>\n\n<a href=\"http://en.granma.cu/mundo/2018-01-19/cuban-embassy-in-venezuela-targeted-by-terrorist-cell\" target=\"_blank\" rel=\"noopener\">Cuban Embassy in Venezuela Targeted with Bombing by Terrorist Group</a>\n\n<hr />\n\n\n\n<hr />\n<p style=\"text-align: center;\"><strong>Allied Issues + Delegations</strong></p>\n<a href=\"https://afgj.org/honduran-democracy-activist-urgently-needs-solidarity\" target=\"_blank\" rel=\"noopener\">Act NOW to Demand the Immediate Liberty of Edwin Espinal Robelo!</a>\n\n<a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\">April Delegation to Nicaragua</a>\n\n<a href=\"https://afgj.org/travel-to-colombia\" target=\"_blank\" rel=\"noopener\">May Delegation to Colombia</a>\n\n<a href=\"https://icangotocuba.wordpress.com/sign-up-now/\" target=\"_blank\" rel=\"noopener\">May Day Delegation to Cuba</a>\n\n<a href=\"http://www.mstbrazil.org/news/send-message-solidarity-lula-da-silva\" target=\"_blank\" rel=\"noopener\">Friends of the MST: Send a Message of Solidarity with Lula</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+    -
+      entity: 2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb
+  field_mt_slideshow:
+    -
+      value: false

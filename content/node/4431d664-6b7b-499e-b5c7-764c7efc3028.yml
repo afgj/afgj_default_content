@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4431d664-6b7b-499e-b5c7-764c7efc3028
+  bundle: article
+  default_langcode: en
+  depends:
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Friends of the ATC Delegation Announcement: Solidarity with Nicaragua!'
+  created:
+    -
+      value: 1552924344
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /friends-atc-delegation-announcement-solidarity-nicaragua
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>July 11th – 21st, 2019</strong>\r\n\r\nExplore the history and current context of Nicaragua through the eyes of the Asociación de Trabajadores del Campo (Rural Workers' Association), a mass organization that represents the people who feed Nicaragua: farmworkers and small farmers. We will exchange with peasants and workers organized by the ATC and other groups in the city and countryside, studying the role of unions, cooperatives, women, and youth in building Nicaragua's popular economy and national sovereignty.\r\n\r\nOur delegation will focus on learning and recovering the rich history of internationalist solidarity with Nicaragua. As a tangible act of our internationalism, we will collect testimonies so that we can return to our communities with resources for sharing the current state of revolutionary struggle in Nicaragua. We will also show our solidarity with the ongoing fight to resist imperialism following 2018's failed coup attempt by joining with thousands of Nicaraguans in Managua to celebrate the 40th Anniversary of the triumph of the Sandinista Revolution on July 19th.\r\n\r\nFor more information, please visit\_<a href=\"http://friendsatc.org/delegations\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=http://friendsatc.org/delegations&amp;source=gmail&amp;ust=1553028854498000&amp;usg=AFQjCNEa-SSGKSw_NenPM71LN6kjEhgKHg\">friendsatc.org/delegations</a>\r\n\r\n<strong>When</strong>: Thursday, July 11th to Sunday, July 21st, 2019.\r\n\r\n<strong>Where</strong>: We will begin and end our trip in the city of Managua, Nicaragua's capital. We will visit urban and rural communities in different areas of the country, concentrating specifically in the northern mountainous regions. Lodging will take place in ATC schools, locally-run hotels, and family homestays.\r\n\r\n<strong>Who</strong>: Curious about or committed to peasant and worker rights, social movements, and internationalist solidarity? We'd love for you to travel with us! Most of all, we want delegates who wish to extend this experience to their own communities upon returning home.\r\n\r\n<strong>Cost</strong>: $1500 ($1000 for low-income individuals). Trip fee includes lodging, meals, in-country transport, translation, and staff coordination. You are responsible for international arrival (or other travel plans to Nicaragua) and personal expenses. Limited scholarships are available. We can provide ideas to help delegates fundraise to cover their trip fee.\r\n\r\n<strong>To Participate</strong>: Email\_<a href=\"mailto:erikatakeo.atc@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">erikatakeo.atc@gmail.com</a>\_for a delegation application. Applications are due by May 15th, 2019. Please don't hesitate to write us directly about application extensions after May 15th.\r\n\r\nThis delegation is organized by the\_<a href=\"https://default.salsalabs.org/Tc8e6e566-1ddd-4e10-a14b-3446ce2bc188/9fdc5c7a-a035-4e01-ba3b-74d2982c3ec0\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tc8e6e566-1ddd-4e10-a14b-3446ce2bc188/9fdc5c7a-a035-4e01-ba3b-74d2982c3ec0&amp;source=gmail&amp;ust=1553028854498000&amp;usg=AFQjCNFiIXypfSetP_CBANaVAL6M2-WmjA\">Friends of the ATC solidarity network</a>\_along with the\_<a href=\"https://default.salsalabs.org/T82d428d5-6888-40bc-97eb-0722b883541e/9fdc5c7a-a035-4e01-ba3b-74d2982c3ec0\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T82d428d5-6888-40bc-97eb-0722b883541e/9fdc5c7a-a035-4e01-ba3b-74d2982c3ec0&amp;source=gmail&amp;ust=1553028854498000&amp;usg=AFQjCNEXdfhRE3NaORP0-qjvEuJc_my-TQ\">ATC</a>, La Via Campesina Nicaragua, and\_<a href=\"https://default.salsalabs.org/Te45db72c-9d36-4999-b614-82b9c68123f8/9fdc5c7a-a035-4e01-ba3b-74d2982c3ec0\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Te45db72c-9d36-4999-b614-82b9c68123f8/9fdc5c7a-a035-4e01-ba3b-74d2982c3ec0&amp;source=gmail&amp;ust=1553028854498000&amp;usg=AFQjCNEX9iFvNFGwRxnMfn7mCuZKlXf8IQ\">Alliance for Global Justice</a>, and supported by the\_<a href=\"https://default.salsalabs.org/T9a277db7-5aa6-44a0-ac18-73e1663b74bc/9fdc5c7a-a035-4e01-ba3b-74d2982c3ec0\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T9a277db7-5aa6-44a0-ac18-73e1663b74bc/9fdc5c7a-a035-4e01-ba3b-74d2982c3ec0&amp;source=gmail&amp;ust=1553028854498000&amp;usg=AFQjCNG6BspZ7XFSf8Gmv3am4JRvd3aggw\">Nicaragua Solidarity Campaign</a>.\r\n\r\n<a href=\"http://friendsatc.org/delegations/\"><img class=\"alignnone size-large wp-image-11436\" src=\"https://afgj.org/wp-content/uploads/2019/02/Solidarity-with-Nicaragua-4-2-791x1024.png\" alt=\"\" width=\"752\" height=\"974\" /></a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+  field_mt_slideshow:
+    -
+      value: false

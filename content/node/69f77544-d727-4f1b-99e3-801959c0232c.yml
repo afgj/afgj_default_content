@@ -1,0 +1,73 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 69f77544-d727-4f1b-99e3-801959c0232c
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    e291f5fc-b608-43bf-958c-d8485725315d: taxonomy_term
+    e1391c31-ce88-4beb-a12d-d58ab528ecd9: taxonomy_term
+    46c3dd60-d9ef-4093-95e7-5f3fd628dc8b: taxonomy_term
+    ff23272a-2c6a-4d3f-b137-4c19843845a6: taxonomy_term
+    4d58c480-4afa-42db-9320-32d1579a7036: taxonomy_term
+    47dbf152-55af-48f9-b366-923795d9a8c9: taxonomy_term
+    f866b718-fd02-493f-8a4a-e61cfdc5f8da: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'THE VORACITY OF NEOLIBERAL CAPITALISM AGAINST THE COMMUNITARIAN LIFE OF THE PEOPLES'
+  created:
+    -
+      value: 1520544003
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /voracity-neoliberal-capitalism-against-communitarian-life-peoples
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Statement of Solidarity with the Yaqui People by the<a href=\"http://codepappo.org/\"> People's Human Rights Observatory and CODEP (Comité de Defensa de los Derechos del Pueblo)</a>\r\n\r\n<a href=\"https://afgj.org/la-voracidad-del-capitalismo-neoliberal-contra-la-vida-comunitaria-de-los-pueblos\">PARA LEER EN ESPAÑOL</a>\r\n<p style=\"text-align: center;\"><img class=\"aligncenter size-large wp-image-9262\" src=\"https://afgj.org/wp-content/uploads/2018/03/Asamblea-de-los-pueblos-invitacion-3m-x-1-1024x512.png\" alt=\"\" width=\"752\" height=\"376\" /></p>\r\n<p style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25996\">Click here to call for the freedom of Fidencio Aldama Pérez, Yaqui political prisoner</a></p>\r\nWe are the men and women that inhabit the South of Mexico, primarily original peoples. We are people of the corn. We come from a historic past, descendents of Zapata, Villa, Ricardo Flores Magón. At every moment our grandfathers and grandmothers resisted the European invasion and we survived the plunder and the crimes of the colonizers. Today we resist the massacre coming from neoliberal politics that are summed up in Yankee Imperialism and the badly named European Union, which is the union of empires, of colonizers. We are the people of an ancient heritage of struggle and resistance.\r\n\r\nThe South is our territory, because the Earth offers us its fruits in recompense for our daily work. From her we are born and to her we return. Here we remain: our sweat and our effort, also our bones remain here. In turn, we care for her mountains, her rivers. We come from the Earth and what she holds in her body represents to us what is most sacred, the part that is most important for us.\r\n\r\nIn Oaxaca, the same as in Chiapas and Guerrero, we have waged great battles, always in defense of our territories because these are not only geographic spaces. They represent the communitarian life and the continuity of our culture. There are fundamental spaces where we develop these: forms of organization, language, worldview, traditions such as collective work and our communal assemblies for making collective decisions. Here is our identity in every moment and the constant struggle for the defense of our territories.\r\n\r\nWe are clear that the Mother Earth “offers us its fruits in recompense for our daily work. From her we are born and to her we return. Here we remain: our sweat and our effort, also our bones remain here. In turn, we care for her mountains, her rivers. We come from the Earth and what she holds in her body represents to us what is most sacred.” From this understanding, we obtain the elements for “the good life (buen vivir) of all”.\r\n\r\nAs indigenous people belonging to the Council for Defense of the Peoplés Rights (CODEP, by its Spanish initials), members of the People’s Assembly in Defense of the Territory and the Public and Free Education and Human Rights, and of the National Movement for Popular Power (MNPP, by its Spanish initials), we declare the permanent struggle for the defense of our territories and human rights, and this is why we declare our fraternal solidarity with the struggle of the Yaqui people of Loma de Bacum in Sonora, who confront in a permanent form the offenses produced by the gas pipeline of a multinational at the service of imperialism. We in the South of Mexico are suffering in the same way from the same kind of plunder and dispossession of our territories. That is why we repudiate the aggressions that our Yaqui, Mayo, Zapotec, Mixtec, Tarahumara or Raraumuris, etc. are living with.\r\n\r\nAlready, all over the planet and in all Latin America, we indigenous peoples suffer the dispossession and plunder of our territories. With this they disrupt our communitarian life, break our culture as original peoples, absorbed by “civilization” (the civilizing model), besides threatening the sovereignty of the nations. To continue, we present a segment from the political declaration of the People’s Assembly in Defense of the Territory and the Public and Free Education and Human Rights from February 7, 2016:\r\n\r\n“We affirm that the people, the workers, did not provoke the crisis, but it is the result of the voracity and greed of the big capitalists and the parties that prostrated themselves as signatories to the Pact for Mexico (PRI, PAN, PRD) in order to make laws that have permitted them to sack all the national riches, turning them over in exchange for glass beads, condemning whole generations of Mexicans to dark poverty and marginalization.”\r\n\r\nThe original people of the North of Mexico, Latin America, and the world are suffering the same offenses that we suffer as people of the South. In Oaxaca we are already enduring very grave damage implemented through “Projects of Death” – mining projects, wind energy projects, hydroelectric projects, the same as Loma de Bacum, which finds itself aggrieved by the gas pipeline that introduces big pipes into their territory and transports methane gas. They are making an attempt against the life of the community and its inhabitants, which is what we found happening in our travel with the November 2017 International Caravan against the Walls of Infamy and Paramilitaries and for Human Rights. We took note of the gravity that the pipeline represents for the Yaqui peoples, already putting the people in danger for their lives, and representing dispossession of territories since the gas pipeline implies the forced displacement of the indigenous Yaqui people of Loma de Bacum, Sonora. Our hearts were also greatly warmed to see important struggles that are being let loose in defense of the territories and that have resisted valiantly and with dignity. However, the human rights violations anger us greatly because of the grave consequences that they suffer constantly, including harassments and repressions by way of paramilitary groups that sow terror and fear through blood and fire for the imposition of these “Projects of Death”, and the unjust incarceration of our comrade Fidencio Aldama Périez, who for more than a year has been deprived of his liberty by Claudia Artemiza Pavlovich Arellano, governor of the State of Sonora.\r\n\r\nFor this reason, the <strong>People’s Human Rights Observatory </strong>(PHRO, or Observatorio de Derechos Humanos de los Pueblos) has constituted a legal instrument to denounce the grievances and called for the unity of the peoples to struggle and defend our territories and natural resources together, as well as defend our human rights and collective rights as original peoples, as attached to Convention 169 of the ILO (International Labor Organization) and the Universal Declaration of Human Rights and the laws of the political constitution of the United Mexican States.\r\n\r\n<strong>In order to detain this destructive wave and the plunder of the natural resources and of our traditional economy that has given life and identity to our peoples for centuries, that extends through all the Mexican territory, in order to forcefully confront the super exploitation of labor that the working class suffers, it is necessary and urgent that we organize ourselves from below and among all of us to build the popular power, the mechanisms of coordination and the organisms that may make it possible to deploy actions of informative and political reports, nationally as well as internationally, before the organisms that in the matter of human rights have stood out by their honesty and coherence in order to fulfill their function, thus to be in better conditions to defend our territories, the right to public education, and the human and indigenous rights of our peoples.</strong>\r\n\r\nThrough this we demand a stop to the violation of the human rights and collective rights of our peoples, we demand justice against those who have committed crimes against the social and ecological defenders – no more impunity for the murderers of our peoples. We therefore demand justice and unrestricted respect for the autonomy and self determination of our peoples.\r\n\r\nEveryone to the construction of the Popular Power as the only road for the struggle for liberation of our peoples and the unity as the fundamental axis for the struggles of resistance and transformation!\r\n\r\nOur total backing and permanent solidarity with the noble struggle of the Yaqui peoples of Loma de Bacum, Sonora!\r\n\r\nQe demand the immediate liberty of comrade Fidencio Aldama Pérez, prisoner for the defense of his territory!\r\n\r\n“For the Defense of the People’s Rights!”\r\n\r\n“Building the Popular Power!”\r\n\r\nSigned,\r\n\r\nSoledad Ortiz Vásquez, spokesperson\r\n\r\nCouncil for the Defense of the Peoples’ Rights (CODEP)\r\n\r\nPeople’s Assembly in Defense of the Territory and the Public and Free Education and Human Rights\r\n\r\nNational Movement for Popular Power (MNPP)\r\n\r\nPeople’s Human Rights Observatory (PHRO)\r\n\r\nOaxaca, Mexico, March 8, 2018\r\n\r\n<img class=\"aligncenter size-full wp-image-9263\" src=\"https://afgj.org/wp-content/uploads/2018/03/download.jpg\" alt=\"\" width=\"200\" height=\"209\" />\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: e291f5fc-b608-43bf-958c-d8485725315d
+    -
+      entity: e1391c31-ce88-4beb-a12d-d58ab528ecd9
+    -
+      entity: 46c3dd60-d9ef-4093-95e7-5f3fd628dc8b
+    -
+      entity: ff23272a-2c6a-4d3f-b137-4c19843845a6
+    -
+      entity: 4d58c480-4afa-42db-9320-32d1579a7036
+    -
+      entity: 47dbf152-55af-48f9-b366-923795d9a8c9
+    -
+      entity: f866b718-fd02-493f-8a4a-e61cfdc5f8da
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

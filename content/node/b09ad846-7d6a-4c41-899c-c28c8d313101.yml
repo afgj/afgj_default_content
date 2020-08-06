@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b09ad846-7d6a-4c41-899c-c28c8d313101
+  bundle: article
+  default_langcode: en
+  depends:
+    3ad1f134-ace5-4b4d-bdb3-efff4e632423: taxonomy_term
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NicaNotes: Hasta la Victoria Siempre!'
+  created:
+    -
+      value: 1516820744
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-hasta-la-victoria-siempre
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"size-full wp-image-7994 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/08/nicanotesbannerwbyline2.jpg\" alt=\"Nincanotes : A blog about nicaragua by solidarity activists\" width=\"594\" height=\"196\" />\r\nBy John Kotula</p>\r\nFrom June of 2015 through June of 2017, I lived in Chinandega, Chinandega, indisputably the hottest city in Nicaragua. I was a Peace Corps volunteer. Walking around town, sweating, I often passed a statue of a revolutionary throwing a molotov cocktail:\r\n\r\n<img class=\"wp-image-8887 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/01/Image-1-291x300.jpg\" alt=\"\" width=\"534\" height=\"550\" />\r\n\r\nI always had the same thought, “Ah! Nicaragua! A country where overthrowing tyrants, by any means, is respected.” I have remained fascinated by the image of the “Molotov Man” and have previously written about it <a href=\"https://afgj.org/nicanotes-battle-san-jacinto-image-david-goliath-nicaragua\" target=\"_blank\" rel=\"noopener\">here in Nicanotes</a>. The new year and the upcoming midterm elections in the United States have led me to a new round of reflection on the image and on living in Nicaragua during the Trump presidency.\r\n\r\nAs part of my practice as an artist, I try to draw daily. I often post my drawings on Facebook to see what kind of response they get. On January 5, 2018, I shared this picture from my sketchbook:\r\n\r\n<img class=\"aligncenter wp-image-8885\" src=\"https://afgj.org/wp-content/uploads/2018/01/image-2.jpg\" alt=\"\" width=\"688\" height=\"490\" />\r\n\r\nMy friend Maggie Mcquaid commented, “I like this in all kinds of ways…” Then later she added, “I was trying to come up with the line from T.S. Eliot's <a href=\"https://www.shmoop.com/hollow-men/poem-text.html\" target=\"_blank\" rel=\"noopener\">\"The Hollow Men\"</a> that this painting reminded me of. Here it is: ‘Between the idea. And the reality. Between the motion. And the act. Falls the Shadow.’” I bet I haven’t read The Hollow Men since college, but now I’ve read it four or five times. Eliot’s poetry doesn’t give up its meaning without a fight. The Hollow Men have “Shape without form, shade without colour, Paralysed force, gesture without motion.” They are immobilized in a kind of limbo of their own passivity, not able to cross over to either heaven or hell, because they have no actions to be judged. They exist in the shadow between what they imagine they’d like to do and what they actually do, as ineffective as scarecrows. So, it seems to me, T.S. Elliot’s Hollow Men are the diametrical opposite of the Molotov Man.\r\n\r\nSusan Meiselas, an American photographer who was in Nicaragua during the revolution, took this iconic photo:\r\n\r\n<img class=\"alignleft size-full wp-image-8886\" src=\"https://afgj.org/wp-content/uploads/2018/01/Image-3.jpg\" alt=\"\" width=\"1362\" height=\"912\" />\r\n\r\nHer website says, “On the day before Somoza would flee Nicaragua forever in July of 1979, Susan <a href=\"http://www.susanmeiselas.com/latin-america/nicaragua/#id=molotov-man\" target=\"_blank\" rel=\"noopener\">photographed</a> the Sandinista Pablo 'Bareta' Arauz throwing a molotov cocktail at one of the last remaining Somoza National Guard regiments remaining under the dictator's control.” No matter what your politics, there is no denying that Pablo “Bareta” Arauz acted. He got the job done!\r\n\r\nA week after I posted my drawing and Maggie’s comment got me thinking and researching T.S. Elliot, I went to the home of Managuan artist Otero Otero, in the neighborhood called El Arbolito, just a couple of blocks from the lake. Otero makes beautiful hand-painted t-shirts and I had arranged for him to teach his techniques to me and a couple of younger Nicaraguan artists I mentor. We worked for three hours in his driveway in the shade of a tall wall that he had covered with graffiti. I returned to the drawing from my sketchbook and painted this t-shirt:\r\n\r\n<img class=\"size-full wp-image-8888 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/01/image-4.jpg\" alt=\"\" width=\"593\" height=\"798\" />\r\n\r\nIt was a great morning. Part of our conversation, as we worked, was about what words I might add to my design. One suggestion was, “Hasta la victoria siempre!” (What translation does this justice? Maybe, Ever onward to victory.) A second was, “Patria libre o muerte!” (A free homeland or death.) These are, of course, touchstone battle cries of the Nicaraguan Revolution, but they have an older history.\r\n\r\nIn 1965, Che Guevara had decided to resign his role in governing Cuba in order to fight for freedom in other countries. He wrote a <a href=\"http://www.historyofcuba.com/history/cheltr.htm\" target=\"_blank\" rel=\"noopener\">good bye letter</a> to Fidel Castro. It is a beautiful and touching testament to his love for Fidel and Cuba. It makes palpable what he, the ultimate man of action, is willing to sacrifice to do the right thing; “On new battlefields I will carry with me the faith that you inculcated in me, the revolutionary spirit of my people, the feeling of having fulfilled the most sacred of duties: to fight against imperialism wherever it may be; this comforts and heals any wound to a great extent.” Che signed his letter “Hasta la victoria siempre. Patria o muerte.”\r\n\r\nEven earlier, in 1927, Augusto Sandino, chose to fight on rather than surrender in his long, asymmetrical battle against US imperialism. <a href=\"https://es.wikipedia.org/wiki/Patria_libre_o_morir\" target=\"_blank\" rel=\"noopener\">He wrote to the marines</a> and told them, “No me rendiré y aquí los espero. Yo quiero patria libre o morir . No les tengo miedo.” (I won’t surrender and I’m waiting for them. I want a free country or to die. I’m not afraid of them.)\r\n\r\nIn Nicaragua history is very close to the surface. The people know and honor what has happened in the past. It is painted on the walls and celebrated in the streets. Heroes and martyrs are remembered with deep gratitude for their sacrifices.\r\n\r\nI know I am living in Nicaragua temporarily. My home is in the United States. The political process I need to engage in is that of the US. However, I feel informed and energized by the example and the experience of Nicaragua. In reflecting on living in Nicaragua during the Trump presidency, the question that presents itself is do we, citizens of the US, have what it takes to make our country a better place? That question has been answered for Nicaraguans. They have overthrown a murderous dictator, resisted the imperialism of the most powerful country in the world, and moved forward toward victory over poverty, illiteracy, illness, crime, and corruption. Of course, Nicaragua is not perfect, but it is an inspiration.\r\n\r\nAs we enter the second year of Trump’s soul destroying presidency, I think there is a real danger that the people of the United States are too hollowed out by bread and circus to take real action:\r\n<p style=\"text-align: center;\">We are the hollow men\r\nWe are the stuffed men\r\nLeaning together\r\nHeadpiece filled with straw. Alas!\r\nOur dried voices, when\r\nWe whisper together\r\nAre quiet and meaningless\r\nAs wind in dry grass\r\nOr rats' feet over broken glass\r\nIn our dry cellar\r\nT.S. Elliot</p>\r\nHowever, there is also reason for hope in a resurgence of activism, Trump’s abysmal approval ratings, Republicans jumping ship faster than rats on The Maine, and higher election turn out by women, blacks, Hispanics, and young people.\r\n\r\nWhen it comes to activism, I’m sure the readers of Nicanotes lift more than their own weight. I offer these reflections on Nicaragua as an invitation to take inspiration and motivation from the example of this country we all admire.\r\n<h2 style=\"text-align: center;\">Hasta la victoria siempre!</h2>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 3ad1f134-ace5-4b4d-bdb3-efff4e632423
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,62 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 216c4c73-5f4c-49b2-be41-c9e92e748ab5
+  bundle: mt_service
+  default_langcode: en
+  depends:
+    76eb70a8-bffb-4fe5-81d9-18026934c81a: file
+    3dfe0579-10d1-4032-bdaf-d82ba4a3fc3e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Fourth Service'
+  created:
+    -
+      value: 1465321848
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_srv_body:
+    -
+      value: "<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise <a href=\"#\">with competitive technologies</a>. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n\r\n<blockquote>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies. Appropriately communicate adaptive imperatives rather than value-added potentialities.</blockquote>\r\n\r\n<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise <a href=\"#\">with competitive technologies</a>. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_srv_buy_link:
+    -
+      uri: 'http://sites.fastspring.com/morethanthemes/product/fullbundlesubscription?option=show_contents'
+      title: 'Buy Now'
+      options: {  }
+  field_mt_srv_image:
+    -
+      entity: 76eb70a8-bffb-4fe5-81d9-18026934c81a
+      alt: 'Fourth service'
+      title: 'Fourth service'
+      width: 1280
+      height: 690
+  field_mt_srv_price:
+    -
+      value: $299
+  field_mt_srv_service_tags:
+    -
+      entity: 3dfe0579-10d1-4032-bdaf-d82ba4a3fc3e

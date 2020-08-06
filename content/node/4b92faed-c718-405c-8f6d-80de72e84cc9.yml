@@ -1,0 +1,64 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4b92faed-c718-405c-8f6d-80de72e84cc9
+  bundle: article
+  default_langcode: en
+  depends:
+    bce432a9-c8d4-4656-a968-f6cc71b1b890: taxonomy_term
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    8ec8e0dc-b6ed-4683-a718-bd2452edec59: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Stand with Venezuela this Weekend!'
+  created:
+    -
+      value: 1548442382
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /stand-venezuela-weekend
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter wp-image-11228 size-large\" src=\"https://afgj.org/wp-content/uploads/2019/01/Anti-Sanctions-banner-image-1024x238.jpg\" alt=\"\" width=\"752\" height=\"175\" />\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: center;\">Find an event happening near you:</h2>\r\nThis list contains upcoming actions in support of Venezuela and opposing the US orchestrated coup!\r\n\r\nIt's a critical time for Venezuela solidarity!\r\n<h2><strong><u>CANADA: </u></strong></h2>\r\n<strong>Toronto, ON</strong>\r\n\r\nEmergency Rally: No US &amp; Canada Supported Coup in Venezuela!\r\nSaturday, January 26\r\n2:30-4:00pm\r\nBloor Street W and Spadina\r\n<a href=\"https://www.facebook.com/events/442257976312416/\">https://www.facebook.com/events/442257976312416/</a>\r\n\r\n<strong>Vancouver, BC</strong>\r\n\r\nRally - No Coup in Venezuela! US/Canada: Hands Off Venezuela!\r\nSaturday, January 26\r\n2pm\r\nVancouver Art Gallery (Robson Street and Howe Street)\r\n<a href=\"https://www.facebook.com/events/375037229726344/\">https://www.facebook.com/events/375037229726344/</a>\r\n\r\n<strong>Winnipeg, MB</strong>\r\n\r\nSaturday, January 26,\r\n3PM\r\n01 Portage Avenue, Winnipeg (outside the US Consulate at Notre Dame and Portage Avenue)\r\n\r\n<strong>Montreal, QC</strong>\r\n\r\nMaduro si, yanqui no!\r\nSunday, January 27\r\n1PM\r\nSquare Phillips\r\nCorner of Saint Catherine St W, Montreal, Quebec H3B 3E9\r\n<a href=\"https://www.facebook.com/events/2947287955411916/\">https://www.facebook.com/events/2947287955411916/</a>\r\n\r\n&nbsp;\r\n<h2><strong><u>US: </u></strong></h2>\r\n<h3><span style=\"color: #ff0000;\"><strong>FRIDAY - </strong></span></h3>\r\n<strong>San Francisco, Calif.\r\n</strong>\r\nFriday, January 25\r\n5:00 p.m.\r\n24th and Mission Streets\r\n<a href=\"https://www.facebook.com/events/294371711429468/\">https://www.facebook.com/events/294371711429468/</a>\r\n\r\n<strong>Boise, Idaho</strong>\r\n\r\nFriday, January 25\r\n5:00 p.m.\r\nBoise City Hall\r\n<a href=\"https://www.facebook.com/events/411208326088541/\">https://www.facebook.com/events/411208326088541/</a>\r\n\r\n<strong>Chicago, Ill.</strong>\r\n\r\nFriday, January 25\r\n6:00 p.m.\r\nABC 7 Chicago (190 N State St.)\r\n<a href=\"https://www.facebook.com/events/2008926295822776/\">https://www.facebook.com/events/2008926295822776/</a>\r\n\r\n<strong>Seattle, Wash.</strong>\r\n\r\nFriday, January 25\r\n7:00 p.m.\r\nPike Street and Broadway\r\n<a href=\"https://www.facebook.com/events/1951035731681611/\">https://www.facebook.com/events/1951035731681611/</a>\r\n\r\n<strong>Boston, Mass.</strong>\r\n\r\nFriday, January 25\r\n5:30 p.m.\r\n228 Dartmouth St.\r\n<a href=\"https://www.facebook.com/events/365442034270323/\">https://www.facebook.com/events/365442034270323/</a>\r\n\r\n<strong>Springfield, Mo.</strong>\r\n\r\nFriday, January 25\r\n6:00 p.m.\r\n400 South Ave\r\n<a href=\"https://www.facebook.com/events/537292090082460/\">https://www.facebook.com/events/537292090082460/</a>\r\n\r\n<strong>Pensacola, Fla.</strong>\r\n\r\nFriday, January 25\r\n11:00 a.m.\r\n700 S Palafox St\r\n<a href=\"https://www.facebook.com/events/228655204744764\">https://www.facebook.com/events/228655204744764</a>\r\n\r\n<strong>Atlanta, GA</strong>\r\n\r\nNO Coup, No Military Intervention: Hands Off Venezuela!\r\n\r\nFriday, January 25, 4:30–6 PM CST\r\n\r\nFive Points, downtown\r\n\r\n<strong>Pensacola, FL</strong>\r\n\r\nEmergency Demo! Imperialist Hands Off Venezuela!\r\n\r\nFriday, January 25, 11–1 PM CST\r\n\r\n700 S. Palafox St\r\n<h3><span style=\"color: #ff0000;\"><strong>SATURDAY - </strong></span></h3>\r\n<strong>New York, NY</strong>\r\n\r\nStop Regime Change Against Venezuela!\r\nDefend Latin American Sovereignty!\r\nDefend the Cuban Revolution!\r\nSaturday, January 26, Noon\r\nCuban Mission to the United Nations\r\n38th St. &amp; Lexington Ave.\r\n<a href=\"https://www.facebook.com/events/226954971579802/\">https://www.facebook.com/events/226954971579802/</a>\r\n\r\n<strong>Salt Lake City, Utah</strong>\r\n\r\nSaturday, January 26\r\n12:00 p.m.\r\nWallace Bennett Federal Building (125 south state street)\r\n<a href=\"https://www.facebook.com/events/2114953225229581\">https://www.facebook.com/events/2114953225229581</a>\r\n\r\n<strong>Washington, D.C.</strong>\r\n\r\nSaturday, January 26\r\n1:00 p.m.\r\nThe White House\r\n<a href=\"https://www.facebook.com/events/1997845100313308/\">https://www.facebook.com/events/1997845100313308/</a>\r\n\r\n<strong>Tampa, Fla.</strong>\r\n\r\nSaturday, January 26\r\n2:00 p.m.\r\nSam M. Gibbons U.S. Courthouse (801 North Florida Avenue)\r\n<a href=\"https://www.facebook.com/events/753905148320042/\">https://www.facebook.com/events/753905148320042/</a>\r\n\r\n<strong>Dallas, Texas</strong>\r\n\r\nSaturday, January 26\r\n4:00 p.m.\r\nGrassy Knoll (400 Elm St.)\r\n<a href=\"https://www.facebook.com/events/341649180016875/\">https://www.facebook.com/events/341649180016875/</a>\r\n\r\n<strong>Miami, Fla.</strong>\r\n\r\nSaturday, January 26\r\n1:00 p.m.\r\nUnivisión HQ (9405 NW 41st S, Doral)\r\n<a href=\"https://www.facebook.com/events/626356867819987\">https://www.facebook.com/events/626356867819987</a>\r\n\r\n<strong>Doral, FL</strong>\r\n\r\nTrump: Hands-Off Venezuela!\r\nSaturday, January 26, 1–3 PM EST\r\n9405 NW 41st St.\r\n<a href=\"https://www.facebook.com/events/626356867819987/\">https://www.facebook.com/events/626356867819987/</a>\r\n\r\n<strong>Pittsburgh, Penn.</strong>\r\n\r\nSaturday, January 26\r\n3:00 p.m.\r\nPenn Ave &amp; North Highland Ave, East Liberty\r\n<a href=\"https://www.facebook.com/events/283388402334402/\">https://www.facebook.com/events/283388402334402/</a>\r\n\r\n<strong>Philadelphia, Penn.</strong>\r\n\r\nSaturday, January 26\r\n12:00 p.m.\r\nPhiladelphia City Hall\r\n<a href=\"https://www.facebook.com/events/279676749339322/\">https://www.facebook.com/events/279676749339322/</a>\r\n\r\n<strong>Indianapolis, Indiana</strong>\r\n\r\nSat. January 26\r\n3:00 p.m.\r\n251 N. Illinois St.\r\n<a href=\"https://www.facebook.com/events/381326805766647/\">https://www.facebook.com/events/381326805766647/</a>\r\n\r\n<strong>Minneapolis, Minn.</strong>\r\n\r\nSaturday, January 26\r\n3:30 p.m.\r\nMay Day Books (301 Cedar Ave. S)\r\n<a href=\"https://www.facebook.com/events/300313874022495/\">https://www.facebook.com/events/300313874022495/</a>\r\n\r\n<strong>Santa Clara, Calif.</strong>\r\n\r\nSaturday, January 26\r\n12:30 p.m.\r\nStevens Creek Blvd &amp; Winchester Blvd\r\n\r\n<strong>Raleigh, NC</strong>\r\n\r\nNo War on Venezuela!\r\nSaturday, February 2, 2019\r\n1 PM – 3 PM\r\nHalifax Mall – 16 W. Jones St, Raleigh, NC 27601\r\n<h3><span style=\"color: #ff0000;\"><strong>SUNDAY - </strong></span></h3>\r\n<strong>Columbia, South Carolina</strong>\r\n\r\nSunday, January 27\r\n3:00 p.m.\r\nOffice of Lindsay Graham (508 Hampton Street)\r\n<a href=\"https://www.facebook.com/events/421018058641429/\">https://www.facebook.com/events/421018058641429/</a>\r\n\r\n<strong>Durham, NC</strong>\r\n\r\nU.S. Hands Off Venezuela! Emergency Rally!\r\nSunday, January 27, 2019\r\n1pm – 3pm ET\r\nCCB Plaza – 201 N Corcoran St, Durham, North Carolina 27701\r\n<h3><span style=\"color: #ff0000;\"><strong>MONDAY -</strong></span></h3>\r\n<strong>Houston, TX</strong>\r\n\r\nNo Coup! No U.S. Intervention! Solidarity with Venezuela!\r\nMonday, January 28\r\n4:30 – 5:30 CST\r\nMickey Leland Federal Building, 1919 Smith Street at St. Joseph Parkway\r\n\r\n<strong>Tallahassee, Fla.</strong>\r\n\r\nMonday, January 28\r\n10:00 a.m.\r\nFlorida Historic Capitol Museum (400 South Monroe Street)\r\n<a href=\"https://www.facebook.com/events/276373273058437/\">https://www.facebook.com/events/276373273058437/</a>\r\n\r\n<strong>Sarasota, Fla.</strong>\r\n\r\nMonday, January 28\r\n5:30 p.m.\r\nMarina Jack's \"Unconditional Surrender\" Statue\r\n<a href=\"https://www.facebook.com/events/490225188171547/\">https://www.facebook.com/events/490225188171547/</a>\r\n<h3><span style=\"color: #ff0000;\"><strong>TUESDAY -\_</strong></span></h3>\r\n<strong>Chicago, IL</strong>\r\n\r\nHands Off Venezuela! Emergency Demonstration\r\nTuesday, January 29, 5:30–7:30 PM CST\r\nFederal Center and Plaza, 219 S. Dearborn St."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bce432a9-c8d4-4656-a968-f6cc71b1b890
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: 8ec8e0dc-b6ed-4683-a718-bd2452edec59
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

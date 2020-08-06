@@ -1,0 +1,167 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d4090ae0-6eb3-4a00-aed3-f70a97be7398
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    cd0b4a40-9b03-4048-a812-892416542fb4: taxonomy_term
+    46e6abfa-d6fb-4326-bb03-f8ac0196b33e: taxonomy_term
+    d7484f78-fd8a-49f7-afcb-5b7fed9db70f: taxonomy_term
+    ca4e52ca-2d48-486f-8d00-3553c0a7f296: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    e2cd83a2-4ff6-40be-8260-0b38e269f80f: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    e568c438-8e8f-470a-9bbe-547eb756ef7e: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    ba842cf2-7a7d-4535-9c55-44b659434c8d: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+    db37c597-23df-4a83-b2cc-0f2f3b69da01: taxonomy_term
+    9a13741d-8db2-4dce-b9f4-cf3b1b88a0a5: taxonomy_term
+    08a6e0d5-4842-4dc9-9728-170fa1be4baf: taxonomy_term
+    f4d0d412-d2ff-48b0-baf6-15c0f940c895: taxonomy_term
+    73bfa4ee-1a93-4efa-ad6d-9a2415b92797: taxonomy_term
+    a044aaf9-81d4-424a-ad50-a76b6f596e9e: taxonomy_term
+    66b5eb76-f6e4-446c-8900-2f694cad9634: taxonomy_term
+    b20482f1-f0ec-4cf5-a640-bc9d1218ea10: taxonomy_term
+    238906b4-0792-4196-93dd-dd34a7850188: taxonomy_term
+    76584372-7084-4aa6-a8c7-b48ca40e3b58: taxonomy_term
+    65e98371-b445-464c-807f-77b7ca4de6f6: taxonomy_term
+    131e700e-9db0-4c1c-a66d-98f13d02b0c7: taxonomy_term
+    3e828d2d-3331-4ce2-81bc-5ca65d92ca91: taxonomy_term
+    94985472-9bf6-47be-b4bc-fd7b7d08edaa: taxonomy_term
+    6fe84139-fcc1-47f7-9f51-e74d9134339d: taxonomy_term
+    14594479-d6bf-43d4-b492-e34f5e1b09b6: taxonomy_term
+    5642fb10-aeaf-4fe5-9d73-6e86f01c1314: taxonomy_term
+    dad8fb60-ee71-40dc-ba8d-2153898e72da: taxonomy_term
+    f641098b-c097-4053-9938-62306373e4cc: taxonomy_term
+    a652463a-3d49-4938-8e1f-37e153815328: taxonomy_term
+    6f97c1bb-5638-4775-b41f-cdea5de05a0e: taxonomy_term
+    c07cd97d-e8ca-4e1f-bcab-267b57154d96: taxonomy_term
+    54ba92c8-4623-418c-b497-7639d1876f0c: taxonomy_term
+    46b65687-2930-4191-a743-ce24e8fff00f: taxonomy_term
+    ec407e46-82fb-4ca6-8469-e09565e765ed: taxonomy_term
+    14eca50c-267c-41ae-8dc0-cc0e0826f946: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nothing to do, nowhere to go, nothing to say: How the broad climate movement has failed us'
+  created:
+    -
+      value: 1453230042
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nothing-do-nowhere-go-nothing-say-how-broad-climate-movement-has-failed-us
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<div style=\"text-align: center;\">\_<img class=\"aligncenter wp-image-6356\" src=\"https://afgj.org/wp-content/uploads/2016/01/IMG_7691-Copy.jpg\" alt=\"IMG_7691 - Copy\" width=\"612\" height=\"415\" />Graffiti from Havana, Cuba</div>\nBy <b>James Jordan </b>\n\n<b><a href=\"http://links.org.au/node/4597\"><em>(Originally published in Links International Journal of Socialist Renewal)</em></a>\n</b>\n\nJanuary 13, 2016 - It has been a month since the UN climate summit in Paris, aka COP 21. One might expect the kind of ebb and flow we often see in popular movements. Interest in climate issues, the cause of the day during the summit, might be expected to wane and move to the back burner of public discourse until such time as another development pushes it forward again.\n\nHowever, climate change is fundamentally different. It is going to get worse — we will be getting slapped in the face with this one for a long, long time, even under the best scenarios. Only a few weeks after COP 21, the world experienced a wave of floods and extreme weather exacerbated by global warming. In the US, there were record-setting floods along the Mississippi River. In South America, floods caused the evacuation of 180,000 persons. In Scotland, floods cut across class lines to threaten a historic castle neighboring the Queen's Balmoral residence, its foundation being eaten away by the swollen Dee river. Meanwhile, oil wars and drought continue to drive an immigration crisis in Syria and throughout the Middle East and Northern Africa. The issue of climate is not the “struggle du jour” - it is going to be the main course for quite a while.\n\nShamefully, the broad, “mainstream” climate movement in the so-called “developed” world is woefully inadequate to address this concern. It is not producing the kind of real life strategies, analysis and resistance that current conditions call for. Right now, the dominant character of this movement is actually holding us back, not pushing us forward. It is a movement that trumpets ambiguous desires for sustainability, but is all too silent when it comes to meaningful demands.\n\nWhat we got from COP 21 was an accord that set inadequate and unenforceable carbon emissions limits; failed to guarantee reparations or support for the poorest, most exploited nations to develop alternative technologies; adopted market-based schemes that entrench international inequality; ignored the demands of indigenous peoples; and refused to address the huge and negative climate impact of US militarism and resource wars. Of course, no one expected such measures to be passed, so it might be justly claimed as a victory that any kind of agreement or protocol was passed at all. As has been noted, had the agreement been enforceable, the Republican-dominated US Congress would have quashed that government's participation. But what victory there has been is a Pyrrhic one.\n\nThe good news from Paris was those groups that defied the ban on public marches and protests instated following the November 13 terrorist attacks. There were some 200 protesters arrested on November 29, the opening day of the summit, when they broke ranks with officially-tolerated activities and took to the streets, despite authorities having “preventatively” detained a number of activists before the summit began. There was also the December 6 flotilla of indigenous peoples protesting the exclusion of indigenous rights from the accord minus a brief mention in the preamble. The flotilla exposed the machinations of the US, European Union, Australia and others to exempt indigenous rights from the body of the agreement. It was refreshing to hear of these and others who refused to cooperate with this gag rule.\n\nAround the world people are getting radicalized and making bold efforts to save this biosphere we know and love. In the US, <a href=\"https://floodthesystem.net/\">Flood the System</a> called for and carried out multiple climate justice actions. The <a href=\"http://globalclimateconvergence.org/\">Global Climate Convergence</a> is continuing its work to build a Peoples Climate Strike. Groups like the <a href=\"http://www.ienearth.org/\">Indigenous Environmental Network</a> and <a href=\"http://www.ourpowercampaign.org/cja/\">Climate Justice Alliance</a> are confronting the legacy of colonialism and its damage to land and water. <a href=\"http://www.studentsdivest.org/\">Fossil Fuel Student Divestment Network </a>is organizing to divest universities from the oil and coal companies. Still, the reality is that the broad climate movement in the “developed” world has mostly been a failure and an obstacle to building an effective and truly relevant movement.\n\nI travel regularly in Latin America and the Caribbean and see examples of struggles that are far more astute, advanced and relevant than what I see when I return home. I see Colombian farmers fighting corporate land grabs; anti-mining activists defending their communities in Peru; Venezuelan youth confronting the US interference that threatens the gains they have made. These are movements that emphasize the fact that the struggle for planet and people is fundamentally a struggle against Empire.\n\nUnfortunately, political and corporate interests in industrialized nations have done all they can to influence, infiltrate, buy off and otherwise derail movements even in “developing” nations. Such movements are easily infiltrated and manipulated to serve the purposes of Empire. There is little to be gained other than tainted funding for those who would sit at the table and curry favor with mostly White, liberal environmental organizations and government agencies of the industrialized nations.\n\nRather than being threatened by wolves in sheep's clothing, our problems are the sheep in wolves' clothing. We find a leadership that talks big about struggle and taking on climate change, that gives the appearance of strength and cunning, when on the inside, one finds a passive, ruminating herd animal lacking a real bite.\n\nIt is easy to focus our ire and ridicule on those we call “climate deniers”. But the worst climate change deniers are not the ones who say it is not happening, but the ones who recognize the problem but refuse to confront its most basic sources and causes. They are the ones who marginalize and ultimately suppress the voices of those proffering radical solutions and expressing urgency commensurate with the times ... or lack thereof. They reject the demands of the Global South saying there is no unity. They put their faith in a quest for new technologies rather than fighting for a new system. They reject calling out the destructive nature of capitalism, saying we need a movement that cuts across class lines. And they treat those who speak about Empire as anachronistic visitors from another age. These climate deniers fail to grasp that it is these radicals and anti-imperialists who best understand both the problem and the solution to climate injustice and ecological collapse. They self-censor and censor us in exchange for a dubious “seat at the table.”\n\nThere is an all too large contingent of environmentalists who prioritize and even fetishize their desire to build the broad movement. Certainly, we must always work to bring masses of people in and to be as large and inclusive as possible. But without clear demands and goals, such a movement utterly lacks direction. Broad movements for civil rights; to stop wars in Vietnam, Iraq, elsewhere; to demand an end to police brutality and racism; to end mass incarceration in prisons; to demand immigrant rights — these all had identifiable, concrete demands that united contingencies to achieve fundamental victories. But in the climate movement, we have a broad coalition “united” around not a demand but a sentiment — of being “against global warming” and “for Mother Earth”, that sort of thing. This movement can not even agree to call itself a movement for “climate justice”; it is just a “climate movement”, whatever that means. I mean, if I want to see “climate movement”, all I have to do is step outside and look at the sky …. or the dust getting blown up in the dead and dry riverbed a block from my back yard.\n\nTo its detriment, the broad climate movement is dominated by a few well-funded and well-connected organizations. These institutions often get their grants from the very corporations most responsible for greenhouse emissions. Or their connections are to the political leaders who constantly seek to obscure the links between climate injustice and global capitalism.\n\nOne particularly pernicious example is the organization Avaaz. The internet-based effort brags about a list of more than 40 million followers. It was a major partner in the Climat21 coalition — the more or less “official alternative” organizers for climate events coinciding with COP 21. Avaaz has advocated for US/NATO interventions in both Libya and Syria.\n\nOne of its last action alerts before the adoption of the Paris climate accord was a call to pressure the sizable but less “developed” countries of India, Brazil, South Africa and China to stop being “obstacles” and sign on to the accord (which they eventually did). Among the objections these countries raised were the lack of support for “developing” countries and the focus on “solutions” that entrench inequality, such as carbon trading schemes that allow polluting countries to keep polluting by paying off “developing” countries to not develop. At a juncture like that, the correct position to take was to put pressure on the US and Europe - the countries most responsible for increases in greenhouse gases over the last 200 years - to adopt measures that shift the burden of cleaning up their mess away from the world's poorest countries to the wealthiest.\n\nIn an interview with Amy Goodman of <i>Democracy Now!</i>, Nicaragua's chief climate negotiator, Paul Oquist, <a href=\"http://www.democracynow.org/2015/12/4/we_do_not_want_to_be\">explained</a> “Nicaragua has 4.8 million tons of emissions a year. And that’s 0.03% of emissions. Do we feel responsible for having caused climate change? No, not at all. Have we done something about it? Yes, we have gone from 25 percent renewable to 52 percent renewable since 2007, and in 2020 we’ll be 90 percent renewable .... Ten countries, Amy, have 72 percent of the emissions. Ten countries .... In the world .... The 20 largest have 78 percent of the CO2 emissions. Are we going to try to cut out of the 100 countries with .3 percent or out of the 20 countries with 78 percent, or even maybe just the 10 countries with 72%?”\n\nBut when organizations such as Avaaz have such undue influence on the “climate movement”, it is no wonder the movement lacks real solutions. Independent journalist Cory Morningstar <a href=\"http://www.theartofannihilation.com/imperialist-pimps-of-militarism-protectors-of-the-oligarchy-trusted-facilitators-of-war-part-ii-section-i/\">writes</a>, “Avaaz was founded by Res Publica, described as a global civic advocacy group, and Moveon.org, 'an online community that has pioneered internet advocacy in the United States.' Launched in 2007, Avaaz is the fastest-growing online movement in history .... The silent voice behind Avaaz, that of Res Publica, is, in the public realm, essentially comprised of 3 key individuals: Tom Perriello, a pro-war (former) U.S. Representative who describes himself as a social entrepreneur, Ricken Patel, consultant to many of the most powerful entities on Earth [for instance, the International Crisis Group, which receives its funding from a host of Western governments and private entities such as British Petroleum, with both Chevron and Shell on its advisory board] and the long-time associate of Perriello, and Tom Pravda, a member of the UK Diplomatic Service who serves as a consultant to the US State Department.”\n\nSo Avaaz is not an activist organization that found a seat at the table with those in power: they were already seated at the table when they set themselves up and decided to go out and get active in — and divert and derail — the grassroots movement. They are just one example of the kinds of organizations that have infiltrated and co-opted the grassroots “climate movement”. The result is a movement that can turn out hundreds of thousands of people into the streets to demand nothing and feel like they have done something when in fact their impact is, at best, questionable and has not translated into a sustainable and enduring movement.\n\nJournalist Chris Hedges <a href=\"http://www.truthdig.com/report/item/the_last_gasp_of_climate_change_liberals_20140831\">explained</a> how the same thing happened back in September, 2014, for the Peoples Climate March in New York: “The march, because its demands are amorphous, can be joined by anyone. This is intentional. But as activist Anne Petermann has pointed out, this also means some of the groups backing the march are little more than corporate fronts. The Climate Group, for example, which endorses the march, includes among its members and sponsors BP, China Mobile, Dow Chemical Co., Duke Energy, HSBC, Goldman Sachs, JP Morgan Chase and Greenstone. The Environmental Defense Fund, which says it 'work[s] with companies rather than against them' and which is calling on its members to join the march, has funding from the oil and gas industry and supports fracking as a form of alternative energy. These faux environmental organizations are designed to neutralize resistance. And their presence exposes the march’s failure to adopt a meaningful agenda or pose a genuine threat to power.”\n\nMy organization, Alliance for Global Justice, participated in the Peoples Climate March and its preparations, especially in the march's “Peace Hub” . We also brought the largest US delegation to the Peoples Climate Summit in Lima during the COP 20 meeting in December 2014 . (And I will say that in Lima, the criticisms of capitalism and imperialism were, to the praise of the organizers, not muted.) We subsequently followed and to some smaller extent participated in the preparations for the “alternative” events in Paris. But we lost all enthusiasm when we observed case after case where the demands of the developing world — against carbon trading schemes and REDD, in favor of reparations and support for alternative technology development, against resource wars, against free trade agreements and so on, were one by one dismissed by organizers who may not deny the reality of climate change, but do deny radical analysis and solutions. They see the disease, but the cures they offer are snake oil. Worst of all, these deniers loathe to talk about imperialism due to an infantile sentiment that the very term is antiquated when every day world events reinforce the word's lamentable relevance.\n\nThe attacks in Paris on November 13 ripped the scab from the open wound of the climate movement's lack of foresight or clear vision. A climate movement that understood the threat of imperialism would have made an end to oil wars in Syria and elsewhere one of its key demands. But this movement could not or would not connect the dots. Rather they accepted or worked within a gag rule denying public protest. When they did have sanctioned or tolerated public events they made no mention of Syria or the “global war on terrorism”, even though this so-called war is but a justification for robbing oil and other resources for the furthering of private development and wealthy nation consumerism. The correct response to the Paris attacks and the Paris summit would have been to show how the events are linked. But the broad, “mainstream” climate movement could not even get it together to make a weak demand. Empire's resource wars and exploitations have been most responsible for sowing the seeds of terrorism, just like they have been responsible for the conditions creating global warming. A movement that fails to get this devolves into a sideshow of false hopes while the planet careens towards destruction.\n\nUS/Nato interventions in Libya and Syria, supported by the likes of Avaaz, are, like the war in Iraq, oil wars. While a lust for oil is not the only issue at stake in these cases, its motivating role should not be dismissed or understated — and in truth, it has hardly even been mentioned in most corporate media. Syria has large oil resources and is home to an oil pipeline connecting northern Iraq and the coast of Syria. That pipeline has been shut down since the 2003 invasion of Iraq, and the companies most effected are ExxonMobil, Occidental Petroleum and Haliburton. This is a major reason why US/NATO have insisted on regime change and have allied themselves with reprehensible partners, including Al Qaeda. US/NATO policies have never been focused on getting rid of ISIS so much as winning concessions for Big Oil and consolidating and furthering US/NATO geopolitical goals throughout the region. That the broad climate movement can be silent on this is all the proof one needs to see that it has gotten lost on a road to irrelevancy.\n\nInstead, the “official alternative” organizers in Paris, with nary a word about oil war in Syria, organized alternatives to their own alternatives to comply with France's gag orders. Rather than march in the streets, they formed chains of people holding hands on the sidewalks. Rather than gather in protest, they laid out empty shoes in rows to symbolize those that might have come had they held an actual demonstration. In fact, at one point the organizers sent out an internal email encouraging participating organizations not to get the word out too far and wide about their events because having too many people might lose them the tolerance being shown by the police.These organizers not only refrained from criticisms of Empire and its resource wars, they ignored, marginalized and dampened those within the coalition who tried to raise these concerns.\n\nOne demand that did emerge was a broad call to “leave oil in the ground”. But this is really an idealistic, unrealistic and even racist and imperialist demand outside certain contexts. First of all, it is a juvenile demand to make — one that destroys communities and puts workers out of jobs — if it is not accompanied by aggressive mobilizations for actual, existing alternatives. Without a plan for economic conversion, it is unjust to ask workers in extractive industries to give up their jobs while the CEOs at the top lose nothing.\n\nWhat's more, it is an imperialist and racist position for activists to call for leaving oil in the ground if they are not at the same time demanding reparations and support for alternative technologies and sustainable agriculture for “developing” nations, something the broad movement in the Global North has had an all too difficult time understanding. If the broad movement does not put these demands center stage, it has no business calling for oil to stay in the ground. It is simply unjust to confront “developing” nations' oil and mining projects in the same way one does “developed” nations, especially projects in popular democracies that are publicly owned and that are at least trying to mitigate damage, giving seats at the table for indigenous and community representatives and using profits to invest in social programs. Unfortunately, much of even the more radical climate movement makes the rather arrogant mistake of treating all nations the same, regardless of the context, in their simplistic, blanket opposition to all extraction. Those of us who oppose carbon trading, REDD and other market schemes that entrench inequality must recognise that out of context anti-development demands by “first world radicals” against poorer nations also entrench inequality.\n\nIt is past the time for us to get serious about climate justice. If our linking of climate injustice with imperialism drives some people away, perhaps it is time we let them go. Better to have a smaller movement that can grow into something more significant than to have a large one that has nothing to do, nowhere to go, nothing to say.\n\nWe must raise a movement that recognizes the reality and gravity of the task at hand, no matter how difficult. Recently an international network of 37 organizations from the Americas, Euskal Herria (the occupied Basque Country) and Spain released a document titled <a href=\"http://salvarlatierra.org/\">“If We Want to Save the World—An Internationalist Declaration”</a>. It is a modest beginning that encapsulates the kind of analysis and response we must develop if we really want to advocate for climate justice. But we need more than declarations. We need solidarity with those nations and movements that are challenging Empire in ways that give real support to the needs of Earth and her people.\n\nWe must have real demands that, at a minimum, include:\n• an end to all oil and other resource wars;\n• the repeal of environmentally-damaging free trade agreements;\n• that the industrialized countries historically most responsible for global warming produce the lion's share of cuts to greenhouse emissions;\n• that these countries be required to pay reparations to the countries that, due to colonialism and Empire, are suffering the worst effects of global warming;\n• that carbon trading, REDD and other market based schemes that entrench international inequality be rejected;\n• that the richest countries be required to invest heavily in the development of alternative energy technologies in the 100 poorest countries;\n• that attention be given to the poor in the rich countries who have lost jobs due to globalization and the resultant transfer of wealth to the one percent in their countries.\n\nWe must take to the streets again and again with demands that get to the heart of the problem. There are those of us who still hope that a “better world's in birth”. We must be its midwives. Otherwise, the new world we so eagerly await will be still born.\n\n[James Jordan is a National Co-Coordinator of Alliance for Global Justice in the US. He can be reached at James[at]afgj.org]"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: cd0b4a40-9b03-4048-a812-892416542fb4
+    -
+      entity: 46e6abfa-d6fb-4326-bb03-f8ac0196b33e
+    -
+      entity: d7484f78-fd8a-49f7-afcb-5b7fed9db70f
+    -
+      entity: ca4e52ca-2d48-486f-8d00-3553c0a7f296
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: e2cd83a2-4ff6-40be-8260-0b38e269f80f
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: e568c438-8e8f-470a-9bbe-547eb756ef7e
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: ba842cf2-7a7d-4535-9c55-44b659434c8d
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+  field_mt_slideshow:
+    -
+      value: false
+  field_tags:
+    -
+      entity: db37c597-23df-4a83-b2cc-0f2f3b69da01
+    -
+      entity: 9a13741d-8db2-4dce-b9f4-cf3b1b88a0a5
+    -
+      entity: 08a6e0d5-4842-4dc9-9728-170fa1be4baf
+    -
+      entity: f4d0d412-d2ff-48b0-baf6-15c0f940c895
+    -
+      entity: 73bfa4ee-1a93-4efa-ad6d-9a2415b92797
+    -
+      entity: a044aaf9-81d4-424a-ad50-a76b6f596e9e
+    -
+      entity: 66b5eb76-f6e4-446c-8900-2f694cad9634
+    -
+      entity: b20482f1-f0ec-4cf5-a640-bc9d1218ea10
+    -
+      entity: 238906b4-0792-4196-93dd-dd34a7850188
+    -
+      entity: 76584372-7084-4aa6-a8c7-b48ca40e3b58
+    -
+      entity: 65e98371-b445-464c-807f-77b7ca4de6f6
+    -
+      entity: 131e700e-9db0-4c1c-a66d-98f13d02b0c7
+    -
+      entity: 3e828d2d-3331-4ce2-81bc-5ca65d92ca91
+    -
+      entity: 94985472-9bf6-47be-b4bc-fd7b7d08edaa
+    -
+      entity: 6fe84139-fcc1-47f7-9f51-e74d9134339d
+    -
+      entity: 14594479-d6bf-43d4-b492-e34f5e1b09b6
+    -
+      entity: 5642fb10-aeaf-4fe5-9d73-6e86f01c1314
+    -
+      entity: dad8fb60-ee71-40dc-ba8d-2153898e72da
+    -
+      entity: f641098b-c097-4053-9938-62306373e4cc
+    -
+      entity: a652463a-3d49-4938-8e1f-37e153815328
+    -
+      entity: 6f97c1bb-5638-4775-b41f-cdea5de05a0e
+    -
+      entity: c07cd97d-e8ca-4e1f-bcab-267b57154d96
+    -
+      entity: 54ba92c8-4623-418c-b497-7639d1876f0c
+    -
+      entity: 46b65687-2930-4191-a743-ce24e8fff00f
+    -
+      entity: ec407e46-82fb-4ca6-8469-e09565e765ed
+    -
+      entity: 14eca50c-267c-41ae-8dc0-cc0e0826f946

@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 7e6e19ad-8dcb-4dd1-a1b2-ca48faee715f
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 16300131_10154303543615886_2793679602561546850_o.jpg
+  uri:
+    -
+      value: 'public://2020-06/16300131_10154303543615886_2793679602561546850_o.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 483171
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1591128878

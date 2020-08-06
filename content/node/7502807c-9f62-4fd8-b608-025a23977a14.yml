@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 7502807c-9f62-4fd8-b608-025a23977a14
+  bundle: article
+  default_langcode: en
+  depends:
+    8a513676-bf65-4895-b8a5-9c0075aba7f3: taxonomy_term
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: "NicaNotes: Nicaraguans Lose\_TPS: Outrageous and Yet a Back-Handed Compliment"
+  created:
+    -
+      value: 1511968806
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-nicaraguans-lose-tps-outrageous-and-yet-back-handed-compliment
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: left;\"><img class=\"size-full wp-image-7994 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/08/nicanotesbannerwbyline2.jpg\" alt=\"Nincanotes : A blog about nicaragua by solidarity activists\" width=\"594\" height=\"196\" /></p>\n<p style=\"text-align: center;\">By Chuck Kaufman</p>\nA couple of weeks ago, the Trump administration announced that\_Nicaraguans in the US would no longer\_have Temporary Protected Status (TPS)\_allowing them to stay legally and to work in the US. First extended\_when\_Hurricane Mitch devastated Nicaragua, Honduras, and El Salvador in 1998,\_Nicaragua was the first\_country to lose TPS status during an overall review of\_TPS by the Trump administration. About 200,000\_Central Americans and Haitians\_are protected by TPS. Nicaragua’s share is a miniscule 2,200 or so.\n\nWhile Nicaragua Network/Alliance for Global Justice’s position is that\_borders should be as free to workers\_as they are to capital, the loss of TPS\_for Nicaraguans is also a recognition of the strides that Nicaragua\_has made\_since the Sandinista party, led by President Daniele Ortega, returned to power\_through elections\_in 2007.\n\nWith 10 years of sustained economic growth at or around 5%, the country\_is booming. Formal employment\_is at an all-time high. Minimum wages rise every\_six months, negotiated in a unique Tripartite Model in\_which unions and\_business owners in the various sectors negotiate the amount of increase with\_the\_government sitting in as the tie-breaker. This has led to an unparalleled\_period of labor stability, foreign\_investment, and job growth.\n\nSandinista policies of free education and healthcare, revitalizing the\_peasant agricultural sector, extending\_water, sewer, and electricity coverage,\_especially in rural areas, and several poverty alleviation programs\_like zero\_poverty, zero usury, credit for micro, small, and medium enterprises led by\_women and in the\_rapidly-growing tourism sector, all have combined to create\_what some would call an economic miracle in\_Nicaragua.\n\nBut, there is nothing miraculous about it. It is the result of\_hard-headed political and economic decisions by\_the Ortega government to stand\_up to the IMF and its structural adjustment, neoliberal prescriptions of pain\_and privation and instead prove that macroeconomic stability could be achieved\_at the same time as the\_country became one of the first in the world to achieve\_the UN Millennium Goals on poverty reduction.\n\nBy the same token, there are no political prisoners in Nicaragua. There\_are no State-sponsored political\_murders. There is no press censorship. Drug\_cartels have not been able to establish a foothold in the\_country because its\_National Police, born of the Revolution, is not corrupt. Nicaragua has the\_lowest\_homicide rate, and is the safest country in Central America – including\_Costa Rica.\n\nLeaving aside the argument that people should be able to live and work\_where they want to, Nicaraguans\_don’t need the US’s TPS anymore. They can\_return home in safety and security and with a near certainty\_that they can find\_a job and live in a house with electricity and flush toilets! Anyone who\_traveled to\_Nicaragua during the 1980s and 1990s will understand just how major\_that is.\n\nBut, of course, the other side of the coin is that the Trump regime\_shouldn’t be telling people who have\_made lives in the United States for nearly\_30 years that they have to go home to a place they hardly know\_and where their\_children and grandchildren may not even speak the language.\n\nMy co-writer of this blog, John Kotula, has written a poem expressing\_this side of the coin.\n<p style=\"text-align: center;\"><strong>On The Same Day</strong></p>\n<p style=\"text-align: center;\"><strong>By John Kotula</strong></p>\n<p style=\"text-align: center;\">Trump says</p>\n<p style=\"text-align: center;\">2,500 Nicaraguans</p>\n<p style=\"text-align: center;\">Must go,</p>\n<p style=\"text-align: center;\">I go to the mall</p>\n<p style=\"text-align: center;\">In Managua</p>\n<p style=\"text-align: center;\">For 2 X 2 color photos</p>\n<p style=\"text-align: center;\">No glasses,</p>\n<p style=\"text-align: center;\">Neutral expression,</p>\n<p style=\"text-align: center;\">Natural smile</p>\n<p style=\"text-align: center;\">To renew my passport.</p>\n<p style=\"text-align: center;\">Like Superman</p>\n<p style=\"text-align: center;\">Leaping buildings</p>\n<p style=\"text-align: center;\">I cross fronteras</p>\n<p style=\"text-align: center;\">In a single bound.</p>\n<p style=\"text-align: center;\">My passport</p>\n<p style=\"text-align: center;\">Sports an eagle and</p>\n<p style=\"text-align: center;\">Stars and stripes.</p>\n<p style=\"text-align: center;\">One look at the old,</p>\n<p style=\"text-align: center;\">Well fed, white guy</p>\n<p style=\"text-align: center;\">In the photo</p>\n<p style=\"text-align: center;\">And nobody</p>\n<p style=\"text-align: center;\">Seeks votes</p>\n<p style=\"text-align: center;\">By claiming</p>\n<p style=\"text-align: center;\">I’ll take their job,</p>\n<p style=\"text-align: center;\">Rob their house</p>\n<p style=\"text-align: center;\">Or rape their granny,</p>\n<p style=\"text-align: center;\">But back in the</p>\n<p style=\"text-align: center;\">US of A</p>\n<p style=\"text-align: center;\">No “bad hombres”</p>\n<p style=\"text-align: center;\">Are allowed,</p>\n<p style=\"text-align: center;\">Even if</p>\n<p style=\"text-align: center;\">They work,</p>\n<p style=\"text-align: center;\">Pay taxes,</p>\n<p style=\"text-align: center;\">Own a home,</p>\n<p style=\"text-align: center;\">Have kids,</p>\n<p style=\"text-align: center;\">Coach little league,</p>\n<p style=\"text-align: center;\">Dress up for Halloween,</p>\n<p style=\"text-align: center;\">Bake apple pies, and</p>\n<p style=\"text-align: center;\">Deck their lawns</p>\n<p style=\"text-align: center;\">With inflatable</p>\n<p style=\"text-align: center;\">Snow men.</p>\n<p style=\"text-align: center;\">On the same day</p>\n<p style=\"text-align: center;\">Trump says</p>\n<p style=\"text-align: center;\">2,500 Nicaraguans</p>\n<p style=\"text-align: center;\">Must go,</p>\n<p style=\"text-align: center;\">I am made welcome</p>\n<p style=\"text-align: center;\">In Managua.</p>\n\n\n<hr />\n<p style=\"text-align: left;\"><strong>BRIEFS</strong></p>\n\n<ul>\n \t<li style=\"text-align: left;\">The United Nations Children’s\_Fund (UNICEF) Country Representative, Iván Yerovi said Nicaragua is recognized\_internationally for its\_achievements in meeting the Millennium Development\_Goals (MDGs). “Aspects such as greater access to healthcare and education,\_potable\_water service, the fight against poverty and lowering of maternal and\_infant mortality rates, confirms that Nicaragua is on the right path,” the\_UNICEF Country Representative said. (Nicaragua News, Nov. 16)@A report issued last week\_by the Nicaragua Central Bank states that Nicaragua’s Gross International\_Reserves (GIR) reached US$2.5 billion\_dollars last October, equivalent to 2.7\_times the monetary base of the country. The report also noted that this level\_of reserve contributes to\_greater economic and financial stability in the\_country. (Nicaragua News, Nov. 27)</li>\n \t<li style=\"text-align: left;\">The Ministry of Energy and\_Mines (MEM) and the National Electrical Transmission Company (ENATREL) recently\_installed electricity service\_in the homes of 1,700 inhabitants in Murra, Nueva\_Segovia; El Cuá, Jinotega; Santamaría de Pantasma, Jinotega; and Totogalpa,\_Madriz. The\_US$588,000 investment is part of the National Sustainable\_Electrification and Renewable Energy Program (PNESER), being implemented by\_the\_Nicaragua Government in the 153 municipalities of the country. (Nicaragua News,\_Nov. 15, 16, 20, 21.)</li>\n \t<li style=\"text-align: left;\">Presidential Delegate for\_Investments Álvaro Baltodano announced that Nicaragua is investing US$72\_million in the construction of the San\_Francisco - Bluefields highway. “The\_first phase of the project was funded with a US$36 million loan from the World Bank\_and the second\_phase is being covered by a similar amount from the\_Inter-American Development Bank (IDB). The new highway will become fully\_operational\_in 2019 and is expected to have a positive impact on the\_development of the Nicaragua Caribbean Coast,” Baltodano said. (Nicaragua News,\_Nov. 17)</li>\n \t<li style=\"text-align: left;\">During the inauguration of\_the First Central American Chocolate Congress held in Managua, Co-Founder of\_International Chocolate Awards\_(ICO), Maricel Presilla, said Nicaragua has one\_of the best chocolates in the world. “The purpose of this event in Managua is\_to promote cocoa\_and chocolate production in Central America and we have chosen\_Nicaragua because this is a country that produces a high-quality chocolate,”\_Presilla said. (Nicaragua News, Nov. 21)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8a513676-bf65-4895-b8a5-9c0075aba7f3
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

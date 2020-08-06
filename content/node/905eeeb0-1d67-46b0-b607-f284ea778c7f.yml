@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 905eeeb0-1d67-46b0-b607-f284ea778c7f
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela & ALBA Weekly News: Review of the Eleven Years of Evo Morales'' Bolivia; Venezuela Rightwing planning more violence 1.12.2018'
+  created:
+    -
+      value: 1515857770
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-alba-weekly-news-review-eleven-years-evo-morales-bolivia-venezuela-rightwing-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-8842 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/01/VenWeeklyRainbowMeme.png\" alt=\"\" width=\"624\" height=\"351\" />\n\n<hr />\n\n<b>Jan 12th, 2018</b>\n\nThis weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\n\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\n\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=4G62FrZLtKpw2pDTihLPd6j1FjKE8bC9\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=JbzVeknDe0hE4xsuH37RNKj1FjKE8bC9\">Venezuelanalysis.com</a>.\n\n<hr />\n<p style=\"text-align: center;\"><strong><a href=\"https://venezuelanalysis.com/donate\" target=\"_blank\" rel=\"noopener\">Support, Donate to Venezuelanalysis</a></strong></p>\n\n\n<hr />\n\n<h2 style=\"text-align: center;\">The News, This Week</h2>\n<a href=\"http://www.coha.org/eleven-years-of-the-process-of-change-in-evo-morales-bolivia/\" target=\"_blank\" rel=\"noopener\">Achievements of Evo Morales' Bolivia:</a> a review of the social, economic and political gains in Bolivia during the 11 years of the Presidency of Evo Morales, the anti-imperialist indigenous social movement leader\n\n<a href=\"https://afgj.org/venezuela-webinar-findings-humanitarian-situation-venezuela-effects-international-sanctions\" target=\"_blank\" rel=\"noopener\">Sunday January 28 Webinar with United Nations Human Rights Rep Alfred de Zayas: “Findings on the Humanitarian Situation in Venezuela and the Effects of International Sanctions”</a>\n\n<a href=\"http://www.fightbacknews.org/2018/1/9/imperialist-clouds-gather-over-latin-america\" target=\"_blank\" rel=\"noopener\">Fightback News: Imperial Clouds Gather over Latin America</a>\n\n<a href=\"https://www.telesurtv.net/english/news/Venezuelan-Government-Stops-New-Violent-Opposition-Plan-20180111-0029.html\" target=\"_blank\" rel=\"noopener\">Venezuela Intelligence Uncovers New Plot to Reactivate Rightwing Violence</a>\n\n<a href=\"https://dezayasalfred.wordpress.com/2018/01/02/venezuela-un-independent-expert-welcomes-government-action-after-his-visit/\" target=\"_blank\" rel=\"noopener\">UN Human Rights Rep de Zayas Welcomes Venezuela Government Action After His Visit</a>\n\n<a href=\"http://en.granma.cu/cuba/2018-01-09/over-one-million-us-citizens-visited-cuba-in-2017\" target=\"_blank\" rel=\"noopener\">Over One Million US Citizens Visited Cuba in 2017</a>\n\n<a href=\"https://www.telesurtv.net/english/news/Racist-Massive-Outrage-over-Trump-Shithole-Migration-Remark-20180112-0001.html\" target=\"_blank\" rel=\"noopener\"> Trump Clarifies His Views on Non-whites: Massive Outrage Over Trump 'Shithole' Migration Remark</a>\n\n<a href=\"https://venezuelanalysis.com/news/13592\" target=\"_blank\" rel=\"noopener\">ANC Delegate and Commune Leader Both Assassinated in 4 Days in Venezuela</a>\n\n<hr />\n\n<h2 style=\"text-align: center;\">Upcoming Latin America Delegations</h2>\n<p style=\"text-align: center;\"><a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\">April Delegation to Nicaragua</a></p>\n<p style=\"text-align: center;\"><a href=\"https://afgj.org/travel-to-colombia\" target=\"_blank\" rel=\"noopener\">May Delegation to Colombia</a></p>\n<p style=\"text-align: center;\"><a href=\"https://icangotocuba.wordpress.com/sign-up-now/\" target=\"_blank\" rel=\"noopener\">May Day Delegation to Cuba</a></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: 2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb
+  field_mt_slideshow:
+    -
+      value: false

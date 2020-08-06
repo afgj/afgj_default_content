@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 1e843dfa-66e1-400e-963a-8f2ca6012d44
+  bundle: article
+  default_langcode: en
+  depends:
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Anatomy of a massacre Events in Morrito, Rio San Juan, Nicaragua, July 12 2018'
+  created:
+    -
+      value: 1532775030
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /anatomy-massacre-events-morrito-rio-san-juan-nicaragua-july-12-2018
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"alignleft wp-image-10436\" src=\"https://afgj.org/wp-content/uploads/2018/07/anatomy-1.jpg\" alt=\"\" width=\"448\" height=\"304\" />A national newspaper once called it a <a href=\"https://www.elnuevodiario.com.ni/turismo/339553-morrito-tesoro-escondido/\">hidden treasure</a>. The small fishing town of Morrito, on the shore of Lake Nicaragua, could hardly be a quieter place. But on July 12 it was the scene of a brutal attack that cost the lives of five of its inhabitants.\r\n\r\nBeginning in mid-April, Nicaragua has been experiencing violent conflicts between opponents of President Daniel Ortega and government supporters. While both sides have held numerous peaceful demonstrations, both sides have also been the subject of attacks. There are conflicting accounts of how many have died so far, ranging from around 100 to well over 300. As well as the violence, a propaganda war is taking place, in the local press, in the international press and – especially – in social media. Events in Morrito provide a case study of the distorted messages and downright lies that are now flourishing.\r\n\r\nAround 2.30pm on the afternoon of Thursday July 12 a ‘peaceful’ caravan of vehicles carrying opposition demonstrators drove into Morrito. Probably because they were worried about possible conflict, some workers at the town hall watched as the vehicles arrived on the main road below. Someone <a href=\"http://www.youtube.com/watch?v=UCgYcWujssw&amp;feature=youtu.be\">videoed</a> what happened next. They watch the caravan go past, then suddenly there is chaos and panic (“they’re firing, they’re firing”) when occupants of the vehicles began to shoot at those looking down at the road. A teacher, Marvin Ugarte, died as a result, and five town hall workers were injured. Four police were then killed as the caravan also attacked the police station. Nine police were kidnapped by the attackers and driven away to one of the road blocks they controlled, in a place called El Empalme de Lóvago, some 60km to the north.\r\n\r\nPictures of the dead policemen make clear they were unprepared for combat. Yet the opposition leader Francisca Ramírez initially <a href=\"https://www.nacion.com/el-mundo/politica/cuatro-policias-y-un-manifestante-fallecen-luego/2MFTMLMXCFBJNBN5POTUWOY4NU/story/\">said</a> it was the police who opened fire on the caravan, and some protesters who happened to have weapons fired back. One opposition news source, <a href=\"https://confidencial.com.ni/cuatro-policias-y-un-civil-de-morrito-asesinados-en-confuso-tiroteo/\">Confidencial</a>, talked about ‘a confusing exchange of fire’. A picture appeared, allegedly of a dead demonstrator, and was reproduced in both main newspapers (La Prensa later removed it, but it can still be seen in <a href=\"https://www.elnuevodiario.com.ni/nacionales/469489-policias-asesinados-morrito-crisis-nicaragua/\">El Nuevo Diario</a>). But the picture is a fake, or rather it is a real picture from a completely different protest in Honduras after the 2009 military coup, as can be seen from the photo below.\r\n\r\n<img class=\"alignleft wp-image-10437\" src=\"https://afgj.org/wp-content/uploads/2018/07/anatomy-2.jpeg\" alt=\"\" width=\"444\" height=\"303\" />\r\n\r\n<img class=\"alignnone wp-image-10438 \" src=\"https://afgj.org/wp-content/uploads/2018/07/anatomy-3.jpg\" alt=\"\" width=\"256\" height=\"436\" />\r\n\r\nWhen the Ramírez story led to questions as to why the peaceful protesters were actually armed, it was changed. It was then alleged that workers from the town hall fired on their colleagues, the police. This in a town so small that practically everyone must know each other (and we know from the video that appeared later that the town hall came under fire first). Some of the kidnapped police officers were mysteriously videoed for <a href=\"http://100noticias.com.ni/nacionales/91554-policias-balas-salieron-de-la-alcaldia-de-morrito/\">100% Noticias</a> confirming this new version of events (while they were being held captive and no doubt being threatened). This was not a very clever tactic as no one explained why, if the marchers were peaceful, they kidnapped the police officers, nor how they did this without using weapons, nor why they took them so far away.\r\n\r\nOriginally, Pedro Olivas Alaníz, the reporter from 100% Noticias (one of the main opposition-led media channels) tried to give a true version of events. His brother, Lenin Ernesto Olivas Alaníz, was one of the policemen who had just been killed. He was <a href=\"https://www.tn8.tv/nacionales/453422-critican-mauricio-madrigal-censurar-verdad-morrito-rio-san-juan/\">censured</a> by the head of 100% Noticias, Mauricio Madrigal, for doing so.\r\n\r\nThe truth of events in Morrito will no doubt be revealed in due course. One development has been the arrest of Medardo Mairena, a local campesino leader, now accused in connection with the attack. Since then the incident has faded from the national news (unlike other incidents where it has proved easier for the government to be blamed for deaths that have occurred).\r\n\r\nThere have been violence and deaths on both ‘sides’ of the conflict in Nicaragua, but getting a true picture of any one incident is almost impossible: all channels of communication are, in effect, propaganda, and of course social media are worse still. The Morrito incident was either ignored by international media or reported largely along the lines set by <a href=\"http://100noticias.com.ni/nacionales/91554-policias-balas-salieron-de-la-alcaldia-de-morrito/\">100% Noticias</a>, where the blame is put on ‘the government of Daniel Ortega’. This is despite the fact that the demonstrators had already admitted kidnapping nine colleagues of those killed, a criminal act in itself, and the obvious likelihood that, if police are killed and captured, the culprits are almost certainly opposition gunmen rather than workers in the local town hall."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

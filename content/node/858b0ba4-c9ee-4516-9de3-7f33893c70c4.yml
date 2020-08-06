@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 858b0ba4-c9ee-4516-9de3-7f33893c70c4
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Paraguay: Land of Inequality and Food Insecurity'
+  created:
+    -
+      value: 1464264983
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /paraguay-land-inequality-and-food-insecurity
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<b><b>January 6-15, 2017</b></b>\r\n\r\nAfGJ Board Member John Ocampo will lead this first-time AfGJ delegation to Paraguay, a little-known country to US solidarity activists, students, and Latin American Studies departments. Paraguay has the most unequal land distribution in the hemisphere and its agro-export model leaves little land to grow food for its own people. Learn with AfGJ about struggles by popular organizations for economic equality and food sovereignty. Price: TBZ\r\n\r\n<strong>For an more information, or to be notified when regisration opens, contact: <a href=\"mailto:Delegations@afgj.org\">Delegations@afgj.org</a></strong>"
+      format: full_html
+      summary: ''

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: bf9200ef-17ca-4373-84eb-5009c3245499
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Thank You For Your Donation!'
+  created:
+    -
+      value: 1326834110
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /thank-you-your-donation
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '[authnettransactionsummary]'
+      format: full_html
+      summary: ''

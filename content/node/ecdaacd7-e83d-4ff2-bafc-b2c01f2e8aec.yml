@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ecdaacd7-e83d-4ff2-bafc-b2c01f2e8aec
+  bundle: article
+  default_langcode: en
+  depends:
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+    4d58c480-4afa-42db-9320-32d1579a7036: taxonomy_term
+    5b96eb92-481a-47f7-8359-184bfa2e06de: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: "URGENT ACTION! \_Honduran Prison Guards Tear Gas Prisoners Demanding Water –  March 4, 2018"
+  created:
+    -
+      value: 1520266210
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /urgent-action-honduran-prison-guards-tear-gas-prisoners-demanding-water-march-4-2018
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2 style=\"text-align: left;\"><b>Honduran Prison Guards Tear Gas Prisoners Demanding Water. Political Prisoner Edwin Espinal on Day #2 of Hunger Strike Demanding to See Physician.</b></h2>\r\n<h2 style=\"text-align: left;\"><b>Demand that the Red Cross Enter the Prison!</b></h2>\r\n<span style=\"font-weight: 400;\">On March 3</span><span style=\"font-weight: 400;\">rd</span><span style=\"font-weight: 400;\">, day #46 of his unjust incarceration, political prisoner Edwin Espinal began a hunger strike to demand that he and other prisoners be taken to see a physician. There is a flu-like virus circulating in the military-run, maximum security “La Tolva” prison. Edwin and other prisoners have been refused medical attention for several days.</span>\r\n\r\n<span style=\"font-weight: 400;\">There is an extreme water shortage inside the La Tolva prison where two political prisoners – Edwin Espinal and Raul Eduardo Alvarez – are imprisoned. This morning, all prisoners throughout the jail had access to water for FIVE minutes. This means that 1000 prisoners had to flush and use toilets, get and store drinking water, and shower in the five minutes that the water was available. Outside of the time that water is available, prisoners are forced to limit bathroom use because toilets are located inside the shared, enclosed cells. Plastic bottles are not permitted inside the jail making it impossible for prisoners to adequately save drinking water for their consumption throughout the day.</span>\r\n\r\n<span style=\"font-weight: 400;\">After the water was turned off after five minutes this morning, throughout the prison, in unison inmates began to bang on the walls and make noise in any way possible. In some areas of the prison, prison guards shot tear gas into the common areas that are shared by approximately 200 people.</span>\r\n\r\n<span style=\"font-weight: 400;\">The horrific and dire conditions inside Honduran prisons is of no secret to the Honduran and foreign governments. The construction of military-run maximum security prison have only worsened these conditions particularly since its so difficult for national and international human rights organizations to enter the jail. These conditions can only be described as torture.</span>\r\n\r\n<b>Contact the\_</b><b>International Committee of the Red Cross</b><b>. The Honduran chapter of the Red Cross was asked several weeks ago to go into La Tolva and\_verify\_the conditions. They responding saying they would go at the end of February, but they have not gone. </b>\r\n\r\n<b>Call or write with your own message to the Red Cross. Ask them to schedule an immediate visit to La Tolva jail to speak with the prisoners and get first-hand information about the health and living conditions. Tell them this is a health emergency.</b>\r\n\r\n<span style=\"font-weight: 400;\">International Committee of the Red Cross</span>\r\n<ul>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">In the United States - Head of delegation: Ms. Alexandra Boivin, 1100 Connecticut Avenue, NW,\_Suite 500,Washington DC 20036,\_Tel:\_</span><a href=\"about:blank\"><span style=\"font-weight: 400;\">(+1 202) 587 46 00</span></a><span style=\"font-weight: 400;\">, email:\_</span><a href=\"https://www.blogger.com/null\"><span style=\"font-weight: 400;\">nyc_newyork@icrc.org</span></a></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">The Mexico office of the ICRC is responsible for Honduras. To call from the US: 011 52 55 2581 2110, ask for the Protection Department, either Spanish or English should work.</span></li>\r\n</ul>\r\n&nbsp;\r\n\r\n<b>Please also continue to contact the US, Canadian and Honduran authorities listed below.</b>\r\n<ul>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Directly pressure appropriate Honduran authorities to immediately guarantee full and proper medical attention, food and water inside the prison.</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Send US and Canadian authorities to the prison to visit prisoners directly and to verify conditions inside prison.</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Pressure that all charges\_against\_all 27 political prisoners around the country be\_dropped immediately and that they be\_released!</span></li>\r\n</ul>\r\n<strong>United States</strong><span style=\"font-weight: 400;\">\r\n</span><span style=\"font-weight: 400;\">Directly contact your elected Senators, Congress members:\_</span><a href=\"https://rightsaction.us9.list-manage.com/track/click?u=ea011209a243050dfb66dff59&amp;id=b1229c9580&amp;e=bc3f403f04\"><span style=\"font-weight: 400;\">https://www.house.gov/representatives/find-your-representative</span></a>\r\n<ul>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Heide Fulton: US Chief of Mission, Honduras,\_</span><a href=\"https://www.blogger.com/null\"><span style=\"font-weight: 400;\">BronkeHM@state.gov</span></a></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Jason Smith, Human Rights and Labor,\_</span><a href=\"https://www.blogger.com/null\"><span style=\"font-weight: 400;\">SmithJA6@state.gov</span></a></li>\r\n</ul>\r\n<strong>Canada</strong><span style=\"font-weight: 400;\">\r\n</span><span style=\"font-weight: 400;\">Directly contact your Member of Parliament:\_</span><a href=\"https://rightsaction.us9.list-manage.com/track/click?u=ea011209a243050dfb66dff59&amp;id=53aaf80938&amp;e=bc3f403f04\"><span style=\"font-weight: 400;\">https://www.ourcommons.ca/Parliamentarians/en/members</span></a>\r\n<ul>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Ambassador James Hill, Embassy of Canada in Costa Rica, Honduras and Nicaragua,\_</span><a href=\"https://www.blogger.com/null\"><span style=\"font-weight: 400;\">James.Hill@international.gc.ca</span></a><span style=\"font-weight: 400;\">,\_</span><a href=\"https://www.blogger.com/null\"><span style=\"font-weight: 400;\">tglpa@international.gc.ca</span></a></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Minister Chrystia Freeland, Ministry of Foreign Affairs, Global Affairs Canada,\_</span><a href=\"https://www.blogger.com/null\"><span style=\"font-weight: 400;\">chrystia.freeland@parl.gc.ca</span></a><span style=\"font-weight: 400;\">,\_</span><a href=\"https://www.blogger.com/null\"><span style=\"font-weight: 400;\">chrystia.freeland.c1d@parl.gc.ca</span></a><span style=\"font-weight: 400;\">,\_</span><a href=\"https://www.blogger.com/null\"><span style=\"font-weight: 400;\">chrystia.freeland@international.gc.ca</span></a><span style=\"font-weight: 400;\">,</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Canadian embassy for Honduras: Bertrand-Xavier Asselin,\_</span><a href=\"https://www.blogger.com/null\"><span style=\"font-weight: 400;\">Bertrand-Xavier.Asselin@international.gc.ca</span></a><span style=\"font-weight: 400;\">; Isabelle Solon-Helal,\_</span><a href=\"https://www.blogger.com/null\"><span style=\"font-weight: 400;\">Isabelle.SolonHelal@international.gc.ca</span></a><span style=\"font-weight: 400;\">; Kyle Sundstrom,\_</span><a href=\"https://www.blogger.com/null\"><span style=\"font-weight: 400;\">Kyle.Sundstrom@international.gc.ca</span></a></li>\r\n</ul>\r\n<strong>Honduras (In Spanish)</strong>\r\n<ul>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Ministry of the Interior, Justice and Decentralization offices, Minister Hector Leonel Ayala Alvarenga, email:</span><a href=\"https://www.blogger.com/null\"><span style=\"font-weight: 400;\">leonelayalagobhn@gmail.com</span></a></li>\r\n</ul>\r\n<p style=\"text-align: center;\"><strong>Please send a copy of your letters to:\_<a href=\"https://www.blogger.com/null\">freeedwinespinal@gmail.com</a></strong></p>\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+    -
+      entity: 4d58c480-4afa-42db-9320-32d1579a7036
+    -
+      entity: 5b96eb92-481a-47f7-8359-184bfa2e06de
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

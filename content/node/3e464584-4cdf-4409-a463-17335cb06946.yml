@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3e464584-4cdf-4409-a463-17335cb06946
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Strategic Research on US Militarism for Activist Campaigns'
+  created:
+    -
+      value: 1313748776
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /strategic-research-us-militarism-activist-campaigns
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Course:</strong> Strategic Research on US Militarism for Activist Campaigns\r\n<strong>Instructor:</strong> John Lindsay-Poland\r\n<strong>Duration:</strong> 5 weeks, online\r\n<a href=\"https://org2.democracyinaction.org/o/7315/t/13086/shop/shop.jsp?storefront_KEY=430\">Click here to register now!</a>\r\n\r\n<strong>Description:</strong> \r\nThis course will address diverse ways and sources for obtaining information we need on US military plans, activities, costs and impacts to organize demilitarization campaigns. These include online sources, interviews, FOIA requests, alliances with veterans and academics, and working with journalists and legislators. We will also explore issues of accountability and ethics. Course activity will include readings, written and Internet search exercises, visual presentations through webinars and discussions (which will be recorded for use by those unable to participate in live-time), and role-plays at home.\r\n\r\n<strong>Skills/understanding that activists will have for organizing and opposing militarism after taking this course:</strong>\r\n\r\n<ul>\r\n\t<li>Knowledge of the various sources of information on militarism, including FOIA</li>\r\n\t<li>A basic understanding of how to work in alliances as a researcher</li>\r\n\t<li>Ability to reflect critically on the ethics of research and its applcations</li></ul>\r\n\r\n<strong>About the Instructor: Meet John Lindsay-Poland</strong>\r\nJohn Lindsay-Poland has done research on US military policy and activities for peace and\r\nhuman rights projects for 30 years. He serves as research and advocacy director of the\r\n<a href=\"http://forusa.org/\">Fellowship of Reconciliation</a>, and is author of <em>Emperors in the Jungle: The Hidden History of the US in Panama</em> (Duke University)."
+      format: full_html
+      summary: ''

@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 9826ecd6-bf89-46d8-9a3d-c24f423edac1
+  bundle: article
+  default_langcode: en
+  depends:
+    0dfdb011-9c82-4762-89a0-db01e08f9fe3: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Drop All Charges Against the Four Venezuela Embassy Protectors!'
+  created:
+    -
+      value: 1566568009
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /drop-all-charges-against-four-venezuela-embassy-protectors
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<blockquote>Alliance for Global Justice encourages all of our supporters to sign the petition below. These charges are without merit and constitute a deliberate effort to criminalize political action.</blockquote>\r\n&nbsp;\r\n\r\n<strong>VENEZUELAN EMBASSY PROTECTORS DEFENSE COMMITTEE\_</strong>\r\n<strong>CALLS ON TRUMP ADMINISTRATION TO DROP ALL CHARGES AGAINST DEFENDERS</strong>\r\n\r\n<strong>Embassy Protectors Defense Committee</strong>\r\n\r\n<strong>IMMEDIATE RELEASE</strong>\r\n\r\n<strong>August 20, 2019</strong>\r\n<strong>PRESS CONTACT: +1 856 219-0203</strong>\r\n<strong>admin@defendembassyprotectors.org</strong>\r\n\r\nThe newly formed\_<a href=\"https://defendembassyprotectors.org/\"><strong>Embassy Protectors Defense Committee</strong></a>\_created in response to the arrest and bogus charges leveled\_by the Trump Administration\_against the last four\_remaining\_activists\_of the Embassy Protective Collective\_that occupied\_the Venezuela Embassy\_for 37 days,\_has launched\_an international campaign to demand that the Trump administration drop all Federal charges\_against the protectors.\r\n\r\nThe\_<strong>last remaining 4 Embassy Proctors —\_</strong>Kevin Zeese, Margaret Flowers, David Paul and Adrienne Pine\_—\_were arrested in the Washington D.C. Embassy of Venezuela on May 16, 2019\_having occupied\_the Venezuelan Embassy with\_as many as 100 other activists with\_the permission of\_the Venezuelan government\_over the course of those 37 days. The\_<strong>Embassy Protection Collective</strong>\_were\_welcomed into the\_Venezuelan Embassy\_in order\_to prevent it from being illegally taken\_by the\_unelected regime\_of Juan\_Guaidó\_that was\_being imposed on the Venezuelan people by the\_Trump Administration.\r\n\r\n<strong>The Four</strong>\_are\_now\_facing\_misdemeanor charges\_of “Interfering with certain protective functions” of the Federal government that carries a maximum of one-year imprisonment and $100,000 fine for each of them.\_The United States Government is intent on making example of these citizens and is using its unlimited resources to make sure that they are\_penalized\_and incarcerated.\r\n\r\nThe Embassy Protectors Defense Committee, made up of a collection of human rights defenders, international law experts, journalists, labor activists, anti-war and social justice advocates, is involved in raising resources to help cover the enormous expenses of defending against the bogus charge and the outrageous fines that the government appears intent on imposing if the charges are not dropped and the case proceeds to trial.\r\n\r\nThis is a politicized case initiated by an administration that is unrestrained by accepted international law\_and recognized state relations as part of the international\_order established over last seven decades.\r\n\r\nThe Embassy Defense Committee is circulating a petition and launching a massive international campaign to have all charges dropped and to\_compel the Trump Administration to reenter the community of law-abiding states.\_For more information please visit:\_<a href=\"https://defendembassyprotectors.org/\"><strong>https://DefendEmbassyProtectors.org</strong></a>.\r\n\r\n<strong>Background:\_</strong>\r\n\r\nThe United States Government, once again attempting regime change,\_has been, and still is,\_in clear violation of human rights by taking the whole of the Venezuelan population hostage\_through\_its illegal efforts\_to bring the Venezuelan government down,\_by imposing\_sanctions\_and\_threats of violence,\_by denying\_the citizenry\_much needed food and medicine\_and utilities\_—\_in parallel\_to the\_oppressive\_measures taken\_in\_Washington D.C.,\_in\_our own nation’s capital,\_by denying the deliver of food and medicine and\_ultimately\_shutting off utility services of water and electric power as they did, in attempt,\_to drive\_out\_the\_<strong>Embassy Protection Collective</strong>.\r\n\r\nClear solutions were offered.\_The public must come to understand that the\_means of selection\_of a\_<strong>Protecting Power</strong>\_was formalized during\_the\_<a href=\"http://legal.un.org/ilc/texts/instruments/english/conventions/9_1_1961.pdf\"><strong>Vienna Convention on Diplomatic Relations\_of 1961</strong></a><strong>.\_</strong>In fact, on May 13, 2019, the\_<strong>Embassy Protection Collective</strong>\_issued a\_most salient\_<a href=\"https://popularresistance.org/newest-statement-from-the-venezuela-embassy-protection-collective/\"><strong>statement\_</strong></a>calling for the implementation of\_<strong>Protecting Power Agreement</strong>.\r\n\r\nThe erosion of civil liberties — the abuse of human rights and the defiance of international laws when instituted by our own Government — must be addressed head on, at the time the actions or inactions are taken. Knowing full well that abusive power is a threat to absolutely everyone — when they grow comfortable enough in silencing the voices of the defenders, the next target for oppressive power is always the people in general.\r\n\r\n<a href=\"https://defendembassyprotectors.org/press-release/\">defendembassyprotectors.org/press-release</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 0dfdb011-9c82-4762-89a0-db01e08f9fe3
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

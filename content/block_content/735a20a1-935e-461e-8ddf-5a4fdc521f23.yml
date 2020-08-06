@@ -1,0 +1,144 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 735a20a1-935e-461e-8ddf-5a4fdc521f23
+  bundle: mt_media_tabs_block
+  default_langcode: en
+  depends:
+    855a0103-2cab-4e72-beb8-ac3a74e70372: node
+    e3e11e03-d2ba-4948-bcd5-a2855c4501f9: node
+    b7ff09bc-a14c-4b2e-b678-9a2d264a24d0: node
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Media Tab'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_media_tab:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: cca433c0-5fe9-4692-8819-b65008eafe3d
+          bundle: mt_media_tab
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1478622284
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_media_body:
+            -
+              value: "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet eius nihil quos nam possimus molestias laudantium quam, suscipit consequuntur voluptate commodi reiciendis voluptatibus. Consequatur esse architecto at adipisci. Possimus.</p>\r\n"
+              format: basic_html
+          field_mt_media_button:
+            -
+              target_uuid: 855a0103-2cab-4e72-beb8-ac3a74e70372
+              title: 'Read More'
+              options: {  }
+          field_mt_media_tab_title:
+            -
+              value: 'Our Values'
+          field_mt_media_title:
+            -
+              value: 'Get To Know Our  Best Values'
+          field_mt_media_video:
+            -
+              value: 'https://www.youtube.com/watch?v=T7SqK5RizWY'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 86fe9b34-d184-46ca-9aac-c02f86dda1b7
+          bundle: mt_media_tab
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1478622544
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_media_body:
+            -
+              value: "<p>If I could teach only one value to live by, it would be this: Success will come and go, but integrity is forever. Integrity means doing the right thing at all times in all circumstances, whether or not anyone is watching.</p>\r\n"
+              format: full_html
+          field_mt_media_button:
+            -
+              target_uuid: e3e11e03-d2ba-4948-bcd5-a2855c4501f9
+              title: 'Read More'
+              options: {  }
+          field_mt_media_tab_title:
+            -
+              value: 'Our Integrity'
+          field_mt_media_title:
+            -
+              value: 'Success Goes, Integrity’s Forever'
+          field_mt_media_video:
+            -
+              value: 'https://www.youtube.com/watch?v=T7SqK5RizWY'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: c0f1607a-0c57-414e-889d-6867e99262ef
+          bundle: mt_media_tab
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1478629347
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_media_body:
+            -
+              value: "<p>We are continuously introducing sustainable solutions onto the market which significantly contribute to improving quality of life and conserving resources such as water or energy. Our success is driven by research.</p>\r\n"
+              format: full_html
+          field_mt_media_button:
+            -
+              target_uuid: b7ff09bc-a14c-4b2e-b678-9a2d264a24d0
+              title: 'Read More'
+              options: {  }
+          field_mt_media_tab_title:
+            -
+              value: Innovation
+          field_mt_media_title:
+            -
+              value: 'The Most Innovative'
+          field_mt_media_video:
+            -
+              value: 'https://www.youtube.com/watch?v=T7SqK5RizWY'

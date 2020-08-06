@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 80415d7a-ef82-4b89-84ab-adc7a2366ab3
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Fighting for Berta''s Path in 2019 with Berta Zúniga Cáceres, General Coordinator of COPINH and daughter of Berta Cáceres'
+  created:
+    -
+      value: 1551309001
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /fighting-bertas-path-2019-berta-zuniga-caceres-general-coordinator-copinh-and-daughter-berta
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2 style=\"text-align: center;\"><a href=\"http://tinyurl.com/FightingforBertasPath\">CLICK HERE TO REGISTER</a></h2>\r\n<span style=\"font-weight: 400;\">Three years after Berta Cáceres' murder, the struggle for justice for her and against the US and Canadian-backed dictatorship in Honduras continues. \_In honor of Berta, and with a commitment to supporting the continuing struggle, the Honduras Solidarity Network invites you to join the webinar</span><i><span style=\"font-weight: 400;\"> Fighting for Berta's Path.</span></i><span style=\"font-weight: 400;\"> Listen to Bertita Zúñiga Cáceres, General Secretary of COPINH and Berta's daughter, on the state of the struggle to bring to justice the highest levels of the intellectual authors of Berta Cáceres’s assassination and to permanently close the Agua Zarca hydroelectric project that Berta and COPINH fought against in the Rio Blanco community. Since March 2, 2016, Berta has only continued to multiply as people all over the world take up the struggle for justice and liberation in Honduras, and to win a better world.</span>\r\n\r\n<span style=\"font-weight: 400;\">In May 2017, Bertita was elected General Secretary of COPINH, the indigenous Lenca organization co-founded and led by Berta Cáceres. Shortly after becoming general coordinator, Bertita herself survived an attempt against her life. Following Berta Cáceres' steps, Bertita has continued to demand justice for Berta, against the death projects that threaten the lives of indigenous, afro-Honduran and campesino communities in Honduras, and to build popular power to guarantee social and environmental justice.</span>\r\n\r\n<b>Luchando por el </b><b><i>Camino de Berta</i></b><b> en 2019 con Berta Zúñiga Cáceres, Coordinadora General del COPINH e hija de Berta Cáceres</b>\r\n\r\n<span style=\"font-weight: 400;\">Tres años después del asesinato de Berta Cáceres, la lucha por justicia para ella y para terminar la dictadura hondureña, apoyada por los EEUU y Canadá, continúa. En honor a Berta, y con el compromiso de apoyar la lucha continua, la Red de Solidaridad con Honduras le invita a unirse al seminario virtual </span><i><span style=\"font-weight: 400;\">Luchando por el Camino de Berta</span></i><span style=\"font-weight: 400;\">. Escuche a Bertita Zúñiga Cáceres, secretaria General de COPINH e la hija de Berta, sobre el estado de la lucha para llevar a la justicia a los niveles más altos de los autores intelectuales del asesinato de Berta Cáceres y para cerrar permanentemente el proyecto hidroeléctrico Agua Zarca contra el cual Berta y COPINH lucharon en la comunidad de Río Blanco. Desde el 2 de marzo de 2016, Berta ha seguido multiplicándose a medida en que personas de todo el mundo emprenden la lucha por la justicia y la liberación en Honduras y para ganar un mundo mejor.</span>\r\n\r\n<span style=\"font-weight: 400;\">En mayo de 2017, Bertita fue elegida secretaria general de COPINH, la organización indígena Lenca cofundada y dirigida por Berta Cáceres. Poco después de convertirse en coordinadora general, Bertita sobrevivió a un atentado contra su vida. Siguiendo los pasos de Berta Cáceres, Bertita ha continuado exigiendo justicia para Berta, ha mantenido la lucha contra los proyectos de muerte que amenazan las vidas de las comunidades indígenas, afro-hondureñas y campesinas en Honduras, y construye el poder popular para garantizar la justicia social y ambiental.</span>\r\n<h2 style=\"text-align: center;\"><a href=\"http://tinyurl.com/FightingforBertasPath\">CLICK HERE TO REGISTER</a></h2>\r\n<a href=\"http://tinyurl.com/FightingforBertasPath\"><img class=\"alignleft wp-image-11446 size-large\" src=\"https://afgj.org/wp-content/uploads/2019/02/2-3-1024x1024.png\" alt=\"\" width=\"752\" height=\"752\" /></a><a href=\"http://tinyurl.com/FightingforBertasPath\"><img class=\"alignleft wp-image-11445 size-large\" src=\"https://afgj.org/wp-content/uploads/2019/02/1-2-1024x1024.png\" alt=\"\" width=\"752\" height=\"752\" /></a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+  field_mt_slideshow:
+    -
+      value: false

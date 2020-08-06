@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 76df5a91-c11d-44b4-82d5-0d99b5a72c3c
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: "Brigadistas & Volunteers – The Same But\_Different?"
+  created:
+    -
+      value: 1473280034
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /brigadistas-volunteers-same-different
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"aligncenter wp-image-6975 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"nicanotesbannerwbyline\" width=\"579\" height=\"195\" /></a>\n\nEditor’s Note: The author of this guest blog, raises some interesting questions about the motivations of North American volunteers in Nicaragua from the 1980s and now. The speculations and questions he raises ring true to me, but I realize I am also of that 1980s generation and my first trip there was to pick coffee. Our bias, based on our own experiences could be tinged with ageism, so I would welcome a guest blog from among the current generation of volunteers. I’m particularly interested in to what extent\_ your Nicaragua experience is life changing as it was for so many of us who experienced it in the 1980s. - <a href=\"mailto:chuck@afgj.org\">CK</a>\n\n<hr />\n\nBy\_<a href=\"https://stevenicaragua.wordpress.com/author/stevenicaragua/\">stevenicaragua</a>\n\nHow much is there in common between young volunteers who come to Nicaragua today, and the anti-war work brigades who came here in the 1980’s? I have just read two fascinating accounts of the 1980s coffee brigades, one from the USA and one from the UK.\n<p style=\"text-align: center;\"><img class=\"aligncenter wp-image-7035 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/09/brigadistas1.jpg\" alt=\"brigadistas1\" width=\"540\" height=\"313\" /><em>Warehouse near Somoto, destroyed by U.S .backed ‘contra’rebels, 1984.</em></p>\n<strong>Brigadista, Harvest and War in Nicaragua</strong>\_is a moving book written in 1986 by Jeff Jones. Jeff interviewed dozens of American citizens who came to Nicaragua in the early 1980’s, when the Sandinista revolution was young and optimistic, and US president Ronald Reagan was funding the contras to destroy the revolution in its infancy.\n\nWhile the counter-revolution burnt down health posts and attacked rural farms, brigades of U.S. volunteers came on work brigades to pick cotton or coffee, to accompany the revolution, and then return to their country to lobby against an invasion of the country. Jeff Jones estimates that around 650 U.S. volunteers came to work here in 1984, including some who were veterans of the anti-war struggle, and others newly politicised by the gross injustice of the war against the Sandinistas.\n\n<img class=\"aligncenter size-full wp-image-7036\" src=\"https://afgj.org/wp-content/uploads/2016/09/brigadistas2.jpg\" alt=\"brigadistas2\" width=\"395\" height=\"616\" />\n<p style=\"text-align: center;\">From the UK a shorter but more scholarly work was recently published by David Lewis.</p>\n<a href=\".http://nicaraguasc.org.uk/news/article/182/sandinistas-and-solidarity:-the-contribution-of-1980s-brigadistas\" target=\"_blank\" rel=\"noopener\"><strong>Brigadista: An Analysis of British and US volunteers during the contra war in Nicaragua</strong></a>\n\nBased at Leeds University, David interviewed British ex-<em>brigadistas</em>. The paper is able to assess the long term impact of those visits on the lives of the volunteers. Most said the experience in Nicaragua had affected their lives hugely, the way they would vote, the way they would shop, their lifelong involvement in community activities and campaigns. Many later supported Anti-Apartheid Movement or other similar struggles, or campaigns in their home towns or the Labour Party.\n\nI can associate strongly with these 2 accounts, since I picked coffee for three months in 1984/85 with an international brigade. When my sister and I returned to the UK in 1985 we helped organise the first British brigades with the Nicaragua Solidarity Campaign (NSC). Over the following decades the NSC organised dozens of brigades, study tours, and trade union exchanges, and to their credit they are still active today.\n<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-7037\" src=\"https://afgj.org/wp-content/uploads/2016/09/brigadistas3.jpg\" alt=\"brigadistas3\" width=\"612\" height=\"765\" /><em>Armed coffee-pickers guarded the international brigades. 1984</em></p>\nToday many developing countries receive huge numbers of young people looking to volunteer on dozens of different schemes and brigades. Very many of these are short-term, private sector, ‘voluntourism’ schemes, that contribute little, if anything to the host country. Nicaragua also receives dozens of religious missions a year, mainly from US evangelical churches, intent more on evangelizing the poor than in helping them climb out of poverty.\n\nIn Nicaragua we also receive about 500 young English volunteers a year from a UK-government funded scheme (International Citizen Service). This is a much more formal scheme than the private volunteerism projects. Conditions are quite tough, some stay for up to ten weeks in rural communities with little electricity or running water. While some of the projects could be better designed, many of the volunteers contribute a lot and go home changed in many ways.\n\nThe big difference between the 1980’s and today is that in the 1980’s nearly all the\_brigadistas\_had a political analysis. People knew why they were coming to Nicaragua specifically, because they admired the achievements of the Sandinistas, and opposed U.S. intervention. One young American – Benjamin Linder paid with his life, murdered by the\_contra, and his grave is still well-tended today.\n<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-7038\" src=\"https://afgj.org/wp-content/uploads/2016/09/brigadistas4.jpg\" alt=\"brigadistas4\" width=\"558\" height=\"995\" /><em>Grave of Benjamin Linder, Matagalpa, 2016</em></p>\nToday I believe that most young people want to volunteer, often anywhere, often as part of gap-year, and don’t mind very much where they go or what they do.\_ Volunteers today are rarely ‘in solidarity’, and some have a very poor knowledge of the country they have come to visit. To be fair, in the 1980s we were very clear that we were in solidarity with the Sandinistas, achieving great strides forward on behalf of the poor. Today few people would see themselves in solidarity with the FSLN.\n\nIf we are optimistic, we can hope that the young people who visit Nicaragua and Costa Rica will go back to the UK at least with a greater environmental awareness, and hopefully with a desire to support the UK’s commendable programme of international aid. But it is difficult to see the current wave of volunteers around the world going back home with a heightened political consciousness.\_ Is there more that could be done in the countries that send volunteers, to move these young people into lifelong activists for social justice?\n\n<strong>***</strong>\n\n<strong>Briefs</strong>\n<ul>\n \t<li>Former Salvadoran President Mauricio Funes and his family have been granted political asylum in Nicaragua. The former radio host elected president on the FMLN ticket is being investigated for signing a truce with gangs and for alleged financial irregularities during his administration. According to the official announcement by the government, Funes was granted asylum because the life and physical safety of him and his family is in danger “for their struggle for democracy, peace, justice, human rights and political affiliation.” <em>(El Nuevo Diario, Sept. 7)</em></li>\n \t<li>The General Directorate of Migration and Aliens reported that over the last two years out-migration to Costa Rica for economic reasons has fallen by 6.7%. Labor and economic stability, citizen security and social peace were among the reasons stated for more Nicaraguans staying home. <em>(Nicaragua News, Sept. 6)</em></li>\n \t<li>Government Communication Coordinator Rosario Murillo announced that more than 10,000 property titles, primarily to women head of households, will be awarded this month. <em>(Nicaragua News, Sept. 2)</em></li>\n \t<li>The Nicaragua Central Bank reported that during the first six months of 2016, formal employment grew by 11.7% over the same period last year. The report said more than 860,000 workers are enrolled in the Nicaragua Social Security Institute. <em>(Nicaragua News, Sept. 1)</em></li>\n \t<li>President of the Nicaragua Chamber of Energy, Cesar Zamora said, “Over the last 7 years Nicaragua has doubled the national energy demand and renewable energy generation. For half a century just 50% of the population had access to electricity and currently more than 85% of Nicaraguans have quality and affordable electricity service.” <em>(Nicaragua News, Sept. 1)</em></li>\n \t<li>The Honduras daily <em>El Heraldo </em>published a story on Nicaragua’s Preventative Proactive Community Public Safety Model. They reported that, “The Nicaraguan Police have a zero tolerance policy for corruption and this generates more confidence in communities as well as among domestic and foreign investors.” The story also noted that Nicaragua is one of the safest countries in Latin America with a homicide rate of 8 per 100,000 residents. (Nicaragua News, Aug. 29)</li>\n</ul>\n&nbsp;\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

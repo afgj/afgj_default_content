@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 453ced41-5939-4164-a83f-7b4ea9007063
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Workshop Schedule'
+  created:
+    -
+      value: 1383073192
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /workshop-schedule
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "FINAL Workshop scheduleMake sure to check out the bulletin near the registration table to learn about any changes to this schedule throughout the weekend!\r\n\r\nFINALWorkshop schedule\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''

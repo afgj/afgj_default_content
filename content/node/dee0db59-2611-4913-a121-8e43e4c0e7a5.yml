@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: dee0db59-2611-4913-a121-8e43e4c0e7a5
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Closing Remarks Made By Dr. Arnold Matlin At The Primer Congreso Internacional De Hermanamientos Managua, Nicaragua July 16, 2016'
+  created:
+    -
+      value: 1469582409
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /closing-remarks-made-dr-arnold-matlin-primer-congreso-internacional-de-hermanamientos-managua
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter wp-image-6975 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" width=\"579\" height=\"195\" />\n<p style=\"text-align: center;\"><strong>\_</strong></p>\nHonored officials, activists, and friends,\n\nMy name is Dr. Arnold Matlin.\_ I am a founding member of the El Sauce-Rochester Ciudad Hermana Task Force.\_ I am also Secretary of the Rochester Committee on Latin America, and an emeritus board member of the Alliance for Global Justice.\_ The Matlin family supports a Casa Materna in El Sauce through Proyecto Nimian Ortiz.\_ Magda Lanuza, who is interpreting for me, is the Project Manager.\n\nIt is a great honor and privilege to have been invited to this important conference by the Mayor of El Sauce, Alcaldesa Rosa Amelia Valle Vargas.\_ It is also a great honor and privilege to be asked to give the keynote closing address, as a representative of the invited sister city committees and solidarity committees.\n\nThis has been a wonderful conference, but I’m speaking at the very end of a long two days, when everyone is tired.\_ Therefore, I’ll restrict my discussion to just three points.\_ The first is meant for everyone in the room.\_ The second is meant for the Nicaraguan officials who are present.\_ The third is meant for members of foreign sister city delegations.\n<ol>\n \t<li>Never trust the U.S. State Department in its interaction with Nicaragua I will repeat—never trust the U.S. State Department in its interaction with Nicaragua. For over a century, the U.S. State Department has never deviated from its goal—to make Nicaragua a U.S. colony.\_ They have done this by military aggression, economic aggression, and political aggression.</li>\n</ol>\nIt’s true that our Presidents have either allowed or encouraged the State Department to act this way.\_ However, Presidents come and go, but the State Department will be with us forever.\_ And, it will continue to try to destroy Nicaragua forever.\_ Even as we sit here in this conference room, the U.S. State Department is actively striving to help the right-wing parties achieve dominance in the November 6th elections.\n\nNicaraguans have no choice—they must interact with the U.S. State Department.\_ However, when you do this, please remember not to trust anything they say or do.\n<ol start=\"2\">\n \t<li>Nicaraguan officials—Please help the Sister Cities help Nicaragua As we can see from this major conference, the government of Nicaragua wants a positive and mutually helpful relationship with foreign sister cities. However, in reality, sometimes it almost appears as if the Nicaraguan government were trying to punish the foreign sister cities volunteers.</li>\n</ol>\nOne European compañero mentioned problems with educational exchanges.\_ Beyond that, almost every U.S. or European cooperante to whom I’ve spoken has mentioned customs problems.\_ We in Rochester had that specific problem.\_ We are not rich people.\_ We raise money by bake sales and dinners.\_ When we finally get enough\n\nmoney, we buy medical supplies and ship them by container to Managua.\_ All too often, the containers arrive in Managua, and they get stuck there.\_ No matter how hard we try, and the mayors try, the containers sit in Managua for weeks or even months.\_ By the time the containers are released, the material aid is ruined.\_ It has become garbage.\n\nI think that we sister city activists need a “point of entry” into the system.\_ We need a “hotline” to a person with the motivation and authority to help us solve these problems.\_ I spoke to Nubia Luna, of AMUNIC [The Association of Municipalities of Nicaragua].\_ Nubia is an old friend, because she was the Mayor of El Sauce.\_ I also spoke to Guiomar Irías of INIFOM [The Nicaraguan Institute of Municipal Development].\_ Guiomar is a new friend, because she told me, “I am the person who will be the point of entry for sister city problems.”\_ Her telephone number is Tel: 505-8704-3471.\_ Her e-mail <a href=\"mailto:quiomar.irias@inifom.gob.ni\">quiomar.irias@inifom.gob.ni</a>.\_ I hope Cra. Guiomar will provide a solution to many of our problems with customs.\_ We will see.\n<ol start=\"3\">\n \t<li>Solidarity activists—stand with Nicaragua. Why are we in solidarity with Nicaragua? What makes Nicaragua different from other Latin American nations that could also use our assistance?\_ I think the answer is that Nicaragua had a revolution that overthrew a terrible dictator.\_ And then, the revolution did not turn on the people.\_ The revolution was a Sandinista revolution, and the Sandinistas did everything in their power to fulfill their revolutionary promises to the people of Nicaragua.</li>\n</ol>\nHowever, in the 1980’s, the United States intervened with military and economic aggression.\_ The Nicaraguan people already had too many martyrs, and then, after the triumph of the revolution, they again had more martyrs.\_ I’ll name only one.\_ Arlen Siu was one of the first FSLN women combatants to be martyred by the National Guard.\_ She was not from El Sauce, but she was killed in the hills near El Sauce.\_ The Casa Materna in El Sauce is called “Casa Materna Arlen Siu” in her memory.\n\nNaturally, foreign cooperantes have had fewer martyrs, but each martyr represents a needless death, that causes sorrow for the family and friends of the martyred person.\_ The esteemed Mayor of Matagalpa has already listed several foreign martyrs killed by the Contras.\_ I will just tell you of the death of Benjamin Linder, the young U.S. engineer who was shot by the counter-revolutionaries.\_ At his funeral, President Ortega said, “He didn’t come with a planeload of bombs.\_ He came with a planeload of dreams.”\n\nMany of us despaired when the FSLN lost the presidential election in 1990.\_ However, they did not surrender.\_ They did not lose their revolutionary fervor.\_ They were in opposition for 16 long years, but they never gave up.\_ Then, in 2006, and again in 2011, President Ortega was returned to office as President of Nicaragua.\n\nThose of us who never lost hope about the future of Nicaragua have supported the Sandinista revolution from 1979 to the present.\_ Now is not the time to turn our backs on the FSLN.\_ We owe it to the people of Nicaragua to continue to support their revolution, and to support the party of their revolution.\_ We owe it to the heroes and martyrs to remember their sacrifice and to carry on their work.\n\nNot only that, but we must bring young people into the struggle.\_ Those of us who visited Nicaragua in the 1980’s now all have gray hair.\_ We must work to explain to progressive young people that the Nicaraguan revolution was unique.\_ Not only did it succeed, but it was a beacon of light and hope to the rest of the world.\n\nThis is the time for each of us to support the Nicaraguan Revolution by supporting the organization that carried out that revolution—the Frente Sandinista de Liberación Nacional!\n\n&nbsp;\n\n<strong>**</strong>\n\n<strong>Briefs</strong>\n<ul>\n \t<li>Nicaragua’s electricity rates will be reduced another 1% August 1 due to lower oil prices. This represents a 16% reduction over the same period in 2015. (El Nuevo Diario, July 26)</li>\n</ul>\n<ul>\n \t<li>During a recent visit to Nicaragua, Rigoberta Menchu, the indigenous winner of the 1992 Nobel Peace Prize praised the success of the Nicaragua government in promoting peace and the fight against poverty. She added that Nicaragua is an example in the region and should continue to protect its achievements in health, education, security and social peace. \"It is very important that the Nicaraguan people preserve these achievements, especially the restitution of social rights,\" the Nobel Prize Laureate said. <em>(Nicaragua News, July 21)</em></li>\n</ul>\n<ul>\n \t<li>In a recent visit to Managua, Carmen Moreno, representative of the International Labor Organization (ILO) – Central America, highlighted the successful results of the Nicaragua Better Work Program and its positive impact on protection of labor rights in the country. Moreno also reaffirmed the interest of ILO in continuing to support efforts by the Nicaragua government to ensure occupational safety and provide good paying jobs for all. (Nicaragua News, July 21)</li>\n</ul>\n<ul>\n \t<li>Thousands of Nicaraguans filled the John Paul II Plaza to celebrate the 37<sup>th</sup> anniversary of the triumph of the Sandinista Revolution over the 42-year US-backed Somoza family dictatorship. Presidents Nicolas Maduro of Venezuela and Salvador Sanchez Ceren of El Salvador, as well as Cuban Vice-President Miguel Díaz-Canel joined President Daniel Ortega in the plaza. Nobel Peace Prize winner Rigoberta Menchu and deposed Honduran President Manuel Zelaya were also on the stage. (El Nuevo Diario, 7/20)</li>\n</ul>\n<ul>\n \t<li>In his speech, Ortega said that there are enough resources in the world to end hunger and build peace, but these resources are in the hands of the great powers. He decried the amount of money spent on military weapons by the United States and Europe saying they brought risk to the entire world. He also criticized Islamic State terrorism. <em>(Radio La Primerisima, July 19)</em></li>\n</ul>\n&nbsp;\n\n<strong>\_</strong>\n\n<strong>\_</strong>\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

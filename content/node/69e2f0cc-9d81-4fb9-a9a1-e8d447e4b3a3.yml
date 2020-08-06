@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 69e2f0cc-9d81-4fb9-a9a1-e8d447e4b3a3
+  bundle: article
+  default_langcode: en
+  depends:
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly 11.23.2018: US Frames Venezuela with Sponsoring Terrorism; US Fines Bank $1.3B for Cuba blockade; Evo Morales now a target?'
+  created:
+    -
+      value: 1543214918
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-11232018-us-frames-venezuela-sponsoring-terrorism-us-fines-bank-13b-cuba
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2>The News This Week</h2>\r\n<div>\r\n\r\n<a href=\"https://default.salsalabs.org/T8bfc85f1-a65a-4ed2-a858-1097ce0c4edd/4a27b7c5-1723-4446-9905-26ba9fe462e7\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T8bfc85f1-a65a-4ed2-a858-1097ce0c4edd/4a27b7c5-1723-4446-9905-26ba9fe462e7&amp;source=gmail&amp;ust=1543322580208000&amp;usg=AFQjCNFstZIuDSSwfUD5XXR79iHvj-eJnw\">Steve Ellner in Pittsburgh December 1</a>\_and\_<a href=\"https://default.salsalabs.org/T4592ccc2-c4a9-4409-8366-502f3e4ff560/4a27b7c5-1723-4446-9905-26ba9fe462e7\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T4592ccc2-c4a9-4409-8366-502f3e4ff560/4a27b7c5-1723-4446-9905-26ba9fe462e7&amp;source=gmail&amp;ust=1543322580208000&amp;usg=AFQjCNFgTn2IucKDVkWjaYU4UoaUjEERxg\">Columbus, Ohio December 3</a>\r\n\r\n&nbsp;\r\n\r\nVenezuela\r\n\r\n<a href=\"https://default.salsalabs.org/Tba7689b5-a553-47a3-ac00-eb545e8e2364/4a27b7c5-1723-4446-9905-26ba9fe462e7\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tba7689b5-a553-47a3-ac00-eb545e8e2364/4a27b7c5-1723-4446-9905-26ba9fe462e7&amp;source=gmail&amp;ust=1543322580208000&amp;usg=AFQjCNEhuo0scHsAB53rH-XSyZPM7-J0cQ\">Maduro Announces 9 New Public Universities and 20,000 scholarships to Colombian students</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T0d868f53-2891-4223-8d6a-f74c96b08fd7/4a27b7c5-1723-4446-9905-26ba9fe462e7\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T0d868f53-2891-4223-8d6a-f74c96b08fd7/4a27b7c5-1723-4446-9905-26ba9fe462e7&amp;source=gmail&amp;ust=1543322580208000&amp;usg=AFQjCNEj6vqGJx1aPGiWl5xHMD7rqZqNtw\">Steve Ellner: International Opposition to the 'Military Option' and Sanctions Against Venezuela May Be Gaining Strength</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tab3d71c0-1cdc-4287-bcaf-1efe0a55ddea/4a27b7c5-1723-4446-9905-26ba9fe462e7\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tab3d71c0-1cdc-4287-bcaf-1efe0a55ddea/4a27b7c5-1723-4446-9905-26ba9fe462e7&amp;source=gmail&amp;ust=1543322580208000&amp;usg=AFQjCNGKCFD-RnZhOEzcpBElfGBRR7DopA\">Greg Wilpert-Steve Ellner: Trump Considering to Put Venezuela on 'State Sponsor of Terrorism' List and Intensify Sanctions</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tc34c80fe-696e-47ea-97ba-b72c91f1b295/4a27b7c5-1723-4446-9905-26ba9fe462e7\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tc34c80fe-696e-47ea-97ba-b72c91f1b295/4a27b7c5-1723-4446-9905-26ba9fe462e7&amp;source=gmail&amp;ust=1543322580208000&amp;usg=AFQjCNEtVIzdzobDecse4-Hl_Qu5AvwxGg\">Gary Leech: Business as Usual: Washington's Regime Change Strategy in Venezuela</a>\r\n\r\nNicaragua\r\n\r\n<a href=\"https://default.salsalabs.org/T2b3fb312-4164-4aa3-be5f-64dca5474e09/4a27b7c5-1723-4446-9905-26ba9fe462e7\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T2b3fb312-4164-4aa3-be5f-64dca5474e09/4a27b7c5-1723-4446-9905-26ba9fe462e7&amp;source=gmail&amp;ust=1543322580208000&amp;usg=AFQjCNEebqZCwIopcpEfP5LSk_QDEHHg5Q\">Video: The Battle For Nicaragua</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Taa4f2866-6882-432a-8453-c6866fcd1355/4a27b7c5-1723-4446-9905-26ba9fe462e7\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Taa4f2866-6882-432a-8453-c6866fcd1355/4a27b7c5-1723-4446-9905-26ba9fe462e7&amp;source=gmail&amp;ust=1543322580208000&amp;usg=AFQjCNGviZeuC-wEwIp0hnBcTLosusxt7g\">The Guardian Pushes More Lies on Nicaragua, Covering Up For Putschist Priests</a>\r\n\r\nCuba\r\n\r\n<a href=\"https://default.salsalabs.org/T40dbe852-04cb-484f-8417-44b80f115554/4a27b7c5-1723-4446-9905-26ba9fe462e7\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T40dbe852-04cb-484f-8417-44b80f115554/4a27b7c5-1723-4446-9905-26ba9fe462e7&amp;source=gmail&amp;ust=1543322580208000&amp;usg=AFQjCNHXn5VVElf-BlNrgPgnqt0aaXrzqQ\">French Bank fined $1.34B \_for not observing US blockade of Cuba</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T65e81e8e-97f5-455c-b494-b8fb8553d88d/4a27b7c5-1723-4446-9905-26ba9fe462e7\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T65e81e8e-97f5-455c-b494-b8fb8553d88d/4a27b7c5-1723-4446-9905-26ba9fe462e7&amp;source=gmail&amp;ust=1543322580208000&amp;usg=AFQjCNEljJsvNbkTN8NSqn9V7OAm4NLckw\">In UN, Cuba calls for Reparations to Afro-Descendants for the Crime of the Slave Trade</a>\r\n\r\nBolivia\r\n\r\n<a href=\"https://default.salsalabs.org/Tf120a834-92f6-4b31-84df-a872d1535ad2/4a27b7c5-1723-4446-9905-26ba9fe462e7\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tf120a834-92f6-4b31-84df-a872d1535ad2/4a27b7c5-1723-4446-9905-26ba9fe462e7&amp;source=gmail&amp;ust=1543322580208000&amp;usg=AFQjCNGfVTWduFqkzHoxMbtjZUtO0XmByQ\">Chris Williamson, MP: Is Evo Morales's Bolivia next in Trump's firing line?</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T145cf6c9-9c94-4230-83b5-7c20a4e3abb4/4a27b7c5-1723-4446-9905-26ba9fe462e7\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T145cf6c9-9c94-4230-83b5-7c20a4e3abb4/4a27b7c5-1723-4446-9905-26ba9fe462e7&amp;source=gmail&amp;ust=1543322580208000&amp;usg=AFQjCNHkUmYNBjsS36mcCTsjChhRTLjPNg\">COB, Bolivia's Union Federation Endorses Evo Morales for President, VP García Línera</a>\r\n\r\nDelegations\r\n\r\n<a href=\"https://default.salsalabs.org/Tf2fc964f-2a3c-439f-9b0d-7e883743d8ff/4a27b7c5-1723-4446-9905-26ba9fe462e7\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tf2fc964f-2a3c-439f-9b0d-7e883743d8ff/4a27b7c5-1723-4446-9905-26ba9fe462e7&amp;source=gmail&amp;ust=1543322580208000&amp;usg=AFQjCNFKXnF-_YK0lhPT4FuP5IUlkburPQ\">14th May Day International Volunteer Work Brigade in Solidarity with Cuba\r\nApril 21 to May 5, 2019</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T97785a5a-59d3-4926-b674-3bd9111432d2/4a27b7c5-1723-4446-9905-26ba9fe462e7\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T97785a5a-59d3-4926-b674-3bd9111432d2/4a27b7c5-1723-4446-9905-26ba9fe462e7&amp;source=gmail&amp;ust=1543322580208000&amp;usg=AFQjCNFTz09SGuXw12PdDjbbb4KwXUlsvg\">IFCO/Pastors for Peace delegations to Cuba</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T35a222e5-900e-42c0-805f-3b4caaff9934/4a27b7c5-1723-4446-9905-26ba9fe462e7\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T35a222e5-900e-42c0-805f-3b4caaff9934/4a27b7c5-1723-4446-9905-26ba9fe462e7&amp;source=gmail&amp;ust=1543322580208000&amp;usg=AFQjCNFvp2x-c2KWFrYPIH2Xgl9dYF0pBg\">Cuba and Venezuela Solidarity Committee tour to Cuba December 29- January 9</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T343c03ef-40fd-45d6-b8cb-e52a5a29f5c0/4a27b7c5-1723-4446-9905-26ba9fe462e7\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T343c03ef-40fd-45d6-b8cb-e52a5a29f5c0/4a27b7c5-1723-4446-9905-26ba9fe462e7&amp;source=gmail&amp;ust=1543322580208000&amp;usg=AFQjCNG9vzrYoB3mH5Lvl_RnuwQe5xkntA\">AFGJ Friends ot ATC Delegation to Nicaragua, January 3-13</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tbbc3f290-0b0a-44f4-b707-2fdb3434508b/4a27b7c5-1723-4446-9905-26ba9fe462e7\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tbbc3f290-0b0a-44f4-b707-2fdb3434508b/4a27b7c5-1723-4446-9905-26ba9fe462e7&amp;source=gmail&amp;ust=1543322580208000&amp;usg=AFQjCNGlyyQ3I-o9BdMJO9C_bbKSyp4DvA\">Delegation to Venezuela, March 17-24, 2019</a>\r\n\r\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

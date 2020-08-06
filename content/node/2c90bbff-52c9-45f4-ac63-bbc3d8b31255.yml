@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2c90bbff-52c9-45f4-ac63-bbc3d8b31255
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: '87 Signers by Region on McGovern Letter on Honduras '
+  created:
+    -
+      value: 1329980895
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /87-signers-region-mcgovern-letter-honduras
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong><ul>West Coast</ul></strong>\r\n\r\n<ul>CA:</ul>\r\n\r\nLynn Woolsey (CA)\r\nKaren Bass (CA)\r\nXavier Bercerra (CA)\r\nLinda Sanchez (CA)\r\nLucille Roybal-Allard (CA)\r\nLois Capps (CA)\r\nHenry Waxman (CA)\r\nBob Filner (CA)\r\nJackie Speier (CA)\r\nMike Honda (CA)\r\nZoe Lofgren (CA)\r\nBrad Sherman (CA)\r\nSam Farr (CA)\r\nGeorge Miller (CA)\r\nAnna G. Eshoo (CA)\r\nMaxine Waters (CA)\r\nJohn Garamendi (CA)\r\nBarbara Lee (CA)\r\nJudy Chu (CA)\r\nLaura Richardson (CA)\r\nSusan A. Davis (CA)\r\nDoris O. Matsui (CA)\r\nMike Thompson (CA)\r\n\r\n<ul>OR:</ul>\r\n\r\nPeter A. DeFazio (OR)\r\nEarl Blumenauer (OR)\r\nDavid Wu (OR)\r\n\r\n<ul>WA:</ul>\r\n\r\nJim McDermott (WA)\r\n\r\n<strong><ul>Midwest</ul></strong>\r\n\r\n<ul>IL:</ul>\r\n \r\nBobby Rush (IL)\r\nJesse Jackson, Jr. (IL)\r\nDan Lipinski (IL)\r\nLuis Gutierrez (IL)\r\nMike Quigley (IL)\r\nJan Schakowsky (IL)\r\nJerry Costello (IL)\r\n\r\n<ul>WI:</ul>\r\n\r\nTammy Baldwin (WI)\r\nGwen Moore (WI)\r\n\r\n<ul>OH:</ul>\r\n\r\nBetty Sutton (OH)\r\nDennis J. Kucinich (OH)\r\nMarcy Kaptur (OH)\r\n\r\n<ul>MO:</ul>\r\n\r\nWm. Lacy Clay (MO)\r\nRuss Carnahan (MO)\r\nEmanuel Cleaver II (MO)\r\n\r\n<ul>MN:</ul>\r\n\r\nKeith Ellison (MN)\r\nBetty McCollum (MN)\r\n\r\n<ul>MI:</ul>\r\n\r\nJohn Conyers, Jr. (MI)\r\nDale E. Kildee (MI)\r\n\r\n<strong><ul>Northeast</ul></strong>\r\n\r\n<ul>MA:</ul>\r\n\r\nJames McGovern (MA)\r\nMichael Capuano (MA)\r\nJohn Olver (MA)\r\nJohn F. Tierney (MA)\r\nBarney Frank (MA)\r\nEdward J. Markey (MA)\r\nRichard E. Neal (MA)\r\n\r\n<ul>NY:</ul>\r\n\r\nMaurice D. Hinchey (NY)\r\nLouise M. slaughter (NY)\r\nYvette D. Clarke (NY)\r\nEdolphus Towns (NY)\r\nJosé E. Serrano (NY)\r\nPaul D. Tonko (NY)\r\n\r\n<ul>MD:</ul>\r\n\r\nDonna F. Edwards (MD)\r\nChris Van Hollen (MD)\r\nElijah E. Cummings (MD)\r\n\r\n<ul>NJ:</ul>\r\n\r\nDonald M. Payne (NJ)\r\nBill Pascrell, Jr. (NJ)\r\n\r\n<ul>PA:</ul>\r\n\r\nMike Doyle (PA)\r\nChaka Fattah (PA)\r\n\r\n<ul>RI:</ul>\r\n\r\nJames R. Langevin (RI)\r\nDavid N. Cicilline (RI)\r\n\r\n<ul>ME:</ul>\r\n\r\nMichael H. Michaud (ME)\r\nChellie Pingree (ME)\r\n\r\n<ul>CT:</ul>\r\n\r\nRosa L. DeLauro (CT)\r\n\r\n<ul>VT:</ul>\r\n\r\nPeter Welch (VT)\r\n\r\n<strong><ul>South & Southeast</ul></strong>\r\n\r\n<ul>NC:</ul>\r\n\r\nG. K. Butterfield (NC)\r\nDavid E. Price (NC)\r\n\r\n<ul>VA:</ul>\r\n\r\nJames P. Moran (VA)\r\nGerald E. Connolly (VA)\r\n\r\n<ul>GA:</ul>\r\n\r\nJohn Lewis (GA)\r\nHenry C. “Hank” Johnson, Jr. (GA)\r\n\r\n<ul>FL:</ul>\r\n\r\nAlcee L. Hastings (FL)\r\nFrederica S. Wilson (FL)\r\n\r\n<ul>TX:</ul>\r\n\r\nSheila Jackson Lee (TX)\r\nAl Green (TX)\r\n\r\n<ul>KY:</ul>\r\n\r\nJohn A. Yarmuth (KY)\r\n\r\n<ul>TN:</ul>\r\n\r\nSteve Cohen (TN)\r\n\r\n<strong><ul>Southwest & Rocky Mountain</ul></strong>\r\n\r\n<ul>AZ:</ul>\r\n\r\nRaúl M. Grijalva (AZ)\r\n\r\n<ul>NM:</ul>\r\n\r\nMartin Heinrich (NM)\r\n\r\n<ul>CO:</ul>\r\n\r\nJared Polis (CO)"
+      format: full_html
+      summary: ''

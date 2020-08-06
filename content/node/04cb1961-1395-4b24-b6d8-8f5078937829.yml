@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 04cb1961-1395-4b24-b6d8-8f5078937829
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Regional
+  created:
+    -
+      value: 1342101845
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /regional
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<span style=\"color: #0070c0; font-size: 14pt;\"><strong><span style=\"color: #008080;\">Regional - FISCALLY SPONSORED PROJECTS</span></strong></span>\r\n<ul>\r\n\t<li>Action LA (Los Angeles)\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.actionla.org/\"><span style=\"font-style: normal; color: #ff6600;\">www.actionla.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>African Awareness Association (Richmond, VA)\r\n(Banbose Shango, bshango@yahoo.com)</li>\r\n</ul>\r\n<ul>\r\n\t<li>American Jews for a Just Peace Boston (Boston, MA)\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.ajjpboston.org\"><span style=\"color: #ff6600;\">www.AJJPBoston.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Bayshore Resource Center (New Jersey)</li>\r\n</ul>\r\n<ul>\r\n\t<li>Change-Links Newspaper (Los Angeles)\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.change-links.org\"><span style=\"color: #ff6600;\">www.change-links.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Committee for Palestinian Rights (Howard County, MD)\r\n(no web page, contact CPR_Maryland@yahoo.com)</li>\r\n</ul>\r\n<ul>\r\n\t<li>Conflict Transformation Collective (Fort Collins)\r\n<span style=\"color: #ff6600;\"><a href=\"http://ctpeace.org/\"><span style=\"color: #ff6600;\">ctpeace.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Dialect of the Diaspora (Tucson)\r\n</li>\r\n</ul>\r\n<ul>\r\n\t<li>Friends of Loudoun Hills (Virginia)</li>\r\n</ul>\r\n<ul>\r\n\t<li>Homeless Advocacy Coalition (Pennsylvania)</li>\r\n</ul>\r\n<ul>\r\n\t<li>IndyOWS (Indiana)\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.indyows.org\"><span style=\"color: #ff6600;\">www.indyows.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Just Info (New York, NY)\r\n<span style=\"color: #ff6600;\"><a href=\"http://nylawcollective.com/\"><span style=\"color: #ff6600;\">nylawcollective.com</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Maypop Collective for Climate and Economic Justice\r\n<span style=\"color: #ff6600;\"><a href=\"http://maypopcollective.org/\"><span style=\"color: #ff6600;\">maypopcollective.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Man 101 Institute</li>\r\n</ul>\r\n<ul>\r\n\t<li>Missing Pages of History Inc. (Richmond, VA)\r\n(no web page, contact leerobinsonii@yahoo.com)</li>\r\n</ul>\r\n<ul>\r\n\t<li>Occupy Austin (Austin, TX)\r\n<span style=\"color: #ff6600;\"><a href=\"http://occupyaustin.org/\"><span style=\"color: #ff6600;\">occupyaustin.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Occupy Peace House (Washington, DC)\r\n<a href=\"http://thepeacehousedc.org/\"><span style=\"color: #ff6600;\">thepeacehousedc.org</span></a></li>\r\n</ul>\r\n<ul>\r\n\t<li>Occupy Sandy (New Jersey)\r\n<span style=\"color: #ff6600;\"><a href=\"https://www.wepay.com/donations/1046440938\"><span style=\"color: #ff6600;\">www.wepay.com/donations</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Occupy Sandy (New York)\r\n<span style=\"color: #ff6600;\"><a href=\"https://www.wepay.com/donations/492531958\"><span style=\"color: #ff6600;\">www.wepay.com/donations/</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Occupy Tucson\r\n<span style=\"color: #ff6600;\"><a href=\"https://www.occupytucson.org\"><span style=\"color: #ff6600;\">www.occupytucson.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Occupy Wall Street Screenprinters\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.owsscreenprinters.com/\"><span style=\"color: #ff6600;\">www.owsscreenprinters.com</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Pacific NW Social Forum/People's Movement Assembly\r\n<span style=\"color: #ff6600;\"><a href=\"http://pnwsf.org/\"><span style=\"color: #ff6600;\">pnwsf.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Peoples Media Center (Washington, DC)\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.dcspeakout.com/test/experiment2.html\"><span style=\"color: #ff6600;\">www.dcspeakout.com</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Permatecture Design - A Project of Occupy Wall Street Sustainability (New York)\r\n<span style=\"color: #ff6600;\"><a href=\"https://www.wepay.com/donations/909722557\"><span style=\"color: #ff6600;\">www.wepay.com/donations</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Positive Change (Boston)</li>\r\n</ul>\r\n<ul>\r\n\t<li>Profile of the Lincoln Theater (Washington, DC)\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.facebook.com/ProfileOfTheLincoln\"><span style=\"color: #ff6600;\">www.facebook.com/ProfileOfTheLincoln</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Sandy Storyline (New York)\r\n<span style=\"color: #ff6600;\"><a href=\"http://sandystoryline.com/\"><span style=\"color: #ff6600;\">sandystoryline.com</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>The Children's Art and Literacy Program (T-CALP) (Washington, DC)\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.tcalp.com/\"><span style=\"color: #ff6600;\">www.tcalp.com</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Tucson Task Force (Tucson)\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.tucsontaskforce.org/\"><span style=\"color: #ff6600;\">www.tucsontaskforce.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Turnwind (Tucson, AZ)</li>\r\n</ul>\r\n<ul>\r\n\t<li>U.N.I.D.O.S. (United Nondiscriminatory Individuals Demanding Our Studies) (Tucson)\r\n<span style=\"color: #ff6600;\"><a href=\"https://www.facebook.com/pages/UNIDOS/205203589501640\"><span style=\"color: #ff6600;\">www.facebook.com/pages/UNIDOS</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>We Are Cove Point (Maryland)\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.wearecovepoint.org/\" target=\"_blank\"><span style=\"color: #ff6600;\">www.wearecovepoint.org</span></a></span></li>\r\n</ul>\r\n<h2 style=\"padding-left: 30px;\"></h2>\r\n&nbsp;\r\n<h2 style=\"padding-left: 30px; text-align: center;\"><strong><span style=\"color: #008080;\"><span style=\"color: #ff6600;\"><a title=\"Donations\" href=\"https://org2.salsalabs.com/o/7315/donate_page/fiscally-sponsored-projects\"><span style=\"color: #ff6600;\">DONATE</span></a></span> TO A FISCALLY SPONSORED PROJECTS</span></strong></h2>\r\n<h2 style=\"padding-left: 30px; text-align: center;\"><strong><span style=\"color: #008080;\"><span style=\"color: #ff6600;\"><a title=\"Fiscally Sponsored Projects\" href=\"https://afgj.org/sponsored-projects/fiscally-sponsored-projects\"><span style=\"color: #ff6600;\">ABOUT</span></a></span> FISCAL SPONSORSHIP</span></strong></h2>\r\n<p style=\"padding-left: 30px;\"><strong><span style=\"text-decoration: underline;\">\r\n</span></strong></p>"
+      format: full_html
+      summary: ''

@@ -1,0 +1,65 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8410e90b-778a-4f14-9ad3-da4d468499ab
+  bundle: article
+  default_langcode: en
+  depends:
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    8ec8e0dc-b6ed-4683-a718-bd2452edec59: taxonomy_term
+    0dfdb011-9c82-4762-89a0-db01e08f9fe3: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    ebb4e233-3bb4-4490-8791-3f304795758d: taxonomy_term
+    2086f118-57f1-4219-ad73-94cc219358df: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Press Release - Campaign to End U.S. Canada Sanctions on Venezuela Delegation Returns'
+  created:
+    -
+      value: 1555630246
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /press-release-campaign-end-us-canada-sanctions-venezuela-delegation-returns
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/focus-areas/venezuela-solidarity-campaign/campaign-to-end-us-and-canada-sanctions-against-venezuela\" target=\"_blank\" rel=\"noopener noreferrer\"><img class=\"aligncenter wp-image-11228 size-medium\" src=\"https://afgj.org/wp-content/uploads/2019/01/Anti-Sanctions-banner-image-300x70.jpg\" alt=\"\" width=\"300\" height=\"70\" /></a>\r\n\r\n<img class=\"aligncenter wp-image-11679 size-full\" src=\"https://afgj.org/wp-content/uploads/2019/04/Anti-Sactions-delegation-promo.jpeg\" alt=\"\" width=\"1058\" height=\"576\" />\r\n\r\n<em>Español abajo</em>\r\n<p class=\"m_7169690858988251367gmail-MsoNoSpacing\">PRESS ADVISORY</p>\r\n<p class=\"m_7169690858988251367gmail-MsoNoSpacing\">FOR IMMEDIATE RELEASE: April 17, 2019</p>\r\n<p class=\"m_7169690858988251367gmail-MsoNoSpacing\">Contacts:</p>\r\n<p class=\"m_7169690858988251367gmail-MsoNoSpacing\">Teri Mattson (US) +1.415.259.9626,\_<a href=\"mailto:endvenezuelasanctions@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">endvenezuelasanctions@gmail.<wbr />com</a></p>\r\n<p class=\"m_7169690858988251367gmail-MsoNoSpacing\">Alison Bodine (Canada) +1.604.518.7361,\_<a href=\"mailto:alisoncolette@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">alisoncolette@gmail.com</a></p>\r\n<p class=\"m_7169690858988251367gmail-MsoNoSpacing\"><b>Eyewitness Venezuela - U.S./Canada Delegation to Venezuela Returns After Fact-finding Mission to Study the Impact of Sanctions</b></p>\r\n<p class=\"m_7169690858988251367gmail-MsoNoSpacing\">From March 28-April 7, 2019 people from the U.S., Canada and Turkey were in Venezuela to observe and better understand the affects of sanctions on Venezuela’s economy, it’s people and institutions. The 12 participants represented many different backgrounds, experiences and geographic areas across the U.S., Canada, Costa Rica and Turkey.</p>\r\n<p class=\"m_7169690858988251367gmail-MsoNoSpacing\">This delegation, which was entirely self-funded, went to Venezuela at a critical time, following the defeat of the U.S.-backed attempted coup d’état by Juan Guaido. While the delegation was in Venezuela, the U.S. government continued to escalate sanctions against Venezuela, and to state that, “all options are on the table,” referring to possible U.S. military action against the sovereign country.</p>\r\n\r\n<div class=\"yj6qo ajU\">\r\n<div id=\":1qt\" class=\"ajR\" tabindex=\"0\" role=\"button\" aria-label=\"Hide expanded content\" aria-expanded=\"true\" data-tooltip=\"Hide expanded content\"><span style=\"letter-spacing: 0.05em;\">During the 10-day fact-finding delegation participants, including medical professionals, social justice activists and journalists, heard first-hand from government officials, community leaders, human rights organizations, journalists and grassroots organizations in both rural and urban Venezuela.</span></div>\r\n</div>\r\n<div class=\"adL\">\r\n<div class=\"im\">\r\n<p class=\"m_7169690858988251367gmail-MsoNoSpacing\">What the delegation observed was that the economic sanctions, referred to as unilateral coercive economic measures in Venezuela, which illegal under the Organization of American States (OAS) and the United Nations (UN) charters, as well as the U.S. threats of war, have had a significant negative impact on the everyday lives of people in Venezuela.</p>\r\n<p class=\"m_7169690858988251367gmail-MsoNoSpacing\">“We saw a very different Venezuela than what we are hearing, seeing and reading across mainstream media. We were eye-witness to the significant difficulties that Venezuela is facing due to the illegal U.S., Canada and European Union sanctions, but also to the many ways that the government and people of Venezuela are adapting and continuing to defend their sovereignty and self-determination,” said delegation organizer Teri Mattson.</p>\r\n<p class=\"m_7169690858988251367gmail-MsoNoSpacing\">“The people in Venezuela that we met with and what we observed first-hand re-affirmed our responsibility as people living in North America to work to end war on Venezuela, end all sanctions, and call on the governments of the U.S. and Canada to respect the sovereignty of Venezuela,” Mattson continued.</p>\r\n<p class=\"m_7169690858988251367gmail-MsoNoSpacing\">Participants in the delegation, who are located throughout the U.S., Canada, Turkey and Costa Rica are available for interviews and speaking engagements. Please contact\_<a href=\"mailto:endvenezuelasanctions@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">endvenezuelasanctions@gmail.<wbr />com</a>\_with any inquiries.</p>\r\n<p class=\"m_7169690858988251367gmail-MsoNoSpacing\">###</p>\r\n&nbsp;\r\n\r\n</div>\r\n<p class=\"m_5337309608935007138gmail-p1\"><span class=\"m_5337309608935007138gmail-s1\">COMUNICADO DE PRENSA</span></p>\r\n<p class=\"m_5337309608935007138gmail-p1\"><span class=\"m_5337309608935007138gmail-s1\">PARA DIFUSIÓN INMEDIATA: 17 de abril, 2019</span></p>\r\n<p class=\"m_5337309608935007138gmail-p2\"><span class=\"m_5337309608935007138gmail-s1\"><span class=\"m_5337309608935007138gmail-Apple-converted-space\">\_</span></span><span class=\"m_5337309608935007138gmail-s1\">Contacto:</span></p>\r\n<p class=\"m_5337309608935007138gmail-p1\"><span class=\"m_5337309608935007138gmail-s1\">Teri Mattson (EE.UU) +1.415.259.9626,\_<u><span style=\"color: #0000ff;\"><a href=\"mailto:endvenezuelasanctions@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">endvenezuelasanctions@gmail.<wbr />com</a></span></u></span></p>\r\n<p class=\"m_5337309608935007138gmail-p1\"><span class=\"m_5337309608935007138gmail-s1\">Alison Bodine (Canadá) +1.604.518.736,\_<span style=\"color: #0000ff;\"><u><a href=\"mailto:alisoncolette@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">alisoncolette@gmail.com</a></u></span></span></p>\r\n<p class=\"m_5337309608935007138gmail-p4\"><span class=\"m_5337309608935007138gmail-s1\"><b>Testimonio de Venezuela - Delegación de EE.UU y Canadá a Venezuela regresa de una misión de investigación para estudiar el impacto de las sanciones</b></span></p>\r\n<p class=\"m_5337309608935007138gmail-p2\"><span class=\"m_5337309608935007138gmail-s1\"><span class=\"m_5337309608935007138gmail-Apple-converted-space\">\_</span></span><span class=\"m_5337309608935007138gmail-s1\">Del 28 de marzo hasta el 7 de abril, 2019, personas provenientes de los EE.UU, Canadá y Turquía estuvieron en Venezuela para observar y entender mejor a las afectaciones de las sanciones en la economía, el pueblo y las instituciones venezolanas. Los doce participantes representaron a varias profesiones, vivencias y áreas geográficos dentro de los EE.UU, Canadá, Turquía y Costa Rica.</span></p>\r\n<p class=\"m_5337309608935007138gmail-p1\"><span class=\"m_5337309608935007138gmail-s1\">Esta delegación, completamente auto-financiada, visitó a Venezuela en un momento crítico, después de la derrota del intento de golpe de estado por Juan Guaidó, apoyado por los EE.UU. Mientras la delegación estuvo en Venezuela, el gobierno de los EE.UU seguía aumentando las sanciones contra Venezuela, declarando que, “todas las opciones están sobre la mesa,” refiriendo a una posible acción militar estadounidense en contra del país soberano.</span></p>\r\n<p class=\"m_5337309608935007138gmail-p1\"><span class=\"m_5337309608935007138gmail-s1\">Durante los diez días de la delegación investigadora, los participantes—entre ellos profesionales de la salud, activistas por la justicia social y periodistas—intercambiaron directamente con funcionarios del gobierno, líderes comunitarios, organizaciones de derechos humanos, periodistas y organizaciones de base en zonas rurales y urbanas de Venezuela.</span></p>\r\n<p class=\"m_5337309608935007138gmail-p1\"><span class=\"m_5337309608935007138gmail-s1\">Lo que observó la delegación fue que las sanciones económicas—conocidas en Venezuela como medidas económicas coercitivas unilaterales, y ilegales bajo las cartas de la Organización de las Naciones Unidas (ONU) y la Organización de los Estados Americanos (OEA)—junto con las amenazas de guerra por parte de los EE.UU, han tenido un impacto negativo significativo en la vida cotidiana del pueblo venezolano.</span></p>\r\n<p class=\"m_5337309608935007138gmail-p1\"><span class=\"m_5337309608935007138gmail-s1\">“Vimos a una Venezuela bastante diferente de lo que estamos oyendo, viendo y leyendo en los medios de comunicación masivos. Fuimos testigos oculares de las dificultades significativas que Venezuela se está enfrentado debido a las sanciones ilegales de los EE.UU, Canadá y la Unión Europea, pero también observamos las numerosas formas en las que el pueblo y el gobierno venezolano se están adaptando y continúan defendiendo su soberanía y auto-determinación,” dijo la coordinadora de la delegación, Teri Mattson.</span></p>\r\n<p class=\"m_5337309608935007138gmail-p1\"><span class=\"m_5337309608935007138gmail-s1\">“Las personas en Venezuela que conocimos y observamos de primera mano reafirmaron la responsabilidad que tenemos como individuos viviendo en América del Norte de trabajar a ponerle fin a la guerra contra Venezuela, acabar con todas las sanciones, y llamar a los gobiernos de los EE.UU y Canadá a que respeten la soberanía de Venezuela,” continuó Mattson.</span></p>\r\n<p class=\"m_5337309608935007138gmail-p1\"><span class=\"m_5337309608935007138gmail-s1\">Los participantes de la delegación, dispersos por los EE.UU, Canadá, Turquía y Costa Rica, se disponen para entrevistas y ponencias públicas. Para solicitudes de prensa, favor de comunicarse con\_<a href=\"mailto:endvenezuelasanctions@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"m_5337309608935007138gmail-s2\">endvenezuelasanctions@gmail.<wbr />com</span></a>.</span></p>\r\n<span class=\"m_8242791652488392662gmail-m_-2500074893339655362gmail-s1\">(Traducido por\_</span>Lee Schlenker)\r\n<p class=\"m_5337309608935007138gmail-p1\"><span class=\"m_5337309608935007138gmail-s1\">###</span></p>\r\n\r\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: 8ec8e0dc-b6ed-4683-a718-bd2452edec59
+    -
+      entity: 0dfdb011-9c82-4762-89a0-db01e08f9fe3
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false
+  field_tags:
+    -
+      entity: ebb4e233-3bb4-4490-8791-3f304795758d
+    -
+      entity: 2086f118-57f1-4219-ad73-94cc219358df

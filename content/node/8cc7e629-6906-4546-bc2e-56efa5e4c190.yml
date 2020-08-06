@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8cc7e629-6906-4546-bc2e-56efa5e4c190
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    351fdc7b-dd7b-4c3b-bfa7-8038cffb1a97: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Don’t Let Trump Tighten the US Blockade of Cuba Contact Congress Today!'
+  created:
+    -
+      value: 1551361315
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /dont-let-trump-tighten-us-blockade-cuba-contact-congress-today
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><a style=\"background: #ff0000; padding: 10px; margin: 10px 0px; text-align: center; text-decoration: none; font-size: 12pt; color: #ffffff; font-family: Arial, Helvetica, sans-serif; display: inline-block;\" href=\"https://afgj.salsalabs.org/dontlettrumptightentheusblockadeofcuba\" target=\"_blank\" rel=\"noopener noreferrer\">Take Action Now!</a></p>\r\n<span style=\"font-weight: 400;\">The U.S. blockade on Cuba is a unilateral but internationally applied policy that only serves to hurt the people of Cuba. Yet,\_the Trump Administration is now</span><b>\_</b><a href=\"https://www.reuters.com/article/us-usa-cuba/us-considering-allowing-lawsuits-over-cuba-confiscated-properties-idUSKCN1PA30I\"><span style=\"font-weight: 400;\">thinking</span></a> <span style=\"font-weight: 400;\">about\_</span><i><span style=\"font-weight: 400;\">fortifying</span></i><span style=\"font-weight: 400;\">\_the embargo\_by allowing a notorious provision to go into effect soon</span><span style=\"font-weight: 400;\">.\_</span><a href=\"https://afgj.salsalabs.org/dontlettrumptightentheusblockadeofcuba\"><b>Don’t wait—contact Congress TODAY!</b></a>\r\n\r\n<span style=\"font-weight: 400;\">The</span><span style=\"font-weight: 400;\">\_</span><a href=\"https://www.treasury.gov/resource-center/sanctions/documents/libertad.pdf\"><span style=\"font-weight: 400;\">Helms-Burton Act</span></a><b>\_</b><span style=\"font-weight: 400;\">is a central part of the blockade on Cuba. Title III gives U.S. citizens the right to sue in U.S. courts even if they were Cuban citizens when the Cuban government nationalized their property after the 1959 Revolution. Title III permits them to bring lawsuits against U.S. and foreign companies that allegedly profit from the nationalized properties. The infamous Title III has been waived every six months by every U.S. president since Helms-Burton came into effect in March 1996.</span>\r\n\r\n<span style=\"font-weight: 400;\">The cruel embargo against Cuba has been maintained for 59 years. It has cost the Cuban people billions of dollars in lost trade and has at times caused food and medical shortages. The US embargo has been rejected by lopsided majorities in the UN General Assembly year after year. It represents six decades of failed US policy toward Cuba.</span>\r\n\r\n<span style=\"font-weight: 400;\">After the success of the Cuban Revolution, the new government led by Fidel Castro nationalized properties of Cuban nationalists tied to the dictatorship or who had expoited the Cuban people. Many of them left Cuba and migrated to the United States. Title III of the Helms-Burton Act allows U.S. citizens to bring private lawsuits against U.S. and foreign entities for allegedly “trafficking” in property confiscated in Cuba since 1959. Under Helms-Burton, it does not matter that the “U.S. citizens” were Cuban citizens at the time their property was confiscated.</span>\r\n\r\n<span style=\"font-weight: 400;\">Though the Trump Administration has previously waived Title III, on January 16, Trump suspended Title III for only 45 days, instead of the usual six months, and is\_now conducting “a careful review” of the impact of allowing this provision to go into effect.\_</span><b>Send an email today to your Senators and Congressperson.</b>\r\n\r\n<span style=\"font-weight: 400;\">An activation of Title III would undoubtedly unleash a flood of lawsuits, discouraging any U.S. or foreign investment in Cuba out of fear of being sued. In fact, the State Department estimates that there could be an avalanche of claims—over 200,000—if Title III were allowed to go into effect.\_</span>\r\n\r\n<span style=\"font-weight: 400;\">And, more importantly, it would severely hurt Cubans and the Cuban economy.</span>\r\n\r\n<span style=\"font-weight: 400;\">More information on this issue from the National Lawyers Guild </span><a href=\"https://www.nlg.org/nlg-ic-condemns-trump-administration-threat-to-unleash-unprecedented-lawsuits-against-companies-doing-business-with-cuba/\"><span style=\"font-weight: 400;\">here</span></a><span style=\"font-weight: 400;\"> and </span><a href=\"https://truthout.org/articles/trump-threatens-a-second-embargo-of-cuba/\"><span style=\"font-weight: 400;\">here</span></a><span style=\"font-weight: 400;\">.</span>\r\n\r\n&nbsp;\r\n\r\n<span style=\"font-weight: 400;\">Text of email</span>\r\n\r\n<span style=\"font-weight: 400;\">Dear Rep. or Sen._________________</span>\r\n\r\n<span style=\"font-weight: 400;\">I am writing to urge you to contact the White House and the U.S. Department of State to demand the continued suspension of Title III of the Helms-Burton Act of 1996 with regard to Cuba. This provision, which has been waived by every president since 1996,\_would unleash a flood of lawsuits, which would end up clogging up U.S. courts and discouraging both U.S. and foreign companies from doing business in Cuba out of fear of being sued. Allowing Title III to go into effect will have a disastrous effect on U.S.-Cuba relations and will severely hurt everyday Cubans. I also encourage you to publicly support the waiving of Title III. </span>\r\n\r\n<span style=\"font-weight: 400;\">Thank you</span>\r\n\r\n<span style=\"font-weight: 400;\">[Your Name]\_</span>\r\n<p style=\"text-align: center;\"><a href=\"https://afgj.salsalabs.org/dontlettrumptightentheusblockadeofcuba\"><b>Click here to send your emails</b></a></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: 351fdc7b-dd7b-4c3b-bfa7-8038cffb1a97
+  field_mt_slideshow:
+    -
+      value: false

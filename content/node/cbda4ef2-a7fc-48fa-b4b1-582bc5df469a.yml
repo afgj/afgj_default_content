@@ -1,0 +1,56 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: cbda4ef2-a7fc-48fa-b4b1-582bc5df469a
+  bundle: article
+  default_langcode: en
+  depends:
+    8804cf52-eb73-4e17-94db-4b6af7dcb630: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    f432a6d8-2688-4612-a483-07edfddf2ae2: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Traveling to Cuba? A National Network on Cuba Webinar'
+  created:
+    -
+      value: 1467106386
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /traveling-cuba-national-network-cuba-webinar
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2 class=\"null\" style=\"text-align: center;\">Webinar on\_Sunday, July 10\n7 to 8:30 pm EDT /4 to 5:30 pm PDT\n<em><a href=\"http://myaccount.maestroconference.com/conference/register/KRCLRV6D6Y44BL25\" target=\"_blank\" rel=\"noopener\">Register here</a></em></h2>\n<img class=\"aligncenter size-full wp-image-6785\" src=\"https://afgj.org/wp-content/uploads/2016/06/NNOC-Cuba-Webinar.jpg\" alt=\"NNOC Cuba Webinar\" width=\"400\" height=\"330\" />\n<h3 class=\"null\">From our colleagues at the National Network on Cuba:</h3>\nWe welcome friends of Cuba to this webinar for sure -- you are the backbone of all solidarity -- but is it possible to also reach\_ others who are curious, confused, or want more information and perspective about the dizzying travel developments?\n\nRespected and experienced Cuba travel experts - <strong>Art Heitzer </strong>from the National Lawyers Guild Cuba Sub Committee; <strong>Bob Guild</strong> from Marazul Tours;will field questions after short presentations about: Legal realities, Travel realities, View from Cuba, Ethical travel, action and more. The NNOC will briefly preview tools member organizations and new friends can use in the coming months and major Cuba activities this summer.\n\nIn addition to our panelists, this effort would not be possible without member organization Alliance for Global Justice and its technically wise staff and Inter-Occupy for use of the platform. We thank them for helping us make the leap in our evolving digital world.\n\n&nbsp;\n\nMember organizations and friends of Cuba, please share this information widely.\n<a href=\"http://bit.ly/1WWUMob\" target=\"_blank\" rel=\"noopener\">Facebook event page</a>\_and at NNOC.info where it will be prominently posted until July 10.\n\n<a href=\"http://myaccount.maestroconference.com/conference/register/KRCLRV6D6Y44BL25\" target=\"_blank\" rel=\"noopener\">Registration</a> is required for this web meeting.\nAsk questions on event page, tweet #AskAboutCubaTravel or send email to cheryl@nnoc.info"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8804cf52-eb73-4e17-94db-4b6af7dcb630
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false
+  field_tags:
+    -
+      entity: f432a6d8-2688-4612-a483-07edfddf2ae2

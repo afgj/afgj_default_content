@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 58b4661f-23ba-4e48-8f0b-17502d67f790
+  bundle: article
+  default_langcode: en
+  depends:
+    4848f7f1-d8a6-4770-9e04-5737ab5cc97d: taxonomy_term
+    7c24d703-ad76-40f5-8889-a30cb1700fd3: taxonomy_term
+    d7484f78-fd8a-49f7-afcb-5b7fed9db70f: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Face the Truth: Racial Profiling Across America'
+  created:
+    -
+      value: 1476604896
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /face-truth-racial-profiling-across-america
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Kurdish American Karwan Abdul Kader was stopped and stripped by local law enforcement for no reason other than driving around in the wrong neighborhood. Watch stories like his in this powerful new documentary \"Face The Truth: Racial Profiling Across America\" showing the devastating impact of racial profiling on communities across our country, including the African American, Latino, Arab, Muslim and South Asian communities.\n\nhttps://www.youtube.com/watch?v=OpbNUPrF6II"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 4848f7f1-d8a6-4770-9e04-5737ab5cc97d
+    -
+      entity: 7c24d703-ad76-40f5-8889-a30cb1700fd3
+    -
+      entity: d7484f78-fd8a-49f7-afcb-5b7fed9db70f
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

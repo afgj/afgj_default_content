@@ -1,0 +1,37 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 2d618db5-2ef3-4607-b59e-6c41f4dae031
+  bundle: mt_collapsible_block
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Collapsible block'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_block_reference:
+    -
+      target_id: googlemapbanner_3
+  field_mt_cb_collapse_icon:
+    -
+      value: fa-angle-up
+  field_mt_cb_expand_icon:
+    -
+      value: fa-angle-down
+  field_mt_cb_state:
+    -
+      value: expanded
+  field_mt_cb_title:
+    -
+      value: 'Show / Hide Map'
+  field_mt_cb_trigger_position:
+    -
+      value: top

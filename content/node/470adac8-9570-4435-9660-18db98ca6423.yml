@@ -1,0 +1,56 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 470adac8-9570-4435-9660-18db98ca6423
+  bundle: article
+  default_langcode: en
+  depends:
+    8ec8e0dc-b6ed-4683-a718-bd2452edec59: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    2086f118-57f1-4219-ad73-94cc219358df: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Register for April''s Venezuela Webinar - Don''t miss this important webinar for breaking news and live updates!'
+  created:
+    -
+      value: 1556633355
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /register-aprils-venezuela-webinar-dont-miss-important-webinar-breaking-news-and-live-updates
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2 style=\"text-align: center;\">April Venezuela Webinar |\_Delegation Report back: Eyewitness Venezuela!</h2>\r\n<h3 style=\"text-align: center;\">TUESDAY April 30, 2019\r\n5PM PST/8PM EST</h3>\r\n<p style=\"text-align: center;\"><a href=\"https://zoom.us/webinar/register/5315559751360/WN_xy8vXdEURzeG0jQIKSTMCg\" target=\"_blank\" rel=\"noopener noreferrer\">REGISTER NOW!</a></p>\r\n<img class=\"aligncenter wp-image-7078 size-medium\" src=\"https://afgj.org/wp-content/uploads/2016/09/VSN-webinar-300x159.jpg\" alt=\"Venezuela Monthly Webinar Series\" width=\"300\" height=\"159\" />\r\n<h3>UPDATE: Don't miss this important webinar for breaking news and live updates!</h3>\r\nTonight's webinar will feature special guest CARLOS RON, Vice Minister for North America of the Venezuelan Ministry of Foreign Affairs, who will give an update from today's U.S.-backed attempted coup in Venezuela.\r\n\r\nWe will also hear a report from inside the Venezuela Embassy in DC with a member of the\_<a href=\"https://default.salsalabs.org/Ta4e571c5-4897-4959-884d-a6cde1b729ef/2bd47860-b383-4d78-a073-30bb8abc98da\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Ta4e571c5-4897-4959-884d-a6cde1b729ef/2bd47860-b383-4d78-a073-30bb8abc98da&amp;source=gmail&amp;ust=1556741341762000&amp;usg=AFQjCNEjMHyMq1wfDr9hIsim1peqNWZ9xw\">Embassy Protection Collective</a> about their continued important actions in defense of Venezuela's sovereignty and dignity, as they continue to hold space in the face of an aggressive opposition rally, DC police and Secret Service outside.\r\n<h3 style=\"text-align: center;\">There's still time to\_<a href=\"https://zoom.us/webinar/register/5315559751360/WN_xy8vXdEURzeG0jQIKSTMCg\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tb9accd1f-4e64-4219-9ff7-7a7ced149906/2bd47860-b383-4d78-a073-30bb8abc98da&amp;source=gmail&amp;ust=1556741341762000&amp;usg=AFQjCNGQvWaAfHnEISBBEJ9A2kZV7cOuFQ\">register</a>!</h3>\r\n-------\r\n<h2>U.S./Canada Delegation to Venezuela Returns After Fact-finding Mission to Study the Impact of Sanctions</h2>\r\n<div>Register and join us on Tuesday to hear an eyewitness report from participants in the April U.S./Canada delegation to Venezuela fact-finding mission to study the impact of sanctions on the people of Venezuela.</div>\r\n<div></div>\r\n<div>This month's Venezuela Webinar Series features delegates from the recently returned delegation to Venezuela.\_ See <a href=\"https://afgj.org/press-release-eyewitness-account-campaign-to-end-u-s-canada-sanctions-on-venezuela-delegation-returns\" target=\"_blank\" rel=\"noopener noreferrer\">press release</a>.</div>\r\nThe delegation was organized by the\_<a href=\"https://default.salsalabs.org/T034d24f0-cdd2-497c-adb4-6171d5a7a608/2bd47860-b383-4d78-a073-30bb8abc98da\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T034d24f0-cdd2-497c-adb4-6171d5a7a608/2bd47860-b383-4d78-a073-30bb8abc98da&amp;source=gmail&amp;ust=1556741341762000&amp;usg=AFQjCNF5Z3yhn4zyUfLT81FNWNebzP7Kjg\">Campaign to End U.S. and Canada Sanctions on Venezuela</a>. From March 26-April 7, 2019 a delegation of people from the U.S., Canada, Costa Rica and Turkey were in Venezuela to observe and better understand the affects of sanctions on Venezuela’s economy, it’s people and institutions.\r\n\r\nEarlier this month CEPR's Mark Weisbrot and Jeffrey Sachs released a report\_titled\_<a href=\"https://default.salsalabs.org/T9bc46a57-0f5f-4ffa-b62a-99b4e4fc7a1d/2bd47860-b383-4d78-a073-30bb8abc98da\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T9bc46a57-0f5f-4ffa-b62a-99b4e4fc7a1d/2bd47860-b383-4d78-a073-30bb8abc98da&amp;source=gmail&amp;ust=1556741341762000&amp;usg=AFQjCNHN12Wf9ctjYxn1wTbJ9Dz078SqGQ\">Economic Sanctions as Collective Punishment: The Case of Venezuela</a>.\r\n\r\n<em>\"We find that the sanctions have inflicted, and increasingly inflict, very serious harm to human life and health, including an estimated more than 40,000 deaths from 2017–2018; and that these sanctions would fit the definition of collective punishment of the civilian population as described in both the Geneva and Hague international conventions, to which the US is a signatory. They are also illegal under international law and treaties which the US has signed, and would appear to violate US law as well.\"</em>\r\n\r\nJoin us for a facilitated discussion and Q&amp;A with delegates from this important trip.\_ This webinar will be recorded and posted at AfGJ.org.\_This webinar will also stream live at\_<a href=\"https://default.salsalabs.org/Tce2cb367-7347-4822-9af8-f0474e8a5ca4/2bd47860-b383-4d78-a073-30bb8abc98da\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tce2cb367-7347-4822-9af8-f0474e8a5ca4/2bd47860-b383-4d78-a073-30bb8abc98da&amp;source=gmail&amp;ust=1556741341762000&amp;usg=AFQjCNF4xSDae_wv_sgLfdyBP0u8J2jcjg\">https://www.facebook.com/<wbr />EndVenezuelaSanctions</a>\r\n\r\n&nbsp;\r\n\r\n<a href=\"https://zoom.us/webinar/register/5315559751360/WN_xy8vXdEURzeG0jQIKSTMCg\" target=\"_blank\" rel=\"noopener noreferrer\"><img class=\"alignnone size-medium wp-image-10366 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/07/register-now-300x162-300x162.jpg\" alt=\"\" width=\"300\" height=\"162\" /></a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8ec8e0dc-b6ed-4683-a718-bd2452edec59
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false
+  field_tags:
+    -
+      entity: 2086f118-57f1-4219-ad73-94cc219358df

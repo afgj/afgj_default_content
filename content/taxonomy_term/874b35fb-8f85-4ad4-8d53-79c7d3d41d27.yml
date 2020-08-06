@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: 874b35fb-8f85-4ad4-8d53-79c7d3d41d27
+  bundle: mt_collections
+  default_langcode: en
+  depends:
+    b721ab57-4ead-41eb-b0b8-0056dd46224b: file
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: Clothing
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_collection_image:
+    -
+      entity: b721ab57-4ead-41eb-b0b8-0056dd46224b
+      alt: 'Product Group one'
+      title: ''
+      width: 750
+      height: 835

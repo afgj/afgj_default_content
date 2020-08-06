@@ -1,0 +1,73 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 047191ea-396b-4209-8dc3-0497a0d17242
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    1c0c4377-b739-4293-a00a-331346b8aa16: taxonomy_term
+    cd0b4a40-9b03-4048-a812-892416542fb4: taxonomy_term
+    ca4e52ca-2d48-486f-8d00-3553c0a7f296: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Colombia: Violence in a Time of Peace'
+  created:
+    -
+      value: 1496400218
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /colombia-violence-time-peace
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "by James Patrick Jordan\n\n<a href=\"http://www.peoplesworld.org/\"><em>Republished from the People's World</em></a>\n<p style=\"text-align: center;\"><img class=\"aligncenter wp-image-7875\" src=\"https://afgj.org/wp-content/uploads/2017/06/holdingphoto960.jpg\" alt=\"\" width=\"657\" height=\"382\" /></p>\nYoung people in Villa Rica are like young people everywhere. When school is done, they take to parks, each other’s homes, and street corners to talk, joke around, flirt, and otherwise discuss the day with their friends. That’s what was happening on May 1 in Villa Rica, a small town with just over 16,000 residents, located in the Department of Cauca, Colombia.\n\nOn that day, hard reality would shatter their group in a terrifying and brutal way. At approximately 7:30pm, two hooded men on a motorcycle pulled up. Shots rang out and bullets flew toward the gathering on the corner. The youth scattered, hiding where they could, running as far and fast as possible when they couldn’t. When it was over, five of them lay wounded. <strong><a href=\"http://www.peoplesworld.org/article/colombia-violence-in-a-time-of-peace/\">Click HERE to read more....</a></strong>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 1c0c4377-b739-4293-a00a-331346b8aa16
+    -
+      entity: cd0b4a40-9b03-4048-a812-892416542fb4
+    -
+      entity: ca4e52ca-2d48-486f-8d00-3553c0a7f296
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

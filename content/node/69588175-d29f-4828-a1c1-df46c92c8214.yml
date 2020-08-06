@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 69588175-d29f-4828-a1c1-df46c92c8214
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'An Introduction to Border Militarization'
+  created:
+    -
+      value: 1359479120
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /introduction-border-militarization-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "[caption id=\"attachment_3958\" align=\"aligncenter\" width=\"450\"]<img class=\"wp-image-3958 size-full\" src=\"https://afgj.org/wp-content/uploads/2013/03/wall_coronado_by_matt_clark.jpg\" alt=\"\" width=\"450\" height=\"600\" /> Photo by Matt Clark.[/caption]\r\n\r\nAfGJ's Border Militarization Resource Guide is updated for 2017!\_Visit the main page for the Border Militarization Resource Guide here:\_<a href=\"https://afgj.org/border-militarization-resource-guide\">https://afgj.org/border-militarization-resource-guide</a>."
+      format: full_html
+      summary: ''

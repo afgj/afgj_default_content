@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b42deb2a-0bd2-4ad6-b01d-ab3bbd8811ed
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Contact
+  created:
+    -
+      value: 1253515457
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /contact-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Alliance for Global Justice Headquarters</strong>\r\n225 E. 26th St., Suite 1\r\nTucson, AZ 85713\r\n202-540-8336\r\nafgj@afgj.org\r\n\r\n<strong>Chuck Kaufman </strong>\r\nNational Co-Coordinator\r\n(ext. 1)\r\nchuck@afgj.org\r\n\r\n<strong>James Jordan </strong>\r\nNational Co-Coordinator\r\n(ext. 3)\r\njames@afgj.org\r\n\r\n<strong>Blanca Bay Dominguez</strong>\r\nOffice Manager\r\n(ext. 5)\r\nprocessing@afgj.org\r\n\r\n<strong>Elane Spivak Rodriguez </strong>\r\nFiscal Sponsorship Co-coordinator\r\n(ext. 6)\r\nfiscalsponsorship@afgj.org\r\n\r\n<b>David Archuleta\r\n</b>National Co-Coordinator\r\n(ext. 4)\r\nDavid@afgj.org\r\n\r\n<strong>Eduardo Garcia</strong>\r\nPrison Imperialism Project Coordinator\r\n(ext. 7)\r\nEduardo@afgj.org"
+      format: full_html
+      summary: ''

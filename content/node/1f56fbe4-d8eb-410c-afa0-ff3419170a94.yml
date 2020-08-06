@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 1f56fbe4-d8eb-410c-afa0-ff3419170a94
+  bundle: article
+  default_langcode: en
+  depends:
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Solidarity 2. 25.2019 Resounding Defeat for the US in Venezuela'
+  created:
+    -
+      value: 1551099347
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-solidarity-2-252019-resounding-defeat-us-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p dir=\"ltr\"><a href=\"https://www.democracynow.org/2019/2/25/the_coup_has_failed_now_the?fbclid=IwAR0ElZhDNYR5RquYdf5J6gL19FJnWondtXCaAQMyvycRV74wUwP8VYyjHHc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.democracynow.org/2019/2/25/the_coup_has_failed_now_the?fbclid%3DIwAR0ElZhDNYR5RquYdf5J6gL19FJnWondtXCaAQMyvycRV74wUwP8VYyjHHc&amp;source=gmail&amp;ust=1551202394567000&amp;usg=AFQjCNHD-gSV1xXJM5c3IBxDmD5c5I2vbA\">Democracy Now: Foreign Minister Arreaza: The Coup Has Failed &amp; Now the U.S. Is Looking to Wage War</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/arnold.august.3/posts/627528891014409\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.facebook.com/arnold.august.3/posts/627528891014409&amp;source=gmail&amp;ust=1551202394567000&amp;usg=AFQjCNECxmuSbGJ9x187aE7aSRHhfvka4Q\">What evaluation are we left with for February 23?</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.marxist.com/venezela-february-23-did-not-pass.htm\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.marxist.com/venezela-february-23-did-not-pass.htm&amp;source=gmail&amp;ust=1551202394567000&amp;usg=AFQjCNFDasf37ElmlpWr5Uoy4cRyLHbgbg\">Venezuela: 23 February – the day they did not pass</a></p>\r\n<p dir=\"ltr\"><a href=\"https://orinocotribune.com/massive-chavista-march-in-caracas-today-image-and-videos\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://orinocotribune.com/massive-chavista-march-in-caracas-today-image-and-videos&amp;source=gmail&amp;ust=1551202394567000&amp;usg=AFQjCNGjA0dSOx8Vg2CUES9YOtHrSpoRqw\">Massive Chavista March in Caracas February 23 (Images and Videos)</a></p>\r\n<p dir=\"ltr\"><a href=\"https://grayzoneproject.com/2019/02/24/burning-aid-colombia-venezuela-bridge/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://grayzoneproject.com/2019/02/24/burning-aid-colombia-venezuela-bridge/&amp;source=gmail&amp;ust=1551202394567000&amp;usg=AFQjCNHbjV0vl35HUE1K_qp1ztD-porrJA\">Max Blumenthal: Burning Aid: An Interventionist Deception on Colombia-Venezuela Bridge?</a></p>\r\n<p dir=\"ltr\"><a href=\"https://grayzoneproject.com/2019/02/21/pawns-trump-coup-codepink-disrupts-venezuela-fake-us-ambassador/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://grayzoneproject.com/2019/02/21/pawns-trump-coup-codepink-disrupts-venezuela-fake-us-ambassador/&amp;source=gmail&amp;ust=1551202394567000&amp;usg=AFQjCNFWfszUoAUU9sS80MMCbznjVNny7A\">‘Willing Pawns in Trump-Orchestrated Coup’: CODEPINK Disrupts Venezuela’s Illegitimate ‘US Ambassador’</a></p>\r\n<p dir=\"ltr\"><a href=\"https://consortiumnews.com/2019/02/15/how-much-of-venezuelas-crisis-is-really-maduros-fault/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://consortiumnews.com/2019/02/15/how-much-of-venezuelas-crisis-is-really-maduros-fault/&amp;source=gmail&amp;ust=1551202394567000&amp;usg=AFQjCNF5F3zLBpD27864NaVao6-BnYUz9g\">Steve Ellner: How Much of Venezuela’s Crisis is Really Maduro’s Fault?</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.youtube.com/watch?v=ii5MlQgGXyk&amp;fbclid=IwAR2QV25ZP29uKbTKCmnchIPBGcTiOyYl9_EAZJeTV0jRXVZnoti4vlgiAMY\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dii5MlQgGXyk%26fbclid%3DIwAR2QV25ZP29uKbTKCmnchIPBGcTiOyYl9_EAZJeTV0jRXVZnoti4vlgiAMY&amp;source=gmail&amp;ust=1551202394567000&amp;usg=AFQjCNFfQe3P9u28g8BKHlNLGWCcPs5v5A\">Empire Files: An Ocean of Lies on Venezuela: Abby Martin &amp; UN Rapporteur Alfred de Zayas Expose Coup</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.telesurenglish.net/news/More-Sanctions-to-Be-Imposed-on-Venezuela-Pompeo-20190224-0019.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.telesurenglish.net/news/More-Sanctions-to-Be-Imposed-on-Venezuela-Pompeo-20190224-0019.html&amp;source=gmail&amp;ust=1551202394567000&amp;usg=AFQjCNF5MWbn24B8jmtuNRWiBSOLxwVBFw\">More Sanctions to Be Imposed on Venezuela: Pompeo</a></p>\r\n<p dir=\"ltr\"></p>\r\n<p dir=\"ltr\">Nicaragua</p>\r\n<p dir=\"ltr\"><a href=\"https://afgj.org/nicanotes-learning-the-lessons-of-empire-and-solidarity-no-contras-in-venezuela\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://afgj.org/nicanotes-learning-the-lessons-of-empire-and-solidarity-no-contras-in-venezuela&amp;source=gmail&amp;ust=1551202394567000&amp;usg=AFQjCNFWHwPVpo4NsFQlHTR7knVx69unkw\">Nicaragua:Learning the Lessons of Empire and Solidarity: No Contras in Venezuela!</a></p>\r\n<p dir=\"ltr\"></p>\r\n<p dir=\"ltr\">Cuba</p>\r\n<p dir=\"ltr\"><a href=\"https://www.telesurenglish.net/news/6-Things-to-Know-About-Electoral-Process-of-Cuban-Referendum--20190223-0014.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.telesurenglish.net/news/6-Things-to-Know-About-Electoral-Process-of-Cuban-Referendum--20190223-0014.html&amp;source=gmail&amp;ust=1551202394567000&amp;usg=AFQjCNEPO-wXmv9_qqdfk67akOnpeDNxww\">Six Things to Know About Electoral Process of Cuban Referendum</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.telesurenglish.net/news/What-Do-You-Need-to-Know-About-Sundays-Cuban-Referendum--20190222-0014.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.telesurenglish.net/news/What-Do-You-Need-to-Know-About-Sundays-Cuban-Referendum--20190222-0014.html&amp;source=gmail&amp;ust=1551202394567000&amp;usg=AFQjCNHRILWWS316QApyqJfUh_umr_9BTg\">What Do You Need to Know About Sunday's Cuban Referendum?</a></p>\r\n<p dir=\"ltr\"></p>\r\n<p dir=\"ltr\">\_March 16 &amp; 30: National Demonstrations against US Intervention</p>\r\n<p dir=\"ltr\"><a href=\"http://www.answercoalition.org/national_march_on_washington_hands_off_venezuela\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.answercoalition.org/national_march_on_washington_hands_off_venezuela&amp;source=gmail&amp;ust=1551202394568000&amp;usg=AFQjCNFv_2YpxOsqBq3j9duVQqWMNCeUng\">March 16 National March on Washington: Hands off Venezuela! </a></p>\r\n<p dir=\"ltr\"><a href=\"http://no2nato2019.org/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=http://no2nato2019.org/&amp;source=gmail&amp;ust=1551202394568000&amp;usg=AFQjCNFe1ow9rNZx4NJjgdbSk5cdGE4RYg\">March 30 March on Washington: No to NATO, US Hands off Venezuela</a></p>\r\n<p dir=\"ltr\"></p>\r\n<p dir=\"ltr\">Venezuela Facebook Pages:</p>\r\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/EndVenezuelaSanctions/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.facebook.com/EndVenezuelaSanctions/&amp;source=gmail&amp;ust=1551202394568000&amp;usg=AFQjCNGyfmR85JFURiTPgsFpxhUWr2-o2A\">End Venezuela Sanctions</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/groups/StandwithVenezuela/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.facebook.com/groups/StandwithVenezuela/&amp;source=gmail&amp;ust=1551202394568000&amp;usg=AFQjCNFIQKVclVjD9toGpLM3sVZMQ4zcgw\">Stand with Venezuela</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/groups/162591360580435/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.facebook.com/groups/162591360580435/&amp;source=gmail&amp;ust=1551202394568000&amp;usg=AFQjCNH9DRkkAdmM5wFPk5zXQmBW8nO2Bg\">Venezuela Solidarity New York</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/groups/327123293991721/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.facebook.com/groups/327123293991721/&amp;source=gmail&amp;ust=1551202394568000&amp;usg=AFQjCNEyeTmMly1sbG_WKLiqgKpULjbGJw\">ALBA: Latin American Alliance</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/pg/venezuelamediawatch/posts/?ref=page_internal\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.facebook.com/pg/venezuelamediawatch/posts/?ref%3Dpage_internal&amp;source=gmail&amp;ust=1551202394568000&amp;usg=AFQjCNGP6Hdp3ZMZ2UA6GiA83H1O2PpZUw\">Venezuela Media Watch</a></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

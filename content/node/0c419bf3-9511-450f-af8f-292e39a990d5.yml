@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 0c419bf3-9511-450f-af8f-292e39a990d5
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: '[Webinar] Steve Ellner: The Hardship Imposed on the Venezuelan people by US-Canadian Sanctions'
+  created:
+    -
+      value: 1534765849
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /webinar-steve-ellner-hardship-imposed-venezuelan-people-us-canadian-sanctions
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1 style=\"text-align: center;\"><img class=\"alignnone wp-image-10656 \" src=\"https://afgj.org/wp-content/uploads/2018/08/Steve-Elner-1-300x232.jpg\" alt=\"\" width=\"342\" height=\"269\" /></h1>\r\n&nbsp;\r\n\r\n<strong>Next\_Venezuela\_Webinar: August 28, 5pm PT/8pm ET</strong>\r\n\r\n<strong>Steve Ellner: The Hardship Imposed on the Venezuelan people by US-Canadian Sanctions</strong>\r\n\r\nRegister NOW:\_<a href=\"http://www.anymeeting.com/PIID=ED56DB82884F3F\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.anymeeting.com/PIID%3DED56DB82884F3F&amp;source=gmail&amp;ust=1534877303950000&amp;usg=AFQjCNFkvTeHE4U1Ea3sYDWwUTxIOJsK1g\">http://www.anymeeting.com/PIID=ED56DB82884F3F</a>\r\n\r\nAs we continue to build the US-Canadian campaign to end sanctions against\_Venezuela, Steve Ellner will join us to share his analysis of this post electoral period. On the one-year anniversary of the Trump Administration’s expansion of the sanctions against Venezuela, Steve will talk about how sanctions harm ordinary ordinary Venezuelans.\r\n<p style=\"font-weight: 400;\">Steve Ellner has taught economic history at the Universidad de Oriente in Puerto La Cruz, Venezuela since 1977. He is the author of numerous books and journal and magazine articles on Venezuela history and politics.\_His most recent book is his edited \"The\_Pink Tide Experiences: Breakthroughs and Shortcomings in Twenty-First\_Century Latin America (Rowman and Littlefield, 2019).\_He frequently lectures on Venezuela and Latin American political developments in the U.S. and elsewhere. He received his Ph.D. in Latin American history at the University of New Mexico in 1980.</p>\r\n<p style=\"font-weight: 400;\">A national speaking tour featuring\_Steve Ellner during the second half of October through November is currently being mapped out. If you or your organization are interesting in inviting him to speak sometime this fall\_ – at a university, conference, library or community meeting, please contact us.</p>\r\n<a href=\"http://www.anymeeting.com/PIID=ED56DB82884F3F\" target=\"_blank\" rel=\"noopener\"><img class=\"alignnone size-medium wp-image-10366 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/07/register-now-300x162-300x162.jpg\" alt=\"\" width=\"300\" height=\"162\" /></a>\r\n\r\n<em><strong>You must register to participate in the webinar. After registration you will be emailed your individual credentials to log into the webinar.\_ You can participate by computer for audio and video, or phone for just audio.\_ In order to submit questions, you must participate by computer.\_</strong></em>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

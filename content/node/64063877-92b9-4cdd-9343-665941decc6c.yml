@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 64063877-92b9-4cdd-9343-665941decc6c
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'People''s Power Assemblies'
+  created:
+    -
+      value: 1377766400
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /peoples-power-assemblies
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "The purpose of the Tear Down the Walls National Gathering is to create spaces for cross-movement strategies and networking. We want this to be an action oriented conference that will create substantial progress toward building a stronger, more unified movement for transformational change in the US. To that end we are incorporating six \_2 and a 1/2 hour People's Power Assemblies throughout the weekend which are designed to produce cross-movement strategies and at least one [inter]nationally coordinated day of local action that all the groups involved agree to build together.\r\n\r\n<strong>Topics for People's Power Assemblies</strong>\r\n<ol>\r\n\t<li><a href=\"https://afgj.org/us-imperialism-and-anti-militarism-peoples-power-assembly\"><span style=\"letter-spacing: 0.05em; line-height: 1.6875;\">US Imperialism and Anti-Militarism</span></a></li>\r\n\t<li><a href=\"https://afgj.org/drug-war-and-drug-war-prisoners-peoples-power-assembly\"><span style=\"letter-spacing: 0.05em; line-height: 1.6875;\">Drug War and Drug War Prisoners</span></a></li>\r\n\t<li><a href=\"https://afgj.org/immigration-and-border-militarization-peoples-power-assembly\"><span style=\"letter-spacing: 0.05em; line-height: 1.6875;\">Immigration and Border Militarization</span></a></li>\r\n\t<li><a href=\"https://afgj.org/economic-justice-peoples-power-assembly\"><span style=\"letter-spacing: 0.05em; line-height: 1.6875;\">Economic Justice</span></a></li>\r\n\t<li><a href=\"https://afgj.org/ecology-and-empire-peoples-power-assembly\"><span style=\"letter-spacing: 0.05em; line-height: 1.6875;\">Ecology and Empire</span></a></li>\r\n\t<li><a href=\"https://afgj.org/anti-repression-and-prison-industrial-complex\"><span style=\"letter-spacing: 0.05em; line-height: 1.6875;\">Anti-Repression and Prison-Industrial Complex</span></a></li>\r\n</ol>\r\n*We recognize that there is substantial overlap even among these six issues. Capitalism with its need to create mechanisms for criminalization and social control is an even deeper root than these six cross-movement issues."
+      format: full_html
+      summary: ''

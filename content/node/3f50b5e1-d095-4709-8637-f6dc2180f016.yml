@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3f50b5e1-d095-4709-8637-f6dc2180f016
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela-ALBA Weekly #199: March 9, 2018 Commemorations of Hugo Chavez Call for Increased Defense of Venezuela'
+  created:
+    -
+      value: 1520595909
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-alba-weekly-199-march-9-2018-commemorations-hugo-chavez-call-increased-defense
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-9205 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/03/Hugo-Chavez-privileged-elites.jpg\" alt=\"\" width=\"658\" height=\"720\" />\r\n\r\n<a href=\"https://www.telesurtv.net/english/opinion/Hugo-Chavez-Commemorated-Across-South-America-Caribbean-on-5th-Anniversary-of-His-Passing-20180306-0011.html\" target=\"_blank\" rel=\"noopener\">Hugo Chavez Commemorated Across South America, Caribbean on 5th Anniversary of His Passing</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/World-Solidarity-With-Venezuela-No-to-Imperial-Attacks-20180307-0031.html\" target=\"_blank\" rel=\"noopener\">Declaration of Caracas issued social movements of the World Rejects Aggression and Sanctions Imposed by US and EU Against Venezuela\_</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/analysis/Declaration-of-The-15th-ALBA-TCP-Summit-20180307-0014.html\" target=\"_blank\" rel=\"noopener\">Declaration of The 15th ALBA-TCP Summit (March 5, 2018)</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.investigaction.net/en/us-state-dept-we-want-elections-in-venezuela-now-unless-were-not-guaranteed-a-win-in-which-case-theyre-illegitimate/\" target=\"_blank\" rel=\"noopener\">Ricardo Vaz: US State Dept. “We Want Elections in Venezuela Now, Unless We’re Not Guaranteed a Win, in Which Case They’re Illegitimate”</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.mintpressnews.com/new-york-times-compares-venezuelas-leopoldo-lopez-to-martin-luther-king/238545/\" target=\"_blank\" rel=\"noopener\">Steve Ellner on the New York Times Comparison of Leopoldo Lopez with Martin Luther King</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.mintpressnews.com/amnesty-international-winks-at-trumps-economic-attack-on-venezuela/238419/\" target=\"_blank\" rel=\"noopener\">Joe Emersberger: Amnesty International Winks at Trump's Economic Attack on Venezuela</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://en.granma.cu/mundo/2018-03-06/raul-the-joint-defense-of-venezuela-is-the-strategic-and-urgent-task-of-alba\" target=\"_blank\" rel=\"noopener\">Raul Castro: Joint Defense of Venezuela is the Urgent Task of ALBA</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://cepr.net/publications/op-eds-columns/trump-administration-tries-to-torpedo-venezuelan-elections-as-it-intensifies-regime-change-efforts\" target=\"_blank\" rel=\"noopener\">Mark Weisbrot: Trump Administration Tries to Torpedo Venezuelan Elections as It Intensifies “Regime Change” Efforts</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Lopez-Criminal-Act-No-Reason-for-US-Interference-in-Venezuela-20180304-0003.html\" target=\"_blank\" rel=\"noopener\">Oscar Lopez Rivera Condemns U.S. Policy Towards Venezuela</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Venezuelas-Constituent-Assembly-Honors-Oscar-Lopez-Rivera-20180306-0023.html\" target=\"_blank\" rel=\"noopener\">Venezuela's Constituent Assembly Honors Oscar Lopez Rivera</a>\r\n\r\n<hr />\r\n\r\n<strong>Other Issues</strong>\r\n\r\n<a href=\"http://hondurasresists.blogspot.com/2018/02/23-months-of-impunity-in-assassination.html\" target=\"_blank\" rel=\"noopener\">Anniversary of Her Murder: Honduras Resists on Berta Caceres</a>\r\n\r\n<a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/index.sjs?action_KEY=25696\" target=\"_blank\" rel=\"noopener\">Say No to the Nica Act</a>\r\n\r\n<a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25751\" target=\"_blank\" rel=\"noopener\">Help Free Honduran Activist Edwin Espinal</a>\r\n\r\n<hr />\r\n\r\n<strong>Delegations</strong>\r\n\r\n<a href=\"https://afgj.org/hondurasdelegation2018\" target=\"_blank\" rel=\"noopener\">April Human Rights Delegation to Honduras</a>\r\n\r\n<a href=\"https://afgj.org/travel-to-colombia\" target=\"_blank\" rel=\"noopener\">May Peacemakers Delegation to Colombia</a>\r\n\r\n<a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\">June Agrarian &amp; Worker Struggle Delegation to Nicaragua</a>\r\n\r\n<hr />\r\n\r\nThis weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n<hr />\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

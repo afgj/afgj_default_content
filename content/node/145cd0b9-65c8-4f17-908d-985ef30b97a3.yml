@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 145cd0b9-65c8-4f17-908d-985ef30b97a3
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicaragua: Is the US still interfering in Nicaragua’s democracy?'
+  created:
+    -
+      value: 1456231290
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicaragua-us-still-interfering-nicaraguas-democracy
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-6628\" src=\"https://afgj.org/wp-content/uploads/2016/04/Nica-summer-2016-promo-afgj.jpg\" alt=\"Nica-summer-2016-promo-afgj\" width=\"372\" height=\"250\" /></p>\r\n<p style=\"text-align: center;\"><strong>This Delegation has been Cancelled.\_</strong></p>\r\nIn 1990, the US government spent more per voter on Nicaragua’s presidential election than the two 1988 US presidential candidates combined spent per US voter. In 1996, the US warned Sandinista candidate Daniel Ortega that if he did not accept defeat in what observers saw as a fraudulent election, he risked a new contra war. In 2001 the US again backed a neoliberal candidate to impose painful structural adjustment policies amid increasing poverty and even hunger. In 2006, the US ambassador told a Nicaragua Network/Alliance for Global Justice delegation that he had between $12-13 million “to spend on the election.”\r\n\r\nBut by 2006 voters were tired of worsening poverty and elected Daniel Ortega president with 38% of the vote. The new Sandinista government stood up to the IMF and the US-imposed neoliberal policies and prioritized poverty reduction as its primary goal. Its policies were so successful that even the IMF and World Bank have praised the results and Nicaraguan voters returned Ortega to office in 2011 with 63% of the vote.\r\n\r\nVoters will again go to the polls in November of this year to elect a president. Will the US continue to interfere or has our government learned to live with the Sandinista Party leading Nicaragua?\r\n\r\nThat is what this Nicaragua Network/Alliance for Global Justice delegation will attempt to determine. We will meet with the spectrum of political party representatives, teachers, youth, unionists, and other Sandinista supporters, as well as the US embassy and civil society groups that have traditionally been funded by the US. We will attempt to meet with the National Endowment for Democracy and the US Agency for International Development which hold the purse strings for US “democracy promotion” funding.\r\n\r\nJoin AfGJ National Co-Coordinator Chuck Kaufman who has 29 years of Nicaragua solidarity experience, as we investigate the role of the US in this year’s election. While the nature of this investigative delegation will mean sitting in a lot of meetings, we will also travel outside of Managua to talk to ordinary Nicaraguans about the changes that have achieved the UN Millennium Goals to cut poverty in half by 2015. Price $1,050\r\n\r\n<strong>Price includes: hotels (double occupancy) food, in-country travel, translation, and program. It does not include international airfare.</strong>\r\n\r\n<strong>For an application or more information, email: <a href=\"mailto:Delegations@afgj.org\">Delegations@afgj.org</a></strong>\r\n\r\n<strong>To pay for this delegation, click <a href=\"https://org2.salsalabs.com/o/7315/donate_page/delegations4\">here.</a></strong>\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''

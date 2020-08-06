@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: bcac7b60-a6fd-4264-907e-b8159f69879e
+  bundle: article
+  default_langcode: en
+  depends:
+    2ddd12f9-0ac5-430e-884a-ce6ee8811df6: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'We Need You!'
+  created:
+    -
+      value: 1479447607
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /we-need-you
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p class=\"p1\"><img class=\"aligncenter size-full wp-image-7306\" src=\"https://afgj.org/wp-content/uploads/2016/11/EOYHeader2016big.jpg\" alt=\"eoyheader2016big\" width=\"564\" height=\"266\" /></p>\n<p class=\"p2\">Hi Friend,</p>\n<p class=\"p2\"><strong>Thank You\_for taking action on our alerts throughout the year!</strong> This is vital work, which helps to free activists worldwide who have been imprisoned, \_for political reasons and on falsified charges.\_ At times, your action on our alerts has influenced life or death for some of our human rights partners. When local governments know that the world is watching, they are more deeply obligated to behave in an ethical manner and are unable to get away with sweeping a “problem” under the rug.</p>\n<p class=\"p2\">We'd like to take a moment to Welcome you to our End of Year Fundraising Drive. This is an exciting time of the year, where Alliance for Global Justice shares the progress that we have made together-\_ with people’s movements in Latin\_America, in pushing the US’s agenda away from international conflict, fighting the exportation of prison imperialism, though delegations and action alerts and coalition work– progress we couldn’t have made without your support.</p>\n<p class=\"p2\" style=\"text-align: center;\"><strong>Start our fundraiser off strong!</strong></p>\n<p class=\"p2\" style=\"text-align: center;\"><a href=\"http://bit.ly/afgjeoy\"><strong>Make a tax deductible end of year donation now -\nand contribute to real change.</strong></a></p>\n<p class=\"p2\">This is the beginning of a (hopefully) interesting series, primarily over email and social media. Think of it as an annual report, of <strong>how your participation and support has manifested in action, progress and change, and how we plan to continue that work in the coming year.</strong></p>\n<p class=\"p2\">We make a point not to bother you too many times a year with financial requests. We are much more interested in sending you updates on human rights struggles around the world, and asking you to join us in supporting those communities. The Alliance for Global Justice is not funded by corporations or billionaires, we’re not receiving huge grants from the Rockefeller Foundation. We rely on you- on your voices, and your time and your donations- to continue the fight.</p>\n<p class=\"p2\">This past year, AFGJ sent out 35\_<a href=\"http://org2.salsalabs.com/o/7315/p/salsa/web/common/public/signup?signup_page_KEY=6020\" target=\"_blank\" rel=\"noopener\">action alerts</a>. We led\_<a href=\"https://afgj.org/act-now\">delegations</a> to Colombia, Honduras, and Nicaragua, including an emergency delegation to accompany farmworker union leaders and communities who were under death threats during the vote on the peace agreement.</p>\n<p class=\"p2\">We now face a Trump presidency. We need your <a href=\"http://bit.ly/afgjeoy\">tax deductible financial support</a> to\_help us help keep the movement for change alive and well! We look forward to sharing specific areas of our work in the coming weeks, the struggles still ahead, and our plans to push for radical change for both people and planet.</p>\n<p class=\"p2\" style=\"text-align: center;\"><strong>The Time is Now </strong>\n<a href=\"http://bit.ly/afgjeoy\"><strong>Make a tax deductible end of year donation to AFGJ -\nand contribute to real change.</strong></a></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 2ddd12f9-0ac5-430e-884a-ce6ee8811df6
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

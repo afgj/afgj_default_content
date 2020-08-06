@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e4e15a87-a903-43f5-8b95-cec392496c2c
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Dismissing the Truth: Why Amnesty International is Wrong about Nicaragua'
+  created:
+    -
+      value: 1550857334
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /dismissing-truth-why-amnesty-international-wrong-about-nicaragua
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p><b><i>Dismissing the Truth</i></b><b> Debunks Amnesty International’s</b> <b>Misleading Reports</b> <span style=\"font-weight: 400;\"></span></p>\r\n\r\n<p><span style=\"font-weight: 400;\">On Tuesday, February 26, the Alliance for Global Justice and the Nicaragua Solidarity Campaign Action Group (UK) released a report, </span><a href=\"https://afgj.org/wp-content/uploads/2019/02/Dismissing-the-Truth-Executive-Summary.pdf\"><i><span style=\"font-weight: 400;\">Dismissing the Truth</span></i></a><span style=\"font-weight: 400;\">, that exhaustively rebuts two reports on human rights in Nicaragua in 2018 by Amnesty International. The Amnesty International reports accuse the democratically-elected government of Nicaragua of “a strategy of indiscriminate repression.” Dismissing the Truth is a 55-page report researched and written for the US and UK historic Nicaragua solidarity groups by an independent group of people based both in Nicaragua and in the US/UK. It uses eye-witness accounts, reports from government and human rights bodies, media analysis and knowledge of the places where events highlighted by AI took place, to examine AI’s analysis and claims.</span> <span style=\"font-weight: 400;\">Our new report, </span><i><span style=\"font-weight: 400;\">Dismissing the Truth, </span></i><span style=\"font-weight: 400;\">not only refutes the claims made by Amnesty International about the period of mid-April to mid-July of 2018, but shows that the evidence they produce is biased, incomplete and in several cases simply wrong. The Nicaraguan government was accused by AI of using ‘arbitrary detention’ and ‘excessive, disproportionate and unnecessary force’ against a basically unarmed, peaceful opposition.</span> <i><span style=\"font-weight: 400;\">Dismissing the Truth</span></i><span style=\"font-weight: 400;\"> shows that:</span></p>\r\n\r\n<ul>\r\n\t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">The city of Masaya was the subject of armed siege by opposition forces for several weeks. AI claims that the government, in ending this siege, used indiscriminate and lethal force and pro-government armed forces. We explain how, given the failure of peace negotiations, the police were obliged to use armed force to free Masaya from heavily armed actors who had declared their ‘independence’ from the national government. </span></li>\r\n\t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Amnesty International wrongly asserts that a police officer killed during the violence was the subject of a possible ‘extrajudicial execution’ by the government for deserting his post. In fact, he was killed by opposition sniper fire, along with a colleague, while carrying out his duties. We explain the details of events surrounding his death.</span></li>\r\n\t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Other cases of alleged ‘extrajudicial execution’ or ‘arbitrary detention’ cited by AI can be shown either to be false or to present conflicting evidence. In each case, AI virtually ignores any evidence that contradicts their pre-existing beliefs about the situation.</span></li>\r\n</ul>\r\n\r\n<p><i><span style=\"font-weight: 400;\">Dismissing the Truth </span></i><span style=\"font-weight: 400;\">includes a case study of one region of Nicaragua showing how AI might have carried out a balanced appraisal of the violence and who caused it. It shows that, over a similar period to that covered by AI reports, half the deaths reported as linked to the protests in this region had other causes, and of the protest-linked deaths, all but one resulted from opposition violence.</span> <i><span style=\"font-weight: 400;\">Dismissing the Truth </span></i><span style=\"font-weight: 400;\">concludes that AI completely fails to establish its case that there is ‘a strategy of indiscriminate repression’ on the part of the Nicaraguan government.</span> <span style=\"font-weight: 400;\">Based on the evidence in </span><i><span style=\"font-weight: 400;\">Dismissing the Truth,</span></i><span style=\"font-weight: 400;\"> Alliance for Global Justice and the Nicaragua Solidarity Campaign Action Group both urge Amnesty International either to make a radical change in its approach to judging human rights issues in Nicaragua, or to desist from publishing further reports.</span> <span style=\"font-weight: 400;\">Amnesty International’s protocol fails to incorporate the violence and human rights violations of non-State actors resulting in deeply flawed reports that lack real-world context. This has been true for over 30 years including Nicaragua in the 1980s when Amnesty would publish reports about alleged Nicaraguan government human rights violations that virtually ignored the fact that the country was at war with a terrorist force that was funded by the United States to commit acts of terror, including assassination, arson, kidnapping, etc.; many of the same tactics employed by the opposition in 2018. Knowingly or unknowingly, Amnesty International’s outmoded protocols, in the era of “low intensity warfare,” not only paint a false picture of the human rights situation in Nicaragua, Venezuela, and other countries targeted by the US for regime change, they actually act to support the Empire’s goals for global dominance.</span> <i><span style=\"font-weight: 400;\"></span></i></p>\r\n\r\n<p><i><span style=\"font-weight: 400;\">Dismissing the Truth </span></i><span style=\"font-weight: 400;\">is available here:</span> <i><span style=\"font-weight: 400;\"></span></i></p>\r\n\r\n<p><i><span style=\"font-weight: 400;\">Executive Summary: Dismissing the Truth </span></i><a href=\"https://afgj.org/wp-content/uploads/2019/02/Dismissing-the-Truth-Executive-Summary.pdf\"><span style=\"font-weight: 400;\">https://afgj.org/wp-content/uploads/2019/02/Dismissing-the-Truth-Executive-Summary.pdf</span></a> <i><span style=\"font-weight: 400;\"></span></i><i><span style=\"font-weight: 400;\">Dismissing the Truth </span></i><a href=\"https://afgj.org/wp-content/uploads/2019/02/Dismissing-the-Truth-with-links.pdf\"><span style=\"font-weight: 400;\">https://afgj.org/wp-content/uploads/2019/02/Dismissing-the-Truth-with-links.pdf</span></a> <i><span style=\"font-weight: 400;\">Rechazando la Verdad </span></i><a href=\"https://afgj.org/wp-content/uploads/2019/02/Rechazando-la-Verdad-informe-completo.pdf\"><span style=\"font-weight: 400;\">https://afgj.org/wp-content/uploads/2019/02/Rechazando-la-Verdad-informe-completo.pdf</span></a></p>\r\n"
+      format: full_html
+      summary: ''

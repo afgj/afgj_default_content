@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: cebd8f2e-f815-4c83-b29f-8dd43b3322e2
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Fundraising for Training'
+  created:
+    -
+      value: 1311754245
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /fundraising-training
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "By Chuck Kaufman (Kaufman is an Alliance for Global Justice National Co-Coordinator.)\r\n\r\nThe purpose of the Alliance for Global Justice Activist School is to develop movement organizers to change the culture of US militarism and to transform our country. We ourselves are organizers and the AfGJ does not have an endowment or a fat bank account from which to grant scholarships for our students. One important organizer skill is the skill to raise money. Another is the skill to pass on what you’ve learned to others. You can combine these two skills to raise the relatively low tuition for our activist school courses.\r\n\r\nMost people are surprised to find out how easy it is to raise that much money, or even enough to pay for three or four courses. Granted some people are part of communities in which all members are struggling just to feed themselves, but for most of us, the only thing standing in our way is our reluctance to ask people we know for money. And yet, it is precisely those people whom we know who are most likely to give us money – and to be happy to be able to help! \r\n\r\nIn 1988, I raised double the cost of my first coffee picking brigade to Nicaragua just by writing a letter to 67 friends, relatives, and friends of my family. All I offered my donors\r\nin return was the promise of a letter reporting on my trip when I returned. My largest gifts actually came from people whose politics were farthest from my own. They gave because I asked and maybe because they were curious about what I would report when I came back. (See sample appeal letter at bottom.)\r\n\r\nIn high school, I was invited to represent my Indiana school in a program in Washington, DC. Coming from a working class family, we didn't have the money to send me, so I had to raise it myself. I got donations from two or three churches, the Rotary Club and Chamber of Commerce, and I did some odd jobs such as cleaning out the basement for our family doctor. I raised the airfare and tuition just by asking and by being willing to use a little elbow grease. When I got back I gave presentations to the Rotary Club and the Chamber. The Chamber of Commerce and the Rotary Club may or may not be interested in helping you become a progressive organizer, but you can substitute any number of groups such as the local justice and peace organization or church peace committee.\r\n\r\nIf you opt for asking community institutions and prominent individuals for help, here's a checklist of possibilities:\r\n\r\n1. Churches and other religious institutions\r\nThis is most effective if you are involved with the institution, or you have the recommendation of someone who is. Among the most generous in this category are Catholic women's religious orders. If you know a nun who will recommend you to her order, you will get a nice gift. Priests tend to be more stingy, but they are worth trying as well.\r\n\r\n2. Community organizations\r\nAnti-war coalitions, anti-poverty groups, human rights groups, etc. \r\n\r\n3. If you are a college student, there may be funds and grants available through student clubs and departments for non-credit skills building courses.\r\n\r\n4. Businesses where the owner or manager knows you.\r\n\r\n5. Prominent individuals such as doctors, lawyers, real estate and insurance agents. If you\r\nknow any sympathetic rich individual, ask them to throw a house party for you and for them to make the pitch for funds to their friends.\r\n\r\nThe main thing is to overcome your own reluctance to ask other people for money. It is stressful, but it needn't be. You are actually doing the person a favor. Think of how you feel when you are able to help someone out with something that is important to them. It makes you feel happy and satisfied; you know that you are building up good karma. Well, that's the same way you help other people feel when you ask them for money! Another issue is how much to ask them for. All I can say is that no one was ever offended by being asked for more than they can afford. It's actually a compliment to them that you think that they could afford a large gift. So, if you ask someone for $250 and they can't afford it, they'll laugh and say that's a bit steep, but they could give you $100. If you were bashful and only asked them for $25, you will have gotten your $25 and not been nearly so close to your goal.\r\n\r\nThere is another route you can take to raise your tuition money. Presumably if you are, or want to become, an organizer you are already part of organizations or communities that share your belief in the need for fundamental change. So turn what you may think of as a personal task into a group process. It is certainly in the group interest to have more of its members with the skills to organize the community or the knowledge to better educate the group and the community. So get them involved either as donors or as helpers to raise the money. In return, promise to share what you learn with the group. If the AfGJ Activist School succeeds in turning you into a trainer of others, we will have achieved our goals.\r\n\r\nThere are many ways a group can raise money. Even a group of two or three can organize a fundraising event such as a party where you charge a cover at the door or sell the beer. Larger groups can take on larger fundraising projects such as a solidarity dinner of beans and rice where the diners pay more than the low cost of the food, spaghetti suppers, dessert parties, all the way up to complex events like bowl-a-thons and walk-a-thons where participants get people to pledge money per pin or mile walked. The disadvantage of \"event\" fundraising is that it is labor intensive and usually requires some financial input. Unless you are really aggressive at selling tickets, or you have a really dedicated group behind you, event fundraisers are just as likely to break even or produce much less \"profit\" than the effort you put into it. If you are aggressive enough to make an event successful, you are certainly aggressive enough to just ask for the money without having to go through the trouble of putting on the event.\r\n\r\nSo, go out there and get started. I am convinced that nearly every community has gold nuggets just lying on the ground waiting to be picked up.\r\n\r\n<strong>Sample Fundraising Letter</strong>\r\n\r\nDear family, friends, and friends of the family,\r\n\r\nI am writing to ask you to help me take advantage of a great opportunity. The Alliance for Global Justice has an online activist school in which I can take five-week courses without having to spend time and money to travel to the school. I’ll be able to take the courses from my own computer, at my own pace. The skills and knowledge I will learn will make me a more effective organizer, and could even qualify me for an activist job.\r\n\r\nYou can learn more about the school at www.AFGJ.org.\r\n\r\nI am especially interested in taking [list one or more courses and tell why they will be useful to you.]\r\n\r\nThe reason I am writing to you is because the tuition for a course is $250. That’s not much for what I’ll be learning, but it is more than I have to spend right now. I’m writing to you and a few other friends and family members to see if you could help me reach my financial goal of $___ and my personal goal to become a more effective organizer. A donation of $50, $25, or whatever you can afford will help ensure the success of my effort.\r\n\r\nAs a thank you, when I have completed the course I will write to you again and tell you about some of the things I learned.\r\n\r\nI thank you in advance for considering helping me on this personal project.\r\n\r\nIn solidarity,\r\n[Your Name]"
+      format: full_html
+      summary: ''

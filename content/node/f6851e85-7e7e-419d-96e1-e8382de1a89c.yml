@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f6851e85-7e7e-419d-96e1-e8382de1a89c
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Paraguay: Land of Inequality and Food Insecurity, August 4-14 2017'
+  created:
+    -
+      value: 1491382915
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /paraguay-land-inequality-and-food-insecurity-august-4-14-2017
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\" aligncenter\" src=\"http://cuslar.files.wordpress.com/2014/09/marina-kue-conmemoracic3b3n-15-de-junio-de-2013_00.jpg\" width=\"444\" height=\"263\" />\r\n<h1 style=\"text-align: center;\"><a href=\"https://afgj.org/wp-content/uploads/2018/03/Paraguay-Delegation-AUG-2017-AFGJ.pdf\" target=\"_blank\" rel=\"noopener\">Read the Delegation Report Here</a></h1>\r\n&nbsp;\r\n<p class=\"p1\">Novelist Augusto Roa Bastos once described his native and insular Paraguay as “an island surrounded by land”.\_AfGJ Board Member John Ocampo will lead this first-time AfGJ delegation to Paraguay, a little-known country to\_US solidarity activists, students, and Latin American Studies departments. Paraguay has the most unequal land\_distribution in the world and its agro-export model leaves little land to grow food for its own people, earning the\_country the label of “Soy Republic.”</p>\r\n<p class=\"p1\" style=\"text-align: center;\"><strong>Learn with AfGJ about struggles by popular organizations for economic\_equality and food sovereignty.\_</strong></p>\r\n<p class=\"p1\">We will meet with human rights defenders, trade unions, campesino associations, indigenous groups, student\_activists, political prisoners, women's collectives, torture survivors, and those who struggled against the Stroessner\_dictatorship, among many others. We will also visit former torture sites, such as the Museo de las Memorias, and\_the Archives of Terror, now part of UNESCO's “Memory of the World” register, which are the government records\_secretly kept by the dictatorship on the 50,000 people murdered, 30,000 people disappeared and 400,000 people\_imprisoned by the security services of Argentina, Bolivia, Brazil, Chile, Paraguay, and Uruguay during Operation\_Condor. The delegation will take participants to sites throughout the country.</p>\r\n<p class=\"p1\">Approximate cost: $1,400. Price\_includes: hotels (double occupancy), food, in-country travel, translation, and program. It does not include\_international airfare or visa.</p>\r\n<p class=\"p1\">For an Application, or More Information, Email: <a href=\"mailto:Delegations@afgj.org\">Delegations@afgj.org</a></p>\r\n<p class=\"p1\"><strong>Extra:</strong> Two-day extension (additional US$200.00) to visit the famed Iguazú Falls, a UNESCO World Heritage Site.\_This is a popular tourist attraction as it is where the borders of Paraguay, Argentina, and Brazil meet.</p>"
+      format: full_html
+      summary: ''

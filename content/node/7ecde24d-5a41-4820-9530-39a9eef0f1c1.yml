@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 7ecde24d-5a41-4820-9530-39a9eef0f1c1
+  bundle: article
+  default_langcode: en
+  depends:
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Corporate Media Piles on to Discredit Nicaragua’s November Election'
+  created:
+    -
+      value: 1472648365
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /corporate-media-piles-discredit-nicaraguas-november-election
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"aligncenter size-full wp-image-6975\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"nicanotesbannerwbyline\" width=\"579\" height=\"195\" /></a>\n\nAugust seems to have been the month when the corporate media decided it was time to try to delegitimize Nicaragua’s November election for president and President Daniel Ortega in particular. None of the attacks were news stories; all were editorials and op-eds where any kind of nonsense can be written with no expectation that it must be factual, or even as former Sen. John Kyl made famous, <a href=\"http://knowyourmeme.com/memes/events/not-intended-to-be-a-factual-statement\" target=\"_blank\" rel=\"noopener\">“not intended to be a factual statement.”</a>\n\nThe New York Times led off on Aug. 4 with an editorial <a href=\"http://www.nytimes.com/2016/08/05/opinion/dynasty-the-nicaragua-version.html\" target=\"_blank\" rel=\"noopener\">‘Dynasty,’ the Nicaragua Version</a> followed on Aug. 17 by an op-ed in the Boston Globe by corporate newsman Steven Kinzer entitled <a href=\"https://www.bostonglobe.com/opinion/2016/08/17/kinzer/WgHoAsXqS4UcrZUlF71AoL/story.html\">Dangerous Dynasties.</a>\_ The Wall St. Journal followed that up on Aug. 21 in its own hysterical style by escalating the danger of dynasties to an outright <a href=\"http://www.wsj.com/articles/ortegas-nicaraguan-coup-1471817942\" target=\"_blank\" rel=\"noopener\">Ortega’s Nicaraguan Coup</a>. Riffing off the WSJ, the Guardian followed up with an op-ed by renowned poet and once revolutionary, Gioconda Belli, titled, <a href=\"https://www.theguardian.com/commentisfree/2016/aug/24/nicaragua-dictatorship-sandinista-ortega-murillo?CMP=share_btn_fb\" target=\"_blank\" rel=\"noopener\">Nicaragua is drifting toward dictatorship once again.</a>\n\nLions and Tigers and Bears, oh my! We’ve certainly never heard these claims before. \_I was happy to find one thing I could agree on with Gioconda. I too dislike the 130 metal trees that Rosario Murillo has built all over Managua. I especially dislike the one that shares the high ground with Sandino’s silhouette. But, I wasn’t consulted, nor should I have been. I’m sure if Managuans don’t like them, they’ll come down sooner or later. And, I have to admit, I’ve heard from plenty of people who do like them!\n\nOtherwise, Belli, Kinzer, and the NYT and WSJ did an excellent job of assisting the State Department on getting its message out. It’s a message that has changed little since the 1980s.\n\nTo effectively rebut all the lies and innuendos in the four editorials would take far more space than the original authors took to write them, but let me address some of the common points.\n<h3 style=\"text-align: center;\"><strong>The Ortega Family is a would-be dynasty</strong></h3>\nPolitical dynasties are hardly new in the world. The issue to me isn’t that successors are related by blood or marriage, but rather how they are selected and how they govern. Most of the world got rid of royal succession, sometimes called divine succession, when they advanced to capitalism. Some kind of democratic process, however flawed, is now required for succession. Certainly in the US most of us would call the Clinton and Bush families aspiring dynasties, but note that son/brother Jeb failed miserably to carry on the family imprimatur in last year’s primaries. Nicaraguan voters are no less sophisticated that US voters, so I’m just not worried at this point about an Ortega family dynasty, which has nothing else in common with the Somoza dynasty, holding Nicaragua in thrall against the will of the people.\n<h3 style=\"text-align: center;\"><strong>Ortega is a dictator</strong></h3>\nThe slander that Daniel is a dictator has been periodically leveled since the first day of his new term in 2007, and of course all through the contra war. Few acknowledge that when Ortega handed over the presidential sash to Violeta Chamorro in April 1990, it was the first time in Nicaragua’s history that the presidency transferred peacefully from one party to another. This proof of his democratic credentials is never mentioned by his opposition. I would add that his acceptance of defeat, at the urging of Jimmy Carter, in the blatantly crooked 1996 election, is another proof that Daniel is a patriot who cares about country before personal gain.\_ He squeaked into office under the electoral law in force in 2006 with a 38% plurality. By 2011, a clear majority of Nicaraguan voters supported him and he won by a landslide 63%. Rare for a president who has been in office for this long, today he is even more popular than in 2011. It is not undemocratic to be popular. It is not undemocratic to have an opposition which offers no national vision and is so fractious that successive US ambassadors have failed in their primary mission to unite them.\n\nBut what is most disgusting about the accusation of dictator, which is especially disgusting coming from Gioconda Belli who helped overthrow a real one, is where is the evidence? Where are the political prisoners? Where are the bodies dumped at strategic intersections? Where are the blank columns in the newspapers where government censors have forbidden articles? Where are the torture chambers and the knocks on doors in the middle of the night? Where are the soldiers and militarized police intimidating people in the street? Have Ortega’s critics visited post-coup Honduras? It makes my blood boil to hear the term applied in a country which, within my adult life, had a real dictatorship which 40,000 people gave their lives to get rid of.\n<h3 style=\"text-align: center;\"><strong>“He is believed to be one of the richest men in the country.”</strong></h3>\nOh yes, just like the US government and Cuban <em>gusanos </em>claim that Fidel is the richest man in the world by ascribing every Cuban asset to his personal worth. In Nicaragua it is the claim that all the Venezuelan aid has gone into the Ortega family vault. I sat through a PowerPoint presentation by the Sandinista Renovation Movement (MRS) once that purported to show that the Ortega government had spent nothing to address poverty in the nation. Their twisted “logic” was that all the Venezuela oil aid revenue belonged to Daniel and therefore his government wasn’t spending anything on social welfare. The free schools and healthcare, the myriad social programs such as dignified housing and revitalizing peasant agriculture, none of these counted. And yet, Nicaragua somehow eradicated illiteracy, raised the lifespan by 10 years, and achieved the UN Millennium Goals while Daniel sat in his vault and counted his gold. Right.\n<h3 style=\"text-align: center;\"><strong>He has hegemonic control of all the branches of government.</strong></h3>\nTrue. It’s what all governing parties try to do. Certainly the Democrats and Republicans aspire to that in the US. Otherwise why all these fundraising letters and emails to “take back the Senate” or warning that Clinton or Trump shouldn’t be elected because of who they’ll appoint to the Supreme Court? The fact is, Ortega’s government has done such a good job of responding to the articulated priorities of the people that the Sandinista Party can certainly be described as hegemonic. Even before the Supreme Court returned the Independent Liberal Party (PLI) to its historic leadership, all the opposition parties combined had a popularity barely reaching double digits. There is no democratic virtue in having two parties that trade the top spot back and forth every few years with barely a ripple in national policy. That describes the United States plutocracy which I wouldn’t wish on Nicaragua under any circumstances.\n<h3 style=\"text-align: center;\"><strong>Ortega will win in November because he won’t let the real opposition run.</strong></h3>\nI know that there are people who view Daniel Ortega as a spider in a web pulling all the strings to draw in the flies. Maybe they are right and Daniel, plus Rosario, have the capacity to watch each sparrow fall in their kingdom, but I doubt it. I’m not saying he’s not a powerful and extremely capable strategist and tactician. But it is a whole lot easier to believe that the Supreme Court made a legal decision on a case brought by the historic leadership of the PLI contesting the take-over of their party by forces led by US-backed banker Eduardo Montealegre. When Montealegre refused to let the returned leadership examine the party finances and when he and several of his fellow party members in the National Assembly refused to acknowledge their legal leadership, it doesn’t take any personal involvement from Ortega for the party leadership to kick the rebels out of the legislature and replace them with party loyalists. There was no incentive for Ortega to get involved. He’s so far ahead in the polls that nothing the opposition could do in the next few months will affect the outcome. The newly reconstituted PLI aren’t his friends and allies. This is clearly a case of the internecine warfare on the Right that has so frustrated multiple US ambassadors. We don’t need a conspiracy theory to explain it.\n\nI could continue, but as I said at the beginning, it would take more words to refute all the lies and innuendo than it took the authors to make them. Daniel Ortega will win in November because Nicaragua has improved economically, socially, and politically under his leadership. Voters appreciate stability and improving standards of living. There are reasons they are not joining their fellow Central Americans on the dangerous journey to the US border. It is as simple as that.\n\n***"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

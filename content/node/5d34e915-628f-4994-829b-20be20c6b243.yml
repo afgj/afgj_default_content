@@ -1,0 +1,70 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5d34e915-628f-4994-829b-20be20c6b243
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    801e3bde-8887-4341-9509-1363185a5f6e: taxonomy_term
+    773f6b95-87e1-4056-9036-4df3c110ba21: taxonomy_term
+    ff23272a-2c6a-4d3f-b137-4c19843845a6: taxonomy_term
+    47dbf152-55af-48f9-b366-923795d9a8c9: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Coming to a City Near You! Colombia''s Fensuagro + Mexico''s CNTE Unions Tour the US'
+  created:
+    -
+      value: 1522618844
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /coming-city-near-you-colombias-fensuagro-mexicos-cnte-unions-tour-us
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1 style=\"text-align: center;\">Join The Tour!</h1>\r\n<h2 style=\"text-align: center;\">April 5-19, 2018</h2>\r\n<h2 style=\"text-align: center;\">Chicago - Denver - Tucson - Phoenix - LA - Oakland - Sacramento - San Francisco</h2>\r\n[caption id=\"attachment_9348\" align=\"aligncenter\" width=\"601\"]<img class=\"wp-image-9348\" src=\"https://afgj.org/wp-content/uploads/2018/03/Fensuagro-school.jpg\" alt=\"\" width=\"601\" height=\"481\" /> Students at Fensuagro's agricultural workers school in Viotá, Colombia[/caption]\r\n\r\n<hr />\r\n\r\nTransnational corporations know no borders, so, farming and working families must reach across borders to protect our interests and win our liberation together! This is why the Alliance for Global Justice is supporting the visit of two union leaders from Colombia and Mexico as they tour the <strong>US, April 5-19, 2018.</strong>\r\n\r\nThey are: <strong>Nidia Quintero</strong>, General Secretary of Colombia's National Federation of Unified Agricultural Workers Unions (FENSUAGRO); and, <strong>David Guadalupe Valenzuela</strong>, member of the National Executive Council of Mexico's National Coordination of Education Workers (CNTE) and director of the CNTE in the State of Sonora.\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: center;\">Speakers</h2>\r\n<strong><img class=\"alignleft wp-image-9346 \" src=\"https://afgj.org/wp-content/uploads/2018/03/Nidia-1.jpg\" alt=\"\" width=\"271\" height=\"398\" /></strong><strong>Nidia Quintero, leader of FENSUAGRO</strong>, comes from a farming family that was displaced because of the armed conflict in the department of Cauca, Colombia. She relocated to Putumayo, where she and her family became community and labor organizers. Fifteen of her fellow unionists were assassinated between 2000 and 2004. These included both her husband and 19-year-old son. In 2008 Nidia was chosen to be FENSUAGRO's Secretary for Rural Women, and in 2010 she was elected to FENSUAGRO's executive committee.\r\n\r\nOver 1500 FENSUAGRO members have been killed since the federation was founded in 1976. The workers and communities the federation represents come from the population most affected by political violence and displacement. Rural development promised in the peace accords has not materialized. In fact, the Trump administration is pushing the Colombian government to abandon those commitments. The mission of this tour is to build popular and labor solidarity in the US with rural Colombian workers and the peace effort. The tour will also build support for FENSUAGRO’s strike against palm growers who supply many of our popular brands in the United States.\r\n\r\n<strong>David Guadalupe Valenzuela, leader of the CNTE in the state of Sonora, </strong>and member of the union's national executive committee, has been a trailblazer in Mexico's struggle for free and public education. In March 2016, David lead a statewide strike in Sonora against reforms aimed at privatizing schools, undermining indigenous education, and destroying independent teachers unions. By May of that year, teachers and students were on strike all across the nation.\r\n\r\nThe backlash has been brutal. There have been killings of teachers and movement <img class=\"alignright wp-image-9354\" src=\"https://afgj.org/wp-content/uploads/2018/03/dgv2.jpg\" alt=\"\" width=\"389\" height=\"296\" />supporters such as occurred in Nochixtlan, Oaxaca on June 19, 2016 when police fired on demonstrators. Hundreds of teachers have lost their jobs, and hundreds arrested and jailed for their resistance. According to the Comité Cerezo, over 70% of human rights abuses reported in Mexico in 2016 were against supporters of free and public education. (Statistics for 2017 are not yet available.)\r\n\r\nDavid is also very active in solidarity with the Yaqui nation against threats to its ecosystem and culture by transnational corporations and big agribusinesses.This tour will reach out to unions and popular movements to strengthen links with both the CNTE and causes it supports.\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: center;\">About the Tour</h2>\r\n<strong>The US tour will be divided into two segments. </strong>April 5-12, Nidia and David will be traveling together, presenting a Labor Forum, <a href=\"file:///C:/Users/pwesk/Desktop/Nidia%20tour%202018/Flyer%20for%20Fight%20for%20Labor%20Forum%20Color.pdf\">The Fight for Workers' Rights in the Americas</a>. These forums will also include reports from local US unionists, followed by discussion about how we can benefit from international labor solidarity.\r\n\r\nNidia will continue alone April 13-19, with in depth presentations on <a href=\"file:///C:/Users/pwesk/Desktop/Nidia%20tour%202018/Flyer%20for%20Nidia%20Quintero%20Color.pdf\">Colombian Farm Workers and the Road to Peace</a>.\r\n\r\n<hr />\r\n\r\n<h1 style=\"text-align: center;\"><span style=\"color: #000000;\">TOUR ITINERARY</span></h1>\r\n\r\n<hr />\r\n\r\n<h2><strong>April 5, Chicago, Illinois 6:30pm </strong></h2>\r\nSpeaker: Nidia Quintero and David Valenzuela,\r\n\r\nLocation: United Electrical Workers (UE) 37 S Ashland Ave\r\n\r\nLOCAL SPONSORS: La Vos de los de Abajo and the United Electrical Workers\r\n\r\n<hr />\r\n\r\n<h2><strong>April 6-9, Chicago, at the Labor Notes Conference</strong></h2>\r\n<a href=\"http://labornotes.org/2018\">Click HERE for more information about the Conference</a>\r\n\r\nHosts: Labor Notes\r\n\r\n<hr />\r\n\r\n<h2><strong>April 10, Denver, Colorado, 6pm\r\n</strong></h2>\r\nSpeakers: David Valenzuela, Nidia Quintero, and Josh Downey (President of Denver Area Labor Federation, AFL-CIO)\r\n<div><span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1161583429\"><span class=\"aQJ\">Location:\_</span></span> Laborers International Union Hall located at\_<a href=\"https://maps.google.com/?q=875+Elati+St.,+Denver+80204&amp;entry=gmail&amp;source=g\">875 Elati St., Denver 80204</a></div>\r\n<div>\r\n<div></div>\r\n</div>\r\n\r\n<hr />\r\n\r\n<h2><strong>April 11, Tucson, Arizona 5-9pm</strong></h2>\r\nSpeaker:\_Nidia will be one of the featured presenters at <a href=\"https://www.facebook.com/TBTN.Tucson/\">Take Back the Night</a> activities against sexual violence.\r\n\r\nLocation: The YWCA House of Neighborly Service, 243 West 33<sup>rd</sup> Street, Tucson\r\n\r\n<hr />\r\n\r\n<h2><strong>April 12, Phoenix, Arizona, Noon - 1pm</strong></h2>\r\nSpeakers: David Valenzuela and Nidia Quintero\r\n\r\nLocation: at ASU Law School, 111 E Taylor St, Phoenix, AZ\r\n\r\nLocal Sponsors: National Lawyers Guild and Chicano/Latino Law Students Association\r\n\r\n<hr />\r\n\r\n<h2><strong>April 12, Tucson, Arizona, 7-9pm</strong></h2>\r\nNidia Quintero and David Valenzuela\r\n\r\nat the Global Justice Center, 225 East 26th Street, South Tucson, AZ\r\n\r\nLocal Sponsor: Alliance for Global Justice\r\n\r\n<hr />\r\n\r\n<h2><strong>April 13, Los Angeles,California, 6pm</strong></h2>\r\nSpeaker: Nidia Quintero\r\n\r\nLocation: Downtown UCLA Labor Center <a href=\"https://maps.google.com/?q=675+S.+Park+View,+Los+Angeles,+CA+90057&amp;entry=gmail&amp;source=g\">675 S. Park View, Los Angeles, CA</a>\_<a href=\"https://maps.google.com/?q=675+S.+Park+View,+Los+Angeles,+CA+90057&amp;entry=gmail&amp;source=g\">90057</a>-3306\r\n\r\nLocal Sponsors: Los Angeles County Federation of Labor; USW Local 675; UCLA Labor Center; California State University, Dominguez Hills Labor Studies\r\n\r\n<hr />\r\n\r\n<h2><strong>April 15, Oakland, California, around 1-1:30pm</strong></h2>\r\nSpeaker: Nidia Quintero, will speak briefly at the End the Wars at Home and Abroad rally. She will speak at the 1-5pm rally at Frank Ozawa Plaza/Oscar Grant Plaza.\r\n\r\nMore rally info: Sunday, April 15, 2018, Assemble: 11 am Lake Merritt Amphitheater (near 12th Street and Lake Merritt Blvd.), 11- 12 Noon Opening rally, Lake Merritt Amphitheater, 12 Noon - 1:00 pm March to Frank Ogawa Plaza, Oakland Civic Center, Oscar Grant Plaza 1:00 - 5 pm\_ Rally at Frank Ozawa Plaza/Oscar Grant Plaza\r\n\r\n<hr />\r\n\r\n<h2><strong>April 16, Sacramento, 7pm</strong></h2>\r\nSpeaker: Nidia Quintero\r\n\r\nLocation: SEIU 1000, 1325 S St., Sacramento, CA\r\n\r\n<hr />\r\n\r\n<h2><strong>April 17, San Francisco, 7pm\r\n</strong></h2>\r\nSpeaker: Nidia Quintero\r\n\r\nLocation: 2969 Mission Street.\r\n\r\nLocal Sponsors: ANSWER Coalition; Alliance for Global Justice; Bay Area Latin America Solidarity Coalition; Task Force on the Americas; Committee in Solidarity with the People of El Salvador; Party for Socialism and Liberation; Workers World Party\r\n\r\n<hr />\r\n\r\n<h3 style=\"text-align: center;\"><span style=\"color: #000000;\">For more info, write <a href=\"mailto:James@AFGJ.org\" target=\"_blank\" rel=\"noopener\">workertoworker@gmail.com</a> or call 202-540-8336, ext. 3</span></h3>\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: 801e3bde-8887-4341-9509-1363185a5f6e
+    -
+      entity: 773f6b95-87e1-4056-9036-4df3c110ba21
+    -
+      entity: ff23272a-2c6a-4d3f-b137-4c19843845a6
+    -
+      entity: 47dbf152-55af-48f9-b366-923795d9a8c9
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

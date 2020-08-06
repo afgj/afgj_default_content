@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e084cd2a-dd70-4425-8fdd-ed8c35a01786
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Schedule for Tear Down the Wall! '
+  created:
+    -
+      value: 1380120731
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /schedule-tear-down-wall
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: left;\" align=\"center\"><a href=\"https://afgj.org/wp-content/uploads/2013/10/FINALWorkshop-schedule1.pdf\">Click here to see the workshop schedule for the weekend!</a> (pdf)</p>\r\n<p style=\"text-align: left;\" align=\"center\"><b>Location: </b>Tucson Convention Center</p>\r\n<p style=\"text-align: left;\" align=\"center\">\_ \_ \_ \_ \_ \_ \_ \_ \_ 260 S Church Ave\_\_Tucson, AZ 85701<b></b></p>\r\n<p align=\"center\"><b>\_</b></p>\r\n<b>Friday, Nov. 1</b>\r\n\r\n10am-8pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Registration\r\n\r\n12-1:15pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Workshops\r\n\r\n1:30-2:45pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Workshops\r\n\r\n3-4:15pm\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Workshops\r\n\r\n4:30-5:45pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Workshops\r\n\r\n5:45-7pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Dinner on your own\r\n\r\n7:00-10pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Opening ceremonies and plenary\r\n\r\n&nbsp;\r\n\r\n<b>Saturday, Nov. 2</b>\r\n\r\n8am-6pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Registration\r\n\r\n7-8:15am\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Breakfast at Armory Park - 220 S. 5th Ave\r\n\r\n8:30-11:15am\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <a href=\"https://afgj.org/economic-justice-peoples-power-assembly\">PPA: Economic Justice</a>\r\n\r\n8:30-11:15am\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <a href=\"https://afgj.org/drug-war-and-drug-war-prisoners-peoples-power-assembly\">PPA: Drug War</a>\r\n\r\n11:30-1:30pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Lunch at Armory Park\r\n\r\n11:30-12:45pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_Workshops\r\n\r\n1-2:15pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Workshops\r\n\r\n2:30-3:45pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Workshops\r\n\r\n4-6:45pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <a href=\"https://afgj.org/immigration-and-border-militarization-peoples-power-assembly\">PPA: Immigration and Border Militarization</a>\r\n\r\n4-6:45pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <a href=\"https://afgj.org/ecology-and-empire-peoples-power-assembly\">PPA: Ecology and Empire</a>\r\n\r\n6:45-8pm\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Dinner on your own\r\n\r\n8-11pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Music, Networking, etc.\r\n\r\n&nbsp;\r\n\r\n<b>Sunday, Nov. 3</b>\r\n\r\n7-8:15am\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Breakfast at Armory Park\r\n\r\n8:30-11:15am\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <a href=\"https://afgj.org/anti-repression-and-prison-industrial-complex\">PPA: Anti-Repression and Prison Industrial Complex</a>\r\n\r\n8:30-11:15am\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <a href=\"https://afgj.org/us-imperialism-and-anti-militarism-peoples-power-assembly\">PPA: US Imperialism and Anti-Militarism</a>\r\n\r\n11:30-1:30pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Lunch at Armory Park\r\n\r\n11:30-12:45pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Workshops\r\n\r\n1-2:15pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Workshops\r\n\r\n2:30-3:45pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Workshops\r\n\r\n4-5:15pm\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Closing Plenary*\r\n\r\n6:00\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ All Soul’s Procession begins\r\n\r\n<i>\_</i>\r\n\r\n<i>Schedule Note: The US Social Forum will lead a Peoples Movement Assembly spanning the final two Sunday workshop sessions.</i>\r\n\r\n*The closing plenary will be an important opportunity to wrap up our weekend of strategizing and action planning. We'll all have the chance to hear the decisions for actions from the PPAs that we weren't able to attend and to start making our joint plans for the coming year.\r\n\r\n&nbsp;\r\n\r\n<span style=\"text-decoration: underline;\">About the All Souls Procession</span>\r\n\r\nThe All Souls Procession is a unique Tucson event which draws 35,000 participants on the streets of downtown Tucson for a two-mile long human-powered procession that ends in the finalizing action of burning a large urn filled with the hopes, offerings and wishes of the public for those who have passed. Inside the event are myriads of installation art, altars, performers, and creatives of all kinds. The All Souls Procession, is a celebration and mourning of the lives of our loved ones who have passed including many political messages of lives lost through war, poverty, and injustice. Musical guests for 2013:\_<span style=\"text-decoration: underline;\">A Tribe Called Red(Ottowa CA)</span>,\_\_<span style=\"text-decoration: underline;\">Danza Azteca Calpulli Tonantzin</span>,\_<span style=\"text-decoration: underline;\">The Carpetbag Brigade (SanFrancisco, CA),\_</span><span style=\"text-decoration: underline;\">Nemcatacoa Teatro (Colombia S.A.)</span> !Other Guest Artists at The Grand Finale!\r\n\r\n<span style=\"text-decoration: underline;\">\_</span>"
+      format: full_html
+      summary: ''

@@ -1,0 +1,65 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c7cf9c19-5049-422a-9811-15abae5e856c
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+    a3f94878-29da-43ac-8e16-72034f953190: taxonomy_term
+    e54a0ab5-f9da-42e0-b462-fb361206fd4d: taxonomy_term
+    2086f118-57f1-4219-ad73-94cc219358df: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela-ALBA News Aug 3, 2018: Campaign to Oppose Sanctions; US Military on Venezuela Border'
+  created:
+    -
+      value: 1533289566
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-alba-news-aug-3-2018-campaign-oppose-sanctions-us-military-venezuela-border
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h3 dir=\"ltr\"></h3>\r\n<h3 dir=\"ltr\">In the News:</h3>\r\n<p dir=\"ltr\">Nicaragua</p>\r\n<p dir=\"ltr\"><a href=\"https://grayzoneproject.com/2018/07/30/an-exclusive-interview-with-nicaraguan-president-daniel-ortega/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://grayzoneproject.com/2018/07/30/an-exclusive-interview-with-nicaraguan-president-daniel-ortega/&amp;source=gmail&amp;ust=1533668899863000&amp;usg=AFQjCNGbP10LcHFGjWUH9w3XKdaYkk8j1Q\">Max Blumenthal: An Exclusive Interview with Nicaraguan President Daniel Ortega</a></p>\r\n<p dir=\"ltr\"><a href=\"https://grayzoneproject.com/2018/07/30/how-washington-and-soft-power-ngos-manipulated-nicaraguas-death-toll-to-drive-regime-change-and-sanctions/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://grayzoneproject.com/2018/07/30/how-washington-and-soft-power-ngos-manipulated-nicaraguas-death-toll-to-drive-regime-change-and-sanctions/&amp;source=gmail&amp;ust=1533668899864000&amp;usg=AFQjCNEakxi68VwIHtg1ZCrWNk-9B2Jf6w\">Max Blumenthal: How Washington and Soft Power NGOs Manipulated Nicaragua's Death Toll to Drive Regime Change and Sanctions</a></p>\r\n<p dir=\"ltr\"><a href=\"https://grayzoneproject.com/2018/07/24/an-open-letter-to-the-guardian-on-its-wildly-inaccurate-coverage-of-nicaragua/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://grayzoneproject.com/2018/07/24/an-open-letter-to-the-guardian-on-its-wildly-inaccurate-coverage-of-nicaragua/&amp;source=gmail&amp;ust=1533668899864000&amp;usg=AFQjCNEtq0GyTDJwclep8sVyL72sWoUL5A\">An Open Letter To The Guardian On Its Wildly Inaccurate Coverage of Nicaragua</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.counterpunch.org/2018/07/27/homage-to-nicaragua/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.counterpunch.org/2018/07/27/homage-to-nicaragua/&amp;source=gmail&amp;ust=1533668899864000&amp;usg=AFQjCNH6XygOlXqTp6UWOOwU2pSU0lBrjQ\">Dan Kovalik: Homage to Nicaragua</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.investigaction.net/en/regime-change-in-nicaragua/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.investigaction.net/en/regime-change-in-nicaragua/&amp;source=gmail&amp;ust=1533668899864000&amp;usg=AFQjCNHLTJJBeWvhECbwwcdVdEkfQsPyxQ\">Roger Harris: US Regime Change in Nicaragua</a></p>\r\n<b>\_</b>\r\n<p dir=\"ltr\">Venezuela</p>\r\n<p dir=\"ltr\"><a href=\"https://afgj.org/campaign-to-end-us-and-canada-sanctions-against-venezuela\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/campaign-to-end-us-and-canada-sanctions-against-venezuela&amp;source=gmail&amp;ust=1533668899864000&amp;usg=AFQjCNEn3Q9P2Qmq8uN_DjME_w8D7GUpHg\">Campaign to End US and Canada Sanctions Against Venezuela</a></p>\r\n<p dir=\"ltr\"><a href=\"https://chicagoalbasolidarity.wordpress.com/2018/07/30/venezuela-report-on-sanctions/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://chicagoalbasolidarity.wordpress.com/2018/07/30/venezuela-report-on-sanctions/&amp;source=gmail&amp;ust=1533668899864000&amp;usg=AFQjCNH0dW-D5YOdH1kEB5SdSnIL4CKVkA\">Venezuela Report:To Whom and Why Does the US Impose Sanctions?</a> Pdf and <a href=\"https://docs.google.com/document/d/1ocNTGzqkohdYVLnpX6KFbuF2OiuGWJXsIriI4TWzmNU/edit#heading=h.gjdgxs\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://docs.google.com/document/d/1ocNTGzqkohdYVLnpX6KFbuF2OiuGWJXsIriI4TWzmNU/edit%23heading%3Dh.gjdgxs&amp;source=gmail&amp;ust=1533668899864000&amp;usg=AFQjCNEElJN5FndN9I46N5omoe7l3dapew\">Word</a></p>\r\n<p dir=\"ltr\"><a href=\"http://www.plenglish.com/index.php?o=rn&amp;id=31673&amp;SEO=landing-of-us-military-planes-in-the-amazon-intrigues-residents\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.plenglish.com/index.php?o%3Drn%26id%3D31673%26SEO%3Dlanding-of-us-military-planes-in-the-amazon-intrigues-residents&amp;source=gmail&amp;ust=1533668899864000&amp;usg=AFQjCNEzf6CZ5JcjjC9PVb7ts3DD50svNw\">US Military Cargo Planes in the Brazilian Amazon</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.telesurtv.net/english/news/Venezuela-Maduro-Receives-Campesinos-After-21-Day-March-20180802-0017.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Venezuela-Maduro-Receives-Campesinos-After-21-Day-March-20180802-0017.html&amp;source=gmail&amp;ust=1533668899864000&amp;usg=AFQjCNHj6Jzeq2OC6uhsSgs7Yt21WGGRpw\">Maduro Receives Campesinos After 21-Day March</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.forbes.com/sites/stevehanke/2018/07/31/imf-produces-another-bogus-venezuela-inflation-forecast/#398cf8dc7dc8\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.forbes.com/sites/stevehanke/2018/07/31/imf-produces-another-bogus-venezuela-inflation-forecast/%23398cf8dc7dc8&amp;source=gmail&amp;ust=1533668899864000&amp;usg=AFQjCNF0f2KpPHjusV8zeESGsYPEEYvqcg\">Forbes: IMF Produces Another Bogus Venezuela Inflation Forecast</a></p>\r\n<p dir=\"ltr\"><a href=\"https://venezuelanalysis.com/news/13939\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://venezuelanalysis.com/news/13939&amp;source=gmail&amp;ust=1533668899864000&amp;usg=AFQjCNGILbKWMn1LlXJUbaH5dH_PyJfrjw\">USAID Chief’s Visit to Colombo‐Venezuelan Border Raises Spectre of Interference</a></p>\r\n<b>\_</b>\r\n<p dir=\"ltr\">Cuba</p>\r\n<p dir=\"ltr\"><a href=\"https://morningstaronline.co.uk/article/referendum-decide-if-gay-marriage-becomes-law\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://morningstaronline.co.uk/article/referendum-decide-if-gay-marriage-becomes-law&amp;source=gmail&amp;ust=1533668899864000&amp;usg=AFQjCNGHYXNp4uJy05D3Bejj2SkH_jgnow\">National Referendum to decide if gay marriage becomes law</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/ChicagoCubaSolidarity/posts/2194111330825408\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.facebook.com/ChicagoCubaSolidarity/posts/2194111330825408&amp;source=gmail&amp;ust=1533668899864000&amp;usg=AFQjCNF5GKsN9LDcQLwetxVWhiTnDT64gw\">Pittsburgh City Council Resolution Calls for End of US Blockade of Cuba</a></p>\r\n\r\n\r\n<hr />\r\n\r\n<h2 id=\"m_777319361513180780gmail-m_-4546164052145643394gmail-m_8774691331061159411gmail-m_-8213335874581264356gmail-m_-2776178258433599685gmail-m_-9020789454698019944gmail-m_6252858159261738354DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\"><strong>About the Weekly</strong></h2>\r\n<div>\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false
+  field_tags:
+    -
+      entity: a3f94878-29da-43ac-8e16-72034f953190
+    -
+      entity: e54a0ab5-f9da-42e0-b462-fb361206fd4d
+    -
+      entity: 2086f118-57f1-4219-ad73-94cc219358df

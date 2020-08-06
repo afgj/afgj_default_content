@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 59a0cb9f-ad00-4640-8c41-680559d0f174
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NicaNotes: Guest Blog: POST-ELECTORAL CALM AFTER “FIESTA CIVICA” IN NICARAGUA'
+  created:
+    -
+      value: 1478695205
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-guest-blog-post-electoral-calm-after-fiesta-civica-nicaragua
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"aligncenter size-full wp-image-6975\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"nicanotesbannerwbyline\" width=\"579\" height=\"195\" /></a>\n\nHere is another guest blog by long-time Nicaragua solidarity activist Larry Fisk recounting his\_experience as an unofficial election accompanier. He first monitored Nicaragua’s election in 1990 and\_has done so every election since. – Chuck Kaufman\n\n<hr />\n\n&nbsp;\n\n<img class=\"aligncenter size-full wp-image-7259\" src=\"https://afgj.org/wp-content/uploads/2016/11/nicanoteselevtionsmall.jpg\" alt=\"nicanoteselevtionsmall\" width=\"3543\" height=\"2657\" />\n\n<hr />\n\n<strong>Larry Fisk</strong>\n<strong> November 8, 2016</strong>\n<strong> Leon, Nicaragua</strong>\n\nNicaraguans went back to work calmly on Monday after successful, peaceful and well organized elections on Sunday to elect the president, legislature and members of the Central American Parliament. This was the first presidential election to occur in tranquility and relative national unity.\n\nWhile traveling in Nicaragua during the pre and post-electoral period of 2011, I heard rumor of and saw evidence of tension and violence in some areas. I watched on TV while vehicles were burned by masked opposition activists. Hopefully, that is a phenomenon of the past as Nicaraguans have progressed socially, economically and politically during almost ten years of Sandinista governance and policies of reconciliation.\n\nI visited voting centers in various barrios of Managua on election day. Each center contained a number of 14,581 Juntas Receptoras de Votos (voting tables), each in a classroom. Voters located their names and ID numbers on sheets posted on walls to find their JRV. All day, throughout the city, things proceeded without any difficulty and, especially in the late afternoon and early evening, in a positive spirit which seemed to justify the expression “Fiesta Civica”. Frequently children and grandchildren accompany voters to the voting centers and often into the JRV to cast their ballots.\n\nThis was the first election for multiple offices which used a single combined ballot. This was designed to avoid confusion and seemed to result in a lower number of null votes. Voting was quick and easy, usually taking only a few minutes. Usually there were no lines or short lines of voters at each JRV with numbers increasing as the temperature cooled toward evening.\n\nEvery voter or functionary with whom I spoke described the experience as totally normal and without complication. There were plenty of Electoral Police and other functionaries at polling places with very little evidence of regular police though there were thousands of officers available. In fact, during my entire visit, the National Police have seemed to maintain a very low profile.\n\nThe Electoral Police are unarmed civilians who make sure the ballots and other electoral materials are secure before, during and after the voting, allow voters access to the JRV, etc. If there were a serious problem they would call the National Police. At one site a bus arrived carrying people with disabilities. The Electoral Police and others helped them access their JRV’s.\n\nAt more than 68%, turnout was down somewhat, not surprising when everyone expected overwhelming victory for the Frente Sandinista and there was no real suspense or excitement. There are 3.8 million registered voters, 16 years of age or older, among a total population of perhaps 6.2 million Nicaraguans. Some elements of the opposition, including the MRS, are making the ridiculous claim that abstentions were the winner of the election and that the elections are illegitimate. Of course the almost 2.6 million who voted, especially the 72.5% who voted for the Daniel Ortega/Rosario Murillo ticket, disagree.\n\nYesterday I spent part of the day exploring the Fortin de Acosasco, a Somosa National Guard fortress above the city of Leon which saw action during the uprising against the dictator. A veteran of the revolution, part of a group who maintain a presence at the site, recounted the history. He said that the revolution continues today, expressed happiness over the results of the elections and his belief that that with the Frente Sandinista the people will continue to move forward. The revolutionary veterans hope to find funding, before it is too late to preserve the Fortin, to convert it into a museum where young Nicaraguans can learn about their history and understand what was sacrificed so that they can enjoy the freedoms, peace and progress of Nicaragua today.\n\n<img class=\"aligncenter size-full wp-image-7260\" src=\"https://afgj.org/wp-content/uploads/2016/11/nicanoteselectionsmall.jpg\" alt=\"nicanoteselectionsmall\" width=\"3648\" height=\"2736\" />\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

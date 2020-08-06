@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 71578498-16d1-4f3a-bb4e-aed3396c4623
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: background-video.webm
+  uri:
+    -
+      value: 'public://2017-06/background-video.webm'
+  filemime:
+    -
+      value: video/webm
+  filesize:
+    -
+      value: 2683167
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1498663362

@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f288fd92-34f0-453c-a6e2-effbd73069d1
+  bundle: article
+  default_langcode: en
+  depends:
+    86ed0bee-adf3-4e6c-841b-9a5a71f82848: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: '[Petition] THE WORLDWIDE HEALTH CRISIS DEMANDS SOLIDARITY, NOT SANCTIONS END SANCTIONS NOW!'
+  created:
+    -
+      value: 1585229978
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /petition-worldwide-health-crisis-demands-solidarity-not-sanctions-end-sanctions-now
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<div id="8a31174f-5572-4225-a4e3-70e3678affb9"><script type="text/javascript" src="https://default.salsalabs.org/api/widget/template/a88c9a33-8bbf-4c63-a020-a20897c551ac/?tId=8a31174f-5572-4225-a4e3-70e3678affb9" ></script></div>'
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 86ed0bee-adf3-4e6c-841b-9a5a71f82848
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

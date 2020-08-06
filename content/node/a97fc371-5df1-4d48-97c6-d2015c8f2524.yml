@@ -1,0 +1,80 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a97fc371-5df1-4d48-97c6-d2015c8f2524
+  bundle: mt_team_member
+  default_langcode: en
+  depends:
+    36bbbf56-21be-4302-a772-d57fed25dacd: file
+    493e46f2-b3ff-4534-9cb4-0b28d83e5dfc: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: false
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Bekki Versace'
+  created:
+    -
+      value: 1474914526
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /team/bekki-versace
+      langcode: en
+      pathauto: 1
+  field_mt_tmm_body:
+    -
+      value: "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_tmm_facebook_account:
+    -
+      value: 'https://www.facebook.com'
+  field_mt_tmm_featured:
+    -
+      value: false
+  field_mt_tmm_linkedin_account:
+    -
+      value: 'https://www.linkedin.com'
+  field_mt_tmm_member_photo:
+    -
+      entity: 36bbbf56-21be-4302-a772-d57fed25dacd
+      alt: 'Team member five'
+      title: 'Team member five'
+      width: 750
+      height: 750
+  field_mt_tmm_member_photo_wide:
+    -
+      entity: 493e46f2-b3ff-4534-9cb4-0b28d83e5dfc
+      alt: 'Team member five'
+      title: ''
+      width: 1300
+      height: 650
+  field_mt_tmm_subheader_body:
+    -
+      value: "<p>“Businessplus is a great agency where all of us care about the products we release and the apps we create. We always give 200% of us.”</p>\r\n"
+      format: basic_html
+  field_mt_tmm_subtitle:
+    -
+      value: 'Director of Communications'
+  field_mt_tmm_twitter_account:
+    -
+      value: 'https://twitter.com/'
+  field_mt_tmm_youtube_account:
+    -
+      value: 'https://youtube.com'

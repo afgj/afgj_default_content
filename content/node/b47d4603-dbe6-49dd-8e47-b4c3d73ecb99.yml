@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b47d4603-dbe6-49dd-8e47-b4c3d73ecb99
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Peace, Anti-War, and Liberation'
+  created:
+    -
+      value: 1283508999
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /peace-anti-war-and-liberation
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "The Alliance for Global Justice has a long history of advocacy for just peace that is manifested in our various projects and campaigns. For instance, we actively support the peace process in Colombia, oppose US intervention in Venezuela via military and financial support for violent golpistas, emphasize the role of US Empire and militarism in climate change, and oppose the blockade of Cuba and occupation of Guantánamo. AfGJ has participated in and even co-founded some of the major anti-war coalitions and networks opposing US wars. We will continue to support the movement to end wars and militarism and will periodically post relevant links, announcements and resources on this page.\r\n<h3 style=\"text-align: center;\"><a href=\"https://afgj.org/category/peace\">Click here to read AfGJ's archives of Peace, Anti-war, and Liberation articles</a></h3>\r\n<h3 style=\"text-align: center;\"><a href=\"https://afgj.org/category/militarism\">Click here to read archives of articles concerning the struggle against militarism</a></h3>\r\n<em>graphic below by Jamie Way</em>\r\n\r\n<a href=\"http://s783.photobucket.com/albums/yy112/jmway3/?action=view&amp;current=ConstantWar1.jpg\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"http://i783.photobucket.com/albums/yy112/jmway3/ConstantWar1.jpg\" alt=\"Map of US Military Presence in Latin America 2010\" border=\"0\" /></a>\r\n\r\n<a href=\"http://s783.photobucket.com/albums/yy112/jmway3/?action=view&amp;current=ConstantWarFunding.jpg\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"http://i783.photobucket.com/albums/yy112/jmway3/ConstantWarFunding.jpg\" alt=\"ConstantWarFunding\" border=\"0\" /></a>\r\n\r\nMain Sources:\r\n<a href=\"http://www.defense.gov/pubs/pdfs/2009baseline.pdf\">DoD Base Structure Report (Fiscal Year 2009 Baseline)</a>\r\n<a href=\"http://www.no-bases.org/file_uploads/CUADERNILLO%202.pdf\">International Conference Notebook 2 \"Presencia Militar dos Estados Unidos en America Latina y el Caribe\"</a>\r\n<a href=\"http://www.lawg.org/storage/lawg/documents/lawg_waitingforchange_engl.pdf\">LAWG's Waiting for Change Report</a>\r\n<a href=\"http://justf.org/All_Grants_Country\">Just the Facts Aid Report</a>"
+      format: full_html
+      summary: ''

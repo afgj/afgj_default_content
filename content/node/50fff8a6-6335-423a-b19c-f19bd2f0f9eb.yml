@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 50fff8a6-6335-423a-b19c-f19bd2f0f9eb
+  bundle: article
+  default_langcode: en
+  depends:
+    c9ee9f30-7d28-4039-a4f9-3c5b4ac21d3a: taxonomy_term
+    8a513676-bf65-4895-b8a5-9c0075aba7f3: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Critical Support: What Does It Mean for Solidarity with Latin America?'
+  created:
+    -
+      value: 1446540962
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /critical-support-what-does-it-mean-solidarity-latin-america
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: right;\">Chuck Kaufman</p>\n<p style=\"text-align: right;\">Originally Published on October 30th, 2015 by <a href=\"http://www.counterpunch.org/2015/10/30/critical-support-what-does-it-mean-for-solidarity-with-latin-america-2/\">counterpunch</a></p>\n<img class=\"aligncenter\" src=\"http://uziiw38pmyg1ai60732c4011.wpengine.netdna-cdn.com/wp-content/dropzone/2015/10/chavez-castro2-510x394.jpg\" alt=\"\" width=\"510\" height=\"394\" />\n<p class=\"p1\"><span class=\"s1\">Critical support for Left governments has been a hotly debated subject since long before I joined the US Latin America solidarity movement 28 years ago. The issue is particularly important today as the governments in countries of the Bolivarian Alliance for the Peoples of Our Americas (ALBA) are under unprecedented attack from internal and external forces. I have no illusion that this short essay will lay to rest the debate, but I want to frame the issues and what is at stake.</span></p>\n<p class=\"p1\"><span class=\"s1\">ALBA was formed in 2004 by Cuba and Venezuela, quickly joined by Ecuador and Bolivia. The Sandinista party in Nicaragua participated in Venezuela’s preferential oil program, which became known as PetroCaribe, and joined as a full member of ALBA when President Daniel Ortega took office in 2007. Honduras was briefly a member prior to the June 28, 2009 coup against President Manuel Zelaya. The Caribbean island nations of Antigua and Barbuda, Dominica, Grenada, St. Kitts and Nevis, St. Lucia, and St. Vincent and the Grenadines are members and Suriname was admitted as a guest country in 2012.</span></p>\n<p class=\"p1\"><span class=\"s1\">The idea behind ALBA was to create an alternative model to the US-proposed Free Trade Area of the Americas agreement (FTAA). ALBA is much more than a cooperative, rather than a competitive, trade pact. Its goal is to realize Simon Bolivar’s dream of social, political, and economic integration of Latin America and the Caribbean. It is anti-imperialist, providing strength in unity against what Bolivar called “the Colossus of the North.” The member countries are democratic and to varying degrees “on the road to socialism.”</span></p>\n<p class=\"p1\"><span class=\"s1\">To date, the economic backbone of ALBA has been Venezuelan oil. Cuba and Nicaragua especially have reaped huge benefits by being able to buy Venezuelan oil at market rates but with preferential payment conditions that have meant money for poverty reduction, small-scale agricultural development, and job creation. In addition, ALBA countries can pay each other in-kind rather than US dollars. That has been made even easier with the adoption of the “Sucre”, a bookkeeping currency that allows them to trade without using US dollars. Thus Cuba can pay for oil by sending doctors to Venezuela (or other ALBA countries) and Nicaragua can pay with black beans (which Nicaraguans won’t eat) and beef. Nicaragua and Cuba have had bilateral trade on the same basis with Cuba providing doctors and literacy experts in exchange for Nicaragua’s agricultural products.</span></p>\n<p class=\"p1\"><span class=\"s1\">The effects have been significant. While Cuba had already achieved full literacy as measured by the United Nations, Venezuela, Nicaragua, Ecuador and Bolivia have met that high goal since joining ALBA. All five countries have made impressive advances toward achieving the UN Millennium Goals of halving poverty by 2020. Nicaragua, the second, or now perhaps third poorest country in the hemisphere, (by some measures Honduras has dropped to number two), has made poverty reduction advances that are praised again and again by the UN. It is hard to see how any of the countries could have made such advances without ALBA cooperation.</span></p>\n<p class=\"p1\"><span class=\"s1\">Free healthcare and education, economic stimulation of family agriculture and micro, small and medium business, are all factors in driving poverty reduction as well as better and healthier standards of living, and hope for the families in ALBA countries. These objective improvements have proven popular with voters. While US corporate media dismisses the popularity of elected leaders by claiming a populist pandering to the poor, in fact, it is the sustainable development that has accompanied poverty reduction, that has meant real improvements for families who then vote in their actual interests to return the ALBA presidents to power.</span></p>\n<p class=\"p1\"><span class=\"s1\">ALBA’s unity has inspired and increased Latin American unity, even across ideological divides, resulting in strong regional bodies such as the Union of South American Nations (UNASUR) and the Community of Latin American and Caribbean States (CELAC), which is an alternative to the US-dominated OAS. CELAC includes all the States of the hemisphere except the US and Canada.</span></p>\n<p class=\"p1\"><span class=\"s1\">Imagine, without this ALBA-inspired unity that Bolivia could have changed its formula with transnational energy companies exploiting its natural gas from a split giving 80% of the profit to the energy companies and 20% to Bolivia, to exactly the opposite proportion. US marines would have been patrolling the streets of La Paz in a minute without a united front to stop them. Imagine the US normalizing relations with Cuba without the unanimous pressure by a united Latin America which made clear there would be no more hemisphere-wide meetings without Cuba’s presence.</span></p>\n<p class=\"p1\"><span class=\"s1\">One can only imagine the wailing and gnashing of teeth in the corporate boardrooms and the bowels of the State Department caused by a unified world view and development vision that is not dominated and controlled by the US. US policymakers imagine that this unity can be destroyed and that Latin America can be returned to the reservation and controlled by the US to the benefit of US capitalists. US government policy is that ALBA must be destroyed.</span></p>\n<p class=\"p1\"><span class=\"s1\">We all love to chant, “the people united will never be defeated.” But I’ve never actually believed it was true. In fact, victories are never forever. Every advance toward a better world must be constantly defended because the fact is that people and movements and countries can be divided and defeated and the entire weight of US foreign policy is to do just that.</span></p>\n<p class=\"p1\"><span class=\"s1\">I find it alarming that, at least in the US, solidarity activists seem much more inclined to condemn the imperfections of the ALBA governments than they are to defend the gains they have made. We have envisioned the end of the US Empire, but it is madness to act as if our vision were already a reality. The Colossus of the North is still the most powerful force on earth economically and militarily. A wounded predator is often more dangerous than a healthy one. We are astounded and amused by the outrageous pronouncements of the candidates for US president, thinking them to be the delirium of the fringe when in fact they represent the mainstream and it is we who are marginalized. The Empire can fight back, and it is.</span></p>\n<p class=\"p1\"><span class=\"s1\">I am not one who says it is never appropriate to criticize a Left government. But I do believe there are constraints on that criticism. I am one who believes that taking State power is the ultimate goal, and it is those governments that function on behalf of the poor majority with which we are in solidarity, not just social movements, and certainly not with the broadly co-opted “civil society”. I think even those who do see the social movements as the highest object of their solidarity still need to consider how the “critical” part of their solidarity advances or detracts from their other goals.</span></p>\n<p class=\"p1\"><span class=\"s1\">Here are some questions that I think we should think about personally and discuss within our organizations. These questions are focused in particular on US solidarity and may or may not be applicable to solidarity movements in other countries.</span></p>\n<p class=\"p1\"><span class=\"s1\">1 To what extent have we internalized US exceptionalism and believe that we have the right to be heard on any issue about which we have an opinion?</span></p>\n<p class=\"p1\"><span class=\"s1\">2 When we say that we are in critical support, do we spend as much effort on the support as we do on the criticism?</span></p>\n<p class=\"p1\"><span class=\"s1\">3 In what ways do our criticisms differ from, or are similar to, the arguments made by those who want to return to a system of oligarchy under US hegemony?</span></p>\n<p class=\"p1\"><span class=\"s1\">4 To what extent has US funding created artificial civil society groups and influenced the discourse of legitimate popular movements?</span></p>\n<p class=\"p1\"><span class=\"s1\">Alliance for Global Justice defines solidarity as “amplifying the voices of those with whom we are in solidarity; not telling them what their priorities should be.” We also believe that the sovereign people of countries with real democracy have the right to resolve most issues without outside interference either by our government or ourselves.</span></p>\n<p class=\"p1\"><span class=\"s1\">Therefore it is neither necessary nor appropriate for us to have a public opinion about the Nicaragua canal, the Bolivian TIPNIS highway, Ecuadoran oil exploration, or Venezuelan food shortages. But what is very much our responsibility is US government intervention in these and other issues and the transnational corporate rape of resources that prop up our high standard of living.</span></p>\n<p class=\"p1\"><span class=\"s1\">I also think that it is perfectly appropriate to debate our criticisms within our organizations, much the way families discuss issues internal to the family. But when we voice those issues outside of the family, we need to be very deliberate in how we speak lest we destroy the family in the process. We must consider that if the governments of the ALBA countries fall, they will not be replaced by forces that will move them farther along the road to socialism but will move them backwards. That will strengthen the US Empire. So in the final analysis, our own liberation is intrinsically connected to the success of ALBA, and we ignore that fact to our own peril.</span></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: c9ee9f30-7d28-4039-a4f9-3c5b4ac21d3a
+    -
+      entity: 8a513676-bf65-4895-b8a5-9c0075aba7f3
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

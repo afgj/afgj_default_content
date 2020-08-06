@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 64211726-58e4-440d-bc8d-371cdaf816ba
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Outreach Materials'
+  created:
+    -
+      value: 1372645051
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /outreach-materials
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Video (share it!)</strong>\r\n\r\n<iframe src=\"//player.vimeo.com/video/73162470\" height=\"281\" width=\"500\" allowfullscreen=\"\" frameborder=\"0\"></iframe>\r\n\r\n<a href=\"http://vimeo.com/73162470\">Tear Down The Walls Promo</a> from <a href=\"http://vimeo.com/user20435736\">Dela Gente</a> on <a href=\"https://vimeo.com\">Vimeo</a>.\r\n\r\n<iframe src=\"//www.youtube.com/embed/U4w3rJzCA-U\" height=\"315\" width=\"420\" allowfullscreen=\"\" frameborder=\"0\"></iframe>\r\n<strong>Social Media</strong>\r\n<ul>\r\n\t<li><a href=\" https://www.facebook.com/OccupySolidarity\" target=\"_blank\">Tear Down The Walls Facebok Community Page</a></li>\r\n\t<li><a href=\"https://www.facebook.com/events/550367588317963/\" target=\"_blank\">Tear Down The Walls Facebook Event Page</a></li>\r\n\t<li><a style=\"letter-spacing: 0.05em; line-height: 1.6875;\" href=\"https://twitter.com/TDTWgathering\" target=\"_blank\">Twitter</a></li>\r\n</ul>\r\n&nbsp;\r\n\r\n<strong>Downloads</strong>\r\n\r\n<strong></strong><span style=\"letter-spacing: 0.05em; line-height: 1.6875;\">Downloadable Postcard (right click to save)</span>\r\n<ul>\r\n\t<li><span style=\"letter-spacing: 0.05em; line-height: 1.6875;\">Front:\_</span><a style=\"letter-spacing: 0.05em; line-height: 1.6875;\" href=\"https://afgj.org/?attachment_id=4792\">https://afgj.org/?attachment_id=4792</a></li>\r\n\t<li><span style=\"letter-spacing: 0.05em; line-height: 1.6875;\">Back:\_</span><a style=\"letter-spacing: 0.05em; line-height: 1.6875;\" href=\"https://afgj.org/?attachment_id=4793\">https://afgj.org/?attachment_id=4793</a></li>\r\n</ul>\r\nTear Down The Walls National Gathering Informational Flyer\r\n<ul>\r\n\t<li><a style=\"letter-spacing: 0.05em; line-height: 1.6875;\" href=\"https://afgj.org/wp-content/uploads/2013/07/TDTW-National-Flyer.pdf\">TDTW Flyer</a></li>\r\n</ul>\r\n<strong>To Share</strong>\r\n\r\nLogo\r\n\r\n<a href=\"https://afgj.org/wp-content/uploads/2013/02/TDTW-logo3.jpg\"><img class=\"aligncenter size-full wp-image-4451\" alt=\"TDTW logo\" src=\"https://afgj.org/wp-content/uploads/2013/02/TDTW-logo3.jpg\" width=\"851\" height=\"315\" /></a>\r\n\r\n&nbsp;\r\n\r\n<img class=\"alignleft size-medium wp-image-4880\" alt=\"tdtwposter\" src=\"https://afgj.org/wp-content/uploads/2013/09/tdtwposter-209x300.jpg\" width=\"209\" height=\"300\" />\r\n\r\n<strong>Website Button!</strong>\r\n\r\n&lt;a href=\"https://afgj.org\"&gt;&lt;img class=\"aligncenter\" src=\"/wp-content/uploads/2013/09/tdtwposter-209x300.jpg\" alt=\"Sign Up!\" /&gt;&lt;/a&gt;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n<img class=\"alignleft size-full wp-image-4880\" alt=\"tdtwposter\" src=\"https://afgj.org/wp-content/uploads/2013/09/tdtwposter.jpg\" width=\"670\" height=\"960\" />\r\n\r\n<strong>POSTER</strong>\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n<img class=\"alignleft size-full wp-image-5027\" alt=\"TDTWquartersheets\" src=\"https://afgj.org/wp-content/uploads/2013/09/TDTWquartersheets.jpg\" width=\"1275\" height=\"1650\" />\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n<a href=\"https://afgj.org/wp-content/uploads/2013/07/TDTWquartersheets.pdf\">TDTWquartersheets</a>\_pdf link\r\n\r\n<a href=\"https://afgj.org/wp-content/uploads/2013/07/TDtWvFinalv1.1.jpg\">Meme<img class=\"aligncenter size-full wp-image-4570\" alt=\"TDtWvFinalv1.1\" src=\"https://afgj.org/wp-content/uploads/2013/07/TDtWvFinalv1.1.jpg\" width=\"450\" height=\"462\" /></a><a href=\"https://afgj.org/wp-content/uploads/2013/07/TDTWObama.jpg\"><img class=\"aligncenter size-full wp-image-4571\" alt=\"TDTWObama\" src=\"https://afgj.org/wp-content/uploads/2013/07/TDTWObama.jpg\" width=\"1224\" height=\"792\" /><img class=\"alignleft size-medium wp-image-4859\" alt=\"tdtwfb3\" src=\"https://afgj.org/wp-content/uploads/2013/07/tdtwfb3-300x112.png\" width=\"300\" height=\"112\" /> <img class=\"alignleft size-medium wp-image-4860\" alt=\"tdtwfb4\" src=\"https://afgj.org/wp-content/uploads/2013/07/tdtwfb4-300x112.png\" width=\"300\" height=\"112\" /> <img class=\"alignleft size-medium wp-image-4861\" alt=\"tdtwfb5\" src=\"https://afgj.org/wp-content/uploads/2013/07/tdtwfb5-300x112.png\" width=\"300\" height=\"112\" /></a>"
+      format: full_html
+      summary: ''

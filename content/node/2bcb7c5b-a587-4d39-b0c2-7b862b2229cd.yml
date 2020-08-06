@@ -1,0 +1,73 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2bcb7c5b-a587-4d39-b0c2-7b862b2229cd
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    801e3bde-8887-4341-9509-1363185a5f6e: taxonomy_term
+    ff23272a-2c6a-4d3f-b137-4c19843845a6: taxonomy_term
+    0dfdb011-9c82-4762-89a0-db01e08f9fe3: taxonomy_term
+    47dbf152-55af-48f9-b366-923795d9a8c9: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Peacemakers Delegation to Colombia with AfGJ, May 19-29, 2018'
+  created:
+    -
+      value: 1514984576
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /peacemakers-delegation-colombia-afgj-may-19-29-2018
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "[caption id=\"attachment_7365\" align=\"alignleft\" width=\"237\"]<img class=\" wp-image-7365\" src=\"https://afgj.org/wp-content/uploads/2016/12/20161002_095725-Copy-300x225.jpg\" alt=\"\" width=\"237\" height=\"178\" /> Walk with those who walk in the shadow of persecution. Put your privilege to good use. Make justice. Make Peace. (Photo taken in Cominera, Cauca)[/caption]\r\n\r\nHuman Rights and Labor lawyer, Dan Kovalik, and Alliance for Globall Justice National Co-Coordinator, James Jordan, are leading a delegation to the Departments of Cauca, Valle de Cauca, and Nariño this May 19-29, 2018. This is the region most affected by political violence that threatens Colombia’s new peace. We will be present for the historic first presidential elections since implementation of accords ending 52 years of civil war. We will accompany voters and campaigns targeted by enemies of the peace. We will visit indigenous, AfroColombian, and farming villages in this beautiful region to learn about the struggles there, and to show our solidarity.\r\n\r\n<hr />\r\n\r\n<h3 style=\"text-align: center;\">To learn more or register, write <a href=\"mailto:workertoworker@gmail.com\">workertoworker@gmail.com</a>\r\nor call 202-540-8336, extension 3.</h3>\r\n\r\n<hr />\r\n\r\n<img class=\"alignright wp-image-8766\" src=\"https://afgj.org/wp-content/uploads/2018/01/20170712_093417-225x300.jpg\" alt=\"\" width=\"176\" height=\"230\" />\r\n\r\nWhen we ask our Colombian friends what we can do to support their peace, this is what we hear again and again: 1) “Come to Colombia and walk with ourleaders who are in danger and learn about our struggles – and how US policies affect us”; 2) “When you return, change your own government, not only for our peace and liberation, but for yours.”\r\n\r\n<strong>Our hosts</strong> - Fensuagro (federation of farm workers’ unions); The Permanent Committee for Human Rights (CPDH); Suyana (collective in support of political prisoners); Francisco Isaias Cifuentes Human Rights Network\r\n\r\n<strong>Price</strong> - \_$1,400 - Includes all food, lodging, in-country-delegation travel, translation, and miscellaneous delegation expenses. <strong>Scholarships and discounts may be available</strong>. <strong>Low-income activists, young workers, and students encouraged to apply.</strong>\r\n\r\n<strong>For more info</strong> - workertoworker@gmail.com or call 202-540-8336, ext. 3\r\n\r\n[caption id=\"attachment_8768\" align=\"aligncenter\" width=\"436\"]<img class=\"wp-image-8768\" src=\"https://afgj.org/wp-content/uploads/2018/01/20170624_193340.jpg\" alt=\"\" width=\"436\" height=\"581\" /> Trekking through the rain, AfGJ intern Cody Edgerly and translator Raquel Mogollon get muddy for peace in our last Colombia delegation![/caption]"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: 801e3bde-8887-4341-9509-1363185a5f6e
+    -
+      entity: ff23272a-2c6a-4d3f-b137-4c19843845a6
+    -
+      entity: 0dfdb011-9c82-4762-89a0-db01e08f9fe3
+    -
+      entity: 47dbf152-55af-48f9-b366-923795d9a8c9
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

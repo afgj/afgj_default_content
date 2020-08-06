@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: b4a3739d-0fd2-41c9-9b20-acdece4e9181
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: mt-slide3.jpg
+  uri:
+    -
+      value: 'public://2018-02/mt-slide3.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 30313
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1518631739

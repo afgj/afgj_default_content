@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 467a5347-5fc3-4fbf-98d4-2021a0e8bc8b
+  bundle: article
+  default_langcode: en
+  depends:
+    559721eb-b73d-4d86-a9b5-58f46584daa3: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Act Now!  Tell Trump and Congress: Don’t Recognize Honduran Election Results'
+  created:
+    -
+      value: 1512543244
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /act-now-tell-trump-and-congress-dont-recognize-honduran-election-results
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<div class=\" sli-row\">\n<div id=\"6eb0a33c-248f-4d8c-a4ab-d5a48df0e536\" class=\" sli-large-12 sli-medium-12 sli-columns\" data-ignite-container-type=\"DEFAULT\">\n<div class=\" sli-callout sli-element\">\n<h1 style=\"text-align: center;\"><a href=\"https://afgj.org/dont-recognize-honduran-election-petition\">Act Now!</a></h1>\n</div>\n<div class=\" sli-element sli-text\">\n<div>\n<ul>\n \t<li>Most Bungled Election Fraud in History!</li>\n \t<li>\_Nine Days and Still No Official Winner Announced</li>\n \t<li>Police Return to Barracks, Refuse to Further Repress People</li>\n \t<li>Embattled President Sends Family to Houston, Declares State of Emergency</li>\n \t<li>People Ignore 6 pm – 6 am Curfew</li>\n \t<li>TSE\_ (Supreme Electoral Tribunal) Computers Down for Five Hours; Lead Switches</li>\n \t<li>OAS says TSE Count not Reliable</li>\n \t<li><a href=\"https://www.leahy.senate.gov/\">Sen. Leahy Tells TSE: Recount 5,300 Polling Sites or Redo Whole Election</a></li>\n</ul>\n\n<hr />\n\nThe people of Honduras are in the streets. They are braving tear gas, rubber bullets, live ammunition, beatings and imprisonment to prevent what is being called the “final act of the [2009] coup.” In 2009, the National Front for Popular Resistance, the combined voice of popular movements, unions, teachers, peasant cooperatives, indigenous and LGBT activists protested in the streets for 180 straight days. But US support for the coup government trumped the voice of the people.\n<h3 style=\"text-align: center;\"><a href=\"https://afgj.org/dont-recognize-honduran-election-petition\"><strong>Act Now So History Does Not Repeat Itself!</strong></a></h3>\n<h3 style=\"text-align: center;\"><a href=\"https://afgj.org/dont-recognize-honduran-election-petition\"><strong>Click Through to Your Two Senators and Your Representative</strong></a></h3>\n<strong>Demand</strong>\_that the US follow the lead of the Organization of American States and Refuse to recognize the results of the blatantly fraudulent vote count unless there is a transparent recount.\n\n<strong>Demand\_</strong>that Congress pass the Berta Caceres Act, named after slain indigenous environmental leader Berta Caceres. The Act will cut off US military and police aid and training until the government of Honduras ends impunity for Berta’s murder and the political murders of over 200 democracy activists since the coup.\n\n</div>\n</div>\n</div>\n</div>\n<div class=\" sli-row\">\n<div id=\"8fc91699-df7f-4659-897a-138dd846616a\" class=\" sli-large-12 sli-medium-12 sli-columns\" data-ignite-container-type=\"DEFAULT\">\n<div class=\" sli-callout sli-element\">\n<h2 style=\"text-align: center;\"><a href=\"https://afgj.org/dont-recognize-honduran-election-petition\"><strong>Time is of the Essence. Act Now.\nFill out the form below\_to send your letters!</strong></a></h2>\n</div>\n</div>\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 559721eb-b73d-4d86-a9b5-58f46584daa3
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

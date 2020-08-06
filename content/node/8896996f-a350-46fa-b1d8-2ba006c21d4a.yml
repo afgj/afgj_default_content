@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8896996f-a350-46fa-b1d8-2ba006c21d4a
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Is Responsible Travel to Colombia Even Possible?'
+  created:
+    -
+      value: 1568662828
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /responsible-travel-colombia-even-possible
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\" wp-image-12099 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2019/09/IMG_4002-1024x768.jpg\" alt=\"\" width=\"652\" height=\"493\" /></p>\r\n<p style=\"text-align: center;\">Is responsible travel to Colombia even possible given the levels of repression that occur there daily?</p>\r\n\r\n<h4 style=\"text-align: center;\"><strong>Our answer to that question is a resounding YES!!!</strong></h4>\r\n<h4 style=\"text-align: center;\"><strong>In fact, the Alliance for Global Justice is partnering with US Labor Against the War (USLAW) to take a union solidarity delegation to Colombia November 24-December 4, 2019. If you’d like more information, send an email to </strong><a href=\"mailto:JAMES@AFGJ.ORG\" data-cke-saved-href=\"mailto:JAMES@AFGJ.ORG\"><strong>JAMES@AFGJ.ORG</strong></a></h4>\r\nWhile the Alliance for Global Justice (AfGJ) is one of the initial signers to the <a href=\"https://afgj.org/peoples-travel-advisory-on-colombia-call-for-international-actions-for-september-27-2019\" data-cke-saved-href=\"https://afgj.org/peoples-travel-advisory-on-colombia-call-for-international-actions-for-september-27-2019\">People’s Travel Advisory on Colombia</a>, the Advisory does not call for a boycott. Travel to Colombia is an important way that labor rights defenders and peace advocates can show their solidarity. Repression in Colombia originates in the United States. We believe we have a duty to go find out what’s really going on in Colombia and come back home and educate and organize for change. Responsible travel to Colombia is a good thing. But travel that does not support the people’s desire for peace and justice only reinforces a sad and unacceptable status quo.\r\n\r\n<strong>The fact is, Colombia is not safe for many people: </strong>\r\n<ul>\r\n \t<li><strong>Colombia is the most dangerous place in the world to be a union organizer. In 2018, 34 union organizers were killed, more than twice the number killed in 2017 (15). The number is on track to be even higher in 2019. Already in the first six months of 2019, 10 members of just one labor organization, FENSUAGRO, have been killed. </strong></li>\r\n</ul>\r\n<ul>\r\n \t<li><strong>Colombia is dangerous for social movements and the political opposition. Since the implementation of the peace accord in 2016, over 700 social movement leaders have been killed.</strong></li>\r\n</ul>\r\n<ul>\r\n \t<li><strong>Colombia is not safe for former insurgents who have laid down their arms to reintegrate into civil society. Over 150 former guerrillas have been killed since late 2016. \_</strong></li>\r\n</ul>\r\n<ul>\r\n \t<li><strong>Colombia is not safe for families and the integrity of their homes and communities. Colombia has the highest number of internally and forcibly displaced persons in the world.</strong></li>\r\n</ul>\r\n<ul>\r\n \t<li><strong>For these segments of society, Colombia is extremely dangerous, and it is dangerous for anyone who goes off the beaten path to be with these people in the places where they live, unless you are traveling within the relative safety of an international delegation. Fortunately, our presence as international labor and human rights monitors still gives us a safety that is normally not available in the places we visit.</strong></li>\r\n</ul>\r\nOf course, some will say that it is ridiculous to issue a travel warning about Colombia. People go on vacations there all the time and never run into danger. Yes, it is quite safe if you only go where the government and the tourist industry want you to go. If you stay on the dotted line, only visit the officially approved and promoted places, and use basic common sense precautions, you can usually travel without incident. If you do nothing at all to stand with the people, if you cloak yourself in “first-world” tourist privilege, then, sure, Colombia is a paradise for the tourist who closes eyes and ears and heart to what is really going on.\r\n\r\n<strong>But is that what you really want to do? The humanitarian crisis in Colombia is so bad that the world must take notice and do something. That’s why if you’re going to go to Colombia, you should do something to support the people’s aspirations for peace, justice, and liberation. </strong>\r\n\r\n<strong>We urge people to consider responsible ways to travel to Colombia, including:</strong>\r\n<ul>\r\n \t<li>Making contact with popular movements and learning about the struggles they are facing and how you can help;</li>\r\n</ul>\r\n<ul>\r\n \t<li>Paying a “peace tax” and financially contributing to Colombian popular organizations or to international solidarity organizations working for the peace of Colombia;</li>\r\n</ul>\r\n<ul>\r\n \t<li>Going to the US Embassy to demand an end to U.S. policies that finance and encourage violence and repression in Colombia;</li>\r\n</ul>\r\n<ul>\r\n \t<li>Visiting Colombian officials to let them know the world is watching, and to call for an end to military and paramilitary violence against social and labor movements;</li>\r\n</ul>\r\n<ul>\r\n \t<li>Joining a solidarity delegation to Colombia that educates and informs about the people’s struggle.</li>\r\n</ul>\r\n<strong>The USLAW-AFGJ November 24 – December 4, 2019 Labor Delegation is an excellent way to travel safely and responsibly to Colombia. If you would like more information on the delegation, send an email to </strong><a href=\"mailto:JAMES@AFGJ.ORG\" data-cke-saved-href=\"mailto:JAMES@AFGJ.ORG\"><strong>JAMES@AFGJ.ORG</strong></a>\r\n\r\nThis will be an exciting and informative trip.\_ We will visit national and local leadership of oil, agricultural, miners, flower cutters, port workers, and other leading unions, and will meet with injured workers from the GM plant in Bogotá. We will also engage with popular movement leaders, human rights defenders, and rural, indigenous, and Afro-Colombian communities. The delegation will spend half its time in the capital city of Bogotá, and half based out of Cali and Buenaventura, traveling throughout the Departments of Cauca and Valle de Cauca, where political violence is at the highest rate in the nation.\r\n\r\nThe Alliance for Global Justice has safely taken multiple delegations to Colombia. By traveling with this delegation, you can travel with confidence while still seeing the Colombian reality in a way that very few are able to. You’ll make a powerful statement to our partners there as we stand together in defense of working people and peace in Colombia and around the world!\r\n<h3 style=\"text-align: center;\"><strong><a href=\"https://afgj.org/peoples-travel-advisory-on-colombia-call-for-international-actions-for-september-27-2019\" data-cke-saved-href=\"https://afgj.org/peoples-travel-advisory-on-colombia-call-for-international-actions-for-september-27-2019\">Click here to learn more about the People’s Travel Advisory and the September 27 International Day for Peace in Colombia</a></strong></h3>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

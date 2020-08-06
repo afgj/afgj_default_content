@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: c14bd468-befe-4f30-a142-81ace2726783
+  bundle: basic
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Are you looking for a great service?'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"row\">\r\n<div class=\"col-lg-6 col-12 order-lg-2\">\r\n<div class=\"fancy-block-2-container bottom-spacing-small\"><img alt=\"service image\" class=\"fancy-image-top-left fade\" data-animate-effect=\"fadeInDown\" src=\"https://mttprojects.s3.amazonaws.com/demo.morethanthemes.com/businessplus/placeholders/static-service-1.jpg\" /> <img alt=\"service image\" class=\"fancy-image-bottom-right fancy-image--box-shadow fancy-image--position-absolute fade\" data-animate-effect=\"fadeInRight\" src=\"https://mttprojects.s3.amazonaws.com/demo.morethanthemes.com/businessplus/placeholders/static-service-2.jpg\" /></div>\r\n</div>\r\n\r\n<div class=\"col-lg-6 col-12 order-lg-1\">\r\n<div class=\"fade\" data-animate-effect=\"fadeInLeft\">\r\n<h2 class=\"bottom-spacing-small\">ARE YOU LOOKING FOR A GREAT SERVICE?</h2>\r\n\r\n<p>The most obvious benefit of remaining independent is that we have no boundaries except those we put on ourselves.</p>\r\n\r\n<ul class=\"list--fa-check-circle\">\r\n\t<li>Surviving 21 years in any industry</li>\r\n\t<li>Focused on delivering outcomes</li>\r\n\t<li>I have no boundaries</li>\r\n</ul>\r\n\r\n<p><a class=\"button button--hover-style-2\" href=\"#\">Let's talk</a></p>\r\n</div>\r\n</div>\r\n</div>\r\n"
+      format: full_html
+      summary: ''

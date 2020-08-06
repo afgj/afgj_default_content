@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: fae21d9e-1b0b-418f-b1a1-e4f297688838
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Generic Block'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<p>Aliquam ullamcorper velit ligula, in aliquet sapien molestie semper. Praesent tellus nisi, porttitor eget ligula vitae, commodo vulputate dui. Donec varius arcu eget risus tincidunt, sed ultrices mi porta. Nulla faucibus sed nisi ac consequat. Cras at lectus arcu.</p>\r\n\r\n<p><a class=\"link--bordered\" href=\"#\">Read more</a></p>\r\n"
+      format: full_html
+      summary: ''

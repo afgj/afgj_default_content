@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4a00d482-4035-4da1-8f84-4df21b757ecb
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NicaNotes: What Do You Think?'
+  created:
+    -
+      value: 1489589364
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-what-do-you-think
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"aligncenter size-full wp-image-6975\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"\" width=\"579\" height=\"195\" /></a>\n\nI’ve got nothing new to say this week as a blog post, but I have written some summaries of the news stories that I feel may be of interest to solidarity activists. As always I welcome submissions for guest blogs. Submissions should be in the 2-4 page range. Send them to <strong><a href=\"mailto:Chuck@AFGJ.org\">Chuck@AFGJ.org</a>.</strong> I would need them by early Monday for any week’s Wednesday publish date. Submissions should have something to do with issues related to Nicaragua or Nicaragua and its relations with other countries like the US. Nicaragua Network/Alliance for Global Justice has been for over 38 years in solidarity with the Sandinista Front for National Liberation, in and out of office. While we recognize that no movement nor government is perfect, we will not be a platform for attacks against the Sandinista government or the Sandinista popular movements.\n\nBeing from the powerful country that has invaded and occupied Nicaragua on multiple occasions and which has killed many Nicaraguans through our military and economic policies, we take a humble approach to issues confronting the Nicaraguan body politics. We believe that most issues should be resolved by Nicaraguans without outside interference. Where we do speak out strongly and without hesitation is to expose and oppose US government interference in Nicaragua’s sovereign affairs. Within the above context,<strong> I’d love to publish a guest blog from YOU some upcoming Wednesday!</strong>\n\n<hr />\n\n<strong>BRIEFS</strong>\n<ul>\n \t<li>Eleven thousand new homes were built and existing homes improved in 2016 through joint programs of the national government, municipal governments, and private contractors. The construction created 18,900 jobs and 52% of the homes were delivered to women, the majority of whom are heads of households. The government continued its program to support dignified housing by advancing up to three months salary of public and private employees for the purchase of making the down payment on a new home or repair an existing house. (Informe Pastran, Mar. 10)</li>\n</ul>\n<ul>\n \t<li>The Head of the Nicaragua Fourth Military Command, Colonel Alberto Larios announced that more than 27,000 Olive Ridley turtles were released last weekend at La Flor Wildlife Reserve in Rivas Department. He added that this joint effort with former poachers of turtle eggs is encouraging them to work as tour guides, helping to preserve the Olive Ridley turtle in Nicaragua.(Nicaragua News, Mar. 10)</li>\n</ul>\n<ul>\n \t<li>A recent World Economic Forum report entitled, The Global Gender Gap, ranked Nicaragua in the number one position in the Western Hemisphere and number 10 worldwide in female empowerment. The parameters of the study include access to education, healthcare, economic opportunities and female participation in politics. OAS Secretary General Luis Almagro, in his International Women’s Day speech, highlighted Nicaragua’s empowerment and gender policies. He said, “Nicaragua, Costa Rica, Bolivia, Ecuador, and Mexico have passed laws to ensure equal political rights for women, which is an exceptional achievement in the world.” (Nicaragua News, Mar. 8, 9)</li>\n</ul>\n<ul>\n \t<li>The International Institute for Strategic Studies based in England, in its Military Balance 2016 report, stated that Nicaragua has the lowest military budget in Central America. In 2016 the Nicaragua military budget was US$73 million, El Salvador, US$146 million; Guatemala, US$268 million; Honduras US$295; and Costa Rica, which supposedly doesn’t have an army, spent US$413 million on its militarized police which are indistinguishable from other countries armies and which train at the School of the Americas alongside other Latin American countries’ military officers. (Nicaragua News, Mar. 9)</li>\n</ul>\n<ul>\n \t<li>Daniel Otazo, general manager of the publically-owned Nicaragua Production Promotion Bank (BFP), announced the approval of US$70 million to support small businesses in the Nicaragua tourism sector. \"The Bank is currently supporting 20,000 small business owners and agricultural producers. The goal this year is to continue to grow and promote development of small businesses, mainly in the tourism sector,\" Otazo said. It is the policy of the government of President Daniel Ortega to ensure that micro, small and medium Nicaraguan-owned businesses benefit from the development of tourism, not just the transnational hotel and resort companies. (Nicaragua News, Mar. 9)</li>\n</ul>\n<ul>\n \t<li>The President of the National Association of Poultry Producers (ANAPA), Alfredo Vélez, said that last year chicken production in Nicaragua grew 4%, generating US$180 million in revenue. He added that poultry production surpassed 300 million pounds during this period and greater growth is being projected for this year. I’d like to look deeper into this in a future blog. Nicaragua appears to be the only country to benefit from the US-Central America Free Trade Agreement (DR-CAFTA) and it was questionable whether those benefits would continue once the agreement was fully in force, as it is now. The US poultry industry was expected to wipe out the Nicaraguan poultry industry with cheap US-government subsidized chicken parts when tariffs were eliminated. It would appear that that has not happened as it has in other countries. In a future blog, we’ll see if we can find out why. If you would like to help research this issue, contact me. (Nicaragua News, Mar. 9)</li>\n</ul>\n<ul>\n \t<li>A recent article published by Chicago Digital Power website noted greater growth in renewable energy production in Nicaragua, emphasizing the use of solar panels in isolated areas of the country. The report states that more than 7,000 solar panels has been installed to provide electrical service in difficult to access rural areas and the goal this year is to install 12,000 photovoltaic panels on the Nicaragua Caribbean Coast. (Nicaragua News, Mar. 7)</li>\n</ul>\n<ul>\n \t<li>As part of a series on Nicaraguans who have been successful in the United States, El Nuevo Diario featured Victoria Gonzalez, the oldest daughter of my recently retired long-time colleague Katherine Hoyt. According to the Managua daily newspaper, Gonzalez is the first Nicaraguan to earn a doctorate in Latin American Studies at a US university. Gonzalez earned her degree at Indiana University in 2002. She is currently a professor in Chicano Studies at California’s San Diego State University. Her dissertation was published as a book: Before the Revolution, women’s Rights and Right-Wing politics in Nicaragua 1821-1979. The article reported that Gonzalez and political scientist Karen Kampwirth were recently awarded a grant from the American Council of Learned Societies to write a book on the last hundred years of sexual diversity in Nicaragua. You can read the full interview in Spanish at <a href=\"http://www.elnuevodiario.com.ni/nacionales/420830-victoria-me-dicen-no-pareces-profesora-universitar/\" target=\"_blank\" rel=\"noopener\">http://www.elnuevodiario.com.ni/nacionales/420830-victoria-me-dicen-no-pareces-profesora-universitar/</a></li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

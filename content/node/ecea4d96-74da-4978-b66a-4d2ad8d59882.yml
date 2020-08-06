@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ecea4d96-74da-4978-b66a-4d2ad8d59882
+  bundle: article
+  default_langcode: en
+  depends:
+    86ed0bee-adf3-4e6c-841b-9a5a71f82848: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    87614bb5-404a-46a8-b7ea-8faa09106702: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: '#SanctionsKill Webinar: Build a Movement Against all US Wars!'
+  created:
+    -
+      value: 1584382607
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /sanctionskill-webinar-build-movement-against-all-us-wars
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>This webinar was organized as part of the International Days of Action Against Sanctions and Economic War – March 13 – 15, 2020 initiated by the <a href=\"https://sanctionskill.org/\">SanctionsKill.org</a>.\_ Alliance for Global Justice endorses this campaign.</strong>\r\n<p style=\"text-align: center;\"><iframe src=\"https://www.youtube.com/embed/PjVyxzZym9c\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\r\n<p style=\"text-align: center;\">Webinar: March 14, 2020</p>\r\nPanelist discuss how US imposed sanctions violate international law and how the poorest and the weakest are affected – infants, children, the chronically ill and the elderly – suffer the worst impact of sanctions.\r\n\r\nVisit SanctionsKill.org for more info.\r\n\r\nSpeakers include: Judy Greenspan, International Action Center, timekeeper Sara Flounders, SanctionsKill Campaign Pierre Labossiere, Haiti Action Committee Rhonda Ramiro, BAYAN USA Omowale Clay, December 12 Movement K.J. Noh, Scholar, Writer and Peace Activist Bilal Mafundi Ali, Black Alliance for Peace Jeff Mackler, United National AntiWar Coalition Nesbit Crutchfield, Venceremos Brigade David Paul, Embassy Protection Collective David Welsh, Delegate, San Francisco Labor Council Elane Spivak Rodriguez, Alliance For Global Justice"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 86ed0bee-adf3-4e6c-841b-9a5a71f82848
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: 87614bb5-404a-46a8-b7ea-8faa09106702
+  field_mt_slideshow:
+    -
+      value: false

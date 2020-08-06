@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 959b69c8-fa03-4c97-a5d7-64ba633c467f
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly #208, 5.11.2018: Call for Solidarity Against Increased US Threats'
+  created:
+    -
+      value: 1526267196
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-208-5112018-call-solidarity-against-increased-us-threats
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter size-full wp-image-9718\" src=\"https://afgj.org/wp-content/uploads/2018/05/image.png\" alt=\"\" width=\"892\" height=\"964\" />\r\n<div><a href=\"http://www.thedawn-news.org/2018/05/08/venezuela-heart-of-america-maduro-yes-trump-no/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.thedawn-news.org/2018/05/08/venezuela-heart-of-america-maduro-yes-trump-no/&amp;source=gmail&amp;ust=1526375013370000&amp;usg=AFQjCNEXHGfLsIc45D6jQxW0diMYuT0ZCA\">International Call from Social Movements of ALBA:\_Venezuela Heart of America: Maduro YES Trump NO</a></div>\r\n<div>\r\n\r\n<hr />\r\n\r\n</div>\r\n<div><a href=\"https://www.mintpressnews.com/haley-pence-venezuela-regime-change/241895/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.mintpressnews.com/haley-pence-venezuela-regime-change/241895/&amp;source=gmail&amp;ust=1526375013371000&amp;usg=AFQjCNGL1JbMT6oekEXHQL1MPBWdL40Nxw\">Haley, Pence Convey US Message on Venezuela: Only Election Worth Holding is One that Results in Regime Change</a></div>\r\n<div>\r\n\r\n<hr />\r\n\r\n</div>\r\n<div><a href=\"https://venezuelanalysis.com/news/13800\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://venezuelanalysis.com/news/13800&amp;source=gmail&amp;ust=1526375013371000&amp;usg=AFQjCNEB6A68RoPcZxsbNY-31KSukMRoJg\">Venezuela Rejects New US Sanctions as Pence Demands Suspension of Elections</a></div>\r\n<div>\r\n\r\n<hr />\r\n\r\n</div>\r\n<div><a href=\"https://www.counterpunch.org/2018/05/07/who-is-afraid-of-venezuelan-democracy/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.counterpunch.org/2018/05/07/who-is-afraid-of-venezuelan-democracy/&amp;source=gmail&amp;ust=1526375013371000&amp;usg=AFQjCNENnax8qHppPYBaGlHbvGcjFrnYiA\">Maria Perez Victor: Who is Afraid of Venezuelan Democracy?</a></div>\r\n<div>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.workers.org/2018/04/25/new-cuban-president-continues-work-of-the-revolution/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.workers.org/2018/04/25/new-cuban-president-continues-work-of-the-revolution/&amp;source=gmail&amp;ust=1526375013371000&amp;usg=AFQjCNENyfZBefbcYT4GyiGqcQFkbfYqDw\">Workers World: New Cuban President Continues Work of the Revolution</a></div>\r\n<div>\r\n\r\n<hr />\r\n\r\n</div>\r\n<div><a href=\"https://afgj.org/nicaragua-solidarity-internationalists\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/nicaragua-solidarity-internationalists&amp;source=gmail&amp;ust=1526375013371000&amp;usg=AFQjCNGkqC_gWQR-R0BN3VC8FElGBXx53Q\">Chuck Kaufman:\_Internationalists, What Exactly are We Supporting?</a></div>\r\n<div>\r\n\r\n<hr />\r\n\r\n</div>\r\n<div><a href=\"https://www.counterpunch.org/2018/05/10/is-the-u-s-meddling-in-nicaragua/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.counterpunch.org/2018/05/10/is-the-u-s-meddling-in-nicaragua/&amp;source=gmail&amp;ust=1526375013371000&amp;usg=AFQjCNHW9pMuheng2AZHeVKfgZGCZVEufw\">US interference in Nicaragua</a></div>\r\n<div>\r\n\r\n<hr />\r\n\r\n</div>\r\n<div><a href=\"https://theglobalamericans.org/2018/05/laying-groundwork-insurrection-closer-look-u-s-role-nicaraguas-social-unrest/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://theglobalamericans.org/2018/05/laying-groundwork-insurrection-closer-look-u-s-role-nicaraguas-social-unrest/&amp;source=gmail&amp;ust=1526375013371000&amp;usg=AFQjCNFk0ckJxmZUyGNb36VPpY4xbKEJxw\">Anti-Sandinista Website Points Out NED Funding in Nicaragua</a>\r\n\r\n<hr />\r\n\r\n</div>\r\n<div><a href=\"https://therealnews.com/stories/first-time-in-decades-brazils-unions-and-left-unite-demanding-lulas-freedom\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://therealnews.com/stories/first-time-in-decades-brazils-unions-and-left-unite-demanding-lulas-freedom&amp;source=gmail&amp;ust=1526375013371000&amp;usg=AFQjCNHX6opVZEVRfxDbNi9iuQcPKfZK0g\">First Time in Decades Brazil’s Unions and Left Unite, Demanding Lula’s Freedom</a>\r\n\r\n<hr />\r\n\r\n</div>\r\n<div><a href=\"https://www.telesurtv.net/english/news/Julian-Assange-Hit-By-New-Communications-Ban-in-Ecuador-Embassy-20180510-0020.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Julian-Assange-Hit-By-New-Communications-Ban-in-Ecuador-Embassy-20180510-0020.html&amp;source=gmail&amp;ust=1526375013371000&amp;usg=AFQjCNHw06KR-DHmfprCqt9OddL7foQZVA\">Julian Assange Hit By New Communications Ban in Ecuador Embassy</a>\r\n\r\n<hr />\r\n\r\n</div>\r\n<div>\r\n<h2>Delegations</h2>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div dir=\"ltr\"><a style=\"letter-spacing: 0.05em;\" href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/partner-delegation-atc&amp;source=gmail&amp;ust=1524951291407000&amp;usg=AFQjCNFiyu5lr15JIXW48GoSpetzxRqy6A\">Agrarian &amp; Worker Struggle in Nicaragua: Celebrating the ATC’s 40th Anniversary\_<span class=\"aBn\" data-term=\"goog_831236533\"><span class=\"aQJ\">June 18-28</span></span></a></div>\r\n<div>\r\n<div></div>\r\n<div><b></b><a href=\"https://afgj.org/artist-delegation-nicaragua\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/artist-delegation-nicaragua&amp;source=gmail&amp;ust=1524951291407000&amp;usg=AFQjCNEcJbVfAaBPHCX1z5o6wvVobl7sdQ\">Artists’ Delegation to Nicaragua\_</a><a href=\"https://afgj.org/artist-delegation-nicaragua\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/artist-delegation-nicaragua&amp;source=gmail&amp;ust=1524951291407000&amp;usg=AFQjCNEcJbVfAaBPHCX1z5o6wvVobl7sdQ\"><span class=\"aBn\" data-term=\"goog_831236534\"><span class=\"aQJ\">August 1 through 10, 2018</span></span></a></div>\r\n\r\n<hr />\r\n\r\n<h2 id=\"m_777319361513180780gmail-m_-4546164052145643394gmail-m_8774691331061159411gmail-m_-8213335874581264356gmail-m_-2776178258433599685gmail-m_-9020789454698019944gmail-m_6252858159261738354DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\"><b></b><strong>About the Weekly</strong></h2>\r\n<div>\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"yj6qo ajU\"></div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,76 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 0952307d-42ee-4f65-b4f5-07dbb2c53a2f
+  bundle: mt_showcase
+  default_langcode: en
+  depends:
+    55e56092-5d32-46bf-a3aa-61042880bfcb: file
+    55ce4aea-5d67-4df1-861b-3701ab9eb46c: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Border Militarization Resource Guide'
+  created:
+    -
+      value: 1591191241
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /border-militarization-resource-guide
+      langcode: en
+      pathauto: 0
+  field_mt_shw_body:
+    -
+      value: "<p>Each chapter includes a preface, as well as links and resources.&nbsp;Please click the titles to read each chapter:</p>\r\n\r\n<ol>\r\n\t<li><strong><a href=\"https://afgj.org/border-militarization-resource-guide/introduction-to-border-militarization\">Introduction to Border Militarization</a>:&nbsp;</strong>Isabel Garcia, co-founder of Derechos Humanos in Tucson, speaks on the real roots of border violence – free trade and forced labor. Leilani Clark’s poem “To Honor Lives Stolen” is an elegy to those who have died at the border. A list of all undocumented people who died trying to cross the border just in 2016 speaks to the nearly incomprehensible scope of this violence. James Jordan writes of Arizona as a Mecca of bigotry.</li>\r\n\t<li><strong><strong><a href=\"https://afgj.org/border-militarization-resource-guide/border-repression-and-human-rights\">Border Repression and Human Rights</a>: </strong></strong>The recent intensification of miltiarizaiton on the border leads to grievous human rights violations. Gabe Schivone writes on “the funneling effect” on migrants and the desert as a weapon. The video “Deserted: The Human Rights Crisis on our Soil,” vividly shows this reality. We include two articles on the shooting through the border wall of teenager Jose Antonio Elena Rodriguez. A video by Pan Left’s Brenda Limón informs us about Carlos Lamadrid, another teenager killed by border patrol.</li>\r\n\t<li><strong>Free Trade, Labor and Forced Migration:&nbsp;</strong>To be completed</li>\r\n\t<li><a href=\"https://afgj.org/border-militarization-resource-guide/when-the-border-crosses-a-family\"><strong>When the Border Crosses a Family</strong></a>: The US-Mexico border divides families. Josseline was just 14 when she died while crossing the border to reunite with her mother in the US – here is her story. An instance of racial profiling in action captured on video is the moment one family was torn apart. A report from Race Forward called “The Shattered Families Report” shows the tangible ways children are affected by harsh immigration policies. Trump’s policies lead to great harm for children. Finally, some numbers showing just how many people will be affected by the end of DACA</li>\r\n\t<li><a href=\"https://afgj.org/border-militarization-as-occupation\"><strong>Border Militarization as Occupation</strong></a>: The US Mexico border wall creates great difficulties for the Tohono O’odham people and other native tribes, who are now on both sides of a heavily fortified wall. In a press release, the Tohono O’odham people come out against Trump’s wall. Rachel Marchbank’s article on tribal sovereignty and border enforcement highlights the difficulties native people face at both the Canada and Mexico borders.</li>\r\n\t<li><strong><strong><a href=\"https://afgj.org/the-border-as-martial-law\">The Border as Martial Law</a>:&nbsp;</strong></strong>The rest of the country needs to pay attention to what’s happening at the border. The policies developed here are coming soon to a theater near you – and we mean theater of conflict – near you. This section includes “Under Arpaio” by Jason Aragon, Chelli Stanley’s article exploring the deep connections between Israel and the state of Arizona, and an article by AfGJ’s James Jordan about ICE agents carrying out military style raids.</li>\r\n\t<li><a href=\"https://afgj.org/splitting-the-land-in-two-ecological-effects-of-border-militarization\"><strong>Splitting the Land</strong><strong> in Two:&nbsp; Ecological Effects of Border Militarization</strong></a>: A 2010 video by the Sierra Club called “Wall Versus Wild” captures in an easy to digest format how wildlife is harmed by border militarization. An article called “Borderlands at Risk” by Dan Millis lays out the threat to ecosystems, and also includes a list of federal laws violated by border wall construction. A comprehensive list of links to academic articles about mammals and the border is a deep dive into quantifiable harms done to other species.</li>\r\n\t<li><strong>Border Culture versus the Culture of Fear</strong>*: To be completed</li>\r\n\t<li><a href=\"https://afgj.org/splitting-the-land-in-two-ecological-effects-of-border-militarization\"><strong>The Border is Everywhere</strong></a>:&nbsp;Arizona’s extreme policies on immigration are going national. A video of Border Patrol racially profiling in Denver, far from the border, seems like it could have been filmed here in Arizona. A short documentary called “Checkpoint Nation” shows how checkpoints are expanding, and a video about racial profiling highlights the challenges non-white people across America face.</li>\r\n\t<li><a href=\"https://afgj.org/border-militarization-resource-guide/border-militarization-and-empire\"><strong>Border Militarization and Empire </strong></a>This final chapter of the guide takes this concept of intersectionality a step further. This chapter is all about the Big Picture. Border militarization is one of the cornerstone components of the whole infrastructure of Empire.</li>\r\n</ol>\r\n\r\n<p><strong>WHY A BORDER MILITARIZATION RESOURCE GUIDE?</strong></p>\r\n\r\n<p>Border militarization is the transformation of the border region into a permanent war zone. And it kills—as simple as that. The combination of Free Trade Agreements (FTAs), a racist culture of fear, and security build-up has created a situation that funnels undocumented workers into the harshest desert terrains. The result: more than 6,000 dead since 2000, most from thirst, exposure or dysentery, some shot and killed by the Border Patrol or armed vigilantes. All are casualties of US militarism.&nbsp;<strong>We demanded “Troops Out Now!” in Iraq and Afghanistan–we must demand the same for the borderlands.</strong></p>\r\n\r\n<p>In the Obama and Bush years, many liberals and even activists were willing to compromise on border militarization in order to get some kind of immigration reform. In 2017, the hope of comprehensive immigration reform is receding into a more distant future and border militarization increases even further. As of 2017, Immigrations and Customs Enforcement (ICE) is even more heavily funded, and the White House has attached any possible legal protection for DACA recipients to the burden of Trump’s promised wall.</p>\r\n\r\n<p>Although the drama has intensified on the national stage, this isn’t new for those of us in the borderlands. Here in the desert, we continue to find the bodies. We continue to count the dead. That is why the Alliance for Global Justice has prepared the Border Militarization Guide. We hope it will be help people around the country make sense of whatever comes next – by understanding how border militarization has been taking its toll for many years. More than anything else, the goal of this guide is to educate and inspire new activists in the struggle to end the militarization of the borderlands and throughout the country.</p>\r\n\r\n<p><a href=\"http://derechoshumanosaz.net/\">Coalición de Derechos Humanos</a>, the&nbsp;<a href=\"http://coalitionforjusticecjm.blogspot.com/\">Coalition for Justice in the Maquiladoras</a>, and the&nbsp;Alliance for Global Justice&nbsp;created this&nbsp;multi-section Border Militarization Resource Guide. Our first online edition, originally envisioned as a study guide for classrooms and community groups, was posted&nbsp;in 2013. All the sections were updated in 2017, and we continue to post new chapters as they are completed.</p>\r\n\r\n<p>For a quick glimpse&nbsp;of the reality of the&nbsp;border, check out <a href=\"https://afgj.org/afgj-board-visits-the-us-mexico-border\">this video</a>&nbsp;that incorporates footage of&nbsp;AfGJ’s trip to the Arizona – Sonora desert.</p>\r\n\r\n<p><strong>THANKS</strong></p>\r\n\r\n<p>Thanks to all the many contributors, organizers, thinkers, staff and others who have supported the development of this guide. Especially we wish to thank the three primary organizations behind the effort: the&nbsp;<a href=\"http://derechoshumanosaz.net/\">Coalición de Derechos Humanos</a>, the&nbsp;<a href=\"http://coalitionforjusticecjm.blogspot.com/\">Coalition for Justice in the Maquiladoras</a>, and the&nbsp;Alliance for Global Justice. This project simply would not have been possible without the support of the Earlham Border Studies Program and the three interns they provided, who have really shepherded and midwifed this whole thing into being. The word “intern” does not adequately describe what they brought to this project because they were not here just to learn and help out. Indeed, they did more than anyone to develop the concept for this guide and to coordinate all the disparate parts and people and efforts necessary to its completion. Specifically, we would like to express our deepest gratitude to Sophie Kazis, Will Wickham, Nicholas Morgan, and Will Sarvis, students here via the Earlham program.&nbsp; Even before the Earlham Border Studies interns, there was Duke Feldmeier, of Prescott College, who helped conceive this project. We also want to extend a special thanks to Chelli Stanley, who produced several of the original videos included in the guide and who has helped oversee the organization of all the video components contained herein.</p>\r\n\r\n<p>For more information about this project send an email to <a href=\"mailto:leilani@afgj.org\">Eduardo@afgj.org</a> or call 202-544-9355, ext. 5.</p>\r\n"
+      format: full_html
+      summary: ''
+  field_mt_shw_content_collapses:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 5dc3b64b-3168-42a7-9314-c5a732f38117
+          bundle: mt_collapse
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1591191335
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+  field_mt_shw_image:
+    -
+      entity: 55e56092-5d32-46bf-a3aa-61042880bfcb
+      alt: Border
+      title: ''
+      width: 704
+      height: 529
+  field_mt_shw_tags:
+    -
+      entity: 55ce4aea-5d67-4df1-861b-3701ab9eb46c

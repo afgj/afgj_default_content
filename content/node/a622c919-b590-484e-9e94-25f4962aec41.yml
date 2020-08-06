@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a622c919-b590-484e-9e94-25f4962aec41
+  bundle: article
+  default_langcode: en
+  depends:
+    2ddd12f9-0ac5-430e-884a-ce6ee8811df6: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'How Do I Decide Amongst So Many Requests for Support?'
+  created:
+    -
+      value: 1514694642
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /how-do-i-decide-amongst-so-many-requests-support
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2 style=\"text-align: center;\">“If AfGJ did not exist,\nsomeone would have to create it.”</h2>\n<p class=\"p1\"><img class=\"aligncenter\" src=\"https://org2.salsalabs.com/o/7315/images/2sandinos.jpg\" alt=\"\" width=\"500\" height=\"442\" /></p>\nThanks to you, Alliance for Global Justice does exist and we\_plan to keep right on\_working hard to build a stronger, more unified movement\_for transformational change.\n\nThis is the last of our series of year-end donation appeals\_describing different aspects of\_our cutting-edge work. After today we are going\_to leave you alone for awhile! But we\_can’t emphasize enough that your financial\_support – at whatever level – is the fuel that\_powers our “little bit\_grassroots think tank and a whole lot of organizing,” as we\_say. We don’t get big foundation grants and we sure d get\_corporate\_contributions! Our average gift is $50 and it takes a lot of $50 gifts to fund\_our Latin America\_solidarity work and our US movement-building work.\n<h2 style=\"text-align: center;\"><b>\_<a href=\"https://afgj.org/afgjeoy2017\">Take a Moment to Consider Supporting\nAFGJ with a $50 Gift</a></b></h2>\nFor a small organization, we have a big agenda and a big\_impact,\_as you know from the emails we’ve\_been sending you over the last few weeks. We may be small, but we make a big\_difference and, as\_one of our detractors on the Right put it, we “punch above\_our weight.”\n<ul>\n \t<li>Solidarity with Nicaragua and the ALBA countries. Defense of\_sovereignty for Venezuela.</li>\n</ul>\n<ul>\n \t<li>Human rights accompaniment in Honduras and Colombia.</li>\n</ul>\n<ul>\n \t<li>Labor rights in Mexico.</li>\n</ul>\n<ul>\n \t<li>Exposing US prison imperialism and our military’s role in\_the acceleration of climate\_change.</li>\n</ul>\n<ul>\n \t<li>Administrative services to over 100 groups that don’t have\_their own tax-exempt status.</li>\n</ul>\n<h2 style=\"text-align: center;\"><b>AfGJ is indeed “a little bit grassroots think tank and a\_whole lot of organizing.”</b></h2>\nIn 2018 we face new challenges and a continuation of the old\_ones. This world is poised\_on a precipice and it is only through united,\_grassroots action that we will stop the 1%\_from taking all of us over the cliff\_with them.\n\nAfGJ is a non-sectarian, grassroots organization devoted to addressing\_the root causes of\_capitalism and imperialism that are destroying our planet and\_denying its human\_inhabitants and our fellow creatures their birthright. We are\_devoted to build a movement\_strong enough to have an impact regardless of who\_is in the White House or who controls\_Congress.\n<h2><a href=\"https://afgj.org/afgjeoy2017\">If you like what we’re doing and you’d like us to do more, please make a tax-deductible donation today!</a></h2>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 2ddd12f9-0ac5-430e-884a-ce6ee8811df6
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

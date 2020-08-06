@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 96077d4f-710b-4c72-bfc2-b575393eadc8
+  bundle: article
+  default_langcode: en
+  depends:
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Tell Sen. Durbin that the US doesn’t choose who is president of Venezuela!'
+  created:
+    -
+      value: 1548690112
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /tell-sen-durbin-us-doesnt-choose-who-president-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1><strong>Take Action!</strong></h1>\r\n<h1><strong>Tell Sen. Durbin that the US doesn’t choose who is president of Venezuela!</strong></h1>\r\nTell Sen. Durbin that the US doesn’t choose who is president of Venezuela!\r\n\r\nIllinois Senator Dick Durbin, the second-highest ranking Democrat in the Senate, has endorsed President Trump’s decision to foster a coup in Venezuela by issuing a statement recognizing Juan Guaido, self-proclaimed “president” as the leader of Venezuela. The\_<a href=\"https://www.washingtonpost.com/world/the_americas/ap-exclusive-anti-maduro-coalition-grew-from-secret-talks/2019/01/25/7c0d7ce8-211e-11e9-a759-2b8541bbbe20_story.html?noredirect=on&amp;utm_term=.4202c415beea\">Washington Post</a>\_has reported on the US government and the Venezuelan opposition secret talks that led to the coup attempt. The\_<a href=\"https://www.nytimes.com/2018/09/08/world/americas/donald-trump-venezuela-military-coup.html\">New York Times</a>\_previously reported that Trump met with disloyal Venezuelan military officers. Sen. Durbin himself went to Venezuela last year and met with opposition leaders. Fill out the form here to send a message to Sen. Durbin that you oppose a US-orchestrated coup in Venezuela.\r\n\r\n&nbsp;\r\n\r\n-- Example Letter --\r\n\r\nSenator Durbin,\r\nI express my strong objection to your support for the US orchestrated coup in Venezuela.\_You\r\nstated:\r\nI spoke at length to the new President of Venezuela, Juan Guaidó, today. I assured him of my\r\nstrong support for a more peaceful and democratic future in Venezuela under his transitional\r\nleadership. The people of Venezuela deserve it.\r\nI call on you to reverse your position and support respect for democracy, national sovereignty\r\nand national dialogue in Venezuela. The Organization of American States has already voted to\r\nreject Juan Guaido proclaiming himself as president of Venezuela by a vote of 18-16. The United\r\nNations Security Council has also rejected the US coup plot.\r\nRepresentative\_Tulsa Gabbard\_made an honorable statement:\r\nThe United States needs to stay out of Venezuela. Let the Venezuelan people determine\r\ntheir future. We don’t want other countries to choose our leaders–so we have to stop trying\r\nto choose theirs.\r\nAs did Representative\_ Ilham Omar :\r\nA U.S. backed coup in Venezuela is not a solution to the dire issues they face. Trump’s\r\nefforts to install a far right opposition will only incite violence and further destabilize the\r\nregion. We must support Mexico, Uruguay &amp;amp; the Vatican’s efforts to facilitate a peaceful\r\ndialogue.\r\n\r\nSenator Durbin, join these sensible Representatives and the majority of the international\r\ncommunity, retract your statement and recognize the legitimate elected government of Venezuela\r\nand speak out for peaceful dialogue.\r\n\r\n<hr />\r\n\r\n<a style=\"background: #375d99; padding: 10px; margin: 10px 0px; text-align: center; text-decoration: none; font-size: 12pt; color: #f4cccc; font-family: Arial, Helvetica, sans-serif; display: inline-block;\" href=\"https://afgj.salsalabs.org/tellsenatordurbin-venezuela\" target=\"_blank\" rel=\"noopener noreferrer\">Take Action Now!</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

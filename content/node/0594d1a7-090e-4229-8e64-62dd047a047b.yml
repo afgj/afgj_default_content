@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 0594d1a7-090e-4229-8e64-62dd047a047b
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    0dfdb011-9c82-4762-89a0-db01e08f9fe3: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Q&A Regarding the Reorganized FARC-EP in Colombia'
+  created:
+    -
+      value: 1567264119
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /qa-regarding-reorganized-farc-ep-colombia
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-12063\" src=\"https://afgj.org/wp-content/uploads/2019/08/IMG-20181030-WA0000.jpg\" alt=\"\" width=\"480\" height=\"528\" /></p>\r\n<strong>Questions and Answers Regarding the Re-Organization of the FARC-EP (Revolutionary Armed Forces of Colombia-People’s Army). </strong>\r\n\r\nMany have heard by now about the press conference held on Thursday announcing the re-arming of the FARC-EP (Revolutionary Armed Forces of Colombia – People’s Army). A press conference was held in which some commanders and peace negotiators from the old FARC-EP declared their exit from the peace accords. They also said they would coordinate with the ELN (National Liberation Army). The announcement was read by Iván Marquez (aka Luciano Marín Arango), with Jesús Santrich (aka Seuxis Pausias Hernández Solarte) and El Paisa (aka Hernán Darío Velásquez Saldarriga) alongside him. They cited the failures of the Colombian state to fulfill its commitments as specified in the peace accords, and noted the killings of social movement leaders and former insurgents since the peace accords were implemented in late 2016. According to the Marcha Patriótica movement for a just peace and INDEPAZ, as of July 22, 2019, 700 social movement leaders and 137 former FARC-EP combatants had been killed.\r\n\r\nThis announcement has caused some confusion among many Colombia solidarity activists. Following are a few questions we have already gotten, and some short responses.\r\n\r\n<strong>\_</strong>\r\n\r\n<strong>Q: Does this mean the peace process is over and a new civil war has begun?</strong>\r\n\r\nA: It does not mean the peace process is over. The majority of former commanders and soldiers of the old FARC-EP remain strongly committed to the accord designed to end over 52 years of war between that insurgency and the Colombian government. Important popular movement, political, and business leaders have expressed their concern for and defense of the peace process. The peace accord remains the law of the land.\r\n\r\nNevertheless, one cannot deny that Colombia may be plunging into a new phase of civil war. Even before the Márquez announcement, the ranks of dissident FARC-EP soldiers had swollen to 3,000. Additionally, there are around 5,000 reputed members of the ELN. With a social movement leader or former insurgent murdered every 25 to 35 hours, and with an 8,000 strong insurgency ready and willing to respond, the seeds for a new war may well bear fruit.\r\n\r\n&nbsp;\r\n\r\n<strong>Q: How are we to distinguish the new FARC and the new FARC-EP from the old FARC and the old FARC-EP?</strong>\r\n\r\nA: First, up until 2016, FARC referred to the Revolutionary Armed Forces of Colombia. As of 2016, the FARC became the Alternative Revolutionary Force of the Common, a legal and nonviolent political party.\r\n\r\nAfGJ will distinguish among all these in the following way. When talking about the original roots of this insurgency up until 1982, we shall refer to the “historic FARC”. We will refer to the FARC-EP from 1982 (when the “EP” for Popular Army was added) until the peace process as simply the FARC-EP or as the former FARC-EP. As for those who did not lay down arms, we will call them “dissidents”. As for the new and legal FARC, we will refer to them simply as “the FARC” and, sometimes, for further clarification, as “the FARC political party”. Regarding the new insurgency announced by Iván Márquez, the group has added the title \"Nuevo Poder\" (New Power) to their name. Accordingly, we will call them the FARC-EP Nuevo Poder. We had previously referred to them as the \"new\", \"rearmed\", or \"reorganized\" FARC-EP.\r\n\r\n&nbsp;\r\n\r\n<strong>Q: Does the Alliance for Global Justice support or endorse the re-organization of the new FARC-EP? </strong>\r\n\r\nA: The Alliance for Global Justice has never endorsed or given support to any version of the FARC or FARC-EP. \_Our alliances are with different segments of popular and labor movements, and it is these movements that we seek to amplify in our work in the United States. Our focus is squarely on changing U.S. policies toward Colombia and helping mobilize international support for Colombia’s peace. That has never changed for us, and it does not change now.\r\n\r\nAfGJ supported the call for a peace process well before it began. When we began our Colombia solidarity work in 2008, we joined with international partners to call for dialogue between the FARC-EP and the Colombian government. We are known for this advocacy. That is why we were specially invited to attend the inauguration of the Marcha Patriótica popular movement for peace and justice, and it is why we were the first grassroots organization from the U.S. invited to Havana to meet with teams negotiating the peace accords.\r\n\r\nWe have also refused to demonize insurgent movements. While we do not endorse or support either guerrilla army, we do recognize them as legitimate insurgencies that exist as an armed response to repression and the failure of the Colombian government to justly govern the territories where these insurgencies exist. We believe the correct response to this situation is a process toward peace and a political solution that addresses the underlying causes of the armed conflict.\r\n\r\n&nbsp;\r\n\r\n<strong>Q: What is our task now, as solidarity activists?</strong>\r\n\r\nA: We must continue to defend the peace and challenge U.S. policies that undermine that peace. The U.S. government continues to arm, advise, and encourage the administration of Colombia’s President Iván Duque. The Trump administration has lobbied heavily for Colombia to abandon agreements regarding rural development, substitution of crops with illicit uses, and the reincorporation of former guerrillas into civilian life. We need to change that.\r\n\r\n&nbsp;\r\n\r\n<strong>THREE THINGS YOU CAN DO TO SUPPORT PEACE IN COLOMBIA</strong>\r\n\r\n&nbsp;\r\n<ul>\r\n \t<li>Help organize an event in your city for the <a href=\"https://afgj.org/peoples-travel-advisory-on-colombia-call-for-international-actions-for-september-27-2019\">September 27 International Day for Peace in Colombia</a>. For more information, write <a href=\"mailto:JAMES@AFGJ.ORG\">JAMES@AFGJ.ORG</a></li>\r\n</ul>\r\n&nbsp;\r\n<ul>\r\n \t<li>Sign on to the the <a href=\"https://afgj.org/peoples-travel-advisory-on-colombia-call-for-international-actions-for-september-27-2019\">People’s Travel Advisory on Colombia</a> Send organizational endorsements to <a href=\"mailto:JAMES@AFGJ.ORG\">JAMES@AFGJ.ORG</a></li>\r\n</ul>\r\n&nbsp;\r\n<ul>\r\n \t<li>One way to travel safely and responsibly to Colombia is with the US Labor Against the War and AfGJ Delegation to Colombia, November 24-December 4, 2019. For more information, write <a href=\"mailto:JAMES@AFGJ.ORG\">JAMES@AFGJ.ORG</a></li>\r\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: 0dfdb011-9c82-4762-89a0-db01e08f9fe3
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

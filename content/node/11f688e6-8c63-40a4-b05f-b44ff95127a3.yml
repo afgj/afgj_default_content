@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 11f688e6-8c63-40a4-b05f-b44ff95127a3
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela and ALBA Weekly #200 March 16, 2018 Open Letter in Defense of Venezuela and its Widespread Media Coverage'
+  created:
+    -
+      value: 1521370837
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-and-alba-weekly-200-march-16-2018-open-letter-defense-venezuela-and-its-widespread
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1 style=\"text-align: center;\">With this issue, we reach the\r\nMilestone of Number 200 for the\r\nAFGJ Venezuela and ALBA Weekly.</h1>\r\n<img class=\"aligncenter size-full wp-image-9335\" src=\"https://afgj.org/wp-content/uploads/2018/03/image.png\" alt=\"Venezuela Weekly 200 \" width=\"600\" height=\"340\" />\r\n\r\nThis week we focus on the Open Letter in Support of Mediation not Sanctions for Venezuela, directed to representatives of Congress and Parliament. This Open Letter received broad support and was widely covered in the international media. It is a sign of the widespread defense of Venezuelan sovereignty, under increasing attack by the US government and its allies.\r\n\r\n<strong><a href=\"https://afgj.org/endsanctions\" target=\"_blank\" rel=\"noopener\">AFGJ Open Letter in Support of Mediation in Venezuela, Not Sanctions</a></strong>\r\n\r\n<hr />\r\n\r\n<a href=\"https://chicagoalbasolidarity.wordpress.com/2018/03/11/open-letter-in-support-of-mediation-in-venezuela-not-sanctions/\" target=\"_blank\" rel=\"noopener\">Open Letter with International Media Coverage</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://therealnews.com/t2/index.php?option=com_content&amp;task=view&amp;id=767&amp;Itemid=74&amp;jumival=21343\" target=\"_blank\" rel=\"noopener\">UN Rapporteur: US Sanctions Kills People in Venezuela</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.nytimes.com/reuters/2018/03/09/world/americas/09reuters-venezuela-politics.html\" target=\"_blank\" rel=\"noopener\">New York Times, long time enemy of Chavistas, Covers our Open Letter: High-Profile Activists Slam U.S., Canadian Sanctions on Venezuela</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.theglobeandmail.com/news/world/noam-chomsky-danny-glover-slam-canadian-us-sanctions-on-venezuela/article38259253/\" target=\"_blank\" rel=\"noopener\">Toronto Globe and Mail: Noam Chomsky, Danny Glover Slam Canadian, U.S. Sanctions on Venezuela</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.thestar.com/opinion/star-columnists/2018/03/15/canada-on-wrong-side-of-venezuelan-conflict.html\" target=\"_blank\" rel=\"noopener\">Toronto Star: Opinion | Canada on Wrong Side of Venezuelan Conflict</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/News/13713\" target=\"_blank\" rel=\"noopener\">Report: March Caracas International Solidarity Meeting Declares “Venezuela Is Not Alone\"</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/news/13717\" target=\"_blank\" rel=\"noopener\">Venezuela Opposition Protests Proposed UN Electoral Observer Mission</a> Venezuelan Opposition, notorious for their political incompetence, outdo themselves: plan to boycott the May presidential election because they claim it will be fraudulent, but they now oppose international observers monitoring the election to make sure it will be clean\r\n\r\n<hr />\r\n\r\n<a href=\"http://en.granma.cu/cuba/2018-03-09/cuban-women-a-revolution-within-the-revolution\" target=\"_blank\" rel=\"noopener\">Cuban Women: A Revolution Within the Revolution</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://www.thedawn-news.org/2016/07/04/6333/\" target=\"_blank\" rel=\"noopener\">Who is Ana Belen Montes?</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

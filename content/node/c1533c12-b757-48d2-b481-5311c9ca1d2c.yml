@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c1533c12-b757-48d2-b481-5311c9ca1d2c
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela and ALBA Weekly 2.2.2018 Trump''s New Axis of Evil: Cuba, Venezuela, Iran and North Korea'
+  created:
+    -
+      value: 1517586218
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-and-alba-weekly-222018-trumps-new-axis-evil-cuba-venezuela-iran-and-north-korea
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-8946 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/02/venweek2.2.18.png\" alt=\"\" width=\"873\" height=\"491\" />\r\n\r\n<b>Feb 2nd, 2018</b>\r\n\r\nThis weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=4G62FrZLtKpw2pDTihLPd6j1FjKE8bC9\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=JbzVeknDe0hE4xsuH37RNKj1FjKE8bC9\">Venezuelanalysis.com</a>.\r\n\r\n<hr />\r\n<p style=\"text-align: center;\"><strong>Featured Articles:</strong></p>\r\n<a href=\"https://www.anymeeting.com/WebConference/RecordingDefault.aspx?c_psrid=E956D788874F30\" target=\"_blank\" rel=\"noopener\">Watch Webinar with Alfred de Zayas, United Nations Independent Expert on the Promotion of a Democratic and Equitable International Order.</a>\r\nIn Venezuela \"there is scarcity, there is suffering, there is insecurity. But that can all be cured very simply: do away with the sanctions. Immediately do away with the sanctions, immediately do away with the economic war, and you will find out that most of these problems will disappear.\"\r\n\r\n<a href=\"http://www.sciencemag.org/news/2018/01/cuba-embarks-100-year-plan-protect-itself-climate-change\" target=\"_blank\" rel=\"noopener\">Science Mag: Cuba Embarks on a 100-year Plan to Protect Itself from Climate Change.</a> “Cuba is an unusual country in that they actually respect their scientists, and their climate change policy is science driven.” — American marine scientist, David Guggenheim, president of Ocean Doctor. This article is an excellent example of the kind of things that a socialist planned economy can accomplish...potentially. It's also an example of the kind of things Cuba has been unable to accomplish (at least to the extent it wants to), thanks to the enduring U.S. blockade.\r\n\r\n<hr />\r\n<p style=\"text-align: center;\"><strong>More News</strong></p>\r\n<a href=\"http://www.mcclatchydc.com/news/nation-world/world/article197536839.html\" target=\"_blank\" rel=\"noopener\">Trump’s Axis of Evil: Cuba, Venezuela, Iran and North Korea</a>\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Venezuela-Coup-Pinochet-Tillerson-20180201-0030.html\" target=\"_blank\" rel=\"noopener\">Tillerson Invokes Possibility of Pinochet-Style Coup in Venezuela</a>\r\n\r\n<a href=\"https://youtu.be/B8BVECc1758\" target=\"_blank\" rel=\"noopener\">Cuban 5 Hero Geraldo Hernandez Gives 26 min Interview with TeleSur TV</a>\r\n\r\n<a href=\"https://www.counterpunch.org/2018/02/01/the-opposition-in-venezuela-terrorists-or-rebels/\" target=\"_blank\" rel=\"noopener\">Maria Paez Victor: Western Corporate Media paints Terrorists as \"Rebels\"</a>\r\n\r\n<a href=\"https://venezuelanalysis.com/News/13630\" target=\"_blank\" rel=\"noopener\">Venezuela Unifies Tiered Exchange Rate</a>\r\n\r\n<hr />\r\n<p style=\"text-align: center;\"><strong>Allied Events</strong></p>\r\n<a href=\"https://afgj.org/honduran-democracy-activist-urgently-needs-solidarity\" target=\"_blank\" rel=\"noopener\">Act NOW to Demand the Immediate Liberty of Edwin Espinal Robelo!</a>\r\n\r\n<a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\">April Delegation to Nicaragua</a>\r\n\r\n<a href=\"https://afgj.org/travel-to-colombia\" target=\"_blank\" rel=\"noopener\">May Delegation to Colombia</a>\r\n\r\n<a href=\"https://icangotocuba.wordpress.com/sign-up-now/\" target=\"_blank\" rel=\"noopener\">May Day Delegation to Cuba</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

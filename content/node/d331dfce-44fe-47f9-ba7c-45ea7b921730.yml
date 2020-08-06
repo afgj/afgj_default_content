@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d331dfce-44fe-47f9-ba7c-45ea7b921730
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Privatization of War: The Role of Private Military Companies in US Foreign Policy'
+  created:
+    -
+      value: 1310567285
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /privatization-war-role-private-military-companies-us-foreign-policy
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Course:</strong> Privatization of War: The Role of Private Military Companies\r\nin US Foreign Policy\r\n<strong>Instructor:</strong> Dan Kenney\r\n<strong>Duration:</strong> 5 weeks, online\r\n<a href=\"https://org2.democracyinaction.org/o/7315/t/13086/shop/shop.jsp?storefront_KEY=430\">Click here to register now!</a>\r\n\r\n<strong>Description:</strong> \r\nThis is a course will focus on the use of modern day mercenaries (private military contractors) by the US government. We will cover the history and dangers of utilizing a private military force, as well as the role private military companies play in US foreign policy. The class will also look at the recruitment practices of these companies and the impact they will have on the future of militarism. We will examine the role these mercenary companies play in protecting the interests of corporations around the world and how some have sought to regulate military contractors. It is imperative that we as a society organize and\r\ndiscuss how to stop this growing threat. This course will be a forum to open/continue that discussion.\r\n\r\n<strong>Skills/understanding that activists will have for organizing and opposing militarism after taking this course:</strong>\r\n\r\n<ul>\r\n\t<li>Understanding of the range of services private military contractors provide to the US government</li>\r\n\t<li>Knowledge of the new avenue for US military presence through the utilization of contractors</li>\r\n\t<li>Understanding of the mechanisms being used to confront this issue</li></ul>\r\n\r\n<strong>About the Instructor: Meet Dan Kenney</strong>\r\nDan Kenny is the co-coordinator of <a href=\"http://www.noprivatearmies.org/\">No Private Armies</a>. He has worked with the UN Working Group on the use of mercenaries around the world. He has organized a regional conference on the issue of private military contractors, mercenaries and Blackwater in particular, and given presentations on the issue at SOAW, as well as the April 2011 conference on the militarization of Latin America held in Washington DC this Spring and sponsored in part by AFGJ. In addition to the aforementioned, he has also\r\ngiven numerous presentations at universities and community locations throughout the country and published extensively on the issue.\r\n\r\nKenney is co-founder of the Illinois Coalition for Peace, Justice, and the Environment and the coordinator of his community peace and justice group. He was involved in organizing on the state level and played an instrumental role in forcing Blackwater to close a training camp they had opened in northwest Illinois. In his free time, Kenney is a public school teacher. "
+      format: full_html
+      summary: ''

@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 14c77b8d-fd68-48a0-87c3-fbcf5000e203
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    801e3bde-8887-4341-9509-1363185a5f6e: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'USLAW-AfGJ Labor Delegation to Colombia info meeting 10.16.19'
+  created:
+    -
+      value: 1570800155
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /uslaw-afgj-labor-delegation-colombia-info-meeting-101619
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "[caption id=\"attachment_12170\" align=\"aligncenter\" width=\"595\"]<img class=\"wp-image-12170 \" src=\"https://afgj.org/wp-content/uploads/2019/10/labor-peace-march-bogota-1024x683.jpg\" alt=\"\" width=\"595\" height=\"397\" /> Colombian unions march in support of the peace process.[/caption]\r\n<h2 style=\"text-align: center;\"><a href=\"https://afgj.org/join-the-uslaw-afgj-delegation-to-colombia-nov-24-dec-4-2019\">Join this historic delegation to Colombia sponsored by US Labor Against the War (USLAW) and the Alliance for Global Justice (AfGJ), November 24 - December 4, 2019</a></h2>\r\nCome with USLAW and AfGJ to learn about labor conditions on the third anniversary of the peace accords. We will develop and release a report on Workers and\_Peace in Colombia that will be an important contribution to the hard task to\_build a durable peace. As labor unionists and allies from the United States, we understand all too well that\_the same US politicians and corporations that are attacking our rights at home are assaulting labor rights and peace in Colombia. This delegation will give us a chance to reach across borders to forge\_international solidarity that benefits all workers. Colombia is still the most dangerous place in the world to be a labor organizer, and in both Colombia and the US, our rights to organize are being eroded every day. But in both countries, workers are standing up and fighting back! While auto workers at General Motors\_are on strike in the US, injured auto workers from the GM plant in Bogotá are demonstrating for just compensation. While farm workers in the US are waging struggles with corporations like Wendy's and Driscoll's for fair pay, members of the Fensuagro agricultural workers in Colombia are resisting right wing efforts to displace their families and murder rural union representatives. While nurses and teachers lead the fight for public health and education here at home, in Colombia workers are demanding that schools and health care be available in peasant, Afro-Colombian, and indigenous communities. Join us for this\_opportunity for\_internationalist solidarity as we open\_way for a better world!\r\n\r\n<strong>USLAW and AfGJ invite YOU to attend the following web meeting to learn the latest\_ \_about our November 24 - December 4 delegation. The meeting is for 8pm Eastern, 7pm Central, 6pm Mountain, 5pm Arizona and Pacific this coming Wednesday, October 16. Here is the call in information (or you can write JAMES@AFGJ.ORG for more info if you can't make the meeting):</strong>\r\n\r\nTopic: Colombia delegation meeting\r\n\r\nJoin Zoom Meeting\r\n<a href=\"https://zoom.us/j/340194654\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://zoom.us/j/340194654\">https://zoom.us/j/340194654</a>\r\n\r\nMeeting ID: 340 194 654\r\n\r\nOne tap mobile\r\n+14086380968,,340194654# US (San Jose)\r\n+16699006833,,340194654# US (San Jose)\r\n\r\nDial by your location\r\n+1 408 638 0968 US (San Jose)\r\n+1 669 900 6833 US (San Jose)\r\n+1 646 876 9923 US (New York)\r\n+52 229 910 0061 Mexico\r\n+52 554 161 4288 Mexico\r\nMeeting ID: 340 194 654\r\nFind your local number:\_<a href=\"https://zoom.us/u/aHV7aQ2GM\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://zoom.us/u/aHV7aQ2GM\">https://zoom.us/u/aHV7aQ2GM</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: 801e3bde-8887-4341-9509-1363185a5f6e
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

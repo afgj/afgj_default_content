@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 49ab575c-717a-4be5-b8aa-cb3ec7453ac5
+  bundle: article
+  default_langcode: en
+  depends:
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela-ALBA News: Venezuela-ALBA Weekly 11.16.2018 Colombia calls for international action against Venezuela; Bolsonario makes Cuban doctors leave Brazil'
+  created:
+    -
+      value: 1542372749
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-alba-news-venezuela-alba-weekly-11162018-colombia-calls-international-action-against
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2>The News This Week</h2>\r\n<div>\r\n\r\n&nbsp;\r\n\r\n<span class=\"il\">Venezuela</span>\r\n\r\n<a href=\"https://default.salsalabs.org/T07a18fcb-1ef9-4c9c-999c-c294454f4e29/5e916b9e-1357-4ccd-aac9-bbd5870784cd\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T07a18fcb-1ef9-4c9c-999c-c294454f4e29/5e916b9e-1357-4ccd-aac9-bbd5870784cd&amp;source=gmail&amp;ust=1542616792144000&amp;usg=AFQjCNEia5ZOtQOHplmBzTaW1u_rwWiMZw\"><span class=\"il\">Venezuela</span>\_Calls on UN to Break US Blockade and Supply Medical Equipment</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T8d6817bf-aa1e-46cb-aecb-c5ab40edd3b3/5e916b9e-1357-4ccd-aac9-bbd5870784cd\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T8d6817bf-aa1e-46cb-aecb-c5ab40edd3b3/5e916b9e-1357-4ccd-aac9-bbd5870784cd&amp;source=gmail&amp;ust=1542616792144000&amp;usg=AFQjCNGAho64YqduQ0Rr0FnT6wmHf5EdnA\">Colombia president calls for international action to remove\_<span class=\"il\">Venezuelan</span>\_government</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tc99675a4-b0c5-4bdb-b257-31011630f4f6/5e916b9e-1357-4ccd-aac9-bbd5870784cd\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tc99675a4-b0c5-4bdb-b257-31011630f4f6/5e916b9e-1357-4ccd-aac9-bbd5870784cd&amp;source=gmail&amp;ust=1542616792144000&amp;usg=AFQjCNE9NACFtpIL1zb_Z7WrDrCr6ERoSA\"><span class=\"il\">Venezuela</span>\_Delivers 2.3 Million Houses to the People Despite the Economic War</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T7cb839d9-2be6-4398-88db-7b189055b518/5e916b9e-1357-4ccd-aac9-bbd5870784cd\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T7cb839d9-2be6-4398-88db-7b189055b518/5e916b9e-1357-4ccd-aac9-bbd5870784cd&amp;source=gmail&amp;ust=1542616792144000&amp;usg=AFQjCNEoz1LcqATLag8XxS2YT57ES_LKVQ\"><span class=\"il\">Venezuela</span>\_to Host Latin American Student Congress in 2019</a>\r\n\r\nNicaragua\r\n\r\n<a href=\"https://default.salsalabs.org/T1c8ea593-a64f-4daa-9c36-1d961a945d54/5e916b9e-1357-4ccd-aac9-bbd5870784cd\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T1c8ea593-a64f-4daa-9c36-1d961a945d54/5e916b9e-1357-4ccd-aac9-bbd5870784cd&amp;source=gmail&amp;ust=1542616792144000&amp;usg=AFQjCNFQUjD1Vbfd5AeeyxiLXRVuhZjoxg\">Nicaragua says anti-government protests caused $1 billion in economic damages</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T91be1389-fe2f-4dac-8eeb-f09a2c0453d6/5e916b9e-1357-4ccd-aac9-bbd5870784cd\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T91be1389-fe2f-4dac-8eeb-f09a2c0453d6/5e916b9e-1357-4ccd-aac9-bbd5870784cd&amp;source=gmail&amp;ust=1542616792144000&amp;usg=AFQjCNERAhUczA9Uf-p3moIIuiWspAaHfw\">Fabián Escalante Font: Nicaragua and the U.S. Neo-fascist Offensive</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T54bdd94f-d37e-4d33-af28-0db1770a8b30/5e916b9e-1357-4ccd-aac9-bbd5870784cd\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T54bdd94f-d37e-4d33-af28-0db1770a8b30/5e916b9e-1357-4ccd-aac9-bbd5870784cd&amp;source=gmail&amp;ust=1542616792144000&amp;usg=AFQjCNFq_vjyGcM9GUKK0-7NHII1jnXB_A\">Camilo Mejia: Shameless Misinformation Campaign Against Nicaragua and Its People</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T53a7b442-8357-490d-a6bc-49fcd0e64d37/5e916b9e-1357-4ccd-aac9-bbd5870784cd\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T53a7b442-8357-490d-a6bc-49fcd0e64d37/5e916b9e-1357-4ccd-aac9-bbd5870784cd&amp;source=gmail&amp;ust=1542616792144000&amp;usg=AFQjCNEONJ4lZ2p1Gge_uEhu6g2bPoRx5g\">US-funded NGO that sank $4.1mn into Nicaragua protests says it's 'misleading' to report about their funding</a>\r\n\r\nCuba\r\n\r\n<a href=\"https://default.salsalabs.org/T45270aeb-e20d-44b6-a35d-0eaed9dd94ae/5e916b9e-1357-4ccd-aac9-bbd5870784cd\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T45270aeb-e20d-44b6-a35d-0eaed9dd94ae/5e916b9e-1357-4ccd-aac9-bbd5870784cd&amp;source=gmail&amp;ust=1542616792144000&amp;usg=AFQjCNFiiqEM5QTrP57zA_o4GDqQX_kH_g\">Cuba's response to Bolsonaro on Cuban volunteer doctors in Brazil</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T8b7609e0-0a30-412c-9f8a-7d08c0d63ee6/5e916b9e-1357-4ccd-aac9-bbd5870784cd\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T8b7609e0-0a30-412c-9f8a-7d08c0d63ee6/5e916b9e-1357-4ccd-aac9-bbd5870784cd&amp;source=gmail&amp;ust=1542616792144000&amp;usg=AFQjCNEXOXtzDqdlClQ8P5Lsk4h1HffUHg\">Cuba to Conclude 2018 with Tourist Record: 4,750,000 foreign tourists</a>\r\n\r\nBolivia\r\n\r\n<a href=\"https://default.salsalabs.org/T8f0229d1-73d2-42d3-93f1-0531be801a46/5e916b9e-1357-4ccd-aac9-bbd5870784cd\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T8f0229d1-73d2-42d3-93f1-0531be801a46/5e916b9e-1357-4ccd-aac9-bbd5870784cd&amp;source=gmail&amp;ust=1542616792144000&amp;usg=AFQjCNHvMUBjuRtfr6YpeXw5rIWG3Xx8aQ\">Morales Shows Support For Ortega in Battle Against US Regime Change</a>\r\n\r\nEcuador\r\n\r\n<a href=\"https://default.salsalabs.org/T511077d1-de16-4a6c-a9cb-463eb3d0b385/5e916b9e-1357-4ccd-aac9-bbd5870784cd\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T511077d1-de16-4a6c-a9cb-463eb3d0b385/5e916b9e-1357-4ccd-aac9-bbd5870784cd&amp;source=gmail&amp;ust=1542616792144000&amp;usg=AFQjCNF64UOv8d7CfsZUMtAsOmbxx3kX-A\">Rafael Correa: Ecuador's Soft Coup and Political Persecution</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Te32e870e-6f49-4be4-a588-709df9f3da57/5e916b9e-1357-4ccd-aac9-bbd5870784cd\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Te32e870e-6f49-4be4-a588-709df9f3da57/5e916b9e-1357-4ccd-aac9-bbd5870784cd&amp;source=gmail&amp;ust=1542616792144000&amp;usg=AFQjCNGTm9NxEo9GEWpW5d_TAeVJ8v0UZQ\">DOJ Inadvertently Confirms Sealed Indictment on Julian Assange</a>\r\n\r\nDelegations\r\n\r\n<a href=\"https://default.salsalabs.org/Te752c305-6c4b-44a2-a433-c026e517a2eb/5e916b9e-1357-4ccd-aac9-bbd5870784cd\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Te752c305-6c4b-44a2-a433-c026e517a2eb/5e916b9e-1357-4ccd-aac9-bbd5870784cd&amp;source=gmail&amp;ust=1542616792144000&amp;usg=AFQjCNGoVEUd98gih9FR5YEGAnAUXFiFQw\">IFCO/Pastors for Peace delegations to Cuba</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tfbe04bae-9662-497b-b952-9cb11a54189b/5e916b9e-1357-4ccd-aac9-bbd5870784cd\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tfbe04bae-9662-497b-b952-9cb11a54189b/5e916b9e-1357-4ccd-aac9-bbd5870784cd&amp;source=gmail&amp;ust=1542616792144000&amp;usg=AFQjCNE3SrwHbemqGfhEIUR7fOfIbykE8A\">Cuba and\_<span class=\"il\">Venezuela</span>\_Solidarity Committee tour to Cuba December 29- January 9</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T51f54941-9598-4a23-a264-b22cc4c35452/5e916b9e-1357-4ccd-aac9-bbd5870784cd\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T51f54941-9598-4a23-a264-b22cc4c35452/5e916b9e-1357-4ccd-aac9-bbd5870784cd&amp;source=gmail&amp;ust=1542616792144000&amp;usg=AFQjCNFQGMGrKVCmc-Hi2NZ1-Jejzvhk7A\">AFGJ Friends ot ATC Delegation to Nicaragua, January 3-13</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tf790c27b-82fa-444f-a3f5-f78d6319963a/5e916b9e-1357-4ccd-aac9-bbd5870784cd\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tf790c27b-82fa-444f-a3f5-f78d6319963a/5e916b9e-1357-4ccd-aac9-bbd5870784cd&amp;source=gmail&amp;ust=1542616792144000&amp;usg=AFQjCNEY0VX0_Tn4uudVuOAb3MzQNOMSpw\">Delegation to\_<span class=\"il\">Venezuela</span>, March 17-24, 2019</a>\r\n\r\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

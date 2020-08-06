@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 46168be6-b9f2-4a3c-aed0-32d479f53747
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela ALBA Weekly June 1, 2018'
+  created:
+    -
+      value: 1528010459
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-alba-weekly-june-1-2018
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<div class=\"gmail_default\">\r\n\r\n<img class=\"aligncenter size-full wp-image-9786\" src=\"https://afgj.org/wp-content/uploads/2018/06/Ven-weekly-6-3.jpg\" alt=\"\" width=\"600\" height=\"399\" />\r\n\r\n<a href=\"https://www.investigaction.net/en/venezuelan-elections-chavismo-still-in-power-us-still-belligerent-media-still-dishonest/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.investigaction.net/en/venezuelan-elections-chavismo-still-in-power-us-still-belligerent-media-still-dishonest/&amp;source=gmail&amp;ust=1528117623376000&amp;usg=AFQjCNHgK1etNi8TiuoyBtUEukxUlPmeog\">Ricardo Vaz:\_Venezuelan Elections - Chavismo Still in Power, US Still Belligerent, Media Still Dishonest</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://therealnews.com/stories/exposing-the-oas-anti-venezuela-pro-us-bias-and-right-wing-hypocrisy\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://therealnews.com/stories/exposing-the-oas-anti-venezuela-pro-us-bias-and-right-wing-hypocrisy&amp;source=gmail&amp;ust=1528117623376000&amp;usg=AFQjCNHAOulgjnXSgo7j0e_apabSQ4JeAw\">Ben Norton and Max Blumenthal: Exposing the OAS' Anti-Venezuela, Pro-US Bias and Hypocrisy</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.liberationnews.org/elections-venezuela-mark-crossroads-revolution/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.liberationnews.org/elections-venezuela-mark-crossroads-revolution/&amp;source=gmail&amp;ust=1528117623376000&amp;usg=AFQjCNH71Nkg6wPkuTVQlPPYpX4UgJO_yg\">PSL: Elections in Venezuela Mark Crossroads for Revolution\_</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/analysis/13839\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://venezuelanalysis.com/analysis/13839&amp;source=gmail&amp;ust=1528117623376000&amp;usg=AFQjCNFy9gluqQRA6p5gmgch4-_GhMl5yA\">The State of the Campesino Struggle in Venezuela</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Cuba-Leader-Praises-Maduro-in-Solidarity-Visit-to-Venezuela-20180530-0025.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Cuba-Leader-Praises-Maduro-in-Solidarity-Visit-to-Venezuela-20180530-0025.html&amp;source=gmail&amp;ust=1528117623376000&amp;usg=AFQjCNGk6kmh5oO5PLgFgJDaAHQzh13GKA\">Cuban President Diaz-Canel Visits Venezuela \"The Aggression Against Venezuela Harms All of America.\"</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://popularresistance.org/venezuela-defeats-us-in-election/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://popularresistance.org/venezuela-defeats-us-in-election/&amp;source=gmail&amp;ust=1528117623376000&amp;usg=AFQjCNGUMRoyQQ58WLfistyomOPhvz56pw\">Kevin Zeese:\_Venezuela Defeats US in Election, Now Must Build Independent Economy</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://morningstaronline.co.uk/article/colombias-new-nato-partnership-threat-peace-venezuela-warns\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://morningstaronline.co.uk/article/colombias-new-nato-partnership-threat-peace-venezuela-warns&amp;source=gmail&amp;ust=1528117623376000&amp;usg=AFQjCNF4hwZV5ApV5_J-ZnDppzniWyf2kg\">Colombia's New NATO Membership a Threat to Peace\_ - Venezuela</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://www.informationclearinghouse.info/49539.htm\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.informationclearinghouse.info/49539.htm&amp;source=gmail&amp;ust=1528117623376000&amp;usg=AFQjCNH_w2BFDAOtxoSo5GpUP_kUhg2zig\">Made in the USA? Rebellion or Counter-Revolution in Nicaragua</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://quixote.org/manufacturing-dissent-the-n-e-d-opposition-media-and-the-political-crisis-in-nicaragua/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://quixote.org/manufacturing-dissent-the-n-e-d-opposition-media-and-the-political-crisis-in-nicaragua/&amp;source=gmail&amp;ust=1528117623376000&amp;usg=AFQjCNETQShLEhnKRu7yw-u0EL9ufpwJuw\">Manufacturing Dissent: The N.E.D., Opposition Media and the Political Crisis in Nicaragua</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://www.thedawn-news.org/2018/02/23/bolivia-evo-morales-proclaimed-as-the-candidate-of-the-people-for-2019/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.thedawn-news.org/2018/02/23/bolivia-evo-morales-proclaimed-as-the-candidate-of-the-people-for-2019/&amp;source=gmail&amp;ust=1528117623376000&amp;usg=AFQjCNHhprmWAx3hNdqEWhHee974QauexA\">Bolivia: Evo Morales Proclaimed as the Candidate of the People for 2019</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://resumen-english.org/2018/05/evo-morales-condemns-new-imperialist-strategy-against-the-peoples/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://resumen-english.org/2018/05/evo-morales-condemns-new-imperialist-strategy-against-the-peoples/&amp;source=gmail&amp;ust=1528117623376000&amp;usg=AFQjCNHSMEC8Yeb201NXvuJDpot9xpEJyw\">Evo Morales Condemns New Imperialist Strategy Against the Peoples</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://en.granma.cu/cuba/2018-06-01/internet-wars-us-plans-to-overthrow-the-cuban-revolution-with-new-technologies\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://en.granma.cu/cuba/2018-06-01/internet-wars-us-plans-to-overthrow-the-cuban-revolution-with-new-technologies&amp;source=gmail&amp;ust=1528117623376000&amp;usg=AFQjCNGAC0-9MZpgoiUnkQoKULiZpuk4rw\">Internet Wars: U.S. Plans to Overthrow the Cuban Revolution with New Technologies</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://en.granma.cu/cuba/2018-05-14/11th-cuban-day-against-homophobia-and-transphobia\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://en.granma.cu/cuba/2018-05-14/11th-cuban-day-against-homophobia-and-transphobia&amp;source=gmail&amp;ust=1528117623376000&amp;usg=AFQjCNG8ySrMiBUJlToRqd1bcZCnFjNg5w\">11th Cuban Day Against Homophobia and Transphobia</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://medium.com/@caityjohnstone/moreno-assange-can-remain-at-embassy-so-long-as-he-doesnt-practice-journalism-7e38aa11b78d\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://medium.com/@caityjohnstone/moreno-assange-can-remain-at-embassy-so-long-as-he-doesnt-practice-journalism-7e38aa11b78d&amp;source=gmail&amp;ust=1528117623376000&amp;usg=AFQjCNGaeDUUWZ9a2r0UQ5Jj5T2CkuQqtA\">Ecuador President Moreno: Assange Can Remain At Embassy, So Long As He Doesn’t Practice Journalism</a>\r\n\r\n</div>\r\n<div class=\"yj6qo\">\r\n\r\n<hr />\r\n\r\n<h3><strong>Delegations:</strong></h3>\r\n<a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/partner-delegation-atc&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNH-04XQYlbBbrXqbAiOilZnNTh9Fw\">Agrarian and Worker Struggle in Nicaragua\_<span class=\"aBn\" data-term=\"goog_1939866554\"><span class=\"aQJ\">June 18-28</span></span></a>\r\n\r\n<a href=\"https://afgj.org/artist-delegation-nicaragua\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/artist-delegation-nicaragua&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNEID2yPxneH8LFDAKYK0uMqD6LPUA\">Artists’ Delegation to Nicaragua,\_<span class=\"aBn\" data-term=\"goog_1939866555\"><span class=\"aQJ\">August 1-10</span></span></a>\r\n\r\n<hr />\r\n\r\n<h2 id=\"m_777319361513180780gmail-m_-4546164052145643394gmail-m_8774691331061159411gmail-m_-8213335874581264356gmail-m_-2776178258433599685gmail-m_-9020789454698019944gmail-m_6252858159261738354DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\"><strong>About the Weekly</strong></h2>\r\n<div>\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n</div>\r\n&nbsp;\r\n\r\n</div>\r\n<div class=\"gmail_default\">\r\n<div class=\"adL\"></div>\r\n</div>\r\n<div class=\"adL\"></div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

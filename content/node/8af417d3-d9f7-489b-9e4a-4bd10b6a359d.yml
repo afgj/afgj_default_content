@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8af417d3-d9f7-489b-9e4a-4bd10b6a359d
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Projects
+  created:
+    -
+      value: 1309946486
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /projects-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<span style=\"color: #000000;\"><strong><a style=\"color: #000000;\" href=\"https://afgj.org/nicaragua-network\">Nicaragua Network</a></strong></span>\r\n\r\n<span style=\"color: #000000;\"><strong><a style=\"color: #000000;\" href=\"https://afgj.org/colombia-watch\">Colombia Watch</a></strong></span>\r\n\r\n<span style=\"color: #000000;\"><strong><a style=\"color: #000000;\" href=\"https://afgj.org/venezuela-solidarity-campaign\">Venezuela Working Group</a></strong></span>\r\n\r\n<span style=\"color: #000000;\"><strong><a style=\"color: #000000;\" href=\"https://afgj.org/solidarity-with-honduras\">Honduras Solidarity Network</a></strong></span>\r\n\r\n<span style=\"color: #000000;\"><a style=\"color: #000000;\" href=\"https://afgj.org/prison-imperialism\"><strong>Prison Imperialism</strong></a></span>\r\n\r\n<span style=\"color: #000000;\"><a style=\"color: #000000;\" href=\"https://afgj.org/worker-to-worker\"><strong>Worker to Worker Solidarity Campaign</strong></a></span>\r\n\r\n<span style=\"color: #000000;\"><strong><a style=\"color: #000000;\" href=\"https://afgj.org/eco-solidarity-project\">Eco-Solidarity Project</a></strong></span>\r\n\r\n<span style=\"color: #000000;\"><a style=\"color: #000000;\" href=\"https://afgj.org/border-militarization-resource-guide\"><strong>Border Militarization Study Guide\_</strong></a></span>\r\n\r\n<span style=\"color: #000000;\"><a style=\"color: #000000;\" href=\"https://afgj.org/respect-for-democracy-campaign-r4d\"><strong>Respect for Democracy</strong></a></span>\r\n\r\n<a href=\"https://afgj.org/focus-areas/militarism\"><span style=\"color: #000000;\"><strong><span style=\"color: #000000;\">Peace, Anti-War, and Liberation</span></strong></span></a>\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''

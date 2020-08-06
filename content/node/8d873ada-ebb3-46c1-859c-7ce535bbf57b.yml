@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8d873ada-ebb3-46c1-859c-7ce535bbf57b
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Delegation of Accompaniment: Stand with Peace in Colombia'
+  created:
+    -
+      value: 1472752449
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /delegation-accompaniment-stand-peace-colombia
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><b>Read the Report from this Delegation:</b></p>\r\nPlease note, the report is posted in 2 parts; for the full report please view/download both.\r\n\r\n<a href=\"https://org2.salsalabs.com/o/7315/images/FullReportHonduras2.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Delegation Report Part 1: Honduras</a>\r\n\r\n<a href=\"https://org2.salsalabs.com/o/7315/images/FullReportNicaragua1.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Delegation Report Part 2: Nicaragua</a>\r\n\r\n<hr />\r\n<p style=\"text-align: center;\">Request an application of more information: <a href=\"mailto:Delegations@afgj.org\">Delegations@afgj.org</a></p>\r\n<p style=\"text-align: center;\">Download the Flyer:<a href=\"https://afgj.org/colombia-delegations-flyer-downloadablesmaller\"><img class=\"aligncenter wp-image-7001\" src=\"https://afgj.org/wp-content/uploads/2016/09/Colombia-Delegations-Flyer-downloadable.jpg\" alt=\"Colombia-Delegations-Flyer-downloadable\" width=\"700\" height=\"950\" /></a></p>\r\n<p style=\"text-align: center;\"><strong>Logistical Details:\_</strong></p>\r\n<p style=\"text-align: center;\"><strong>Sept 29- Oct 5</strong></p>\r\n<p style=\"text-align: center;\"><span class=\"s1\"><b>Cost: $600, including meals, lodging and in-country travel. </b></span></p>\r\n<p style=\"text-align: center;\"><span class=\"s1\"><b>Does not include international airfare.</b></span></p>"
+      format: full_html
+      summary: ''

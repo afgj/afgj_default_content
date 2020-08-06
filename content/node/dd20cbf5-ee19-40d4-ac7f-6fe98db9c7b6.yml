@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: dd20cbf5-ee19-40d4-ac7f-6fe98db9c7b6
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Honduras: State of democracy one-year after the elections: insecurity and migration'
+  created:
+    -
+      value: 1415354561
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /honduras-state-democracy-one-year-after-elections-insecurity-and-migration
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "\r\n<br></br>\r\n<p style=\"text-align: left;\"><img class=\" wp-image-5967 alignright\" src=\"https://afgj.org/wp-content/uploads/2014/11/delegation-honduras-resized.jpg\" alt=\"delegation honduras resized\" width=\"365\" height=\"279\" /></p>\r\n<p style=\"text-align: center;\"><strong>Alliance for Global Justice invites you to join our...</strong></p>\r\n<p style=\"text-align: center;\"><strong>Honduras Delegation</strong></p>\r\n<p style=\"text-align: center;\"><strong>January 25-Feb. 3, 2015</strong></p>\r\n<p style=\"text-align: left;\"></p>\r\nHonduras is being increasingly described as “nearly a failed State.” Elections in Nov. 2013, which the Honduran oligarchy and its US government supporters hoped would put the coup of 2009 behind it, has instead seen a continuation of official lawlessness, impunity for the most heinous crimes, threats, killings and illegal evictions of farming communities and struggles over land rights between communities and foreign tourism and mining companies. Over 100 journalists and lawyers have been murdered with no one brought to trial while farm cooperatives, democracy and human rights activists, indigenous and LGBTQ leaders live under death threats and the danger of sudden violence. People fleeing the violence migrate North as we saw during the unaccompanied minor’s crisis on the Texas border last summer.\r\n\r\nActivists and popular organizations in Honduras call for international solidarity and accompaniment. This delegation will meet with political and popular movement leadership to look at the state of democracy a year after the flawed election of 2013. We’ll talk with youth, indigenous, teachers, unionists, cooperativists, human rights defenders and others about the current situation, the US role in making Honduras the “murder capital of the world”, and what we can do to provide solidarity support from the US and Canada. The delegation will be based in Tegucigalpa and we will make at least a couple of trips outside the capital to witness first-hand what our Honduran sisters and brothers are living through.\r\n\r\n<em>The $950 delegation fee includes double occupancy hotel rooms, in-country transportation, all meals, translation and an information-packed itinerary organized by Honduras Solidarity Network Honduras Coordinator Karen Spring. (International airfare not included.) AfGJ National Co-Coordinator Chuck Kaufman will lead the delegation. </em>\r\n\r\n<strong><em>For an application or more information, send an email to Chuck@AFGJ.org. Ask for our tip sheet on how to raise money to pay for the delegation.</em></strong>"
+      format: full_html
+      summary: ''

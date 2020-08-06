@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: e0593a45-4ad9-49e8-8367-2686236d6a5a
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: f7ff829a-6bc0-44b8-b793-56c5765302ba-1024x576.jpg
+  uri:
+    -
+      value: 'public://2020-06/f7ff829a-6bc0-44b8-b793-56c5765302ba-1024x576.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 87054
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1592254013

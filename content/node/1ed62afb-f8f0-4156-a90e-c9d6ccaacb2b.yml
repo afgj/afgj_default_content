@@ -1,0 +1,67 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 1ed62afb-f8f0-4156-a90e-c9d6ccaacb2b
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    cd0b4a40-9b03-4048-a812-892416542fb4: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AfGJ Denounces Attacks on Peace Process in Colombia'
+  created:
+    -
+      value: 1473700035
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-denounces-attacks-peace-process-colombia
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>The Alliance for Global Justice Denounces the Murder of Cecilia Coicue and the Continued Repression Against FENSUAGRO and All Rural Workers of Colombia</strong>\n\n<a href=\"https://afgj.org/declaracion-de-la-alianza-por-la-justicia-global-contra-el-asesinato-de-cecilia-coicue-y-la-represion-contra-fensuagro\"><em>Leer en Español</em></a>\n\n<img class=\"alignleft size-full wp-image-7051\" src=\"https://afgj.org/wp-content/uploads/2016/09/Cecilia-Coicue-foto.jpg\" alt=\"cecilia-coicue-foto\" width=\"283\" height=\"373\" />The Alliance for Global Justice (AfGJ) expresses our profound sadness and anger after learning of the murder of Cecilia Coicue in the village of Cominera, Municipality of Corinto, Cauca, Colombia. We consider this cruel event to constitute an attack against the peace process. Coicue was the owner of the land where the Transitory Point of Normalization was located, an important component of the peace process for the end to the armed conflict in this region. This is the place where decommissioned weapons will be received from the FARC-EP (Revolutionary Armed Forces of Colombia-People’s Army).\_ Coicue was also a member of the National Unitary Federation of Agricultural Workers Unions (FENSUAGRO), the Marcha Política (Patriotic March) Social and Political Movement, the Assoctation of Rural Workers of the Rural Reserve Zone of Corinto, and the Process for Popular Unity of Southwest Colombia. As supporters of the peace, we demand that the authors of this crime be brought to justice and that they not disappear behind the curtain of impunity.\n\nFor AfGJ, the death of Cecilia Coicue has a particular significance. We traveled to Corinto during our first delegation to Colombia in the company of Hubert Ballesteros. Ballesteros is a \_FENSUAGRO officer who is today a political prisoner because of his activities on behalf of the farmers and farm workers of Colombia and for the peace. The murder of Coicue and the incarceration of union leaders like Ballesteros form dark stains on the hopes of the Colombian people for peace.\n\nWe are extremely worried by the grave situations we are being made aware of practically every day regarding threats and assaults against unionists, human rights defenders, rural organizers, leaders of indigenous and Afro-Colombian communities, and those who advocate for the peace. These situations are threats to the accords. We have received notices from the Marcha Patriótica that at least 116 members of this movement have been assassinated since its founding in 2012, the same year negotiations began in Havana, Cuba. We were informed this July about the killing of five indigenous persons in Northern Cauca, including Beatriz Nohemí Morano, who was nine months pregnant--neither she nor the baby survived. In August we received news of the murder of three rural leaders in the municipality of Almaguer. We understand that since the beginning of this peace process, there has been an increase in the incidences of such assaults.\n\nWe condemn the actions of the State that indicate a lack of sincerity on the part of the government toward the construction of a true peace that is also sustainable. We furthermore add our denunciation of the actions of the national police and municipal authorities in Aronja, Bolívar in the displacement of more than 1,100 persons from 350 families occupying the Sorpresa Farm. These families are persons already displaced by the war, who have neither resources nor the help of the State. In their desperation, they took refuge in this apparently abandoned farm. The commitment of the Colombian government must be to give resources for the aid of the displaced, not to displace them yet again.\n\nThe list continues. We also understand that the government has renewed fumigation with glyphosate in the Department of Putumayo as a way of eradicating coca cultivation. Even worse, the Colombian Armed Forces have entered the department in order to repress the just protests of the farmers. We understand that the government has agreed as part of the accords, that it will only use fumigation in extreme cases. These agreements are central to the promises of the government to develop the rural infrastructure and crop substitution to replace coca. This fumigation campaign seems to us to be a violation of the spirit of the accords, and worse, a frontal attack against the population and the ecosystem with chemicals known to be harmful to human beings and the environment. How can the Colombian people and the world trust in the promises of the government if, in the initial stages of this new age of peace, the State is once more poisoning the population and the Earth in such a manner? We call on the Colombian government to show its commitment to the peace and end this fumigation in Putumayo. We call on the United States government to end its funding of fumigations in Colombia.\n\nWe understand that the war has been financed and advised by the the United States and because of this, we commit ourselves to following the peace process and to advocating for changes in the policies of our own country that affect the Colombian people.\n\nIn memory of Cecilia Coicue and all the victims of the civil war, we ask that the Colombian government honor the commitments it made as part of the peace accords. The Colombian government must take definitive actions to protect its own citizens, especially the rural, indigenous and Afro-Colombian communities from those who threaten them with paramilitary terrorism. We also denounce the abuses of the State and demand that it act decisively to advance the peace with justice.\n\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=6&amp;url=http%3A%2F%2Forg2.salsalabs.com%2Fo%2F7315%2Fp%2Fdia%2Faction3%2Fcommon%2Fpublic%2F%3Faction_KEY%3D23586\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://org2.salsalabs.com/dia/track.jsp?key%3D-1%26url_num%3D6%26url%3Dhttp%253A%252F%252Forg2.salsalabs.com%252Fo%252F7315%252Fp%252Fdia%252Faction3%252Fcommon%252Fpublic%252F%253Faction_KEY%253D23586&amp;source=gmail&amp;ust=1473821983611000&amp;usg=AFQjCNGT0bDNAdxt7_9zTUVzTQOIneavAg\"><strong>Click here to add your name to this statement. Representatives from AfGJ will hand deliver this declaration to the office of Colombian President Juan Manuel Santos </strong></a>\n\n&nbsp;\n<p style=\"text-align: left;\"></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: cd0b4a40-9b03-4048-a812-892416542fb4
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 0e267625-b560-4adc-8756-46e8824305a2
+  bundle: article
+  default_langcode: en
+  depends:
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Free Webinar: Free Them Now: Political Prisoners in Honduras'
+  created:
+    -
+      value: 1520952806
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /free-webinar-free-them-now-political-prisoners-honduras
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-8572\" src=\"https://afgj.org/wp-content/uploads/2017/12/Screen-Shot-2017-12-12-at-4.11.33-PM.png\" alt=\"Honduras Solidarity Network HSN\" width=\"896\" height=\"369\" />\r\n<h1 style=\"text-align: center;\"><b>Honduras Solidarity Network Invites You to a Free Webinar!</b></h1>\r\n<h1 style=\"text-align: center;\"><b>Free Them Now: Political Prisoners in Honduras</b></h1>\r\n<h1 style=\"text-align: center;\"><b>Friday, March 16, 2018</b></h1>\r\n<h2 style=\"text-align: center;\"><b>8:00-9:00pm EDT / 5:00-6:00pm PDT</b></h2>\r\n<h2 style=\"text-align: center;\"><a href=\"http://www.anymeeting.com/PIID=ED54DA84874A3E\"><b>Register Now!</b></a></h2>\r\n<span style=\"font-weight: 400;\">In an effort to crush the movement of people who reject the fraudulent “re-election” of Juan Orlando Hernandez, the Honduran military police and army have been ordered to brutally repress peaceful demonstrations and to arrest local leaders. Over 20 political prisoners, including Edwin Espinal, have been arrested and are being held in US-style maximum security prisons without contact with their families and lawyers and facing life and health threatening conditions including lack of water, exposure to tuberculosis, and lack of medical care. </span>\r\n\r\n<a href=\"http://www.anymeeting.com/PIID=ED54DA84874A3E\"><span style=\"font-weight: 400;\">Join Honduras Solidarity Network Co-Coordinators Vicki Cervantes and Karen Spring</span></a><span style=\"font-weight: 400;\"> as well as other experts for this one hour webinar on the situation of the political prisoners in Honduras, how this is part of a global model of prison imperialism the United States is promoting, and what we as solidarity activists can do about it. There will be time for discussion and questions.</span>\r\n\r\n<span style=\"font-weight: 400;\">To participate </span><a href=\"http://www.anymeeting.com/PIID=ED54DA84874A3E\"><span style=\"font-weight: 400;\">you must register and receive a unique link to log-in</span></a><span style=\"font-weight: 400;\">. You will enjoy the fullest experience if you join the webinar through your computer although the system will provide you with a phone number in case you are unable to use a computer. </span>\r\n<p style=\"text-align: center;\"><strong>Please share this invitation widely!</strong></p>\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

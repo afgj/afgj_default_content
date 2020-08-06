@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 6846792e-b301-4079-beed-1122eabcfec4
+  bundle: article
+  default_langcode: en
+  depends:
+    bce432a9-c8d4-4656-a968-f6cc71b1b890: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA News 11.2.2018 UN Condemns US Regime Change Blockade on Cuba; Bolton Escalates Threats against ALBA countries'
+  created:
+    -
+      value: 1541159814
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-news-1122018-un-condemns-us-regime-change-blockade-cuba-bolton-escalates-threats
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2>The News This Week</h2>\r\n<div>\r\n\r\n<a href=\"https://chicagoalbasolidarity.wordpress.com/2018/09/27/the-hardship-imposed-on-the-venezuelan-people-by-us-canadian-sanctions-steve-ellners-fall-speaking-tour/?eType=EmailBlastContent&amp;eId=22ede269-e71d-4768-ba9e-f2b8c90ff37e\" target=\"_blank\" rel=\"noopener\">Campaign against Venezuela Sanctions: Steve Ellner speaks this week in Oregon and Washington state</a>\r\n\r\n<a href=\"https://www.rt.com/op-ed/442633-brazil-bolsonaro-pinochet-election/?eType=EmailBlastContent&amp;eId=22ede269-e71d-4768-ba9e-f2b8c90ff37e\" target=\"_blank\" rel=\"noopener\">Brazil's Bolsonaro \_– George Galloway</a>\r\n\r\n<a href=\"https://www.vice.com/en_us/article/yw98nm/inside-the-corruption-and-repression-forcing-hondurans-to-flee-to-the-us?fbclid=IwAR1jopLmOA0VFVa7omGGcz2h5hOoHegQTI0KYjbj9_OfaSC69LYGfYQlMVQ&amp;utm_campaign=sharebutton&amp;eType=EmailBlastContent&amp;eId=22ede269-e71d-4768-ba9e-f2b8c90ff37e\" target=\"_blank\" rel=\"noopener\">Inside the Corruption and Repression Forcing Hondurans to Flee to the US</a>\r\n\r\n<a href=\"https://www.mcclatchydc.com/news/nation-world/world/latin-america/article220954395.html?fbclid=IwAR3RUJZRl1lnVpXGP0XRfzbE3pbQL44I4j9vkrefqQtfCq4sLLhdSY0rQVE&amp;eType=EmailBlastContent&amp;eId=22ede269-e71d-4768-ba9e-f2b8c90ff37e\" target=\"_blank\" rel=\"noopener\">John Bolton: U.S. wil step up regime change against ‘Troika of Tyranny’ in Latin America (Cuba, Venezuela, Nicaragua)</a>\r\n\r\n&nbsp;\r\n\r\nVenezuela\r\n\r\n<a href=\"https://archives.kpfa.org/data/20181030-Tue1700.mp3?eType=EmailBlastContent&amp;eId=22ede269-e71d-4768-ba9e-f2b8c90ff37e\" target=\"_blank\" rel=\"noopener\">KPFA’s Dennis Bernstein interviews Steve Ellner</a>\r\n\r\n<a href=\"http://eeuu.embajada.gob.ve/index.php?option=com_content&amp;view=article&amp;id=451%3Aprensa-embajada-de-la-republica-bolivariana-de-venezuela-en-washington-dc&amp;catid=2%3Anoticias-de-venezuela-en-eeuu&amp;Itemid=18&amp;lang=en%20&amp;eType=EmailBlastContent&amp;eId=22ede269-e71d-4768-ba9e-f2b8c90ff37e\" target=\"_blank\" rel=\"noopener\">Harlem’s National Black Theater Hosts President Nicolás Maduro</a>\r\n\r\n<a href=\"https://venezuelanalysis.com/news/14124?eType=EmailBlastContent&amp;eId=22ede269-e71d-4768-ba9e-f2b8c90ff37e\" target=\"_blank\" rel=\"noopener\">Washington Classes Venezuela as ‘Threat to Regional Stability’ as Colombia Sends 5,000 Troops to Border Region</a>\r\n\r\n<a href=\"https://venezuelanalysis.com/news/14126?eType=EmailBlastContent&amp;eId=22ede269-e71d-4768-ba9e-f2b8c90ff37e\" target=\"_blank\" rel=\"noopener\">Venezuela Launches Media Response Plan to Fake News Attacks</a>\r\n\r\n<a href=\"https://www.telesurenglish.net/english/www.telesurenglish.net/news/El-Salvador-Welcomes-Venezuelan-Miracle-Mission-Medics-20181022-0010.html?eType=EmailBlastContent&amp;eId=22ede269-e71d-4768-ba9e-f2b8c90ff37e\" target=\"_blank\" rel=\"noopener\">El Salvador Welcomes Venezuelan Miracle Mission Medics</a>\r\n\r\n&nbsp;\r\n\r\nCuba\r\n\r\n<a href=\"https://www.telesurenglish.net/news/UNGA-Overwhelmingly-Votes-Against-Cuba-Blockade-All-US-Amendments-Defeated-20181101-0027.html?fbclid=IwAR3Kyxr1TmzDAenKhdUuF58OWjZUcJIUTRDVRvpfIfLTUuyJuugePxMUObU&amp;eType=EmailBlastContent&amp;eId=22ede269-e71d-4768-ba9e-f2b8c90ff37e\" target=\"_blank\" rel=\"noopener\">UN General Assembly votes against US Blockade of Cuba 189-2, no abstentions</a>\r\n\r\n<a href=\"http://misiones.minrex.gob.cu/en/articulo/economic-blockade-contrary-un-charter-and-international-law-and-its-aggressive?eType=EmailBlastContent&amp;eId=22ede269-e71d-4768-ba9e-f2b8c90ff37e\" target=\"_blank\" rel=\"noopener\">Full Statement by \_Bruno Rodríguez Parrilla, Cuba’s Foreign Minister at the United Nations on the US Blockade, November 1, 2018</a>\r\n\r\n&nbsp;\r\n\r\nNicaragua\r\n\r\n<a href=\"https://afgj.org/nicanotes-smoking-gun-shows-catholic-hierarchy-coup-involvement?eType=EmailBlastContent&amp;eId=22ede269-e71d-4768-ba9e-f2b8c90ff37e\" target=\"_blank\" rel=\"noopener\">Nicaraguan Catholic Hierarchy involved in Coup attempt against Daniel Ortega government</a>\r\n\r\n&nbsp;\r\n\r\nBolivia\r\n\r\n<a href=\"https://www.plenglish.com/index.php?o=rn&amp;id=35260&amp;SEO=president-evo-morales-rejects-health-is-a-business-in-bolivia&amp;eType=EmailBlastContent&amp;eId=22ede269-e71d-4768-ba9e-f2b8c90ff37e\" target=\"_blank\" rel=\"noopener\">President Evo Morales Rejects Health Care \_as a Business in Bolivia</a>\r\n\r\n<a href=\"http://resumen-english.org/2018/10/bolivia-2019-evo-versus-mesa/?fbclid=IwAR1nnIAs1xyTQnxmdvABMjKXiwH5-NQGMikdHf-XXRurPLlS9xXwS2wkFKk&amp;eType=EmailBlastContent&amp;eId=22ede269-e71d-4768-ba9e-f2b8c90ff37e\" target=\"_blank\" rel=\"noopener\">Bolivia elections 2019: Evo Versus Mesa</a>\r\n\r\n&nbsp;\r\n\r\nDelegations\r\n\r\n<a href=\"http://files.constantcontact.com/06e3aea9301/459a34e2-3a5e-4063-9ee1-4be03818e720.pdf?eType=EmailBlastContent&amp;eId=22ede269-e71d-4768-ba9e-f2b8c90ff37e\" target=\"_blank\" rel=\"noopener\">IFCO/Pastors for Peace delegations to Cuba</a>\r\n\r\n<a href=\"http://www.cuba-venezuela.org/index.php/2018/10/17/travel-with-us-to-cuba-dec-29-jan-9/?fbclid=IwAR1OFxk443s4SMvERBbgVHOWwW2ABvPNXNr26SSj5u_DKTPYcmqegSb85qQ&amp;eType=EmailBlastContent&amp;eId=22ede269-e71d-4768-ba9e-f2b8c90ff37e\" target=\"_blank\" rel=\"noopener\">Cuba and Venezuela Solidarity Committee tour to Cuba December 29- January 9</a>\r\n\r\n<a href=\"https://afgj.org/friends-of-the-atc-delegation-announcement?eType=EmailBlastContent&amp;eId=22ede269-e71d-4768-ba9e-f2b8c90ff37e\" target=\"_blank\" rel=\"noopener\">AFGJ Friends ot ATC Delegation to Nicaragua, January 3-13</a>\r\n\r\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bce432a9-c8d4-4656-a968-f6cc71b1b890
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

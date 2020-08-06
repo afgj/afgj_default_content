@@ -1,0 +1,70 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 50cb4c08-2c6e-4af8-95dc-55df891289cd
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    b801f94f-af9e-4af6-9c74-12307c5ce744: taxonomy_term
+    e291f5fc-b608-43bf-958c-d8485725315d: taxonomy_term
+    cb4617c7-3c39-4ae4-a5e6-a44b174be3d3: taxonomy_term
+    ff23272a-2c6a-4d3f-b137-4c19843845a6: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Struggle and defiance at Colombia’s Feast of Pestilence'
+  created:
+    -
+      value: 1528533647
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /struggle-and-defiance-colombias-feast-pestilence
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "by James Patrick Jordan\r\n<p style=\"text-align: left;\"><img class=\"alignleft wp-image-9813 \" src=\"https://afgj.org/wp-content/uploads/2018/06/20180605_0937320-e1528558574841-768x1024.jpg\" alt=\"\" width=\"472\" height=\"625\" />...After many visits to Colombia, both as a delegation leader, and individually, I can say that I have never experienced such an intense trip as this one. We arrived in Cali, which was our base, just after an attack had occurred on a progressive legislator who, thankfully, survived. From Cali, each and every place we visited experienced political killings just before, during, or after our presence. We arrived in the area of Corinto and Miranda a few days after the killing of a young indigenous leader by Colombia’s “Anti-Disturbance Squad”, or ESMAD, on June 14. We arrived in the village of San Antonio, above the urban center of Jamundí the very morning that a local community leader was killed. At the meeting there, paramilitaries were in attendance, and we had to take testimonies privately to avoid putting in danger the people who wanted to talk to us. Upon entering Elvira, a village in the mountains of the Naya Region, part of the Municipality of Buenas Aires, Cauca, the community was just learning of a killing the day before, and another that very morning. By the end of the day, the number would climb to three, and the next day to four. Our visit to Buenaventura was marked by witnessing the abject poverty and racism of the place, followed by reports of killings of community leaders there. As I write these words, I have just gotten word of three more disappearances in the Buenaventura area. One must bear in mind that all these killings have taken place in the context of presidential elections that are widely seen as a referendum on the peace process. Paramilitary death squads declared all voters for the Center-Left to be “military objects”.</p>\r\n<p style=\"text-align: left;\">To follow this trail of blood that we were traveling, to look into the faces of the community members and friends, family and comrades of the fallen, was to begin to understand Colombia’s reality in a way objective analysis does not communicate. There is no equation or graph that can adequately describe the heart wrenching devastation of losing your loved ones so unjustly. The geometry of pain cannot give its full dimensions.</p>\r\n<a href=\"http://links.org.au/colombia-struggle-defiance-feast-pestilence\">TO READ ENTIRE ARTICLE, CLICK HERE...</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: b801f94f-af9e-4af6-9c74-12307c5ce744
+    -
+      entity: e291f5fc-b608-43bf-958c-d8485725315d
+    -
+      entity: cb4617c7-3c39-4ae4-a5e6-a44b174be3d3
+    -
+      entity: ff23272a-2c6a-4d3f-b137-4c19843845a6
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c36b7cfe-a080-4893-923f-23eb82adb4cf
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly 1.11.2019 "The US Tried to Turn the Inauguration into a War" - President Maduro'
+  created:
+    -
+      value: 1547220256
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-1112019-us-tried-turn-inauguration-war-president-maduro
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter size-full wp-image-11115\" src=\"https://afgj.org/wp-content/uploads/2019/01/Maduro-2019-2025.jpg\" alt=\"\" width=\"375\" height=\"250\" />\r\n<table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td id=\"m_8677614028548425735id_cedaec65-5f86-4640-900e-f7a223fbd155\"><a href=\"https://default.salsalabs.org/T9b8f1f21-563b-4a8e-a888-bbc3d8d3d8b4/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T9b8f1f21-563b-4a8e-a888-bbc3d8d3d8b4/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58&amp;source=gmail&amp;ust=1547327806262000&amp;usg=AFQjCNGHnwfqg1MykAuIMt5UghycchNZzg\">January 17 webinar on Cuba: Cuba Engagement Opportunities in the 116th Congress</a>\r\n\r\n&nbsp;\r\n\r\n<strong>Venezuela</strong>\r\n\r\n<a href=\"https://default.salsalabs.org/Tc1ae0114-d30b-49a6-bbae-c95ef27615ec/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tc1ae0114-d30b-49a6-bbae-c95ef27615ec/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58&amp;source=gmail&amp;ust=1547327806262000&amp;usg=AFQjCNF8rYojREF3Dp1e0nZbjcWcEZihYA\">Maduro Sworn In As Venezuela's Leader, US, its Latin American Puppets and EU Have a Meltdown over Failed Regime Change</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T665197aa-a853-4011-aa11-11fec30432ab/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T665197aa-a853-4011-aa11-11fec30432ab/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58&amp;source=gmail&amp;ust=1547327806263000&amp;usg=AFQjCNGDvT_5-WtrB5H2pesqBBJ6rwJVMA\">Excerpt from Maduro's speech: The US tried to turn the Inauguration into a War</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T1d160e7f-3fbb-4a4a-b759-096068d10ecc/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T1d160e7f-3fbb-4a4a-b759-096068d10ecc/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58&amp;source=gmail&amp;ust=1547327806263000&amp;usg=AFQjCNEztIoP7Nh4xnULopj4PanAmWH5MA\">Maduro: Venezuela Faces Coup Ordered by US, Lima Group</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T782cb6c7-9d19-4d1a-a75c-f7799d35df6b/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T782cb6c7-9d19-4d1a-a75c-f7799d35df6b/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58&amp;source=gmail&amp;ust=1547327806263000&amp;usg=AFQjCNFSYJuq_yloWXVlmCGPLN4VqHXo_Q\">Statement of the Network in Defense of Humanity: Call to Respect the Sovereignty of the People of Venezuela</a>\r\n\r\n<a href=\"https://default.salsalabs.org/Tc629cfca-181e-41e1-8aaf-da6ebceb7161/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tc629cfca-181e-41e1-8aaf-da6ebceb7161/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58&amp;source=gmail&amp;ust=1547327806263000&amp;usg=AFQjCNE43KpzeaKfIjHA0fUs5IT69LAAHw\">On the Eve of Maduro's Inauguration, A New Phase in the Campaign Against Venezuela</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T8378243a-91d2-42bb-a285-57ad63373a83/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T8378243a-91d2-42bb-a285-57ad63373a83/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58&amp;source=gmail&amp;ust=1547327806263000&amp;usg=AFQjCNGt8O6Xjw_J1lWsl_VUheaxdQi9KA\">World Peace Council: Reject interference and threats against the re-elected government of Venezuela!</a>\r\n\r\nIgnacio Ramonet full interview with Nicolas Maduro (<a href=\"https://default.salsalabs.org/T8296900e-978f-4ff5-97ab-0dadb6663c97/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T8296900e-978f-4ff5-97ab-0dadb6663c97/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58&amp;source=gmail&amp;ust=1547327806263000&amp;usg=AFQjCNF2gi1kwRhV8kAvbn1QUeTp5RJAOA\">part 1</a>) (<a href=\"https://default.salsalabs.org/T9b5d4999-7805-40b2-b7f8-11cd22ac0983/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T9b5d4999-7805-40b2-b7f8-11cd22ac0983/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58&amp;source=gmail&amp;ust=1547327806263000&amp;usg=AFQjCNF5cZn7L9zUdjtOMv0Xqw0e9ySicA\">part 2</a>) (<a href=\"https://default.salsalabs.org/Td1c34cce-6d96-4aff-932d-50542bbed188/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Td1c34cce-6d96-4aff-932d-50542bbed188/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58&amp;source=gmail&amp;ust=1547327806263000&amp;usg=AFQjCNFz0Hi4HCptKKtm1rbF8CIGHWtm4A\">part 3</a>)\r\n\r\n<a href=\"https://default.salsalabs.org/T8b0d69de-b5e2-488b-960c-22d03c30d422/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T8b0d69de-b5e2-488b-960c-22d03c30d422/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58&amp;source=gmail&amp;ust=1547327806263000&amp;usg=AFQjCNG-zZhfk80M4WoU1YNWACSF5-Kf1g\">Venezuela government Invites UN Human Rights Chief</a>\r\n\r\n&nbsp;\r\n\r\n<strong>Cuba</strong>\r\n\r\n<a href=\"https://default.salsalabs.org/T2113add6-1ef7-4d03-a0cc-67b55d73fd5f/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T2113add6-1ef7-4d03-a0cc-67b55d73fd5f/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58&amp;source=gmail&amp;ust=1547327806263000&amp;usg=AFQjCNHsM4-7Ttx22vBCYV6w9r2uM7Q-HQ\">Glenn Greenwald: NBC and MSNBC Blamed Russia for Using \"Sophisticated Microwaves\" to Cause \"Brain Injuries\" in U.S. \"Diplomats\" in Cuba. The Culprits Were Likely Crickets</a>\r\n\r\n&nbsp;\r\n\r\n<strong>Nicaragua</strong>\r\n\r\n<a href=\"https://default.salsalabs.org/T66866526-04df-4484-8684-530f03820efe/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T66866526-04df-4484-8684-530f03820efe/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58&amp;source=gmail&amp;ust=1547327806263000&amp;usg=AFQjCNF8ulL2_EtATH68a7_59UKcmEuLYg\">OAS' Almagro calls for foreign intervention in Nicaragua (again); review of regime change propaganda film Las Sandinistas</a>\r\n\r\n<a href=\"https://default.salsalabs.org/T3b18d5f2-e3b2-40af-8950-58b25d6717e7/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T3b18d5f2-e3b2-40af-8950-58b25d6717e7/3c150a11-a40e-4e54-b0eb-ec39c9a6cc58&amp;source=gmail&amp;ust=1547327806263000&amp;usg=AFQjCNGrws84oq8JipLoS8WHaKBE3urZFw\">Nicaragua – The Irony of the NICA Act Being Signed into Law by Trump</a></td>\r\n</tr>\r\n</tbody>\r\n</table>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

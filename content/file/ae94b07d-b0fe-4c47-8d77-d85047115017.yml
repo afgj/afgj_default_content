@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: ae94b07d-b0fe-4c47-8d77-d85047115017
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: background-video.mp4
+  uri:
+    -
+      value: 'public://2017-06/background-video.mp4'
+  filemime:
+    -
+      value: video/mp4
+  filesize:
+    -
+      value: 4788565
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1498660588

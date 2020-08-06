@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 84b7fb18-d82a-4120-83d2-ff3a8f26edeb
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Donate
+  created:
+    -
+      value: 1591123254
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /donateafgj
+      langcode: en
+      pathauto: 0
+  body:
+    -
+      value: "If you'd like to donate to a fiscally sponsored project of the AFGJ please <a href=\"https://afgj.org/donate-fsp\">click here</a>.\r\n<div id=\"54dbd0ee-e2e9-4c22-b26d-8b5a933f9812\"><script type=\"text/javascript\" src=\"https://default.salsalabs.org/api/widget/template/a6b5d37b-bd95-4938-85bb-21047cc1b86d/?tId=54dbd0ee-e2e9-4c22-b26d-8b5a933f9812\" ></script></div>\r\nTo Donate Via Check, Please Mail:\r\nAlliance for Global Justice\r\n225 E 26th st\r\nSuite 1\r\nTucson, AZ 85713"
+      format: full_html
+      summary: ''

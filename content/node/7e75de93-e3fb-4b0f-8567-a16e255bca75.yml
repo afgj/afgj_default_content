@@ -1,0 +1,73 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 7e75de93-e3fb-4b0f-8567-a16e255bca75
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    b2c352f2-62d9-485a-b8f0-d6687d083f48: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Colombia''s Failed Peace Throws Prisoners'' Rights into Question'
+  created:
+    -
+      value: 1478532900
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /colombias-failed-peace-throws-prisoners-rights-question
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "by Cody Edgerly\n\n<img class=\"alignleft size-full wp-image-7237\" src=\"https://afgj.org/wp-content/uploads/2016/11/prisoners.jpg\" alt=\"prisoners\" width=\"468\" height=\"263\" />\n\nIn the wake of the failed Oct. 2 peace referendum, the Colombian population is being held hostage by uncertainty as President Juan Manuel Santos and negotiators try to find alternatives to this unforeseen situation. <a href=\"http://www.telesurtv.net/english/opinion/Colombias-Failed-Peace-Throws-Prisoners-Rights-Into-Question-20161027-0029.html\">Read more...</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: b2c352f2-62d9-485a-b8f0-d6687d083f48
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

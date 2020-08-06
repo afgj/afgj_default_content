@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 6e5885f4-f837-44e9-9014-718a59e18255
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Financial Info'
+  created:
+    -
+      value: 1328315374
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /financial-info
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<ul>\r\n\t<li><span style=\"letter-spacing: 0.05em;\"><span style=\"color: #000000;\"><a href=\"/form-990\" rel=\"noopener\">Form 990</a></span></span></li>\r\n\t<li><a href=\"/donor-privacy-policy\">Donor Privacy Policy</a></li>\r\n\t<li><a href=\"/whistleblower-policy\">Whistleblower Policy</a></li>\r\n\t<li><a href=\"/record-retention-policy\">Record Retention Policy</a></li>\r\n</ul>\r\n"
+      format: full_html
+      summary: ''

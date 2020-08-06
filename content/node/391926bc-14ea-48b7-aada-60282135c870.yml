@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 391926bc-14ea-48b7-aada-60282135c870
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Staff
+  created:
+    -
+      value: 1317094574
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /staff
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>James Patrick Jordan</strong> has lived in Tucson, Arizona since 1983, where he has a long history of grassroots organizing. His main duties at AfGJ are the facilitation of AfGJ's labor, ecological, and Colombia solidarity campaigns. \_He serves on the Board of the Liberty Tree Foundation and represents AfGJ in the Observatorio de Derechos Humanos de los Pueblos (Peoples Human Rights Observatory) and the Coalition against US Foreign Military Bases.\r\n\r\n<strong>Chuck Kaufman</strong> is National Co-Coordinator of the Alliance for Global Justice. He has been a leader of the Central and Latin America solidarity movements since joining the staff of the Nicaragua Network in 1987. He gave up his successful advertising business out of disgust at Congress’ cowardice during the Iran-Contra scandal. He went on his first coffee picking brigade to Nicaragua that same year. Chuck has been in the front ranks of the movements to support the right of people in Latin America and the Caribbean to dignity, sovereignty, and self-determination. He has led delegations to Nicaragua, Venezuela, Haiti and Honduras.\r\n\r\nChuck has written and spoken often about US democracy manipulation programs through the National Endowment for Democracy and US Agency for International Development as well as what he calls the need to look to the Abolition Movement as our inspiration to change the culture of US militarism. He is a board member of the Latin America Solidarity Coalition and a leader of the LASC’s effort to build a stronger movement to oppose US militarism and the militarization of relations with Latin America. He was a founder of the Act Now to Stop War and End Racism (ANSWER) Coalition and has spoken at most of the major Washington, DC anti-war demonstrations. He is a board member of the Honduras Solidarity Network and a founder of the Venezuela Solidarity Network. He has a B.A. in Government and Politics from George Mason University. His first political activism was as a high school student in 1969 when he organized student walk-out in four county high schools in his native Indiana.\r\n\r\n<strong>Elane Spivak Rodriguez</strong>\_is the Fiscal Sponsorship Coordinator for the Alliance for Global Justice. She also leads AfGJ human rights solidarity delegation to Nicaragua and Honduras and is an active with the Honduras Solidarity Network. Coordinating with our 90+ fiscally sponsored projects, Elane works to bring the work of our fiscally sponsored projects together to build a stronger more unified grassroots movement.\r\n\r\n<strong>Blanca Bay Dominguez\_</strong>is a native Tucsonian and a long time Yaqui activist. Blanca was born into activist work; Blanca’s mother was one of the first Tucson Promotoros, human rights promoters. \_She has worked with a number of local organizations, including El Concillio Manzo and Derechos Humanos.\r\n\r\nBlanca serves as AFGJ’s invaluable book keeper and office manager. She is the mother of 2 and grandmother to 4.\r\n\r\n<strong>Eduardo Garcia</strong> is an activist and photojournalist born in Mexico City. His work has been focused primarily on the struggles of indigenous peoples in Mexico, Central American migration, forced disappearance and social movements in Latin America. His work as a researcher and photographer has gotten him involved with the Undocumented Migrant Project of the University of Michigan. Eduardo is also co-founder of the Michigan Solidarity Network with Mexico and co-founder of the Militarization in the Americas Research Collective. He studied Political Science at the Universidad de las Americas Puebla, with special interest in political philosophy and Latin American Studies. Eduardo is a former SOA Watch member, where he collaborated as the Media and Communications coordinator, research consultant and organizer. Today he coordinates AFGJ’s Prison Imperialism Project and supports the solidarity work in Honduras.\r\n\r\n<strong>David Archuleta Jr.\_</strong>is a full stack engineer who has developed both web and desktop applications professionally since 2014. He drives all technical decisions for the team and oversees to completion all technical projects from idea to architectural design to development. David graduated from the University of Arizona in 2014."
+      format: full_html
+      summary: ''

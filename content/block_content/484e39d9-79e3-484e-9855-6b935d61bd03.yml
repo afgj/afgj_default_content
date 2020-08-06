@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 484e39d9-79e3-484e-9855-6b935d61bd03
+  bundle: basic
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Call to action'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"call-to-action\">\r\n<div class=\"row\">\r\n<div class=\"col-md-6\">\r\n<h2 class=\"title\">Join an AFGJ Delegation</h2>\r\n\r\n<h5>Make a difference!</h5>\r\n\r\n<p>Our next delegation is in conjunction with the Friends of the ATC, a grassroots organization that works with the Associacion de Trabajadores del Campo (Farmworkers Association) in Nicaragua.</p>\r\n<a class=\"button\" href=\"/delegations\">More Info</a></div>\r\n\r\n<div class=\"col-md-6\">\r\n<div class=\"highlights-grid\">\r\n<div class=\"row no-gutters\">\r\n<div class=\"col-sm-6\">\r\n<div class=\"highlights-grid-item border-right border-bottom\"><i class=\"fas fa-map-marker-alt\"></i>\r\n\r\n<h5>Location</h5>\r\n\r\n<p>Santo Tomas, Nicaragua</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"col-sm-6\">\r\n<div class=\"highlights-grid-item border-bottom\"><i class=\"fas fa-calendar\"></i>\r\n\r\n<h5>Date</h5>\r\n\r\n<p>17 - 20 September, 2020</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"col-sm-6\">\r\n<div class=\"highlights-grid-item border-right\"><i class=\"fas fa-microphone\"></i>\r\n\r\n<h5>Delegation Leaders</h5>\r\n\r\n<p>Chuck Kaufman</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"col-sm-6\">\r\n<div class=\"highlights-grid-item\"><i class=\"far fa-user\"></i>\r\n\r\n<h5>Spots</h5>\r\n\r\n<p>15 Available</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n"
+      format: full_html
+      summary: ''

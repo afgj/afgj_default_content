@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 2348bb1a-1589-43ff-82d3-a4ff93ba9ce5
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 2019.-Pledge-fb-cover(1)_0.png
+  uri:
+    -
+      value: 'public://2020-06/2019.-Pledge-fb-cover(1)_0.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 110443
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1592259523

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5a1050ee-5721-4817-9252-0101dde7b864
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela: A Revolution Worth Our Solidarity'
+  created:
+    -
+      value: 1455893634
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-revolution-worth-our-solidarity
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter size-full wp-image-6435\" src=\"https://afgj.org/wp-content/uploads/2016/02/ven-delegation-2015.jpg\" alt=\"ven delegation 2015\" width=\"1924\" height=\"1280\" />\r\n<p class=\"p2\" style=\"text-align: center;\"><strong>Application Deadline: March 4</strong></p>\r\n<p class=\"p2\" style=\"text-align: left;\"><span class=\"s1\">The Bolivarian Revolution, begun under the presidency of Hugo Chavez, is under attack by the US and the Venezuelan right-wing. The new president of the National Assembly has vowed to drive democratically elected President Nicolas Maduro from office within six months. Travel with us over the anniversary of the 2002 Apr. 11-13 coup against President Chavez to see for yourself the advances the people of Venezuela won for themselves since 1999 and the threats to those gains being perpetrated today. AfGJ Board Member Banbose Shango will lead the delegation. He has traveled to Venezuela numerous times and has special expertise and ties with the Afro-descended movement. Meetings will be organized with government and popular movements such as students, women, cooperatives, and unionists with the goal that participants will come home fired up about what is at stake in this struggle and the role of the US in funding and training the violent opposition. There is no substitute for witnessing for yourself the consequences of US foreign policy and what can be accomplished when a government is on the side of the people.</span></p>\r\n<b>Price: $1400</b>\_Covers all hotel (double occupancy), food, ground transportation, translation, and program. It does not cover international airfare. Several partial scholarships are available on a need basis.\r\n\r\nParticipants may also find that international airfare is significantly cheaper if you book a flight to a nearby country such as Panama or Aruba and a second flight from that country to Caracas. Major airlines have reduced flights and raised prices from the US to Venezuela.\r\n\r\n<b>For information and an application, email to:\_<a href=\"mailto:Delegations@afgj.org\">Delegations@afgj.org</a></b>\r\n\r\n<strong>To make a payment for this delegation, <a href=\"https://org2.salsalabs.com/o/7315/donate_page/delegations\">Click Here.</a></strong>\r\n\r\nA good way to prepare is to join the Venezuela Strategy Group Webinar on Sunday, Feb. 28 at 6pm ET / 3pm PT. For more information and to register, <a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=%2BubkEdD2YRzRTeDjlOcM7kZ5s%2BZHxpCe\">click here.</a>"
+      format: full_html
+      summary: ''

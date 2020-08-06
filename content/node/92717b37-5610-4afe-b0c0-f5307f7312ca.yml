@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 92717b37-5610-4afe-b0c0-f5307f7312ca
+  bundle: article
+  default_langcode: en
+  depends:
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Tucson, Local Nonprofit Inaccurately Linked to Berkeley rotests'
+  created:
+    -
+      value: 1486479693
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /tucson-local-nonprofit-inaccurately-linked-berkeley-rotests
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Recently, a right wing blogger tied AFGJ and our Fiscally Sponsored Project Refuse Fascism to the Protests in Berkeley. This has led to a certain amount of Hate Correspondence in our direction.\n\nAFGJ will be releasing our own statement in the coming days, but for now, feel free to reference this Article from the <a href=\"http://tucson.com/\"><strong>Arizona Daily Star</strong></a>, debunking the right wing's alternative facts.\n<h3 style=\"text-align: center;\"><a href=\"http://tucson.com/news/local/govt-and-politics/s-tucson-nonprofit-city-of-tucson-inaccurately-linked-to-berkeley/article_c720cd13-44c8-50be-b59f-341a785d51f8.html\" target=\"_blank\" rel=\"noopener\">Tucson, Local Nonprofit Inaccurately</a></h3>\n<h3 style=\"text-align: center;\"><a href=\"http://tucson.com/news/local/govt-and-politics/s-tucson-nonprofit-city-of-tucson-inaccurately-linked-to-berkeley/article_c720cd13-44c8-50be-b59f-341a785d51f8.html\" target=\"_blank\" rel=\"noopener\"> Linked to Berkeley Protests</a></h3>\n<ul class=\"list-inline\">\n \t<li><span id=\"author-popup-18e28d3a-b440-11e2-8ab9-0019bb2963f4-asset-c720cd13-44c8-50be-b59f-341a785d51f8\" class=\"asset-byline\" title=\"\" data-original-title=\"\"><a href=\"https://tucson.com/users/profile/Joe%20Ferguson\">By Joe Ferguson Arizona Daily Star</a></span></li>\n \t<li><time class=\"asset-date text-muted\" datetime=\"2017-02-06T11:45:00-07:00\">Feb 6, 2017</time></li>\n</ul>\n<div class=\"subscriber-preview\">\n\nA small South Tucson-based human-rights group and the city of Tucson have found themselves in a political firestorm after a news article in the conservative Daily Caller connected them with last week’s riots in Berkeley, California.\n\n</div>\n<div class=\"subscriber-preview\">\n\nThe nonprofit, the Alliance for Global Justice, was listed as a fiscal sponsor for Refuse Fascism, an anti-fascist group that took credit for canceling a speech by right-wing commentator Milo Yiannopoulos in Berkeley on Feb. 1.\n\n</div>\n<div class=\"subscriber-only\">\n\nThe protest turned violent, with some demonstrators clashing with police; 15 buildings were vandalized.\n\n</div>\n<div id=\"tncms-region-article_instory_top\" class=\"tncms-region hidden-print\"></div>\n<div class=\"subscriber-only\">\n\nThe city and the nonprofit apparently did not financially support Refuse Fascism: The Alliance for Global Justice was a pass-through for other nonprofits, and the city processes some types of grants for tribes.\n\n</div>\n<div class=\"subscriber-only\">\n\nA $10,000 donation from the city of Tucson is listed in 2015 tax filings for the Alliance for Global Justice.\n\n</div>\n<div class=\"subscriber-only\">\n\nThe city’s and the nonprofit’s financial documents show that they were adhering to state law and tax codes that regulate tribal funds and make it difficult for some nonprofits to accept grant financing.\n\n</div>\n<div class=\"subscriber-only\">\n\nThe funds listed from the city were from the Pascua Yaqui Tribe, which is required by the state to use a governmental agency when distributing tribal gaming revenue.\n\n</div>\n<div class=\"subscriber-only\">\n\nAdditionally, city officials said the $10,000 grant went to a different nonprofit — Alianza Indigena Sin Fronteras, also known as the Indigenous Alliance Without Borders, which works to address human-rights violations that threaten tribal members from passing back and forth across the border with Mexico.\n\n</div>\n<div class=\"subscriber-only\">\n\n“Not one dollar of city taxpayer money went to the Alliance for Global Justice,” said city spokeswoman Lane Mandle.\n\n</div>\n<div class=\"subscriber-only\">\n\n“In September 2015, the city, acting as a pass-through agency, issued $10,000 of state-shared gaming allocations to Alianza Indigena Sin Fronteras. In accordance with state law, gaming allocations must pass from the tribes through a governmental agency.\n\n</div>\n<div class=\"subscriber-only\">\n\n“Tucson and other cities throughout the state act as a pass-through for these grants every year. The city neither controls the funding, nor selects who receives the grant money,” she added.\n\n</div>\n<div class=\"subscriber-only\">\n\nAs a 501(c)3 organization, the Alliance for Global Justice accepted the $10,000 grant from the Pascua Yaqui Tribe on behalf of the Alliance Without Borders, said Chuck Kaufman, the national co-coordinator of the Alliance for Global Justice.\n\n</div>\n<div id=\"video-ad-asset-container\" class=\"p402_hide\"></div>\n<div class=\"subscriber-only\">\n\nA spokesperson for the Pascua Yaqui Tribe could not be reached for comment on Saturday.\n\n</div>\n<div class=\"subscriber-only\">\n\nThe practice of lending a nonprofit’s legal and tax-exempt status to other groups — known as fiscal sponsorship — is common. Kaufman said his organization offers those services to about 90 nonprofits, including Refuse Fascism.\n\n</div>\n<div class=\"subscriber-only\">\n\nA nonprofit might also handle donations for another to avoid overhead. Small nonprofits might choose to pay a fee rather than go to the expense of an accountant.\n\n</div>\n<div class=\"subscriber-only\">\n\nOther donors listed on the same tax document — including billionaire financier George Soros — are the same type of arrangement, Kaufman explained. He said Soros’ foundation gave money to United Students Against Sweatshops and the funding went through his nonprofit’s bank account.\n\n</div>\n<div id=\"tncms-region-article_instory_middle\" class=\"tncms-region hidden-print\">His latest annual tax filing, which covers activity up to March 2016, shows his group received $2.3 million in donations. Most of that money — roughly $1.9 million by Kaufman’s estimate — went to other groups.</div>\n<div class=\"subscriber-only\">\n\nKaufman said he has no control on how the money he accepts for other groups is used .\n\n</div>\n<div class=\"subscriber-only\">\n\nKaufman says his organization had no involvement in the Berkeley protest.\n\n</div>\n<div class=\"subscriber-only\">\n\nKaufman said he bears financial responsibility for the money his group accepts, but he doesn’t have any reason to believe the funds given to Refuse\_Fascism were improperly used.\n\n</div>\n<div class=\"subscriber-only\">\n\n“We didn’t send any money to Berkeley,” he said.\n\n</div>\n<div class=\"subscriber-only\">\n\nThe group has been taking out full-page ads in the Washington Post and The New York Times, and the amount he processed for the group was only a tiny bit of its overall budget.\n\n</div>\n<div class=\"subscriber-only\">\n\nOn Friday night, Kaufman said he sees no reason to cut ties with Refuse\_Fascism.\n\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

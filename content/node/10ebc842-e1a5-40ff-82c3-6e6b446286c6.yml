@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 10ebc842-e1a5-40ff-82c3-6e6b446286c6
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Upcoming Venezuela Webinar!  The Economic and Foreign Policy Aspects of the Current Crisis'
+  created:
+    -
+      value: 1474457236
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /upcoming-venezuela-webinar-economic-and-foreign-policy-aspects-current-crisis
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h3 style=\"text-align: center;\"><img class=\"size-full wp-image-7078 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2016/09/VSN-webinar.jpg\" alt=\"vsn-webinar\" width=\"960\" height=\"510\" />\n<strong><a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=EC57DA85804639\" target=\"_blank\" rel=\"noopener\">Register Now</a>\_for AfGJ's September Venezuela Webinar Featuring Alex Main!</strong>\n<strong> When? Tuesday, September 27th, 2016</strong>\n<strong> 8:30-9:30 PM ET</strong></h3>\n\n<hr />\n\nAlexander Main is the Senior Associate for International Policy at the Center for Economic and Policy Research. In his work at CEPR, Alexander focuses on U.S. foreign policy toward Latin America and the Caribbean and regularly engages with U.S. policy makers and civil society groups. He is regularly interviewed by international media such as CNN en español, Al Jazeera English and the Canadian Broadcasting Corporation, and his analyses on U.S. policy in the Americas have been published in a variety of media outlets such as the New York Times, Los Angeles Times, Foreign Policy, NACLA and the Monde diplomatique.\_Prior to CEPR, Alexander spent more than six years in Latin America working as an international relations analyst. He has a degree in history and political science from the Sorbonne University in Paris, France.\n\nAlex will share his analysis of the economic and foreign policy aspects of Venezuela’s current crisis. This is information anyone who cares about the Bolivarian Revolution and US efforts to restore its hegemony over Latin America needs to know.\n<h3 style=\"text-align: center;\"><a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=EC57DA85804639\" target=\"_blank\" rel=\"noopener\">Register Now!</a></h3>\n\n<hr />\n\nThis series of one-hour webinars on the last Tuesday of each month features scholars, Venezuela government officials, writers, solidarity activists and others with firsthand knowledge of Venezuela and US-Venezuela relations. Venezuela remains a top target of US “regime change” strategies and will remain so no matter who is elected president in November. These webinars are designed to inform and motivate solidarity with the Bolivarian process in Venezuela and to expose and oppose US intervention.\n\n<hr />\n\nInterested in keeping up with the news from Venezuela? <b>AfGJ's Venezuela Weekly</b>\_contains a few useful articles on Venezuela that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\_<b></b><b><a href=\"http://org2.salsalabs.com/o/7315/signup_page/venweekly\">Subscribe\_Here!</a></b>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+  field_mt_slideshow:
+    -
+      value: false

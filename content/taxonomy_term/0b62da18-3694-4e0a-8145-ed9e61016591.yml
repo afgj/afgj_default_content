@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: 0b62da18-3694-4e0a-8145-ed9e61016591
+  bundle: mt_collections
+  default_langcode: en
+  depends:
+    979883ac-ee95-4ac9-bcb1-2143e064c794: file
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: Hats
+  weight:
+    -
+      value: 1
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_collection_image:
+    -
+      entity: 979883ac-ee95-4ac9-bcb1-2143e064c794
+      alt: 'Product Group two'
+      title: ''
+      width: 750
+      height: 835

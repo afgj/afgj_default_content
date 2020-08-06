@@ -1,0 +1,76 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: cd4ccee3-3e1a-465c-aa89-b63ac1be2d61
+  bundle: article
+  default_langcode: en
+  depends:
+    559721eb-b73d-4d86-a9b5-58f46584daa3: taxonomy_term
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Emergency Delegation: Steelworkers, US Activists Urged to Accompany Colombian Voters in October Peace Referendum'
+  created:
+    -
+      value: 1472757009
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /emergency-delegation-steelworkers-us-activists-urged-accompany-colombian-voters-october-peace
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><strong>Join the STAND WITH PEACE accompaniment delegation or Learn More!</strong></p>\n<p style=\"text-align: center;\"><strong><a href=\"https://afgj.org/wp-content/uploads/2016/09/Colombia-Delegations-Flyer-downloadableSmaller.pdf\">Click here to download a flier and help us spread the word!</a></strong></p>\n<img class=\"alignleft wp-image-7009\" src=\"https://afgj.org/wp-content/uploads/2016/09/043-213x300.jpg\" alt=\"- 043\" width=\"255\" height=\"350\" />One of Colombia’s most targeted labor organizations has asked the United Steelworkers to send union members to accompany voters in the country’s October 2<sup>nd</sup> peace plebiscite. If the “yes” vote wins this election, it will bring an end to 52 years of civil war. The National Unitary Federation of Agricultural Workers Unions (Fensuagro) believes the presence of international solidarity activists can provide an atmosphere of safety in places where paramilitary organizations are threatening pro-peace voters. Farming communities affiliated with Fensuagro have been specially marked for assaults. The presence of international solidarity activists has proved an effective deterrent against these kinds of threats.\n\nFensuagro addressed a letter to the “United Steelworkers and members of the United States labor movement” requesting accompaniment for its members traveling to polls to vote on peace accords between the Colombian government and the Revolutionary Armed Forces of Colombia-People’s Army (FARC-EP). Colombia’s civil war is the longest running armed conflict in the Americas and has resulted in more than 220,000 persons dead, some 92,000 persons “disappeared”, 6 million internally displaced persons and the largest number of political prisoners in the hemisphere. Fensuagro represents rural populations, including many indigenous and Afro-descendent communities, that have been hardest hit by the war. Colombians are hopeful about achieving the peace but at the same time right wing paramilitaries have stepped up assaults against popular movements in an effort to undermine the peace process.\n\nNo one is more in their crosshairs than Fensuagro, the Marcha Patriótica movement for peace (which Fensuagro is part of) and other members of the Colombian left. Fensuagro believes that international accompaniment will help make sure that those voting in the October 2<sup>nd</sup> plebiscite can do so in safety. \_Fensuagro and the Marcha Patriótica have also asked the National Lawyers Guild and the Alliance for Global Justice to send representatives on a “Mission of International Accompaniment and Verification”. The Alliance for Global Justice is working with all the invitees to take a delegation to Colombia from September 29 through October 5, 2016. Those interested in going on or supporting this effort can get more information by sending an email to DELEGATIONS@AFGJ.ORG .\n\nIf the accords do not pass, one can expect the repression of unionists and social movements in Colombia to continue rather than subside. Since Fensuagro’s founding convention in 1976, more than 1,500 of its members have been assassinated. \_Fensuagro is the largest union in the Marcha Patriótica, a four year old political movement that includes 2,000 member organizations.\_ The Marcha Patriótica has seen 123 of its members murdered by paramilitary death squads and the Colombian Armed Forces. A number of Fensuagro’s top leaders have been incarcerated for their activities. There are currently 125 Fensuagro members in Colombian jails as political prisoners. If the accords pass, the state has committed to freeing all union members and social movement activists who have been accused of “rebellion”, as well as prisoners of war. “Rebellion” is a catch-all charge that has been used extensively to put thousands of nonviolent activists in prison.\n\nAt the time of Hubert Ballesteros’ arrest in August, 2013, he was leading a national farmers strike, serving as Fensuagro’s vice president and sitting on the executive committee of the Unitary Workers Center (CUT), the country’s largest labor federation. Ballesteros spoke to the Alliance for Global Justice from his cell. He told AfGJ that “Peace for Colombia will be the most important achievement on the American continent in years. The plebiscite on the Havana accords will give us the possibility to implement and build the peace. International accompaniment of unionists and human rights defenders is a crucial contribution.”\n\nThe extreme right, led by former president and current senator Álvaro Uribe, has mobilized a campaign to defeat the pro-peace vote. While public sentiment in favor of the negotiations has been reaffirmed on several occasions, this time pro-war advocates have had some success in eroding support for the accords.\n\nStill, most observers are confident that the accords will pass. Not satisfied with the constraints of legal efforts, extreme right death squads are subjecting Colombia’s peace and justice movement to acts of terror.\_ Since the negotiations began in 2012, there has been a steady increase in the rate of assaults against popular and labor movements. This is why Fensuagro, the Marcha Patriótica and other organizations are asking US unionists and peace activists to come to Colombia for the October 2nd plebiscite. The presence of international accompaniment is a key element of protection for those who want to win this peace at the ballot box.\n\nFensuagro’s letters to the USW, NLG, AfGJ and the labor and peace movement at large asks that they send this international mission to undertake, “visits of accompaniment and verification of the conditions of security and Human Rights for the organizations and social movements that will advance the ‘YES TO THE PLEBISCITE, YES TO PEACE’ campaign ….The…campaign shall be composed primarily of educational work for peace…. demonstrations of the benefits and opportunities that its fulfillment will bring…, including the need to support and defend the peace process at the polling places. This work involves a risk to the organizations involved in the Campaign given the…paramilitary structures that have expressed on multiple occasions hateful declarations against those of us who support the peace process. Therefore, we are counting, with a sense of great urgency and importance, on the solidarity and support of international organizations in this historic moment that opens the doors for the construction of peace with social justice….”\n\nRaquel Mogollón, active in AfGj’s Colombia working group, notes the responsibility the United States government has regarding Colombia’s civil war, having invested over $10 billion dollars in Plan Colombia, mostly for war and security projects. Even before the war had begun, in 1962, the Pentagon advised the Colombian government to enter into a war against rural autonomous zones, calling for the development of paramilitaries and the use of “terrorism”. So it is not an exaggeration when people say that war in Colombia is made in the USA. Commenting on the accords and requests for accompaniment, Mogollon said, “Any and every one of us in the US who has ever ached for peace or fought for justice may today take heart. Colombians are finally feeling a true sense of relief from 52 years of US funding and support for this brutal war. Their four year struggle to reach a peace agreement toward a new Colombia and a second and definitive independence is now coming to fruition. Let’s take this historic moment to act and begin to transform our own nation’s shameful role into one of sister and brotherhood for peace with social justice across borders.”\n<h4 style=\"text-align: center;\"><a href=\"https://org2.salsalabs.com/o/7315/donate_page/afgj-nicanet\">If you are unable to go on this delegation but would like to help someone who wants to go but cannot afford the costs, click here to make a contribution and be sure and put COLOMBIA in the space marked \"Designation Code\"</a></h4>\n<h2>Text of the letter sent by Fensuagro to the USW, NLG and AfGJ:</h2>\nFEDERACION NACIONAL SINDICAL UNITARIA AGROPECUARIA\n\n“FENSUAGRO – CUT – WFTU”\n\nBogota, August 2016\n\nUNITED STEELWORKERS AND MEMBERS OF US LABOR MOVEMENT\n\nNATIONAL LAWYERS GUILD\n\nALLIANCE FOR GLOBAL JUSTICE\n\nUNITED STATES OF AMERICA\n\nRe:\_\_\_\_\_ Solidarity Mission of International Accompaniment\nand Verification in Colombia\n\nDistinguished Representatives:\n\nWarm greetings.\n\nThe present communication has as its goal to solicit your organization’s solidarity for a <strong>MISSION OF INTERNATIONAL ACCOMPANIMENT AND VERIFICATION IN COLOMBIA </strong>in different regions of the country, with visits of accompanyment and to verify the security and Human Rights conditions of the organizations and social movements that will advance the campaign of “YES TO THE PLEBISCITE, YES TO PEACE,” in support of a “<strong>Final Accord for the end of conflict and the construction of a stable and lasting peace</strong>,” resulting from the Peace talks held in Havana, Cuba between the Colombian Government and the insurgency of the FARC-EP, which shall be subject to a citizen’s referendum on October 2, 2016 through a National Plebiscite.\n\nThe preparation and realization of the Campaign shall be composed primarily by educational work for peace to discuss the main points of the Final Accord with social movements and demonstrations of the benefits and opportunities that its fulfillment will bring to social and popular sectors in the country, including the need to support and defend the peace process in the polling places. This work involves a risk to the organizations involved in the Campaign given the existing opposition to the peace accords, in particular by the paramilitary structures that have expressed on multiple occasions hateful declarations against those of us that support the peace process.\n\nTherefore, we are counting, with a sense of great urgency and importance, on the solidarity and support of international organizations in this historic moment that opens the doors for the construction of peace with social justice, to guarantee the minimum rights of access to land, political participation and reparation of victims, among others.\n\nWe thank you for your anticipated cooperation and kindly await your prompt response.\n\n<strong>NATIONAL EXECUTIVE COMMITTEE</strong>\n\nEBERTO DIAZ MONTES\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ALIRIO GARCIA\n\nPresident of FENSUAGRO\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Secretary of Solidarity and\n\nHuman Rights\n\n[caption id=\"attachment_6949\" align=\"aligncenter\" width=\"298\"]<img class=\" wp-image-6949\" src=\"https://afgj.org/wp-content/uploads/2016/08/IMG_20160610_181924.jpg\" alt=\"The children of Colombia look forward to a country free from war as an older generation, bearing memories of injustice and struggle, lifts them up towards hope and away from despair.\" width=\"298\" height=\"367\" /> The children of Colombia look forward to a country free from war as an older generation, bearing memories of injustice and struggle, lifts the youth up towards hope and away from despair.[/caption]"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 559721eb-b73d-4d86-a9b5-58f46584daa3
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

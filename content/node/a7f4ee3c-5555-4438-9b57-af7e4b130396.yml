@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a7f4ee3c-5555-4438-9b57-af7e4b130396
+  bundle: article
+  default_langcode: en
+  depends:
+    7c24d703-ad76-40f5-8889-a30cb1700fd3: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Video: The Sandinista Revolution in Nicaragua'
+  created:
+    -
+      value: 1469158273
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /video-sandinista-revolution-nicaragua
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "On July 19, 1979, Sandinista troops entered Nicaragua's capital marking the victory of the Sandinista Revolution. They had defeated the repressive U.S.-backed Somoza dictatorship and were greeted by hundreds of thousands of Nicaraguans.\n\n<iframe src=\"http://media-telesur.openmultimedia.biz/player.html?the-sandinista-revolution-in-nicaragua\" width=\"100%\" height=\"320\" frameborder=\"0\" scrolling=\"no\"></iframe>\n\nVideo reposted from <a href=\"http://videos.telesurtv.net/en/video/570127/the-sandinista-revolution-in-nicaragua\" target=\"_blank\" rel=\"noopener\">Telesur</a>. Script based on an article in <a href=\"http://upsidedownworld.org/main/nicaragua-archives-62/4942-nicaragua-vive-35-years-since-the-triumph-of-the-sandinista-revolution\">UpsideDownWorld</a> by AFGJ's Chuck Kaufman.\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 7c24d703-ad76-40f5-8889-a30cb1700fd3
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

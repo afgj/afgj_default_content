@@ -1,0 +1,73 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 92c5c491-3665-4893-a4b3-7289cbef87f6
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    e291f5fc-b608-43bf-958c-d8485725315d: taxonomy_term
+    e1391c31-ce88-4beb-a12d-d58ab528ecd9: taxonomy_term
+    46c3dd60-d9ef-4093-95e7-5f3fd628dc8b: taxonomy_term
+    ff23272a-2c6a-4d3f-b137-4c19843845a6: taxonomy_term
+    0dfdb011-9c82-4762-89a0-db01e08f9fe3: taxonomy_term
+    4d58c480-4afa-42db-9320-32d1579a7036: taxonomy_term
+    47dbf152-55af-48f9-b366-923795d9a8c9: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'LA VORACIDAD DEL CAPITALISMO  NEOLIBERAL CONTRA LA VIDA COMUNITARIA DE LOS PUEBLOS'
+  created:
+    -
+      value: 1520544470
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /la-voracidad-del-capitalismo-neoliberal-contra-la-vida-comunitaria-de-los-pueblos
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"http://codepappo.org/\">Declaración de Solidaridad por el Consejo de Defensa de los Derechos del Pueblo (CODEP) y el Observatorio de los Derechos Humanos de los Pueblos (ODHP)</a>\r\n\r\n<a href=\"https://afgj.org/the-voracity-of-neoliberal-capitalism-against-the-communitarian-life-of-the-peoples\">READ IN ENGLISH</a>\r\n<p style=\"text-align: center;\"><img class=\"aligncenter size-large wp-image-9262\" src=\"https://afgj.org/wp-content/uploads/2018/03/Asamblea-de-los-pueblos-invitacion-3m-x-1-1024x512.png\" alt=\"\" width=\"752\" height=\"376\" /></p>\r\n<p style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25996\">Hace CLIC para llamar para la libertad a Fidencio Aldama, Preso Político Yaqui</a></p>\r\nSomos los hombres y mujeres que habitamos en el sur de México, principalmente\_ pueblos originarios, somos los pueblos\_ del maíz , venimos de un pasado histórico, descendientes de Zapata, Villa, Ricardo Flores Magón, en todo momento\_ nuestros\_ abuelos y abuelas resistieron la invasión europea y sobrevivieron \_al saqueo y el\_ crimen de los colonizadores, hoy resistimos a la masacre de las políticas neoliberales encabezadas por el imperialismo Yanqui y la mal llamada Unión europea, que es la unión de los imperios, de los colonizadores, somos pueblos de una herencia milenaria de lucha y resistencia.\r\n\r\nEl Sur es nuestro territorio, porque la tierra nos ofrece sus frutos como recompensa a nuestro trabajo diario, en ella nacemos y ella morimos, aquí queda: nuestro sudor y nuestro esfuerzo, también nuestros huesos quedan ahí. Nosotros en cambio cuidamos sus montañas sus ríos, venimos de la tierra y sus entrañas por eso representan lo más sagrado y la parte más importante\_ para nosotros.\r\n\r\nEn Oaxaca\_ al igual que Chiapas y Guerrero, hemos enfrentado\_ grandes batallas\_ siempre en defensa de nuestros territorios porque\_ no solo son espacios geográficos,\_ sino representan la vida comunitaria\_ y la continuidad de\_ nuestra cultura \_son espacios fundamentales donde se desarrollan: formas de organización,\_ lengua, cosmovisión, tradiciones como el tequio, gueza y nuestras\_ asambleas comunitarias en la toma de decisiones colectivas, \_ahí está nuestra identidad \_en todo momento \_y la lucha \_constante por la defensa de \_nuestros territorios.\r\n\r\nPorque tenemos claro que “ La madre\_ tierra “nos ofrece sus frutos como recompensa a nuestro trabajo diario, en ella nacemos y en ella morimos, aquí queda: nuestro sudor y nuestro esfuerzo, también nuestros huesos quedan ahí. Nosotros en cambio cuidamos sus montañas sus ríos. Venimos de la tierra y sus entrañas por eso son sagradas para nosotros de ahí obtenemos los elementos para el\_ “buen vivir de todos”.\r\n\r\nComo pueblos indígenas aglutinados en el Consejo de Defensa de los\_ Derechos del Pueblo, (CODEP), integrantes de la Asamblea de Pueblos en Defensa del\_ Territorio y la Educación Pública y Gratuita y los Derechos\_ Humanos\_ y como Movimiento Nacional del poder Popular, \_( MNPP), reivindicamos la lucha permanente\_ por la defensa de nuestros territorios y los derechos humanos, por lo que \_nos solidarizamos \_de forma fraterna\_ con la lucha de los pueblos \_Yaquis de Loma de Bacum de Sonora, \_\_que enfrentan de forma permanente los agravios\_ producidos\_ por los gasoductos una empresa multinacional al servicio del imperialismo \_que\_ al igual que en el sur de México padecemos \_el \_saqueo y despojo \_de \_nuestros \_territorios por \_los mismos, \_\_\_porque lo que \_repudiamos las\_ agresiones que están viviendo nuestros hermanos yaquis, mayos, zapotecos, mixtecos, tarahumaras o rarámuris, etc.\r\n\r\nYa que en todo el planeta y en toda\_ América Latina los pueblos indígenas sufrimos el despojo y saqueo de nuestros territorios , con esto\_\_ trastocan nuestra \_vida\_\_ comunitaria, rompen con\_ nuestra cultura como pueblos originarios, \_es absorbida por la “civilización” ( Modelo civilizatorio)\_ \_además atentan \_\_contra la soberanía de los países a continuación\_ retomo parte de \_la declaración política\_ de la\_ Asamblea de\_ los Pueblos en Defensa del Territorio la educación pública y gratuita y los derechos humanos de fecha 7 de febrero del 2016:\r\n\r\n“<strong>Afirmamos que la crisis no la provocamos los pueblos, los trabajadores, sino que es resultado de la voracidad y codicia de los grandes capitalistas y los partidos firmantes del Pacto por México (PRI, PAN, PRD) que se han postrado a sus pies para hacer leyes que les han permitido saquear todas las riquezas nacionales, entregándoselas a cambio de cuentas de vidrio, condenando a la más obscura pobreza y marginación a generaciones completas de mexicanos</strong>”\r\n\r\nLos \_mismos agravios que padecemos los pueblos del sur, sufren los pueblos originarios del norte de México, \_de\_ América Latina\_ y del mundo,\_ en Oaxaca estamos ya padeciendo daños muy graves implementado por \_“ Proyectos de muerte “ proyectos mineros, proyectos eólicos, hidroeléctricas al igual que\_ en Loma de Bacum Sonora \_se encuentra agraviado por los gasoductos, \_\_al introducir grandes tuberías en sus territorios y transportar gas metano \_están \_atentando\_ contra la vida comunitaria y de sus habitantes es lo que constatamos \_en nuestro recorrido con la “Caravana Internacional contra los muros de la infamia y contra el paramilitarismo y por los derechos humanos “ en noviembre del 2017 \_, nos dimos cuenta de la gravedad que representan los \_gasoductos\_ para los Pueblos Yaquis, pone en peligro la vida de su pueblo \_y\_ representa despojo de territorios ya que con los gasoductos implica el desplazamiento forzoso de este Pueblo indígena Yaqui de la Loma de Bacum Sonora. \_También \_nos dimos cuenta y nos alegró mucho de importantes\_ luchas que están librando en defensa de sus Territorios y han resistido de forma valiente y dignamente, sin embargo \_nos indigna \_mucho las violaciones de sus derechos humanos\_ por las graves consecuencias \_\_que sufren de forma permanente como\_ hostigamientos y represiones \_de parte de \_grupos paramilitares que\_ \_a sangre y fuego siembran el terror y el miedo\_ para la\_ imposición de \_\_estos “Proyectos de muerte” y por el encarcelamiento injusto del compañero Fidencio Aldama ¨Pérez \_que por\_ más de un año\_ Claudia Artemiza Pavlovich Arellano gobernadora del estado de Sonora lo tiene privado se su libertad.\r\n\r\nPor eso desde el <strong>Observatorio de Derechos Humanos de los Pueblos</strong>\_ (ODHP) hemos \_constituido un instrumento jurídico \_como es el ODHP para denunciar los agravios y el llamado a la unidad de los pueblos para luchar y defender\_ de forma conjunta \_nuestros territorios y recursos naturales así como la lucha por la defensa de nuestros derechos humanos y derechos colectivos como pueblos originarios, \_apegados \_en el convenio 169 de la OIT y la declaración universal de los derechos humanos y leyes de la constitución política de los\_ estados unidos mexicanos.\r\n\r\n“<strong>Para detener esta oleada destructora y saqueadora de los recursos naturales y de nuestra economía tradicional que ha dado vida e identidad a nuestros pueblos desde hace siglos, que se extiende por todo el territorio mexicano, para enfrentar con más contundencia la super explotación laboral que sufre la clase trabajadora, es necesario y urgente organizarnos desde abajo y entre todos para construir el poder del pueblo, los mecanismos de coordinación y los organismos que nos posibiliten desplegar las acciones de denuncia informativas y políticas, tanto nacional como internacionalmente, ante los organismos que en materia de derechos humanos se han destacado por su honestidad y coherencia para cumplimentar su función, para así estar en las mejores condiciones de defender nuestros territorios, el derecho a la educación pública y los derechos humanos e indígenas de nuestros pueblos</strong>”\r\n\r\nPor lo que exigimos alto a la violación de los derechos humanos y derechos colectivos de nuestros pueblos, demandamos justicia\_ contra los que han cometido crímenes hacia \_los luchadores sociales y ambientales, nunca más la impunidad para los asesinos de nuestros pueblos, \_por lo que exigimos \_\_justicia ante las instancias de impartición\_ de justicia \_\_y el respeto irrestricto \_por \_la autonomía y autodeterminación de nuestros pueblos.\r\n\r\nTodos\_ a construir el Poder Popular\_ como \_único camino\_ para\_ la lucha de\_ liberación de nuestros pueblos y la unidad como eje fundamental para las luchas de resistencia y\_ de transformación.\r\n\r\nNuestro respaldo total\_ y la solidaridad peramente con la noble lucha de los pueblos Yaquis de Loma de Bacum de Sonora y exigimos la libertad inmediata del compañero Fidencio Aldama Pérez preso por la defensa de su territorio.\r\n\r\nHacemos un reconocimiento especial y de agradecimiento a los compañeros\_\_ y compañeras de Alianza por la Justicia Global,\_ para James Patrick\_ Jordán que en todo momento se solidarizan con las causas justas, por supuesto también a Eduardo\_ García y demás compañeros de Soa watch, ambas organizaciones de derechos humanos\_ que desde Estados Unidos se solidarizan con los pueblos indígenas que libran batallas en pro de la defensa de sus derechos humanos y derechos indígenas, además que James y Eduardo forman parte del Observatorio de Derechos humanos de los Pueblos.\r\n\r\n&nbsp;\r\n\r\n“Por la\_ Defensa de los Derechos del Pueblo”\r\n\r\n“ Construyendo el Poder Popular”\r\n\r\nSoledad Ortiz Vásquez, portavoz de CODEP, MNPP, y ODHP\r\n\r\nConsejo de Defensa de los Derechos del Pueblos\_\_\_ ( CODEP)\r\n\r\nAsamblea de Pueblos en Defensa del Territorio, la Educación\_ Publica y Gratuita y los\_ Derechos Humanos.\r\n\r\nMovimiento Nacional del Poder Popular\_ ( MNPP)\r\n\r\nObservatorio de Derechos Humanos\_ de los Pueblos.\_\_\_ ( ODHP)\r\n\r\n&nbsp;\r\n\r\nOaxaca, México a 8 de marzo del 2018.\r\n\r\n<img class=\"aligncenter size-full wp-image-9263\" src=\"https://afgj.org/wp-content/uploads/2018/03/download.jpg\" alt=\"\" width=\"200\" height=\"209\" />"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: e291f5fc-b608-43bf-958c-d8485725315d
+    -
+      entity: e1391c31-ce88-4beb-a12d-d58ab528ecd9
+    -
+      entity: 46c3dd60-d9ef-4093-95e7-5f3fd628dc8b
+    -
+      entity: ff23272a-2c6a-4d3f-b137-4c19843845a6
+    -
+      entity: 0dfdb011-9c82-4762-89a0-db01e08f9fe3
+    -
+      entity: 4d58c480-4afa-42db-9320-32d1579a7036
+    -
+      entity: 47dbf152-55af-48f9-b366-923795d9a8c9
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b7806085-77d1-4f80-b4e5-403037919053
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'The Marriage of Neoliberalism and Militarism'
+  created:
+    -
+      value: 1310570416
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /marriage-neoliberalism-and-militarism
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Course:</strong> The Marriage of Neoliberalism and Militarism\r\n<strong>Instructor:</strong> Jon Hunt \r\n<strong>Duration:</strong> 5 weeks, online\r\n<a href=\"https://org2.democracyinaction.org/o/7315/t/13086/shop/shop.jsp?storefront_KEY=430\">Click here to register now!</a>\r\n\r\n<strong>Description:</strong> \r\nIn order to effectively confront militarism, an activist must be able to clearly show just how pervasive and ingrained militarism is in our society.  In authoritarian societies, the security state is blatantly promoted as necessary for societies' survival.  In so-called democratic societies, people are conditioned differently to accept a militarized society.  In the U.S. a culture of consumption is used to gain support for a security state that exists primarily to ensure the continued spread of neoliberalism.  This course will examine ties between militarism and neoliberalism, particularly in the U.S., and explore means of exposing and severing those ties.  Using a variety of methods, we will discuss the ability of an economic class to effectively use the world's largest military machine to achieve, in the words of the U.S. military itself, “full spectrum dominance.”  The neoliberal doctrine, also known as the Washington Consensus, uses both economic and military power to dominate societies around the world.  Showing the connections between the two is key in opening the eyes of your audience and introducing them to forms of resistance.\r\n\r\n<strong>Skills/understanding that activists will have for organizing and opposing militarism after taking this course:</strong>\r\n\r\n<ul>\r\n\t<li>Understanding of the tools needed to acquire relevant information and the skills to package that information to best suit their audiences</li>\r\n\t<li>Knowledge of the connections between culture, economics and militarism, as well as how to relate these topics to other issues such as climate change, participatory democracy and non-violent resistance.</li>\r\n\t<li>Deeper understanding of the extent to which our society is militarized, and be capable of conveying that understanding to others and creating campaigns to oppose it</li></ul>\r\n\r\n<strong>About the Instructor: Meet Jon Hunt</strong>\r\nJon Hunt has been an activist and community educator for 15 years. He has educated and organized on a variety of topics, including militarism, the death penalty/prison industrial complex, economic globalization, non-violent resistance and alternative communities. He is currently completing a self-designed Master's program in Global Governance, with a strong focus on conflict and globalization. He published a regional newspaper for 5 years and spent 6 months in federal prison as a result of civil disobedience in the campaign to close the School of the Americas. Jon is also a 2001 graduate of Z Media Institute (ZMI), an intensive program on media, politics and organizing."
+      format: full_html
+      summary: ''

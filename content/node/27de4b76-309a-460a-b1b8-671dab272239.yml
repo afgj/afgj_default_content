@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 27de4b76-309a-460a-b1b8-671dab272239
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Public Service Annoucement'
+  created:
+    -
+      value: 1380113393
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /public-service-annoucement
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Here is a sample PSA to share with your local progressive radio station, or podcast, along with a little introduction you can send along.\r\n\r\n<strong>Intro:</strong>\r\n\r\nI would like to submit a PSA for the Tear Down the Walls National Gathering.\_ I am ________, \_and I work in conjunction with \_the Alliance for Global Justice, \_a 501 c3 organization.\_ AfGJ is an international solidarity organization, with a focus on Latin America.\r\n\r\nThank you very much for your consideration.\_ Following is the PSA we would like to submit, which I timed at 30 seconds:\r\n\r\n<strong>\_</strong>\r\n\r\n<strong>PSA:</strong>\r\n\r\nMark you calendars for the Tear Down the Walls National Gathering in Tucson, Arizona November 1st through 3rd —the year's largest gathering of social justice activists in the US. Don't miss out! Let's tear down the walls of oppression and open new pathways to peace, justice and a better world! For more info go to <a href=\"https://afgj.org/\">www.afgj.org</a> or call <a href=\"tel:202-540-8336\">\_202-540-8336\_</a> .\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''

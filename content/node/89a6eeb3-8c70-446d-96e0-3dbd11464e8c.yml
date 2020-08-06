@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 89a6eeb3-8c70-446d-96e0-3dbd11464e8c
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Oct Venezuela Webinar (Recording and Transcript)'
+  created:
+    -
+      value: 1540895117
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /oct-venezuela-webinar-recording-and-transcript
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1>Fighting the International Media's Economic War on Venezuela</h1>\r\n[caption id=\"attachment_10925\" align=\"alignleft\" width=\"240\"]<img class=\"size-full wp-image-10925\" src=\"https://afgj.org/wp-content/uploads/2018/10/unnamed-7.jpg\" alt=\"\" width=\"240\" height=\"240\" /> Joe Emersberger[/caption]\r\n\r\n<strong>October's Venezuela Webinar is with presenter Joe Emersberger,</strong>\_Canadian Engineer and UNIFOR member with Ecuadorian roots who has written primarily for FAIR.org, Counterpunch Telesur, and Znet. His latest piece on VenezuelaAnalylsis.org is titled \"<a href=\"https://default.salsalabs.org/T441efacf-40b6-4465-ad39-4fbc45f37b0f/68231400-e816-4141-ac52-d48cb0c46903\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T441efacf-40b6-4465-ad39-4fbc45f37b0f/68231400-e816-4141-ac52-d48cb0c46903&amp;source=gmail&amp;ust=1540484132605000&amp;usg=AFQjCNEEMEBO2Jj8TpjCTx8sOnAR4xjxHg\">Trump's Economic Sanctions Have Cost Venezuela About $6bn Since August 2017.</a>\"\r\n\r\nEmersberger\_provides us with an excellent primer for those just being introduced to US-Venezuela relations.\r\n<h2>Listen here\_(<a href=\"https://www.dropbox.com/s/40bthi0f5ire2ii/Oct-JoeEmersberger%20%28audio%29.mp3?dl=0\" target=\"_blank\" rel=\"noopener\">link to audio</a>)</h2>\r\n<h2>Transcript <a href=\"https://zcomm.org/zblogs/transcript-of-a-talk-i-gave-on-fighting-the-medias-propaganda-campaign-against-venezuelas-govenment/\" target=\"_blank\" rel=\"noopener\">here</a></h2>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

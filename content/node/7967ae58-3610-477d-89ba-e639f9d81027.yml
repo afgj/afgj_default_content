@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 7967ae58-3610-477d-89ba-e639f9d81027
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicanotes: Senators, You Need to Deny the NICA Act'
+  created:
+    -
+      value: 1515000403
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-senators-you-need-deny-nica-act-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-7994 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/08/nicanotesbannerwbyline2.jpg\" alt=\"Nincanotes : A blog about nicaragua by solidarity activists\" width=\"594\" height=\"196\" />\n<p class=\"gmail-MsoNormal\" style=\"text-align: left;\" align=\"center\"><strong>By Brian Willson</strong></p>\n<p class=\"gmail-MsoNormal\">The NICA Act, which would attempt to cut Nicaragua off from multilateral loans (World Bank, IMF, etc.), which passed the House several months ago has been introduced in the Senate with the surprise backing of Democratic Senators Leahy (VT) and Durbin (IL) which greatly increases its chances of passage. The Alliance for Global Justice and Friends of the ATC (Rural Workers Association) are spearheading opposition to the NICA Act with an organizational sign-on letter and an online Alert that will automatically <a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25696\">send a message to the two Senators</a> of residents of US states. If your group would like to sign on to the organizational/prominent individual letter, send an email to <a href=\"mailto:Chuck@AFGJ.org\">Chuck@AFGJ.org</a> and we will send you the text of the letter.</p>\n<p class=\"gmail-MsoNormal\">Brian Willson, a veteran who lost his legs blocking a train carrying a US shipment of arms for the Contras, now lives in Nicaragua. Our guest blog this week is his letter to US Senators. Feel free to use Brian’s letter as talking points for your own letter to your Senators or for letters-to-the-editor and other efforts to defeat the despicable NICA Act.</p>\n\n\n<hr />\n<p class=\"gmail-MsoNormal\">January 1, 2018</p>\n<p class=\"gmail-MsoNormal\">Dear US Senators,</p>\n<p class=\"gmail-MsoNormal\">In 1989, US President Bush I, on several occasions informed the Nicaraguan people that if they did not vote for the US-created and-funded candidate to be their President, in the 1990 scheduled elections, the ten-year US devastating Contra terrorist war and the crippling economic embargo would continue unabated. By that time tiny Nicaragua had suffered from over 30,000 dead with thousands more maimed, and the economy and infrastructure was in runs.</p>\n<p class=\"gmail-MsoNormal\">Thus, ushered in sixteen years of conservative governments imposing severe structural adjustments with accompanying dramatic cutbacks in social programs, deepening the country’s indebtedness, while plunging Nicaragua from 60<sup>th</sup> to 116<sup>th</sup> in human underdevelopment, becoming the poorest nation in the Americas after Haiti.</p>\n<p class=\"gmail-MsoNormal\">In the November 2006 elections, the Sandinista once again regained electoral power, though it inherited a huge debt, vast electricity blackouts, increased numbers of impoverished citizens, and a woefully inadequate education and health care system. Popular enough to be re-elected in 2011, and again in 2016, the Sandinista government has become economically stable, attracting investments, and dramatically increasing expenditures for domestic social needs.</p>\n<p class=\"gmail-MsoNormal\">Dependable electricity now reaches 90 percent of the population, now approaching 75 percent from renewable energy. New roads are being constructed throughout the country with help of international loans, well used public parks are lit at night and have wi-fi.</p>\n<p class=\"gmail-MsoNormal\">Because Nicaragua is one of the safest countries in Central America, it has become a popular tourist destination with low violence, drug and homicide rates. The US State Department’s Nicaragua 2017 Crime &amp; Safety Report concludes that “Nicaragua has low overall reported crime rates” with a reduced homicide rate at 8/100,000 inhabitants.</p>\n<p class=\"gmail-MsoNormal\">The 2017 national municipal November elections were observed by the OAS who concluded the voting occurred in a tranquil, peaceful manner.</p>\n<p class=\"gmail-MsoNormal\">The latest World Bank report on Nicaragua clearly concludes that the Nicaraguan government, led by the Sandinistas under President Ortega since 2007, but especially since 2010, have achieved a remarkable turnaround in reducing poverty and inequality, raising productivity, diversifying economic vibrancy, while promoting greater economic and social security.</p>\n<p class=\"gmail-MsoNormal\">Its Nicaragua Overview report, updated October 10, 2017 (<a href=\"http://www.worldbank.org/en/country/nicaragua/overview\">http://www.worldbank.org/en/country/nicaragua/overview</a>), concludes:</p>\n<p class=\"gmail-MsoNormal\"><i>Despite global economic turbulence, Nicaragua has stood out for maintaining growth levels above the average for Latin America and the Caribbean. Disciplined macroeconomic policies, combined with a steady expansion of exports and foreign direct investment, helped Nicaragua to weather the global economic crisis of 2008-09 and rising food and oil prices.</i></p>\n<p class=\"gmail-MsoNormal\"><i>In 2011, growth hit a record 5.1 percent, slowing to 4.9 and 4.7 in 2015 and 2016, respectively. For this year, the forecast is 4.6 percent, which is why Nicaragua ranks second in growth among Central American countries, with favorable prospects for foreign direct investment and trade.</i></p>\n<p class=\"gmail-MsoNormal\"><i>Nicaragua’s macroeconomic stability has allowed the country’s decision makers to shift from crisis control mode to longer-term, pioneering strategies to fight poverty, particularly in remote rural communities.….According to the 2014 Standard of Living Survey by the National Development Information Institute, between 2009 and 2014 general poverty in Nicaragua dropped from 42.5 percent to 29.6 percent; while in the same period extreme poverty fell from 14.6 to 8.3 percent.</i></p>\n<p class=\"gmail-MsoNormal\">Despite Nicaragua’s accomplishments in achieving economic stability and growth, its attention to a democratic process, its leading position in implementing renewable energy, efforts at alleviating poverty, all this especially when compared to other Central American nations, the US political establishment and the main stream media continue to demonize the country and its government.</p>\n<p class=\"gmail-MsoNormal\">This further demonstrated by the 2017 Nicaraguan Investment Conditionality Act (NICA) which singles out Nicaragua for punishment.\_<b>(</b><a href=\"https://www.congress.gov/bill/115th-congress/house-bill/1918)\">https://www.congress.gov/bill/115th-congress/house-bill/1918)</a>. This act introduced by retiring Rep. Ros-Lehtinen [R-FL-27], recently passed the House without discussion, and was sent to the Senate on October 4, 2017. Its intention is to punish Nicaragua as it requires the US to oppose any and all international loans to Nicaragua because it claims that (1) Nicaragua does not hold free elections, (2) is anti-democratic, (3) does not abide by rule of law, (4) does not respect freedom of expression, (5) is ignoring corruption, and (6) does not protect rights of political parties. The facts on the ground refute each one of these allegations.</p>\n<p class=\"gmail-MsoNormal\">The NICA Act has been supported by members of the MRS Party in Nicaragua comprised of a small number of embittered ex-Sandinistas who are willing to destroy the incredible gains made by the Sandinistas in the last eight years to satisfy their needs for a kind of vengeance. This Act has no place in furthering respectful diplomacy and honoring current advances in Nicaragua, or upholding the principles of international law.</p>\n<p class=\"gmail-MsoNormal\">This Act should be refuted, and denied passage.</p>\n<p class=\"gmail-MsoNormal\">Sincerely,</p>\n<p class=\"gmail-MsoNormal\">S. Brian Willson</p>\n\n\n<hr />\n<p class=\"gmail-MsoNormal\"><b>BRIEFS</b></p>\n\n<ul>\n \t<li class=\"gmail-MsoNormal\">In the first 11 months of 2017 Nicaragua reported 400 homicides, the lowest in Central America. Fifty-one of the homicides were women, 50 of which were committed by men. Only Costa Rica came close to Nicaragua’s low murder rate, reporting 541 homicides, while the Northern Triangle of Guatemala, El Salvador and Honduras reported 4,087, 3,610, and 3,477 respectively. Honduran human rights groups question the accuracy of the government’s count. Women’s groups were concerned that the number of femicides did not fall in 2017. (El Nuevo Diario, Dec. 27, 28)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

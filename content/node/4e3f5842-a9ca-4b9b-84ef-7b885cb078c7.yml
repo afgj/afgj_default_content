@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4e3f5842-a9ca-4b9b-84ef-7b885cb078c7
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'ACT NOW! Tell Trump and Congress: Don’t Recognize Honduran Election Results'
+  created:
+    -
+      value: 1512493285
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /act-now-tell-trump-and-congress-dont-recognize-honduran-election-results-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<div id="08c4bceb-685a-4e05-8061-b135c2bc98f1"><script type="text/javascript" src="https://default.salsalabs.org/api/widget/template/b086474f-9119-4f38-b1fe-354310aabae2/?tId=08c4bceb-685a-4e05-8061-b135c2bc98f1" ></script></div>'
+      format: full_html
+      summary: ''

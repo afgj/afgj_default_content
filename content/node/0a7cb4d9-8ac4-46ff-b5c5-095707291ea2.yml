@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 0a7cb4d9-8ac4-46ff-b5c5-095707291ea2
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Community Defense Media 101 (Policing the Police)'
+  created:
+    -
+      value: 1313749217
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /community-defense-media-101-policing-police
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Course:</strong> Community Defense Media 101 (Policing the Police)\r\n<strong>Instructor:</strong> Jason Aragon\r\n<strong>Duration:</strong> 5 weeks, online\r\n<a href=\"https://org2.democracyinaction.org/o/7315/t/13086/shop/shop.jsp?storefront_KEY=430\">Click here to register now!</a>\r\n\r\n<strong>Description:</strong> \r\nDrawing from his experience in Arizona, the epicenter for border militarization, Aragon will teach the necessary skills to police the police. Learn to use media as a tool and resource for affected communities under severe law enforcement repression and exploitation. The course will cover your media rights when videotaping law enforcement officers, organizing effective abuse documentation methods, techniques used to do effective cop watch and an overview of basic video production. There will also be a brief examination of Arizona militarization and it’s effect on media and communities.\r\n\r\n<strong>Skills/understanding that activists will have for organizing and opposing militarism after taking this course:</strong>\r\n\r\n<ul>\r\n\t<li>Basic video production skills</li>\r\n\t<li>Knowledge of your rights when videotaping law enforcement</li>\r\n\t<li>Ability to use media as a tool to protect oppressed communities</li></ul>\r\n\r\n<strong>About the Instructor: Meet Jason Aragon</strong>\r\nJason Michael Aragon has been a video maker and activist with the collective Pan Left Productions since 2005 in Tucson. His documentary work examines the local effects militarization has on the border region and his videos have been featured in several film festivals and several networks such as PBS, CNN, and Democracy Now. He has also been an educator teaching workshops and video classes for youth, and organizes the Migra Patrol Cop-Watch with Tucson human rights group <a href=\"http://www.derechoshumanosaz.net/\">Coalición de Derechos Humanos</a>.\r\n"
+      format: full_html
+      summary: ''

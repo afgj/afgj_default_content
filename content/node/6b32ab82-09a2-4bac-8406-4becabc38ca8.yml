@@ -1,0 +1,53 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 6b32ab82-09a2-4bac-8406-4becabc38ca8
+  bundle: mt_showcase
+  default_langcode: en
+  depends:
+    e1dd4bd3-78b0-4208-9daa-5f5ab08f9df3: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: false
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Sixth Showcase'
+  created:
+    -
+      value: 1527152431
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_shw_body:
+    -
+      value: "<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas <a href=\"#\">state of the art interfaces</a>. Quickly enable prospective technology rather than open-source technologies.</p>\r\n\r\n<blockquote>Completely parallel task market positioning interfaces through visionary niche markets, proactively incentivize sticky quality vectors before future-proof internal or \"organic\" sources.</blockquote>\r\n\r\n<p>Seamlessly procrastinate proactive outsourcing whereas wireless products. Progressively leverage existing 24/365 experiences through timely initiatives. Quickly facilitate frictionless ROI rather than equity invested solutions.</p>\r\n\r\n<h3>Showcase specifics</h3>\r\n\r\n<p>Compellingly <a href=\"#\">recaptiualize enterprise-wide web-readiness</a> for robust strategic theme areas. Synergistically reconceptualize user-centric functionalities via revolutionary strategic theme areas. Progressively transition out-of-the-box leadership skills rather than top-line and <a href=\"#\">this is a hover link</a>.</p>\r\n"
+      format: basic_html
+      summary: 'Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies. Appropriately communicate adaptive imperatives rather than value-added potentialities.'
+  field_mt_shw_image:
+    -
+      entity: e1dd4bd3-78b0-4208-9daa-5f5ab08f9df3
+      alt: 'Sixth Showcase'
+      title: ''
+      width: 1280
+      height: 690
+  field_mt_shw_subtitle:
+    -
+      value: 'Business Development'

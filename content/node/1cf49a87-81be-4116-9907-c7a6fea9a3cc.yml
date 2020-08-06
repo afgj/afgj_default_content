@@ -1,0 +1,57 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 1cf49a87-81be-4116-9907-c7a6fea9a3cc
+  bundle: article
+  default_langcode: en
+  depends:
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+    e0593a45-4ad9-49e8-8367-2686236d6a5a: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Brilliant Interview with Nicaraguan Ambassador Francisco Campbell'
+  created:
+    -
+      value: 1590155807
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /brilliant-interview-nicaraguan-ambassador-francisco-campbell
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<div>\r\n<div><b>Francisco Campbell, Nicaraguan Ambassador to the U.S.,</b> held a terrific and very informative conversation with Teri Mattson, who heads up Code Pink’s Latin America work.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div><a data-saferedirecturl=\"https://www.google.com/url?q=https://youtu.be/H6PzkbqqAnE&amp;source=gmail&amp;ust=1590266292775000&amp;usg=AFQjCNFykX5f2xE3gnOpnf4kG5O3PxwG9g\" href=\"https://youtu.be/H6PzkbqqAnE\" id=\"m_-4110688823314863684m_-3657822118675634806LPNoLP739711\" rel=\"noopener noreferrer\" target=\"_blank\">https://youtu.be/H6PzkbqqAnE</a></div>\r\n\r\n<div><b>&nbsp;</b></div>\r\n\r\n<div><b>Francisco Campbell, a Creole from Nicaragua’s Caribbean coast</b>, gives an inspiring account of the achievements of the Sandinista revolution, including for the Indigenous peoples and African descendants living in the autonomous zones. He describes Nicaragua's response to the Covid-19 pandemic in the context of its ongoing deployment of healthcare workers in the poor, rural areas of Nicaragua.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>In this fast moving one-hour conversation, Francisco Campbell brilliantly explains how U.S. sanctions are a continuation of the U.S. war against an independent Nicaragua whose policies have dramatically reduced poverty, while empowering the poor to play an active role in Nicaragua's participatory democracy.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div><a data-saferedirecturl=\"https://www.google.com/url?q=https://youtu.be/H6PzkbqqAnE&amp;source=gmail&amp;ust=1590266292775000&amp;usg=AFQjCNFykX5f2xE3gnOpnf4kG5O3PxwG9g\" href=\"https://youtu.be/H6PzkbqqAnE\" id=\"m_-4110688823314863684m_-3657822118675634806LPNoLP327370\" rel=\"noopener noreferrer\" target=\"_blank\">https://youtu.be/H6PzkbqqAnE</a></div>\r\n\r\n<div><b><i>&nbsp;</i></b></div>\r\n\r\n<div><b><i>Peace and Solidarity with Nicaragua! </i></b></div>\r\n\r\n<div><b><i>End U.S. Sanctions Now!</i></b></div>\r\n</div>\r\n"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+  field_mt_slideshow:
+    -
+      value: false
+  field_mt_slideshow_image:
+    -
+      entity: e0593a45-4ad9-49e8-8367-2686236d6a5a
+      alt: WTF
+      title: ''
+      width: 1024
+      height: 576

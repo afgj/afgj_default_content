@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 4b779945-3fd4-4a05-a5ef-8c11817cbc97
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'We have a lot to offer'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<h2 class=\"text-center text--dark mb-4\">We have a lot <span class=\"text--colored\">to offer</span></h2>\r\n\r\n<p class=\"extra-large text--dark text-center pb-4\">Pretend for a moment that you don’t have to spend hours chatting with<br />\r\ndesigners. No pointless revisions.</p>\r\n\r\n<div class=\"row\">\r\n<div class=\"col-md-3\">\r\n<h5>01</h5>\r\n\r\n<div class=\"separator\">&nbsp;</div>\r\n\r\n<ul class=\"list-unstyled\">\r\n\t<li>Product exploration</li>\r\n\t<li>Performance testing</li>\r\n\t<li>Usability testing</li>\r\n\t<li>iOS and tvOS</li>\r\n\t<li>Functionality testing</li>\r\n</ul>\r\n</div>\r\n\r\n<div class=\"col-md-3\">\r\n<h5>02</h5>\r\n\r\n<div class=\"separator\">&nbsp;</div>\r\n\r\n<ul class=\"list-unstyled\">\r\n\t<li>Product exploration</li>\r\n\t<li>Performance testing</li>\r\n\t<li>Usability testing</li>\r\n\t<li>iOS and tvOS</li>\r\n\t<li>Functionality testing</li>\r\n</ul>\r\n</div>\r\n\r\n<div class=\"col-md-3\">\r\n<h5>03</h5>\r\n\r\n<div class=\"separator\">&nbsp;</div>\r\n\r\n<ul class=\"list-unstyled\">\r\n\t<li>Product exploration</li>\r\n\t<li>Performance testing</li>\r\n\t<li>Usability testing</li>\r\n\t<li>iOS and tvOS</li>\r\n\t<li>Functionality testing</li>\r\n</ul>\r\n</div>\r\n\r\n<div class=\"col-md-3\">\r\n<h5>04</h5>\r\n\r\n<div class=\"separator\">&nbsp;</div>\r\n\r\n<ul class=\"list-unstyled\">\r\n\t<li>Product exploration</li>\r\n\t<li>Performance testing</li>\r\n\t<li>Usability testing</li>\r\n\t<li>iOS and tvOS</li>\r\n\t<li>Functionality testing</li>\r\n</ul>\r\n</div>\r\n</div>\r\n"
+      format: full_html
+      summary: ''

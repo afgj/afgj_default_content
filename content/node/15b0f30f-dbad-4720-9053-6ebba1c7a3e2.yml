@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 15b0f30f-dbad-4720-9053-6ebba1c7a3e2
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    0dfdb011-9c82-4762-89a0-db01e08f9fe3: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Colombia is NOT SAFE for union members – Take Action'
+  created:
+    -
+      value: 1567441528
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /colombia-not-safe-union-members-take-action
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"size-full wp-image-12068 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2019/09/colombia-not-safe-1.jpg\" alt=\"\" width=\"500\" height=\"666\" /></p>\r\nColombia remains the world’s most dangerous place to be a union organizer. The International Trade Union Confederation reports that in 2018, 34 union members were murdered. The tally for 2018 is more than double that of 2017’s 15 victims, and 2019 is on pace to surpass 2018. In one organization alone, the FENSUAGRO federation of agricultural workers, 10 of its leaders were killed between January 1 and July 12, 2019. This violence reflects a macabre trend throughout society. Since the implementation of a peace accord in November 2016, over 700 human and labor rights defenders,\_and 150 former insurgents, have been killed. Those who plan and commit these murders operate with almost complete impunity. Private death squads and\_members of the Colombian Armed Forces are responsible for the large majority of\_these aggressions. The administration of U.S. President Donald Trump has enacted policies that encourage violence and repression rather than uphold peace.\r\n<h2>Right now, we are asking you to do two things:</h2>\r\n<ol>\r\n \t<li><strong><a href=\"https://default.salsalabs.org/T13cdab97-a2d4-4284-80b9-23e2f9bda7c3/093627f5-2413-4964-95d0-65e813ec275f\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T13cdab97-a2d4-4284-80b9-23e2f9bda7c3/093627f5-2413-4964-95d0-65e813ec275f&amp;source=gmail&amp;ust=1567552906201000&amp;usg=AFQjCNG4tL2CEtjJZ8AdGlQay0XKZyBEgQ\">Help organize activities for the September 27th Day for Peace in Colombia in your city. To find out more, send an email to JAMES@AFGJ.ORG</a></strong></li>\r\n \t<li><strong>Help us get the word out on social media by sharing this post, or by copying and sharing the image above of José Eduardo Tambó, one of\_</strong><strong>the most recent FENSUAGRO leaders to have their lives cut short by anti-union violence.</strong></li>\r\n</ol>\r\n&nbsp;\r\n<h2>Background</h2>\r\nDue to Colombia’s human and labor rights crisis, the People’s Human Rights Observatory (the Alliance for Global Justice is a founding member) is calling for an International Day for Peace in Colombia on September 27, 2019. This initiative has been endorsed by global human rights defenders, including Nobel Peace Prize winner Adolfo Pérez Esquivel, former Colombian Senator Piedad Córdoba, and US intellectual and peace activist Noam Chomsky. Cities participating so far include Mexico City; Oaxaca, Mexico; Lima, Peru; Basil Switzerland; Madrid, Spain; Barcelona, Spain; and in the United States, Washington, DC, New York, San Francisco, Oakland, Miami, Chicago, Boston, Tucson, Portland (Oregon), Sacramento\r\n\r\nSeptember 27 is the World Day of Tourism. The Colombia government has ignored international pleas for an end to the violence against popular movements. However, it has worked hard to reverse the perception of Colombia as a dangerous place, promoting the country as a tourist paradise.\_On September 27, at Colombian embassies and consulates around the world, we will serve notice with the\_<a href=\"https://default.salsalabs.org/T4147542e-59f1-45da-8a5c-917e4d248686/093627f5-2413-4964-95d0-65e813ec275f\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T4147542e-59f1-45da-8a5c-917e4d248686/093627f5-2413-4964-95d0-65e813ec275f&amp;source=gmail&amp;ust=1567552906201000&amp;usg=AFQjCNEj-nbASTX6vaccWWaE7168tQ6XNw\">People’s Travel Advisory</a>\_that Colombia is not safe until its popular and labor movements are safe. We will demand an acceptable response to the Advisory and will maintain a permanent campaign until right wing political violence and repression in Colombia is ended.\r\n<h4><strong>The People’s Travel Advisory is NOT a boycott. There are responsible ways to travel to Colombia that are expressions of solidarity with the people’s desire for peace. One way is to join the US Labor Against the War and Alliance for Global Justice Delegation to Colombia November 24-December 4, 2019. For more information send an email to\_<a href=\"https://default.salsalabs.org/Tc3231cc5-04b6-449c-86a2-96ab6f8d5ea1/093627f5-2413-4964-95d0-65e813ec275f\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tc3231cc5-04b6-449c-86a2-96ab6f8d5ea1/093627f5-2413-4964-95d0-65e813ec275f&amp;source=gmail&amp;ust=1567552906201000&amp;usg=AFQjCNGhKoC4NSwjS1jVHyli3L45I6reBQ\">JAMES@AFGJ.ORG</a>\_.</strong></h4>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: 0dfdb011-9c82-4762-89a0-db01e08f9fe3
+  field_mt_slideshow:
+    -
+      value: false

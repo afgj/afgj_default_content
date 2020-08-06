@@ -1,0 +1,67 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5a8120c5-ef6c-4f26-9284-f9ac2fc8a5df
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'As the FARC-EP Disarms, Prisoners Begin Hunger Strike'
+  created:
+    -
+      value: 1498901780
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /farc-ep-disarms-prisoners-begin-hunger-strike
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "by Cody Edgerly\n\n[caption id=\"attachment_7926\" align=\"aligncenter\" width=\"580\"]<img class=\" wp-image-7926\" src=\"https://afgj.org/wp-content/uploads/2017/07/19399705_2295283510697496_6579613260130911624_n.jpg\" alt=\"\" width=\"580\" height=\"435\" /> Members of the Coordination for Human Rights in the Americas (which includes the Alliance for Global Justice) meet with political prisoners and prisoners of war who are hoping the government will honor its commitments to amnesty per the peace accords signed in Havana with the FARC-EP[/caption]\n<p style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25079\"><strong>CLICK HERE TO SIGN OPEN LETTER TO COLOMBIAN PRESIDENT JUAN MANUEL SANTOS AND POPE FRANCIS CALLING FOR IMPLEMENTATION OF THE AMNESTY FOR POLITICAL PRISONERS AND PRISONERS OF WAR</strong></a></p>\nA historic milestone was reached on Tuesday, June 27th as the oldest and most powerful insurgency group of Latin America ceased to exist as a belligerent army. The FARC-EP, which has been at war with the Colombian government for the past 54 years finished handing in the remaining arms in their control. In the capital Bogota, celebrations were held around the city to recognize this landmark step in the peace process. This solidifies the FARC’s trajectory to rejoin civil society as a legal political group. Now that the FARC has upheld its end of the deal, the government must fulfil its commitments made in the accords to maintain any hope of lasting peace.\n\nThe government sponsored many events that drove home the success of their mission, yet the veil of the official propaganda was pierced by many acts of protest around the city. The central demand of these protests is the liberation of political prisoners that the government has refused to release. On June 26th at 6:00am, thousands of prisoners in 19 different jails throughout the country began a hunger strike. Of the thousands on strike, 1,760 are political prisoners. This indefinite hunger strike is in response to the government’s unwillingness to fulfill the agreements of the peace accords.\n\nJesus Santrich, the leader of the FARC-EP, initiated and organized the strike. In a declaration made on twitter he said, “Six months after signing law the of amnesty and special penal treatments only 832 of 3,400 prisoners have been released.” He also condemned the High Commissioner of the peace, Sergio Jaramillo, for obstructing prisoner’s access to the benefits by only accrediting 900 prisoners to begin the release process.\n\nNegotiating the release of political prisoners has been one of the most controversial and difficult aspects of the peace accords. Legislators from the right oppose the release of FARC prisoners, holding them responsible for Colombia’s political violence and various atrocities. Yet, according to the Alliance for Global Justice, 70-80% of the violence during the 53 year armed uprising was committed by paramilitaries or the Colombian army. The government still does not recognize the existence of paramilitaries which threatens any hope of reconciliation for victims, or for prosecuting the worst perpetrators of violence. Many judges and prosecutors have been very active in placing limits on political prisoners through old criminal law without respect to the transitional justice system, known as the Special Peace Jurisdiction (Jurisdicción Especial para la Paz, or JEP). Jesus Santrich said that these judges have, “usurped the function of the JEP, which is the organ that must have jurisdiction.”\n\nMany of the special peace courts have still not been set up, which leaves prisoners to try their cases with conservative judges. In Chiquinquirá, a prison in the department of Boyaca, 300 political prisoners are captive within the peace process. One Prisoner, Carlos Leones Garcias, who has been in prison for the past 16 years said, “This is the form of justice from the enemy.” He went on to say, “We are victims of the state, I’m not saying this as a political position but our position according to the law.”\n\nIn solidarity with these prisoners activists are going to set up camps outside the buildings of the Colombian department of justice in Bogota, Medellin, Barranquilla, Pereira, Valledupar and Cúcuta. Now that the FARC have completely demobilized they must look to alternatives methods to find political leverage. As trust in the Colombian government continues to faltar, the international community must maintain a watchful eye on the Colombian government and ensure that they follow through on their commitments made to the Colombian people."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

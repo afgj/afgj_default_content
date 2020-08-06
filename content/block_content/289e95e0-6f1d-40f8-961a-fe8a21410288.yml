@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 289e95e0-6f1d-40f8-961a-fe8a21410288
+  bundle: basic
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Contact Info (Slideout)'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<ul class=\"icons-list icons-list--large\">\r\n\t<li><a href=\"http://www.facebook.com/morethan.just.themes/\"><i class=\"fab fa-facebook\"><span class=\"sr-only\">facebook</span></i></a></li>\r\n\t<li><a href=\"http://twitter.com/morethanthemes/\"><i class=\"fab fa-twitter\"><span class=\"sr-only\">twitter</span></i></a></li>\r\n\t<li><a href=\"http://www.linkedin.com/company/more-than-themes/\"><i class=\"fab fa-linkedin\"><span class=\"sr-only\">linkedin</span></i></a></li>\r\n</ul>\r\n"
+      format: full_html
+      summary: ''

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e7eafc60-ba7c-4761-8c9d-36ed1bb22b3b
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'On location reporting from the 24/7 vigil to defend the Venezuelan Embassy from takeover'
+  created:
+    -
+      value: 1556120815
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /location-reporting-247-vigil-defend-venezuelan-embassy-takeover
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-medium wp-image-11664 alignleft\" src=\"https://afgj.org/wp-content/uploads/2019/04/2019.-Venezuela-anti-coup-campaign-Embassy1-300x300.png\" alt=\"\" width=\"300\" height=\"300\" />\r\n<div class=\"live-message--time-title\">\r\n<div class=\"live-message--title\"><strong>Live Blog from On Location</strong></div>\r\n</div>\r\n<div class=\"live-message--message text-with-link__TextWithLink-ibGDDv fcKYNL\">\r\n\r\nAn Embassy Protection Collective has been formed to prevent the Venezuelan embassy in DC against Guido/Trump forces taking over. The collective has been dropping banners all week and installing art during the 24/7 vigil that began last week.\_ AfGJ board member and reporter with the The Nation Report, Irene Rodriguez is on location as the activists prepare to block a U.S. handover of the Venezuelan embassy in the ongoing coup attempt. Follow this live blog for updates over the next few days as we bring you her reporting and live coverage.\r\n\r\n<hr />\r\n\r\n<a href=\"https://popularresistance.org/\" target=\"_blank\" rel=\"noopener noreferrer\">PopularResistance.org</a> released an alert April 23 that called for support.\_ They continue to put a call out for support.\_ They are trying to increase people power at the Embassy. If you would like to answer that call, <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeTI92lvn3t6rg1ZLYmo0fXN8rXshvwuP1EQUiSyQeh-X2HFQ/viewform\" target=\"_blank\" rel=\"noopener noreferrer\">please connect with them here and let them know you're coming.\_</a>\r\n\r\n</div>\r\n<strong><em>Embassy Protection Collective Will Refuse To Turn Over Embassy To US Puppet Government: Arrests Expected</em></strong>\r\n\r\n<em>The next two days will be crucial for the protection of the Venezuelan embassy in Washington, DC. The Embassy Protection Collective is prepared to stay at the embassy for the foreseeable future, for as long as it takes to protect the sovereignty of Venezuela from a coup led by the United States with its fraudulent puppet government that the entire world knows is a farce — unelected and illegal under Venezuelan and international law. We stand with the Venezuelan government and their legitimately-elected president, Nicolas Maduro.</em>\r\n\r\n<em>The Embassy Protection Collective is in the embassy with the permission of the Venezuelan government. The Collective is not breaking the law but serving the people of Venezuela. If law enforcement enters the embassy without permission of the Maduro government, they will be breaking the law and invading Venezuela’s sovereign territory. This is a time when all who oppose US intervention need to show their support by doing all they can to protect the Venezuelan embassy in Washington, DC.</em>\r\n<div id=\"arena-live\" data-publisher=\"afgj.org\" data-event=\"1556138847198\" data-version=\"2\"></div>\r\n<script src=\"https://go.arena.im/public/js/arenalib.js?p=afgj.org&e=1556138847198\"></script>"
+      format: full_html
+      summary: ''

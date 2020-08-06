@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3b970203-260d-45c0-8998-c02665f5a3c3
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Register for TDTW'
+  created:
+    -
+      value: 1383234477
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /register-tdtw
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<em><span style=\"color: #000000;\">Preregistration has ended.</span></em>\r\n<h3><strong><span style=\"color: #000000;\">On-site registration begins at 10 am on Friday morning at the Tucson Convention Center at 260 S Church Ave, Tucson, AZ 85701</span></strong></h3>\r\n<em><span style=\"color: #0000ff;\">Registration fee: $45</span></em>\r\n\r\n<em><span style=\"color: #0000ff;\">Registration fee + meal ticket (breakfast and lunch for Saturday and Sunday): $70</span></em>\r\n\r\n<em><span style=\"color: #0000ff;\">Student Registration fee: $25</span></em>\r\n\r\n<em><span style=\"color: #0000ff;\">Meal tickets:</span></em>\r\n\r\n<em><span style=\"color: #0000ff;\">\_\_\_ Option 1: $25 Breakfast and lunch for Saturday and Sunday</span></em>\r\n<em><span style=\"color: #0000ff;\"> \_\_\_ Option 2: $14 Lunch only for Saturday and Sunday</span></em>\r\n\r\n<span><span style=\"color: black;\"><span><strong><span style=\"text-decoration: underline;\">Parking and Directions to the Tucson Convention Center (TCC) —</span></strong>\r\n</span></span></span>\r\n<ul>\r\n\t<li><span><span style=\"color: black;\"><span>The TCC is located at 260 S. Church in downtown Tucson (that’s between Church and Granada, south of Broadway and north of Cushing St.).\r\n</span></span></span></li>\r\n\t<li><span><span style=\"color: black;\"><span>The Registration/Info Area and main entrance for the Tear Down the Walls National Gathering is located on the west side of the TCC in the large lobby area outside of the Grand Ballroom.\r\n</span></span></span></li>\r\n\t<li><span><span style=\"color: black;\"><span>There is parking on both east and west sides of the TCC, with the west side parking lot B being the closest to that entrance.\r\n</span></span></span>\r\n<ul>\r\n\t<li><span><span style=\"color: black;\"><span>Parking costs $8 and it’s the same charge if you are there for a couple of hours or the full day. However, with a TCC parking ticket you can come and go numerous times during the same day.\r\n</span></span></span></li>\r\n\t<li><span><span style=\"color: black;\"><span>On weekends, parking is generally free in the downtown area, so if you don’t need to be concerned with parking close to the TCC, you can park nearby for free…generally across Church on\_ any of the streets that intersect with Church. On Friday, it will probably be about the same cost to park in the TCC lots as to park in nearby garages.\r\n</span></span></span></li>\r\n\t<li><span><span style=\"color: black;\"><span>If you are only coming for a couple of hours, you might want to find street parking.\r\n</span></span></span></li>\r\n</ul>\r\n</li>\r\n\t<li><span><span style=\"color: black;\"><span>Once you are on the TCC grounds, look for signs to the Tear Down the Walls gathering and Registration Area.</span></span></span></li>\r\n</ul>"
+      format: full_html
+      summary: ''

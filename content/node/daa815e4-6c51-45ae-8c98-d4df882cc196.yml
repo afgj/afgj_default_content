@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: daa815e4-6c51-45ae-8c98-d4df882cc196
+  bundle: article
+  default_langcode: en
+  depends:
+    8ec8e0dc-b6ed-4683-a718-bd2452edec59: taxonomy_term
+    0dfdb011-9c82-4762-89a0-db01e08f9fe3: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'A Blockade Against Venezuela Must be Opposed'
+  created:
+    -
+      value: 1565180720
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /blockade-against-venezuela-must-be-opposed
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<span style=\"font-weight: 400;\">US President Donald Trump signed an executive order on August 5th, 2019, “Blocking Property of the Government of Venezuela”, constituting a total embargo against the government of Venezuela. The order blocks access to all property and “interests in property” in the US. It also dares to impose sanctions on any third party, American or foreign, that cooperates in business with the Venezuelan government. These new sanctions are being imposed on top of sanctions already imposed by the US as it tries to force it's \"regime change\" on the Venezuelan people. </span><b>The Alliance for Global Justice strongly condemns in absolute terms this executive order and any embargo on the Venezuelan Government.</b>\r\n\r\n<span style=\"font-weight: 400;\">Sanctions ostensibly only target those associated with the Venezuelan Government and not the people of Venezuela. It has been shown, however, that </span><a href=\"http://cepr.net/publications/reports/economic-sanctions-as-collective-punishment-the-case-of-venezuela\"><span style=\"font-weight: 400;\">ordinary Venezuelans are the ones who are hurt the most by sanctions</span></a><span style=\"font-weight: 400;\"> imposed by the US. As recent as last month the </span><a href=\"https://venezuelanalysis.com/news/14602\"><span style=\"font-weight: 400;\">US placed sanctions on CLAP</span></a><span style=\"font-weight: 400;\">, the Venezuelan subsidized food program. It’s not the rich who suffer but it is instead the elderly grandmother who cannot get insulin for her diabetes or the child who is undernourished during an important stage of development. It is not the government officials who languish but the families who cannot afford to feed and clothe their children as a result of hyperinflation. US and Canadian sanctions are precipitating a rapid economic decline in Venezuela and ordinary Venezuelans are the primary victims.</span>\r\n\r\n<span style=\"font-weight: 400;\">The latest sanctions imposed by the US Government place Venezuela in a parallel political\_ position with North Korea, Iran, Syria, and Cuba. As </span><a href=\"https://www.wsj.com/articles/u-s-expands-sanctions-against-venezuela-into-an-embargo-11565053782\"><span style=\"font-weight: 400;\">observed by the Wall Street Journal</span></a><span style=\"font-weight: 400;\">, these sanctions are the first of their kind against a government in the western hemisphere in 30 years. </span><span style=\"font-weight: 400;\">The US actions fly</span><span style=\"font-weight: 400;\"> in the face of the fact that the vast majority of the world, </span><a href=\"https://www.venezuelasolidarity.co.uk/2019/07/23/non-aligned-movement-condemns-us-sanctions-against-venezuela/\"><span style=\"font-weight: 400;\">including two-thirds of the UN</span></a><span style=\"font-weight: 400;\"> view the government of Nicolas Maduro as the legitimate government of Venezuela.</span>\r\n\r\n<span style=\"font-weight: 400;\">These Sanctions target basically any entity in the world that cooperate in business with the Venezuelan Government and is thus an affront to international cooperation and world peace. They are a threat to the vital and necessary international support Venezuela receives across the globe, most notably from China and Russia, but which also includes a strong contingent of peace activists here in the United States.</span>\r\n\r\n<span style=\"font-weight: 400;\">Finally, these latest sanctions like the ones that came before it are </span><a href=\"http://www.aalco.int/52ndsession/EXECUTIVE%20SUMMARY.pdf\"><span style=\"font-weight: 400;\">illegal under international law</span></a><span style=\"font-weight: 400;\"> and are a form of economic war. Unilateral sanctions violate the human rights of the Venezuelan people and are </span><a href=\"https://www.telesurenglish.net/analysis/US-Sanctions-on-Venezuela-Illegal-Under-UN-OAS-and-US-Law-20190605-0031.html\"><span style=\"font-weight: 400;\">illegal under the charters of the OAS and the UN</span></a><span style=\"font-weight: 400;\">. The imposed sanctions prevent the government from borrowing money from major financial institutions and from repatriating dividends earned by state subsidiaries abroad, restricting Venezuela’s ability to import vital foods and medicines. The US and Canada hypocritically claim to be concerned about the humanitarian situation in Venezuela, while their sanctions regimes are deliberately designed to asphyxiate the Venezuelan economy.</span>\r\n\r\n<span style=\"font-weight: 400;\">As people in the US we have the responsibility to end our governments’ practice of illegal foreign intervention, including the current economic sanctions against the people of Venezuela. These sanctions are a collective punishment designed to create enough human misery and chaos to facilitate the overthrow of a democratically-elected government, including via a military coup. Economic sanctions violate Venezuela’s national sovereignty and the basic rights of Venezuelan citizens.</span>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8ec8e0dc-b6ed-4683-a718-bd2452edec59
+    -
+      entity: 0dfdb011-9c82-4762-89a0-db01e08f9fe3
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

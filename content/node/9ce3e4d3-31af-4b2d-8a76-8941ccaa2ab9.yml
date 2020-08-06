@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 9ce3e4d3-31af-4b2d-8a76-8941ccaa2ab9
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Monthly Webinar Series: Building the Commune: Radical Democracy in Venezuela'
+  created:
+    -
+      value: 1477386051
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /monthly-webinar-series-building-commune-radical-democracy-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-7078 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2016/09/VSN-webinar.jpg\" alt=\"vsn-webinar\" width=\"960\" height=\"510\" />\n<h2 class=\"p4\" style=\"text-align: center;\"><span class=\"s1\"><b>Building the Commune: Radical Democracy in Venezuela</b></span></h2>\n<p class=\"p5\" style=\"text-align: center;\"><a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=EC57D68789473B\"><span class=\"s2\"><b>Register Now</b><b>!</b></span></a></p>\n<p class=\"p4\" style=\"text-align: center;\"><span class=\"s1\"><b>for AfGJ's October Venezuela Webinar Featuring Dr George Ciccariello-Maher!</b></span></p>\n<p class=\"p6\" style=\"text-align: center;\"><span class=\"s1\"><b>When? Tuesday, October 25, 2016</b></span></p>\n<p class=\"p7\" style=\"text-align: center;\"><span class=\"s1\"><b>8:00-9:00 PM ET / 5:00-6:00 PM PT</b></span></p>\n\n<table cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"td1\" valign=\"top\">\n<p class=\"p1\"><span class=\"s1\"><b>This series of one-hour webinars on the last Tuesday of each month features scholars, Venezuela government officials, writers, solidarity activists and others with firsthand knowledge of Venezuela and US-Venezuela relations. Venezuela remains a top target of US “regime change” strategies and will remain so no matter who is elected president in November. These webinars are designed to inform and motivate solidarity with the Bolivarian process in Venezuela and to expose and oppose US intervention.</b></span></p>\n<p class=\"p1\"><span class=\"s1\">George Ciccariello-Maher is assistant professor in the Departments of Politics and Global Studies and Modern Languages at Drexel University. He is the author of We Created Chavez: A People's History of the Venezuela Revolution. His new book: Building the Commune: Radical Democracy in Venezuela, will be the topic of this one-hour webinar. Don't miss this interesting reminder about why many of us chose to be in solidarity with Venezuela's Bolivarian Process in the first place!\_</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<h2 style=\"text-align: center;\"><a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=EC57D68789473B\"><strong>Register Now!</strong></a></h2>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+  field_mt_slideshow:
+    -
+      value: false

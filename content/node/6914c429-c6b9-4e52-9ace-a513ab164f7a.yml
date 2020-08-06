@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 6914c429-c6b9-4e52-9ace-a513ab164f7a
+  bundle: article
+  default_langcode: en
+  depends:
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Delegation Report: Honduras & Nicaragua: Compare & Contrast'
+  created:
+    -
+      value: 1494853528
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /delegation-report-honduras-nicaragua-compare-contrast
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter size-full wp-image-7815\" src=\"https://afgj.org/wp-content/uploads/2017/05/32983247310_1ee3405570_o.jpg\" alt=\"\" width=\"4032\" height=\"2268\" />\n<p style=\"text-align: center;\">AFGJ's Report on our February Delegation to Honduras and Nicaragua is now available.</p>\n<p style=\"text-align: center;\">Please note, the report is posted in 2 parts; for the full report please view/download both.</p>\n<a href=\"https://org2.salsalabs.com/o/7315/images/FullReportHonduras2.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Delegation Report Part 1: Honduras</a>\n\n<a href=\"https://org2.salsalabs.com/o/7315/images/FullReportNicaragua1.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Delegation Report Part 2: Nicaragua</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

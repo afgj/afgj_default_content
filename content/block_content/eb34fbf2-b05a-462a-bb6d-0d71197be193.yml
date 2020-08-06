@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: eb34fbf2-b05a-462a-bb6d-0d71197be193
+  bundle: basic
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Language Switcher'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"language-switcher-language-url block-language\">\r\n<ul class=\"links\">\r\n\t<li><a class=\"language-link\" href=\"#\">English</a></li>\r\n\t<li><a class=\"language-link\" href=\"#\">Deutsche</a></li>\r\n</ul>\r\n</div>\r\n"
+      format: full_html
+      summary: ''

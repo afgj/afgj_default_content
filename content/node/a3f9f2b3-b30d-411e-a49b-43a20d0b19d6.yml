@@ -1,0 +1,68 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a3f9f2b3-b30d-411e-a49b-43a20d0b19d6
+  bundle: article
+  default_langcode: en
+  depends:
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    6da45e2c-de4a-40eb-bded-8a61525ab00b: taxonomy_term
+    7239ad26-1d67-4988-8a77-c339cfb988db: taxonomy_term
+    3e828d2d-3331-4ce2-81bc-5ca65d92ca91: taxonomy_term
+    4fc1051f-1220-499c-973b-96e2562efead: taxonomy_term
+    34f6bb48-fab9-42e3-9321-33fb66fe5646: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Announcing: AFGJ 2016 Delegations!'
+  created:
+    -
+      value: 1455634977
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /announcing-afgj-2016-delegations
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"aligncenter wp-image-6427 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/02/2016AFGJDelegations.jpg\" alt=\"2016AFGJDelegations\" width=\"576\" height=\"756\" /></p>\n<p class=\"p1\" style=\"text-align: center;\"><b>Email <a href=\"mailto:Delegations@AFGJ.org\">Delegations@AFGJ.org</a> for an application or more information.</b></p>\n<p style=\"text-align: center;\"><strong>Downloadable Flyer Available<a href=\"https://afgj.org/2016delegations/2016afgjdelegationssmall\"> Here</a></strong></p>\n<p class=\"p1\"><span class=\"s1\"><b>April 8-17 Venezuela: A Revolution Worth Our Solidarity</b></span></p>\n<p class=\"p1\"><span class=\"s1\">The Bolivarian Revolution, begun under the presidency of Hugo Chavez, is under attack by the US and the Venezuelan right-wing. The new president of the National Assembly has vowed to drive democratically elected President Nicolas Maduro from office within six months. Travel with us over the anniversary of the 2002 Apr. 11-13 coup against President Chavez to see for yourself the advances the people of Venezuela won for themselves since 1999 and the threats to those gains being perpetrated today. AfGJ Board Member Banbose Shango will lead the delegation. He has traveled to Venezuela numerous times and has special expertise and ties with the Afro-descended population. Meetings will be organized with government and popular movements such as students, women, cooperatives, and unionists with the goal that participants will come home fired up about what is at stake in this struggle and the role of the US in funding and training the violent opposition. Price:$1400</span></p>\n<p class=\"p1\"><span class=\"s1\"><b>May 22-June 1\_- Delegation of Accompaniment in Support of Colombia’s Peace Process</b></span></p>\n<p class=\"p1\"><span class=\"s1\">Join AfGJ National Co-Coordinator James Jordan on this important human rights accompaniment delegation during a time when it looks like the 50 year old civil will end in a negotiated peace. We will begin the delegation in Bogota, the capitol city of Colombia, where we will receive an orientation about accompaniment, and where we will meet with labor,\_student and popular movement representatives. We will\_</span><span class=\"s1\">then send teams to Tolima and Huila or to La Guajira on the Caribbean coast where we will spend several days hosted by Fensuagro’s affiliates and the human rights organization, Lazos de Dignidad (Links of Dignity). Fensuagro is the largest farm workers union in Colombia. We also plan to visit one of the US funded prisons in the area, and will meet with current and former political prisoners. Price: $1400</span></p>\n<p class=\"p1\"><span class=\"s1\"><b>June 27-July 6 – Honduras: Human Rights Accompaniment for Communities in Struggle</b></span></p>\n<p class=\"p1\"><span class=\"s1\">Since the June 28, 2009 coup, Honduras has become a virtual failed state where the ruling party’s police and military operate with total impunity, foreign mining and tourism industries poison the land and appropriate indigenous land, and where local elites threaten and kill agricultural cooperatives in order to expand African Palm plantations to provide palm oil to the US market. One group that is still untouchable is foreigners, especially foreigners from North America. This delegation will be led by AfGJ National Co-Coordinator Elane Spivak-Rodriguez and Honduras Solidarity Network Coordinator Karen Spring. Price: $1,100</span></p>\n<p class=\"p1\"><span class=\"s1\"><b>August 5-14 Nicaragua: Is the US still interfering in Nicaragua’s democracy?</b></span></p>\n<p class=\"p1\"><span class=\"s1\">Nicaragua will elect a president and national assembly in November 2016. In past elections, the US has intervened massively through the National Endowment for Democracy and USAID to prevent a Sandinista victory. AfGJ/Nicaragua Network takes delegations several months in advance of Election Day to investigate and expose US intervention in Nicaragua’s democratic elections. Join AfGJ National Co-Coordinator Chuck Kaufman, who has almost three decades of solidarity experience with Nicaragua. We will also meet with popular movements and government representatives to learn why Nicaraguans are not among the flood of refugees trying to enter the US. We’ll learn why Nicaragua is still the “threat of a good example” that Oxfam called it in the 1980s. Price $1,050</span></p>\n<p class=\"p1\"><span class=\"s1\"><b>November 11-20\_– Why is the US Building Prisons in Mexico?</b></span></p>\n<p class=\"p1\"><span class=\"s1\">AfGJ National Co-Coordinator James Jordan coined the phrase “prison imperialism” while researching the role of the US Bureau of Prisons in building and overseeing one of Colombia’s most notorious prisons. He found that the US was pushing its model of mass incarceration in 25 countries. In Colombia and Mexico, where AfGJ has focused its studies, US involvement has resulted in a spike in human rights abuses and arrests of political prisoners. This delegation will begin in Tucson, AZ where it will learn about border militarization and criminalization of migration. It will travel overland to Hermosillo, Mexico where the country’s first private, for profit prison has been constructed. The delegation will then fly to Mexico City and also to the state of Oaxaca . Delegates will meet with prison activists, migrant advocacy groups, and others. Price: TBA</span></p>\n<p class=\"p3\"><span class=\"s1\"><b>January 6-15, 2017\_– Paraguay: Land of Inequality and Food Insecurity</b></span></p>\n<p class=\"p1\"><span class=\"s1\">Novelist\_Augusto Roa Bastos\_once described\_his native and insular Paraguay\_as “an island surrounded by land”.\_AfGJ Board Member John Ocampo will lead this first-time AfGJ delegation to Paraguay, a little-known country to US solidarity activists, students, and Latin American Studies departments.\_Paraguay has the most unequal land distribution in the world and its agro-export model leaves little land to grow food for its own people, earning the country the label of \"Soy Republic.\"\_Learn with AfGJ about struggles by popular organizations for economic equality and food sovereignty. Price: TBA</span></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false
+  field_tags:
+    -
+      entity: 6da45e2c-de4a-40eb-bded-8a61525ab00b
+    -
+      entity: 7239ad26-1d67-4988-8a77-c339cfb988db
+    -
+      entity: 3e828d2d-3331-4ce2-81bc-5ca65d92ca91
+    -
+      entity: 4fc1051f-1220-499c-973b-96e2562efead
+    -
+      entity: 34f6bb48-fab9-42e3-9321-33fb66fe5646

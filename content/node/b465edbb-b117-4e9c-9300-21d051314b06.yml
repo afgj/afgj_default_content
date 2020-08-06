@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b465edbb-b117-4e9c-9300-21d051314b06
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly 5.19.2018: ALBA Countries Condemn Israeli Massacre; Venezuela Votes May 20'
+  created:
+    -
+      value: 1526892176
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-5192018-alba-countries-condemn-israeli-massacre-venezuela-votes-may-20
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter size-large wp-image-9751\" src=\"https://afgj.org/wp-content/uploads/2018/05/venweekly519-1024x835.png\" alt=\"Evo Morales Quotes\" width=\"752\" height=\"613\" />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Bolivias-Evo-Morales-Decries-Genocidal-Israel-Rejects-US-Embassy-Move-to-Jerusalem-20180515-0015.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Bolivias-Evo-Morales-Decries-Genocidal-Israel-Rejects-US-Embassy-Move-to-Jerusalem-20180515-0015.html&amp;source=gmail&amp;ust=1526981553658000&amp;usg=AFQjCNFYTzC1PPRxrTTFeG212RAwHT880A\">Bolivia’s Evo Morales Decries ‘Genocidal’ Israel, Rejects US Embassy Move to Jerusalem</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://en.granma.cu/cuba/2018-05-15/statement-by-the-revolutionary-government-cuba-condemns-fresh-attacks-by-israel-against-the-palestinian-people\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://en.granma.cu/cuba/2018-05-15/statement-by-the-revolutionary-government-cuba-condemns-fresh-attacks-by-israel-against-the-palestinian-people&amp;source=gmail&amp;ust=1526981553658000&amp;usg=AFQjCNEBxOHvr-kKFRPakE1GVJ861F827A\">Cuba Condemns New Attacks by Israel on the Palestinian People</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/analysis/13816\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://venezuelanalysis.com/analysis/13816&amp;source=gmail&amp;ust=1526981553658000&amp;usg=AFQjCNEL4re-iXJHphoOgTYCESCCG6yW1g\">Venezuela Condemns Israeli Violence Against Palestinians, Calls for Right of Return</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://www.thedawn-news.org/2018/05/18/we-the-chavista-people-will-continue-building-the-project-of-chavez/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.thedawn-news.org/2018/05/18/we-the-chavista-people-will-continue-building-the-project-of-chavez/&amp;source=gmail&amp;ust=1526981553658000&amp;usg=AFQjCNGQ1XuaWimuqcne3yRyKR_vAotDZg\">Interview with Leader of Venezuela’s\_ Corriente Revolucionaria Bolívar y Zamora</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://www.thedawn-news.org/2018/05/17/we-must-remain-strong-and-committed-in-our-project-of-building-socialism/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.thedawn-news.org/2018/05/17/we-must-remain-strong-and-committed-in-our-project-of-building-socialism/&amp;source=gmail&amp;ust=1526981553658000&amp;usg=AFQjCNH6X810n-9pJVPFxPX8ZeGszUFuqw\">Interview with Leader of\_Chavismo Bravio and Frente Cultural Izquierda\_</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://morningstaronline.co.uk/article/venezuela-under-us-attack\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://morningstaronline.co.uk/article/venezuela-under-us-attack&amp;source=gmail&amp;ust=1526981553658000&amp;usg=AFQjCNFEIxIqsvbpCuokrNSLOPVbg5IjxQ\">Francisco Dominguez: Venezuela Under an Escalating US Attack</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Canada-Accused-of-Violating-Rights-Prohibits-Venezuelan-Vote-20180516-0029.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Canada-Accused-of-Violating-Rights-Prohibits-Venezuelan-Vote-20180516-0029.html&amp;source=gmail&amp;ust=1526981553658000&amp;usg=AFQjCNEzCKOw65Rv1OmCCd7nJ9q8PQjXIw\">Canada Refuses Venezuelans in Canada from Voting in May 20 Election</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://mltoday.com/venezuela-on-the-eve-of-presidential-elections-the-us-empire-isnt-sitting-by-idly/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://mltoday.com/venezuela-on-the-eve-of-presidential-elections-the-us-empire-isnt-sitting-by-idly/&amp;source=gmail&amp;ust=1526981553658000&amp;usg=AFQjCNFRxGNGoxlLtn7T2gwcpnH_w53VkA\">Roger Harris:\_Venezuela on the Eve of Presidential Elections: US Empire isn’t Idly Sitting By</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/analysis/What-the-US-Could-Learn-from-Venezuelan-Democracy--20180512-0018.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/analysis/What-the-US-Could-Learn-from-Venezuelan-Democracy--20180512-0018.html&amp;source=gmail&amp;ust=1526981553658000&amp;usg=AFQjCNFVCNuH1ZNRuQKXWtJf2Ily1LNdfQ\">What the US Could Learn from Venezuelan Democracy</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://theintercept.com/2018/05/16/ecuadors-ex-president-rafael-correa-denounces-treatment-of-julian-assange-as-torture/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://theintercept.com/2018/05/16/ecuadors-ex-president-rafael-correa-denounces-treatment-of-julian-assange-as-torture/&amp;source=gmail&amp;ust=1526981553658000&amp;usg=AFQjCNFkOLHQUzxlETr5BJIjs70ji6LYFQ\">Ecuador’s Ex-President Rafael Correa Denounces Treatment of Julian Assange as “Torture”</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.counterpunch.org/2018/05/15/ecuador-under-lenin-moreno-an-interview-with-andres-arauz/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.counterpunch.org/2018/05/15/ecuador-under-lenin-moreno-an-interview-with-andres-arauz/&amp;source=gmail&amp;ust=1526981553658000&amp;usg=AFQjCNGKvyDs2Hpp6OtHdGay5LBKiXXv8A\">Ecuador Under Lenin Moreno: an Interview With Andres Arauz</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://en.granma.cu/mundo/2018-05-16/cuba-will-continue-to-build-an-ever-freer-more-democratic-just-and-fraternal-society\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://en.granma.cu/mundo/2018-05-16/cuba-will-continue-to-build-an-ever-freer-more-democratic-just-and-fraternal-society&amp;source=gmail&amp;ust=1526981553658000&amp;usg=AFQjCNGRC87bvTmianlS0Xj_YjWB5sUlvw\">Bruno Rodriguez Parrilla, Cuba’s Minister of Foreign Affairs Speech to UN Human Rights Council</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://chicagoalbasolidarity.wordpress.com/2018/05/19/asociacion-de-trabajadores-del-campo-an-urgent-call-for-solidarity-with-nicaragua/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://chicagoalbasolidarity.wordpress.com/2018/05/19/asociacion-de-trabajadores-del-campo-an-urgent-call-for-solidarity-with-nicaragua/&amp;source=gmail&amp;ust=1526981553658000&amp;usg=AFQjCNEexVPGv56phVzcQvCEYcLUiIGVNw\">Asociación de Trabajadores del Campo: An Urgent Call for Solidarity with\_Nicaragua</a>\r\n<div class=\"yj6qo ajU\">\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: center;\">Delegations</h2>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div dir=\"ltr\"><a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/partner-delegation-atc&amp;source=gmail&amp;ust=1524951291407000&amp;usg=AFQjCNFiyu5lr15JIXW48GoSpetzxRqy6A\">Agrarian &amp; Worker Struggle in Nicaragua: Celebrating the ATC’s 40th Anniversary\_<span class=\"aBn\" data-term=\"goog_831236533\"><span class=\"aQJ\">June 18-28</span></span></a></div>\r\n<div dir=\"ltr\"></div>\r\n<div>\r\n<div></div>\r\n<div><b></b><a href=\"https://afgj.org/artist-delegation-nicaragua\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/artist-delegation-nicaragua&amp;source=gmail&amp;ust=1524951291407000&amp;usg=AFQjCNEcJbVfAaBPHCX1z5o6wvVobl7sdQ\">Artists’ Delegation to Nicaragua\_</a><a href=\"https://afgj.org/artist-delegation-nicaragua\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/artist-delegation-nicaragua&amp;source=gmail&amp;ust=1524951291407000&amp;usg=AFQjCNEcJbVfAaBPHCX1z5o6wvVobl7sdQ\"><span class=\"aBn\" data-term=\"goog_831236534\"><span class=\"aQJ\">August 1 through 10, 2018</span></span></a></div>\r\n\r\n<hr />\r\n\r\n<h2 id=\"m_777319361513180780gmail-m_-4546164052145643394gmail-m_8774691331061159411gmail-m_-8213335874581264356gmail-m_-2776178258433599685gmail-m_-9020789454698019944gmail-m_6252858159261738354DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\" style=\"text-align: center;\"><b></b><strong>About the Weekly</strong></h2>\r\n<div>\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n</div>\r\n</div>\r\n\r\n<hr />\r\n\r\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

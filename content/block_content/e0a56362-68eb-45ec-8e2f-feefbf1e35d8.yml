@@ -1,0 +1,46 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: e0a56362-68eb-45ec-8e2f-feefbf1e35d8
+  bundle: mt_background_image_block
+  default_langcode: en
+  depends:
+    3676207f-cd5e-445d-987f-95708dec8b0b: file
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Background image block - Clients'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_background_image:
+    -
+      entity: 3676207f-cd5e-445d-987f-95708dec8b0b
+      alt: 'Background Image - Clients'
+      title: ''
+      width: 1920
+      height: 1080
+  field_mt_bg_image_color:
+    -
+      value: 'region--light-typography region--black-background'
+  field_mt_bg_image_layout_mode:
+    -
+      value: container
+  field_mt_bg_image_opacity:
+    -
+      value: 70
+  field_mt_bg_image_positioning:
+    -
+      value: false
+  field_mt_block_reference:
+    -
+      target_id: conferenceplus_views_block__mt_brands_carousel_block_1

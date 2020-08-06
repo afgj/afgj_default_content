@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: aa05df10-eb11-4da3-9abd-f2ff1bf0630a
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: collection-4-landscape.jpg
+  uri:
+    -
+      value: 'public://2016-09/collection-4-landscape.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 12272
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1475083219

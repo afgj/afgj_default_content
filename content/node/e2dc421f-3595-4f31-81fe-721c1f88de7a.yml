@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e2dc421f-3595-4f31-81fe-721c1f88de7a
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicanotes: AfGJ Releases Honduras/Nicaragua Delegation Report'
+  created:
+    -
+      value: 1496233019
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-afgj-releases-hondurasnicaragua-delegation-report
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter size-full wp-image-6975\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"\" width=\"579\" height=\"195\" />\n\nThis week I want to draw your attention to a <a href=\"https://afgj.org/delegation-report-honduras-nicaragua-compare-contrast\" target=\"_blank\" rel=\"noopener noreferrer\">report</a> on the delegation I led in February to Honduras and Nicaragua. The\_delegation compared and contrasted the two counties in the areas of rural development, citizen security, and women’s\_empowerment. In Nicaragua we were hosted by the ATC farmworkers union.<a href=\"https://afgj.org/delegation-report-honduras-nicaragua-compare-contrast\" target=\"_blank\" rel=\"noopener noreferrer\">\_You can read or download the 27-page report\_here. </a>Special thanks to Llana Barber for most of the narrative and to John Mejia for the photographs. Feel free to use all or\_parts of the report with credit to Nicaragua Network/Alliance for Global Justice.\n\n<hr />\n\n<strong>BRIEFS</strong>\n<ul>\n \t<li>A Moody's rating agency report issued last Thursday, assigned a B2 score to the Nicaragua sovereign debt with a\_stable outlook.\_The report noted that Nicaragua has maintained a 4.5% sustained economic growth rate, with moderate\_public debt and high levels of foreign direct investments. \"The Nicaragua government has maintained a close working\_relationship with the International Monetary Fund and has established a successful Tripartite Alliance Model between\_government, employers and labor,\" the Moody's report said. (Nicaragua News, May 26)</li>\n</ul>\n&nbsp;\n<ul>\n \t<li>A two-day OAS Mission met last week with “members of the Constructive Dialogue Commission, representatives of\_the diplomatic corps and international organizations accredited in the country,\" according to Vice-President Rosario Murillo.\_The OAS has offered technical support to the Supreme Electoral Council to improve voter registration, issuing of\_identification cards, and updating of voter rolls. “Through these efforts we want to reaffirm the strong commitment of\_Secretary General Luis Almagro to work on strengthening democracy and the improvement of electoral processes in\_Nicaragua,” OAS Chief of Staff Gonzalo Koncke stated. Gerardo de Icaza, director of the Electoral Cooperation Department\_of the OAS also announced that a mission of 120 electoral observers will cover Nicaragua’s\_Nov. 5\_municipal elections.\_“The electoral observation mission will arrive in Nicaragua on\_June 15\_and observers will be deployed in the 15\_departments of the country and the two autonomous regions of the Caribbean Coast,” he said. (Nicaragua News, May 24,\_25)</li>\n</ul>\n&nbsp;\n<ul>\n \t<li>A CID Gallup poll carried out between May 11-19, found that President Daniel Ortega has a 64% popular support\_among the Nicaraguan people. Fifty-four percent of respondents said President Ortega always does what’s best for the\_country and 56% expressed strong approval for the management of the government. (Nicaragua News May 25)</li>\n</ul>\n&nbsp;\n<ul>\n \t<li>According to the Nicaraguan Energy Institute annual report, in 2016 Nicaragua generated 52.8% of its electricity\_from renewable sources compared to 26.86% in 2006. Energy expert Patricia Rodriguez said that Nicaragua has the best\_potential in Central America to generate clean energy. She noted that the initial investment is high, but in the long run\_energy from renewable sources is more profitable because the hydro, wind, and geothermal systems are cheaper to\_operate than petroleum based systems. \_“A renewable plant does not change its prices year after year as happens with\_petroleum plants where at any time prices can rise with the price of crude oil,” she said. (El Nuevo Diario, May 29)</li>\n</ul>\n&nbsp;\n<ul>\n \t<li>One quarter of Nicaraguan children under two years of age are underweight for their age, according to a Ministry of\_Health study carried out between February and April of this year and released on May 29. Pediatrician Katherine Bradford\_said that malnutrition in children under two could be prevented if mothers would breast feed their babies exclusively longer.\_These figures have gone down from the Ministry’s Nutritional Census of 2015 and 2014. However, Dr. Ivania Gonzalez, an\_expert in pediatric nutrition, said that obesity in small children is on the increase with 10% overweight and 5.3% obese. She\_said that this type of malnutrition is due “above all because the children are including in their diet very sugary drinks and\_they have less physical activity.” (El Nuevo Diario, May 29)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

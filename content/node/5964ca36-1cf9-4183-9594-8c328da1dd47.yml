@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5964ca36-1cf9-4183-9594-8c328da1dd47
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela-ALBA Weekly #198 March 2, 2018 Upcoming Presidential Election Divides Opposition Forces'
+  created:
+    -
+      value: 1520016724
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-alba-weekly-198-march-2-2018-upcoming-presidential-election-divides-opposition
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-9150 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/03/image-2.png\" alt=\"Venezuela Weekly Meme\" width=\"980\" height=\"600\" />\r\n<h2 style=\"text-align: center;\">The News This Week</h2>\r\n<a href=\"https://www.anymeeting.com/WebConference/RecordingDefault.aspx?c_psrid=E957DF8485473C\" target=\"_blank\" rel=\"noopener\">Watch AFGJ Webinar with Mark Weisbrot on the Venezuela Economy</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://chicagoalbasolidarity.wordpress.com/2018/03/01/before-and-after-the-arrival-of-hugo-chavez-by-charlie-hardy/\" target=\"_blank\" rel=\"noopener\">Charlie Hardy: Before and After the Arrival of Hugo Chavez</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Venezuela-Candidates-Sign-Agreement-to-Respect-Results-Move-Election-Date-20180301-0015.html\" target=\"_blank\" rel=\"noopener\">Venezuela Candidates Sign Agreement to Respect Results, Move Election Date</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Venezuelan-Opposition-Expels-Henri-Falcon-over-Presidential-Bid-20180228-0005.html\" target=\"_blank\" rel=\"noopener\">Venezuelan Opposition Expels Henri Falcon over His Presidential Bid</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/news/13685\" target=\"_blank\" rel=\"noopener\">Leftist Parties (PTT, PCV) Back Maduro as Opposition’s Henri Falcon Confirms Presidential Candidacy</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://www.fightbacknews.org/2018/2/28/president-maduro-and-venezuelan-communists-arrive-historic-agreement\" target=\"_blank\" rel=\"noopener\">President Maduro and Venezuelan Communists Arrive at Historic Agreement\_</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Arreaza-Condemns-US-Interventionism-During-UN-Speech-20180226-0005.html?utm_source=planisys&amp;utm_medium=NewsletterIngles&amp;utm_campaign=NewsletterIngles&amp;utm_content=10\" target=\"_blank\" rel=\"noopener\">Venezuela's Arreaza Condemns 'US Interventionism' at UN Human Rights Council</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/opinion/Lima-Group-Where-OAS-Non-Intervention-Principle-Breaks-Down-20180227-0029.html\" target=\"_blank\" rel=\"noopener\">The Role of the Lima Group of the OAS in the US War on Venezuela</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://walterlippmann.com/all-out-to-defend-the-bolivarian-revolution/\" target=\"_blank\" rel=\"noopener\">Manuel Yepe; All Out to Defend the Bolivarian Revolution</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Caricom-Reaffirms-Non-Intervention-Policy-on-Venezuela-20180301-0009.html\" target=\"_blank\" rel=\"noopener\">CARICOM Defends 'Non-Intervention, Non-Interference' Policy on Venezuela</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Venezuela-Arreaza-Says-US-Sanctions-Hinder-Debt-Renegotiation-20180227-0026.html\" target=\"_blank\" rel=\"noopener\">Venezuela's Arreaza Says US Sanctions Hinder Debt Renegotiation</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/opinion/The-Strategic-Challenge-for-the-Latin-American-Left-20180222-0022.html\" target=\"_blank\" rel=\"noopener\">Rafael Correa: The Strategic Challenge for the Latin American Left</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Morgan-Freeman-Evo-Morales-A-Rebel-Who-Became-President-20180228-0024.html\" target=\"_blank\" rel=\"noopener\">National Geographic Channel: Evo Morales, 'A Rebel Who Became President'</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Bolivia-Massive-Rallies-Launch-Evo-Morales-Reelection-Bid-20180222-0010.html\" target=\"_blank\" rel=\"noopener\">Bolivia: Massive Rallies Launch Evo Morales' Reelection Bid; Rightwing Opposition Seeks Disruption</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://afgj.org/nicanotes-nica-act-opposed\" target=\"_blank\" rel=\"noopener\">Nicaragua: NICA Act – What Is It and Why Should it be Opposed</a>\r\n\r\n<hr />\r\n\r\n<strong>Other Issues</strong>\r\n\r\n<a href=\"http://hondurasresists.blogspot.com/2018/02/23-months-of-impunity-in-assassination.html\" target=\"_blank\" rel=\"noopener\">Anniversary of Her Murder: Honduras Resists on Berta Caceres</a>\r\n\r\n<hr />\r\n\r\n<strong>Delegations</strong>\r\n\r\n<a href=\"https://afgj.org/hondurasdelegation2018\" target=\"_blank\" rel=\"noopener\">April Human Rights Delegation to Honduras</a>\r\n\r\n<a href=\"https://afgj.org/travel-to-colombia\" target=\"_blank\" rel=\"noopener\">May Peacemakers Delegation to Colombia</a>\r\n\r\n<a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\">June Agrarian &amp; Worker Struggle Delegation to Nicaragua</a>\r\n\r\n<hr />\r\n\r\n<span style=\"letter-spacing: 0.05em;\">This weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\_</span>\r\n\r\nIt is AfGJ's conviction that we in the US defend Venezuela's sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

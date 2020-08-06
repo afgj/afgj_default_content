@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d6444f01-9c75-47ae-83ef-5abf38971e43
+  bundle: article
+  default_langcode: en
+  depends:
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Emergency Human Rights Delegation to Honduras!'
+  created:
+    -
+      value: 1580398243
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /emergency-human-rights-delegation-honduras-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Last week, more than 3,000 people who left Central America escaping violence and misery were detained by Mexican security forces within hours of entering the country. The Migrant Caravan, started by Honduran refugees, is the most painful and recent evidence of the catastrophic consequences of U.S. and Canadian support for the regime of Juan Orlando Hernandez. All of these people have been sent to migrant detention centers for deportation. However, the Honduran refugees who were deported will try again: these people are not migrating, they are fleeing the violence, repression and poverty of a regime accused of corruption and drug trafficking. Today, international solidarity is more important than ever.\r\n\r\nJoin us in responding to the urgent call for accompaniment in Honduras! <b>This delegation will focus on the</b> <b>Honduran Political Prisoners, the victims of political repression and on the human rights activists defending the environment and their communities</b>. <b>We will meet with Honduran organizations and grassroots movements representatives who are in the front lines of resistance</b>. We will gather information and testimonies to <b>hold US and Canadian officials accountable for their role in the human rights crisis increased in Honduras after the 2009 coup, for their support for Juan Orlando Hernández government, and for promoting the policies that force people to leave their country</b>.\r\n\r\nIn the past, our delegations to Honduras have stopped an illegal eviction of a peasant cooperative in Rigores, accompanied cooperatives under threat of violence in the Aguan Valley, exposed fraud in the presidential election, and even accessed La Tolva Maximum Security Prison to visit Honduran Political Prisoners Edwin Espinal and Raúl Álvarez. Today, our friends and colleagues in Honduras ask for our solidarity. We count on you.\r\n\r\nThis delegation will be led by Vicki Cervantes (AFGJ board member/ Honduras Solidarity Network and La Voz de los de Abajo coordinator) and Eduardo García (AFGJ national co-coordinator). If you have any questions or are interested in joining the delegation, <b>please contact Eduardo at </b><b><a href=\"https://default.salsalabs.org/Te5fef582-e0b6-40ba-8a18-4ad193bf12c4/038df965-8375-44d1-af3e-d98bbfdecde2\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Te5fef582-e0b6-40ba-8a18-4ad193bf12c4/038df965-8375-44d1-af3e-d98bbfdecde2&amp;source=gmail&amp;ust=1580504026005000&amp;usg=AFQjCNGw8ek-RGMXln8eK1Y8-Z1JB_ErDA\"><u>eduardo@afgj.org</u></a></b><b> or 202-540-8336 ext 7</b>. As the planning goes forward, we will be able to share an agenda and more details.\r\n\r\n<b>Join this solidarity effort! Send an email today to </b><a href=\"https://default.salsalabs.org/T6e438d36-6e82-49bc-9136-a794aaaf576f/038df965-8375-44d1-af3e-d98bbfdecde2\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T6e438d36-6e82-49bc-9136-a794aaaf576f/038df965-8375-44d1-af3e-d98bbfdecde2&amp;source=gmail&amp;ust=1580504026005000&amp;usg=AFQjCNGpQGL48RLY4TgcXxKh6ABF6se13g\"><u>eduardo@afgj.org</u></a><b> to request your application form.</b>\r\n\r\n<a href=\"https://default.salsalabs.org/Tfd907594-57ca-4b9e-a8c9-4eeb9e3bc056/038df965-8375-44d1-af3e-d98bbfdecde2\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tfd907594-57ca-4b9e-a8c9-4eeb9e3bc056/038df965-8375-44d1-af3e-d98bbfdecde2&amp;source=gmail&amp;ust=1580504026005000&amp;usg=AFQjCNHZfRGX2rsXX_Lu_6VFOiQPl7Qvng\"><u>You can also click here to donate toward scholarships for black, indigenous and people of color youth who want to participate in the delegation but cannot afford the cost. Donate and send an email to eduardo@afgj.org to designate funds correctly.</u></a>\r\n\r\nThis delegation is co-sponsored by <a href=\"https://default.salsalabs.org/T476a6068-f48b-4613-9e97-258be886a49d/038df965-8375-44d1-af3e-d98bbfdecde2\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T476a6068-f48b-4613-9e97-258be886a49d/038df965-8375-44d1-af3e-d98bbfdecde2&amp;source=gmail&amp;ust=1580504026005000&amp;usg=AFQjCNFShu-YlpjIc2iyYMM48no0WecXrQ\"><u>La Voz de lxs de Abajo</u></a> and <a href=\"https://default.salsalabs.org/Tc813373f-ab4c-421f-b3fa-00663cd3e443/038df965-8375-44d1-af3e-d98bbfdecde2\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/Tc813373f-ab4c-421f-b3fa-00663cd3e443/038df965-8375-44d1-af3e-d98bbfdecde2&amp;source=gmail&amp;ust=1580504026005000&amp;usg=AFQjCNHBbi46Q7fGxIqPC-wYFR3KWgWcsQ\"><u>Codepink</u></a>, both members of the <a href=\"https://default.salsalabs.org/T67827ae9-db20-4e85-af8c-d84913850386/038df965-8375-44d1-af3e-d98bbfdecde2\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://default.salsalabs.org/T67827ae9-db20-4e85-af8c-d84913850386/038df965-8375-44d1-af3e-d98bbfdecde2&amp;source=gmail&amp;ust=1580504026005000&amp;usg=AFQjCNFMW_0Kh5H6dXAK32azxGQVvN5hIw\"><u>Honduras Solidarity Network</u></a>.\r\n\r\nIn resistance,\r\n\r\nAlliance for Global Justice\r\n\r\n<img class=\"alignleft size-large wp-image-12469\" src=\"https://afgj.org/wp-content/uploads/2020/01/unnamed-791x1024.png\" alt=\"\" width=\"752\" height=\"974\" />"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+  field_mt_slideshow:
+    -
+      value: false

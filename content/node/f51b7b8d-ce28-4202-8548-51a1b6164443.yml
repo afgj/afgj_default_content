@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f51b7b8d-ce28-4202-8548-51a1b6164443
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Respect for Democracy Campaign (R4D)'
+  created:
+    -
+      value: 1471026563
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /respect-democracy-campaign-r4d
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h3>The Respect for Democracy Campaign (R4D) is an ongoing effort by the Alliance for Global Justice to expose the machinery of US/NATO interference in foreign elections, and to advocate for popular, participatory democracy at home. If you would like more information or want to get involved, send an email to James@afgj.org or give us a call at 202-540-8336, ext. 1 or 3</h3>\r\n<p style=\"text-align: center;\"><em><a href=\"https://afgj.org/category/democracy\">Click here to see archived articles having to do with struggles for real, participatory democracy and against the US government manipulation of international elections</a> </em></p>\r\n<img class=\"alignleft size-full wp-image-5305\" src=\"https://afgj.org/wp-content/uploads/2013/12/IMG_9607-333x500.jpg\" alt=\"\" width=\"333\" height=\"500\" />Liberal democracy is a sham. It is predicated not on the rule of the people, but on the preeminence of the \"right\" to private property over and above all other considerations. We're led to believe that democracy, as we know it, is all about \"one person, one vote\". But really, it's a matter of \"one dollar, one vote\". The right of the individual to profit off natural resources is valued (and asserted and maintained) above the ecosystems into which those resources are interwoven, and the wishes and needs of the human communities that proceed from and belong to those ecosystems. Elections are reduced to contests for the individual and his vote as divorced from organic community processes, and as thwarted by a multitude of mitigating gerrymanderers, electoral colleges, backroom deals, obstacles to the right to vote, and manipulated media. The idea that communities might choose their own representatives in a natural, discursive process, from among themselves, their fellow workers, friends, and families, free from the distortions of big corporations, is denounced as radical, socialist, utopian, and utterly out of step with the ruling class' preferred form of democracy: the kind it can control.\r\n\r\nBut liberal democracy is the governing principle of the US/NATO Empire, which serves global capitalism. Because it is an Empire, it has a vested interest in manipulating political processes in other countries, including to the point of direct interference and overthrow of popular governments. The machinery of liberal democracy and electoral interference is pervasive. The US and European governments have whole institutions, both public and quasi-private, devoted to \"soft\" interference. When that doesn't work, they employ all kinds of tactics from espionage up to outright war to achieve their goals. Many whose main source of information is the Empire's own mouthpieces will believe that electoral interference began with alleged Russian activities to influence the US 2016 election. But the US wrote the book on interfering in foreign elections, including a track record of interference in Russia that dates back at least to 1917.\r\n\r\nThere are alternative democracies to the liberal kind. Popular, or participatory, democracies, are built around community relationships that involve people in cooperative debate and decision-making beginning at the most basic levels and replicated all the way to the national level. This kind of electoral system centers around natural interactions in workplaces, barrios, youth centers, and various collectives that involve the highest level of grassroots input and accountable representation. This is the kind of democracy that the Alliance for Global Justice works for within the US, and it's the kind of democracy we are dedicated to defending internationally from the interference of the US/NATO Empire.\r\n<h2></h2>"
+      format: full_html
+      summary: ''

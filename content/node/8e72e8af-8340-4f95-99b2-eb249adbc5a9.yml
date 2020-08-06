@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8e72e8af-8340-4f95-99b2-eb249adbc5a9
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Colombia’s New Peace - What is Happening with Prisoners of War and Political Prisoners?'
+  created:
+    -
+      value: 1492701063
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /colombias-new-peace-what-happening-prisoners-war-and-political-prisoners
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><b><a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED50DB81814931\" target=\"_blank\" rel=\"noopener noreferrer\">Join us!</a> Monday, April 24, 5pm PT/ 8pm ET for a webinar </b></p>\n<p style=\"text-align: center;\"><b>Featuring a presentation </b><b>by Mark Burton</b><b>, Alliance for Global Justice board member and attorney for Simón Trinidad </b></p>\n<p style=\"text-align: center;\"><b>(Colombian prisoner of war held in Colorado’s Supermax prison)</b></p>\n<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-7722\" src=\"https://afgj.org/wp-content/uploads/2017/04/nuestramural.jpg\" alt=\"\" width=\"800\" height=\"394\" /></p>\nWe will review the peace accords and how they affect Colombian political prisoners and prisoners of war. This will be followed by an <strong>introduction to the Colombian Political Prisoner Reintegration Verification Project.</strong> This is a project of the Alliance for Global Justice, Lazos de Dignidad (Colombia), the Liga Argentina por los Derechos del Hombre (Argentine League for the Rights of Man) and the Coordinadora Americana por la Defensa de los Derechos Humanos y las Víctimas de Prisión Política (American Coordination for the Defense of Human Rights and the Victims of Political Imprisonment).\n\nWe are conducting visits to rural zones where former insurgents, prisoners of war and political prisoners are being gathered and prepared for reentry into civil society. This process is taking place at the same time paramilitary threats and assaults in these areas are putting the peace accords at risk. International verification, awareness and solidarity are considered key components to building a just and durable peace in Colombia. The project will conclude with publication of a comprehensive report concerning the post-conflict status of prisoners of war and political prisoners, including those being held in the United States.\n<h2 style=\"text-align: center;\">Three Ways to Support the Colombia Political Prisoner Reintegration Project:</h2>\n<strong>1)\_\_\_\_<a href=\"http://www.anymeeting.com/PIID=ED50DB81814931\">\_</a></strong><a href=\"http://www.anymeeting.com/PIID=ED50DB81814931\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Register</strong> for the April 24 Webinar on the Colombian Political Prisoner Reintegration Verification Project</a>\n\n<strong>2)\_\_\_\_\_ Participate</strong> in the June 30 to July 10 verification delegation to Colombia—write <a href=\"mailto:Delegations@AFGJ.org\">Delegations@AFGJ.org</a> for more details\n\n3)\_\_\_\_\_ <a href=\"https://org2.salsalabs.com/o/7315/donate_page/afgj-nicanet\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Support</strong> the project with a tax-deductible contribution.</a> Be sure to write \"Colombia\" in the space marked \"Designation Code\"\n\n<hr />\n\n<strong>Background:</strong>\n\nFor decades Colombia has held the notorious distinction of holding more political prisoners than any other country in the Americas. New peace accords ending over 52 years of civil war include provisions for the release of some three to five thousand prisoners of war and political prisoners. Prisoners are being sent to rural transition zones, gathered with troops of the FARC-EP (Revolutionary Armed Forces of Colombia-Peoples’ Army) and prepared for reinsertion into civil society. Many of these zones are in areas of rising paramilitary assaults against farming, indigenous and Afro-Colombian communities, human rights defenders, ecological defenders and social movement leaders. Many newly released prisoners are targets of threats and assaults.\n\nThere is concern that at the same time prisoners of war and political prisoners accused of rebellion are being released, politically motivated arrests continue and political prisoners not included in the accords are being forgotten and left behind. Also unresolved are the fates of Colombian prisoners of war held in the United States.\n\n<hr />\n\n<strong>Delegation Information</strong>\n\nAfGJ will lead a delegation to Colombia June 30 through July 10 to meet with experts on the peace accords, human rights and political prisoners. We will visit selected rural transition zones and interview former prisoners of war and political prisoners as well as local community members. These visits will provide the basis for much of the material included in the verification report. For more information about the project, contact\_<a href=\"mailto:James@AFGJ.org\">James@AFGJ.org</a> . If you want more information or are interested in joining the delegation email <a href=\"mailto:Delegations@AFGJ.org\">Delegations@AFGJ.org</a> ."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

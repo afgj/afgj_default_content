@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d2ceffbf-5e36-4100-9e2e-9228258252f1
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    0dfdb011-9c82-4762-89a0-db01e08f9fe3: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Colombian military attacks popular movements TWICE in Cauca'
+  created:
+    -
+      value: 1552598291
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /colombian-military-attacks-popular-movements-twice-cauca
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<em>\_</em>\r\n<p style=\"text-align: center;\"><img class=\"aligncenter wp-image-11507\" src=\"https://afgj.org/wp-content/uploads/2019/03/hoy-4-1024x734.jpeg\" alt=\"\" width=\"608\" height=\"440\" /></p>\r\nThere is a crisis happening right now in Cauca, Colombia. The Colombian Armed Forces have attacked a “minga” in the village of Cairo, municipality of Cajibío - twice in two days - and are still present and threatening more assaults. The minga is a collective consultation called by indigenous, Afro-Colombian, and farming communities and organizations, including FENSUAGRO, the agricultural workers union and with whom the Alliance for Global Justice works. Participants are demanding to meet with Colombia’s President Ivan Duque, who has so far not responded. The minga has been called to advocate for land rights and an end to political violence and displacement. The minga is happening throughout Cauca, with tense encounters also occurring in other townships.\r\n<h3 style=\"text-align: center;\"><a href=\"https://afgj.salsalabs.org/presidente-duque-ahora-es-la-hora-para-reunir-con-la-minga/index.html\"><span style=\"color: #ff0000;\">Click HERE to send an email to Colombian President Iván Duque to demand that he end the violence against the minga and go to Cauca to hear their valid concerns for peace, land, and safety!</span></a></h3>\r\n<h5 style=\"text-align: center;\"><em>(We are having an issue with our alert system which resulted in an invalid link for our last alert. The link above will work. The problem is with our host’s new system that does not support Spanish characters in the action component. We expect the problem to be resolved soon.)</em></h5>\r\nUp till now, attacks by the military have been with non-lethal weapons. But confrontations like this have too often escalated to live fire resulting in civilian casualties. For instance, on <a href=\"https://afgj.org/massacre-tumaco-us-pushes-repression\">October 5 2016 in Tumaco, Nariño</a>, Colombian Armed Forces attacked a peaceful protest, leaving eight persons dead and between 20 and 50 persons wounded.\r\n\r\nOn March 13, 2019, around 5:45pm, ESMAD (Mobile Anti-Disturbance Squadron) attacked a crowd gathered in Cajibío while they listened to speeches and presentations. According to eyewitnesses, ESMAD fired tear gas directly into the crowd, even though the crowd was not engaged in any violent or illegal activity. The following day, around 5:30pm, the same thing happened again leaving several people wounded.\r\n\r\nThe region of Cauca, Valle de Cauca, and Nariño hosts one of Colombia’s two largest military concentrations. The troops have been visited repeatedly by the top commanders of the Pentagon’s Southern Command, and receive US funding, training, and advice.\r\n\r\nHow bad is the situation in Colombia, and specifically in Cauca since the peace accord was finalized? Cauca has been the department most affected by subsequent political violence and displacement. Last year, according to Indepaz and the Marcha Patriótica, there were 226 social movement leaders and human rights defenders assassinated in Colombia. The largest number was in Cauca, with 48. In adjacent Valle de Cauca and Nariño, there were another 19 and 13 respectively. The overall total is up from 159 in 2017, and 97 in 2016. During the first 100 days of President Duque’s term (beginning August 7 2018), 120 social movement leaders and human rights defenders were killed. Duque belongs to the far-right Democratic Center Party, whose members, including former President Álvaro Uribe, are known for their extensive ties with paramilitary death squads.\r\n<p style=\"text-align: center;\"><img class=\"aligncenter size-large wp-image-11508\" src=\"https://afgj.org/wp-content/uploads/2019/03/hoy-3-1024x734.jpeg\" alt=\"\" width=\"752\" height=\"539\" /></p>\r\n<p style=\"text-align: center;\"><img class=\"aligncenter size-large wp-image-11509\" src=\"https://afgj.org/wp-content/uploads/2019/03/hoy-duque-2-1024x734.jpeg\" alt=\"\" width=\"752\" height=\"539\" /></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: 0dfdb011-9c82-4762-89a0-db01e08f9fe3
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

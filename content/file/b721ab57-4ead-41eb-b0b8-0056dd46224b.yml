@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: b721ab57-4ead-41eb-b0b8-0056dd46224b
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: collection-1.jpg
+  uri:
+    -
+      value: 'public://2016-09/collection-1.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 18642
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1474028116

@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e816f334-3b40-4685-88dd-9b13d6ea0a3a
+  bundle: article
+  default_langcode: en
+  depends:
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Urgent Message from the Embassy Protection Collective to US State Department'
+  created:
+    -
+      value: 1557747312
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /urgent-message-embassy-protection-collective-us-state-department
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "US State Department\r\nVenezuelan Foreign Ministry\r\nFrom: Embassy Protection Collective\r\nRe: Exiting the Venezuelan Embassy\r\nDate: May 13, 2019\r\n\r\nThis is the 34th day of our living in the Venezuelan embassy in Washington, DC. We are prepared to stay another 34 days, or however long is needed to resolve the embassy dispute in a peaceful way consistent with international law.\r\n\r\nThis memo is being sent to the US and Venezuela as well as members of our Collective and allies. We are encouraging people to publish this memo as a transparent process is needed to prevent the US from making a unilateral decision that could impact the security of embassies around the world and lead to military conflict.\r\n\r\nThere are two ways to resolve the issues around the Venezuelan embassy in DC, which we will explain.\r\n\r\nBefore doing so, we reiterate that our collective is one of independent people and organizations not affiliated with any government. While we are all US citizens, we are not agents of the United States. While we are here with permission of the Venezuelan government, we are not their agents or representatives.\r\n\r\nWe are here in the embassy lawfully. We are breaking no laws. We did not unlawfully enter and we are not trespassing.\r\n\r\n1. Exiting with a Protecting Power Agreement\r\n\r\nThe exit from the embassy that best resolves issues to the benefit of the United States and Venezuela is a mutual Protecting Power Agreement. The United States wants a Protecting Power for its embassy in Caracas. Venezuela wants a Protecting Power for its embassy in DC. Such agreements are not uncommon when diplomatic relations are severed.\r\n\r\nA Protecting Power Agreement would avoid a military conflict that could lead to war. A war in Venezuela would be catastrophic for Venezuela, the United States, and for the region. It would lead to lives lost and mass migration from the chaos and conflict of war. It would cost the United States trillions of dollars and become a quagmire involving allied countries around the world.\r\n\r\nWe are serving as interim protectors in the hope that the two nations can negotiate this resolution. If this occurs we will take the banners off the building, pack our materials, and leave voluntarily. The electricity could be turned on and we will drive out.\r\n\r\nWe suggest a video walk-through with embassy officials to show that the Embassy Protection Collective did not damage the building. The only damage to the building has been inflicted by coup supporters in the course of their unprosecuted break-ins.\r\n\r\n2. The United States violates the Vienna Convention, makes an illegal eviction and unlawful arrests\r\n\r\nThis approach will violate international law and is fraught with risks. The United States would have to cut the chains in the front door put up by embassy staff and violate the embassy. We have put up barriers there and at other entrances to protect us from constant break-ins and threats from the trespassers whom the police are permitting outside the embassy. The police's failure to protect the embassy and the US citizens inside has forced us to take these actions.\r\n\r\nThe Embassy Protectors will not barricade ourselves, or hide in the embassy in the event of an unlawful entry by police. We will gather together and peacefully assert our rights to remain in the building and uphold international law.\r\n\r\nAny order to vacate based on a request by coup conspirators that lack governing authority will not be a lawful order. The coup has failed multiple times in Venezuela. The elected government is recognized by the Venezuelan courts under Venezuelan law and by the United Nations under international law. An order by the US-appointed coup plotters would not be legal.\r\n\r\nSuch an entry would put embassies around the world and in the United States at risk. We are concerned about US embassies and personnel around the world if the Vienna Convention is violated at this embassy. It would set a dangerous precedent that would likely be used against US embassies.\r\n\r\nIf an illegal eviction and unlawful arrests are made, we will hold all decision-makers in the chain of command and all officers who enforce unlawful orders accountable.\r\n\r\nIf there is a notice that we are trespassing and need to vacate the premises, please provide it to our attorney Mara Verhayden-Hilliard, copied on this memo.\r\n\r\nWe have taken care of this embassy and request a video tour of the building before any arrests.\r\n\r\nWe hope a wise and calm solution to this issue can be achieved so escalation of this conflict can avoided.\r\n\r\nThere is no need for the United States and Venezuela to be enemies. Resolving this embassy dispute diplomatically should lead to negotiations over other issues between the nations.\r\n\r\nThe Embassy Protection Collective\r\nMay 13, 2019"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

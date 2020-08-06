@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: d4a7f7e5-a159-4436-91e3-09d3aabdfff8
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Social Media'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"social-media\">\r\n  <div class=\"row grid-gutter-0\">\r\n    <div class=\"col-lg-3 col-6\">\r\n      <div class=\"overlay-container\">\r\n        <span class=\"overlay overlay--visible\">\r\n          <a class=\"overlay-target-link\" href=\"https://twitter.com/all4globaljust\"></a>\r\n          <span class=\"overlay-caption-container\">\r\n            <a href=\"https://twitter.com/all4globaljust\" class=\"overlay-caption overlay-caption--black\">Twitter</a>\r\n          </span>\r\n        </span>\r\n        <img src=\"/sites/default/files/2020-06/83943707_2699484526832373_8016390431728205824_n.jpg\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"col-lg-3 col-6\">\r\n      <div class=\"overlay-container\">\r\n        <span class=\"overlay overlay--visible\">\r\n          <a class=\"overlay-target-link\" href=\"https://www.instagram.com/all4globaljust/\"></a>\r\n          <span class=\"overlay-caption-container\">\r\n            <a href=\"https://www.instagram.com/all4globaljust/\" class=\"overlay-caption overlay-caption--black\">INSTAGRAM</a>\r\n          </span>\r\n        </span>\r\n        <img src=\"/sites/default/files/2020-06/prison.jpg\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"col-lg-3 col-6\">\r\n      <div class=\"overlay-container\">\r\n        <span class=\"overlay overlay--visible\">\r\n          <a class=\"overlay-target-link\" href=\"https://www.youtube.com/channel/UCPNQIn9JbFNFUAZqc99fsyw\"></a>\r\n          <span class=\"overlay-caption-container\">\r\n            <a href=\"https://www.youtube.com/channel/UCPNQIn9JbFNFUAZqc99fsyw\" class=\"overlay-caption overlay-caption--black\">YOUTUBE</a>\r\n          </span>\r\n        </span>\r\n        <img src=\"/sites/default/files/2020-06/62490919_2242241762556654_4626881050079920128_n.png\" alt=\"\">\r\n      </div>\r\n    </div>\r\n    <div class=\"col-lg-3 col-6\">\r\n      <div class=\"overlay-container\">\r\n        <span class=\"overlay overlay--visible\">\r\n          <a class=\"overlay-target-link\" href=\"https://www.facebook.com/Alliance4GlobalJustice\"></a>\r\n          <span class=\"overlay-caption-container\">\r\n            <a href=\"https://www.facebook.com/Alliance4GlobalJustice\" class=\"overlay-caption overlay-caption--black\">FACEBOOK</a>\r\n          </span>\r\n        </span>\r\n        <img src=\"/sites/default/files/2020-06/87156636_2743595549087937_3648293238680322048_o.jpg\" alt=\"\">\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>"
+      format: raw_html
+      summary: ''

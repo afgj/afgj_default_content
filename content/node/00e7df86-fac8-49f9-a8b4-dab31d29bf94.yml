@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 00e7df86-fac8-49f9-a8b4-dab31d29bf94
+  bundle: article
+  default_langcode: en
+  depends:
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Call on Bernie Sanders to withdraw his call to overthrow the government of Venezuela'
+  created:
+    -
+      value: 1568802986
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /call-bernie-sanders-withdraw-his-call-overthrow-government-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1>Forwarded from <a href=\"https://voicesfromthefrontlines.com/\"><b><span style=\"color: #cc0000;\">Voices from the Frontlines:</span></b></a></h1>\r\n<h2><b>Call on Bernie Sanders to withdraw his call to overthrow the government of Venezuela</b></h2>\r\nCall on Bernie Sanders to withdraw his call to overthrow the government of Venezuela.\r\n\r\n\"Let me be very clear. Anyone who does what Maduro does is a vicious tyrant. We need international and regional cooperation for free elections so the Venezuelan people can create their own future.\"\r\n\r\nBernie Sanders, Democratic Debate Sunday September 15\r\n\r\n<strong>Call his office today, Bernie Sanders: (202) 224-5141</strong>\r\n\r\n\"Senator Sanders. Withdraw your demand for an international force to invade Venezuela.\_ U.S. Hands off Venezuela. Stop your slander of President Nicolas Maduro, issue an apology to the Venezuelan people, and join the anti-intervention movement now!\"\r\n\r\nSanders attack on Venezuelan president Nicolas Maduro was in response to the challenge to his socialism by anti-communist Univision commentator Jorge Ramos.\r\n\r\n\"You admit that Venezuela does not have free elections and yet you refuse to call Maduro a dictator. Can you explain why and what are the differences between your kind of socialism and that being imposed on Venezuela, Cuba, and Nicaragua.\"\r\n\r\nSanders imperialist socialism is an attack on the self-determination of the people of Venezuela and Latin America and the peace, non-intervention, and anti-imperialist movements\r\n\r\nThis is the answer that any decent human being and any decent Sanders supporter would have expected. It is the retraction and new statement that we demand he make now!\r\n\r\n\"To begin with, his name is duly elected President Nicolas Maduro. Calling him \"Maduro\" is racist and insulting. I believe that the nations of Latin America have the right of self-determination. It is our government our CIA, that is destabilizing the government of Venezuela the way they have done so to El Salvador, Nicaragua, Cuba in the past since the Monroe Doctrine. I am worried that we have so many Black people in prison in the U.S., have violated the human and voting rights of Black and Latinos, that we cannot have free elections in the U.S. I call on the U.N. to intervene in the U.S. to protect our voting rights now. I would never call for a \"regional and international force\" (which simply means the U.S. government) to call for \"free elections\" when in fact Nicolas Maduro was elected through free elections. I do not want to in any way lead to the violent overthrow and possible assassination of President Maduro by repeating the lies of calling him a \"vicious tyrant'\" I want to distance myself from the U..S. ideology expressed by Henry Kissinger just before the fascist coup in Chile that assassinated duly elected President Salvador Allende.\" “I don’t see why we need to stand by and watch a country go communist because of the irresponsibility of its own people.” —Henry Kissinger, June 27, 1970\r\n\r\n<a href=\"https://voicesfromthefrontlines.com/\">Listen to Voice from the Frontlines</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

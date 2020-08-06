@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4af9c316-da50-48df-9bc9-195ce0be88bc
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Ortega Wins Big in Presidential Contest'
+  created:
+    -
+      value: 1478546039
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /ortega-wins-big-presidential-contest
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"aligncenter size-full wp-image-6975\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"nicanotesbannerwbyline\" width=\"579\" height=\"195\" /></a>\nThis article from the blog Informe Pastran, although written early in the counting, provides an excellent overview of the election. With 99.8% of the polling stations ballots counted, Ortega increased his lead to 72.5%. On Monday, a US State Department spokesperson declared the United States “deeply concerned” about what he called “flawed elections.” Since an August spate of editorials and op-eds in the US corporate press, it has been obvious that that would be the position the US would take. The invited international election accompaniers, mostly electoral experts, had a different view in the article translated into English below. – Chuck Kaufman\n\n<hr />\n\nInforme Pastran\n\nSunday, November 6, 2016\n<h1 class=\"p1\" style=\"text-align: center;\"><span class=\"s1\"><b>President Ortega Reelected with </b></span></h1>\n<h1 class=\"p1\" style=\"text-align: center;\"><span class=\"s1\"><b>More than 71% of the Vote</b></span></h1>\n<h2 class=\"p1\" style=\"text-align: center;\"><span class=\"s1\"><b>65.3% of electorate participated based on valid votes says Supreme Electoral Council (CSE)</b></span></h2>\nThe first preliminary report of today’s general election, presented after 11pm by the Supreme Electoral Council in plenary, that the electoral participation was 65.3% of the electorate, which is to say an abstention rate of 34.7% which is 10 percent more than the historical level of 25% in past elections. 3.8% cast null votes with 21.3% of the votes counted in a little more than 14,000 polling places.\n\nThe results in the ballot for president from the 21.3% are:\n<p class=\"p2\"><span class=\"s1\">Sandinista Party (FSLN) – 71.3%</span></p>\n<p class=\"p2\"><span class=\"s1\">Constitutional Liberal Party (PLC) -- 16.4%</span></p>\n<p class=\"p2\"><span class=\"s1\">Conservative Party (PC ) – 2.6%</span></p>\n<p class=\"p2\"><span class=\"s1\">National Liberal Alliance (ALN) – 1.1%</span></p>\n<p class=\"p2\"><span class=\"s1\">Alliance for the Republic (APRE) – 4.1%</span></p>\n<p class=\"p2\"><span class=\"s1\">Independent Liberal Party (PLI) – 4.5%</span></p>\nIn the vote for National Assembly deputiesthere are surprises [the FSLN legislative ticket ran behind the president], with 19.8% of ballots counted the percentages are as follows:\n<p class=\"p1\"><span class=\"s1\">FSLN – 60%</span></p>\n<p class=\"p1\"><span class=\"s1\">PLC – 17.7%</span></p>\n<p class=\"p1\"><span class=\"s1\">PC – 3.9%</span></p>\n<p class=\"p1\"><span class=\"s1\">APRE – 5.1%</span></p>\n<p class=\"p1\"><span class=\"s1\">ALN – 1.3%</span></p>\n<p class=\"p1\"><span class=\"s1\">PLI – 4.9%</span></p>\nChief Magistrate of the CSE Roberto Rivas said that the people of Nicaragua participated actively, likewise the political parties conducted a civil campaign, quiet and uneventful. He is to release another bulletin within half an hour and the full count tomorrow [Monday].\n\nSandinista supporters launched themselves into the streets to celebrate in the Plaza of Victories in Managua with a caravan of vehicles and motorcycles and, once the first report by the CSE was completed, set off rockets and firecrackers in different parts of the capital.\n\nNicaraguans voted on Sunday in elections in which President Daniel Ortega had no serious rival and was expected to comfortably win a third consecutive term driven by an environment of progress that has neutralized allegations of authoritarianism.\n\nSupport for Ortega and is wife and running mate, Rosario Murillo, was around 70%, according to the polls, thanks to their successful social programs and a better business climate in one of the poorest countries in Latin America.\n\nThe voting stations closed at 6pm in an exercise without incidents in which thousands of citizens exercised their right to vote.\n\nThe president has promised to defend the gains of his “socialist, Christian, and solidarity revolution” under which he reduced poverty by 13 percent in the last decade, said officials.\n“On this day we are ratifying our our commitment to peace that has cost our people to win. Much blood has flowed, much pain,” said Ortega as he voted. “This is a vote for peace, for stability, for security for Nicaraguan families,” he said.\n\n<b>Clean Process, Say Electoral Accompaniers</b>\n\nElection accompaniers, who were invited by the CSE, told the media that the elections today were transparent, orderly, in peace and tranquility and tolerance. They saw high levels of citizen participation in the various municipalities to which they traveled, especially in the afternoon, said Paraguayan Senator Francisco Pereyra.\nHe said they found a lot of maturity in the Nicaraguan people and a lot of discipline at voting time.\n\nMeanwhile, Sixto Peña, an electoral expert from Costa Rica, said that the notable progress they found was that there were no incidents during the voting and that this is an important advance in Nicaraguan democracy because citizens behaved in a civil manner.\n\nSalvador Ramos, a Dominican Republic electoral expert, valued the high level of participation of women and youth in the political life of Nicaragua. “In all the voting centers, there are women. And I also saw a good turn-out at the voting centers. Women are well integrated in to the political process and to the strengthening of democracy,” he said.\nThe expert Raul Alconada, stated that that the integration of women and youth in the whole electoral process is an important measure of the consolidation of Nicaraguan democracy. “What has impacted many of us who are participating in this tour of Managua, is seeing the great participation of youth. It comforted me to see young people,” he said.\n\nAlvaro Saenz of the National Alliance Movement of Ecuador stated that he was able to see in Nicaragua organizational capacity and a very complete voter registration list and a very orderly preparation of infrastructure and polling places. He added that he had visited several polling stations and found voters moving, voting in an orderly and tranquil manner that contrasts with media noise, and that they saw a normal, regular electoral process; a very smooth operation.\n\nThe former president of Honduras, Manuel Zelaya, stated that the process witnessed in Nicaragua today was historical, beyond the skillful process, because a socio-political process is unfolding here, because people are going to the polls to protect their social victories. He also said the Nicaraguan people have matured politically and electorally, giving priority to peace, democracy and peaceful coexistence.\n\nFSLN legislative caucus coordinator, Edwin Castro, told TV Noticias on Channel 2, that it was a civic election day betweenNicaraguan brothers and sisters and that the day was an election devoid of conflicts and quarrels, with high organizational capacity. He appreciated that there was more participation today than in previous elections and voters had a greater ability to vote quickly and easily.\n\nOn opposition calls to not vote, Castro rejected an alleged 80% abstention rate and challenged them to ask Nicaraguans who has an inked thumb and who does not, because it is easy to speak from a hotel room and promote the strategy of the no vote toward an international audience than it is within Nicaragua where the majority of Nicaraguans want to live in peace.\n\nCastro said that after these elections, advice and alliances will continue to keep changing Nicaragua and defeat the real enemy which is poverty and social exclusion.\n\n<b>Divided Opposition Hurriedly Declares Victory</b>\n\nCitizens for Freedom (CPL), led by former PLI National Assembly deputies, and the Broad Front for Democracy (FAD), led by the MRS, and former allies of the CPL, proclaimed victory based on a supposed high abstention rate.\n\nCPL claimed that 80% of voters stayed away from the polls while FAD claimed an abstention rate of 70% and said it was thanks to the boycott calls they made over the last three months. [The actual abstention rate was about 35%.\n\nDespite this, the FAD-MRS insisted that the elections were a farce and a constitutional fraud, ignoring the popular will expressed at the polls, stating that there was a civil disobedience led by them and that therefore the elections were null and void and new elections must be called immediately although the Constitution and Electoral Law do not allow for it. They called on the population to take to the streets to demonstrate.\n\nUS Congresswoman Ileana Ross-Lehtinen, interviewed before any official results were in, nevertheless asserted that the elections were fraudulent and that only the NICA Act she is sponsoring will ensure the “restoration of democracy in Nicaragua.”"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

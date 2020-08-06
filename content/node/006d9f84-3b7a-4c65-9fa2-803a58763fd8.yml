@@ -1,0 +1,70 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 006d9f84-3b7a-4c65-9fa2-803a58763fd8
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'REPORT ON COLOMBIAN FARM WORKERS TOUR OF THE UNITED STATES'
+  created:
+    -
+      value: 1460733434
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /report-colombian-farm-workers-tour-united-states
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<span style=\"font-family: Times New Roman,serif;\">by Nidia Quintero, General Secretary of Fensuagro, The National Unitary Federation of Agricultural Workers Unions </span>\n\n[caption id=\"attachment_6646\" align=\"aligncenter\" width=\"470\"]<img class=\" wp-image-6646\" src=\"https://afgj.org/wp-content/uploads/2016/04/Nidia-with-IAM-in-Chicago.jpg\" alt=\"Nidia with unionists and grassroots activists in Milwaukee, at the International Association of Machinists hall.\" width=\"470\" height=\"353\" /> Nidia with unionists and grassroots activists in Milwaukee, at the International Association of Machinists hall.[/caption]\n\n<span style=\"font-family: Times New Roman,serif;\">During the days of April 1-9, 2016, a tour was organized in certain cities of the United States by our companions in the Alliance for Global Justice, with whom we have had a solidarity agreement of support for human rights guarantees since 2010. The representative for this is James Patrick Jordan, and they have helped us in important ways, most recently with the Campaign for the Freedom of Hubert Ballesteros.</span>\n\n<span style=\"font-family: Times New Roman,serif;\">The object of the tour was to extend links of solidarity with the struggle of Colombia's rural people and workers with the different organized sectors in the United States; to extend solidarity with political prisoners; to denounce the high risk that we social movement leaders of Colombia are facing due to the reorganization of paramilitaries; and further to show the importance that the peace process represents for rural people and workers organized by Fensuagro.</span>\n\n[caption id=\"attachment_6647\" align=\"alignright\" width=\"311\"]<img class=\"wp-image-6647\" src=\"https://afgj.org/wp-content/uploads/2016/04/IMG_20160406_203412.jpg\" alt=\"IMG_20160406_203412\" width=\"311\" height=\"248\" /> Nidia with Scotty Marshall, Director of the <a href=\"http://www.cpusa.org/\">Communist Party USA</a> Labor Commission[/caption]\n<p style=\"text-align: left;\"><span style=\"font-family: Times New Roman,serif;\">During the tour I had the opportunity to participate from April 1–3 in the <a href=\"http://www.labornotes.org/\">Labor Notes conference in Chicago</a>, an event that represents an important space of unity for the workers of different sectors of the US economy, but also a space for planning of organized internal activities for Labor Notes in order to strengthen the unity and struggle for the rights of workers that uphold the national economy. Additionally, this conference included the participation of social and labor organizations from Mexico, Honduras, El Salvador, Brazil, Japan and Colombia. The occasion of this event brought together more than 2,000 persons representing teachers, truck and bus drivers, pilots, hotel workers, restaurant workers, retired workers, machinists, domestic workers and rural workers. All the unions presented their experiences and principal struggles. </span></p>\n<span style=\"font-family: Times New Roman,serif;\">I had the opportunity to participate in this conference and also to speak at a reception the night of the 2</span><sup><span style=\"font-family: Times New Roman,serif;\">nd</span></sup><span style=\"font-family: Times New Roman,serif;\"> organized by <a href=\"http://www.fightbacknews.org/\">Fight Back! newspaper</a> (published by Freedom Road Socialist Organization). I shared analysis concerning the following themes:</span>\n<ul>\n \t<li><span style=\"font-family: Times New Roman,serif;\">Confronting privatization in Latin America.</span></li>\n \t<li><span style=\"font-family: Times New Roman,serif;\">Organizing agricultural workers across borders.</span></li>\n \t<li><span style=\"font-family: Times New Roman,serif;\">Labor Movements confronting US intervention and interference.</span></li>\n</ul>\n<span style=\"font-family: Times New Roman,serif;\">On the evening of April 3, we met in Milwaukee, Wisconsin with fellow workers from the Machinists union, students and youth who are struggling against the politics of austerity and budget cuts for the education system, and movements in favor of immigrant rights.</span>\n\n<span style=\"font-family: Times New Roman,serif;\">On the afternoon of April 4, we met at the Detroit office of <a href=\"http://www.workers.org/articles/\">Workers World</a>, a working class newspaper, with the </span><a href=\"http://moratorium-mi.org/\"><em><span style=\"font-family: Times New Roman,serif;\">Moratorium Now</span></em></a><span style=\"font-family: Times New Roman,serif;\"><a href=\"http://moratorium-mi.org/\">! Coalition to Stop Foreclosures, Evictions and Utility Shutoffs</a>. Present were housing rights advocates and unionists from the United Steelworkers as well as others. On the 5</span><sup><span style=\"font-family: Times New Roman,serif;\">th</span></sup><span style=\"font-family: Times New Roman,serif;\">, we returned to Chicago and on the afternoon of the 6</span><sup><span style=\"font-family: Times New Roman,serif;\">th</span></sup><span style=\"font-family: Times New Roman,serif;\">, we participated in a public radio program <a href=\"https://www.wbez.org/shows/worldview/2ef22748-cb5e-4b50-abf3-b31744c2d98a\">[Worldview on WBEZ]</a>, presenting the experience of organized labor and the resistance against the economic model of globalization and its effects on the rural economy, and, likewise, the perspectives of peace for Colombia. That night at 7pm, we met with our companions from the United Electricians in Chicago. On the 7</span><sup><span style=\"font-family: Times New Roman,serif;\">th</span></sup><span style=\"font-family: Times New Roman,serif;\">, I traveled to Miami and there met with more than 40 members of the Central Labor Council, including railroad workers, retired workers and workers from other unionists.</span>\n\n<span style=\"font-family: Times New Roman,serif;\">The principal lessons learned from this tour are:</span>\n<ol>\n \t<li><span style=\"font-family: Times New Roman,serif;\">That in the United States, there are major branches of production that are organized, as well as hotel, restaurant and domestic workers.</span></li>\n \t<li><span style=\"font-family: Times New Roman,serif;\">That there is an important level of struggle and resistance among the workers, who, because of their struggles, have a great sense of belonging to the working class.</span></li>\n \t<li><span style=\"font-family: Times New Roman,serif;\">The humanitarian situation for immigrants is very difficult and there is much class solidarity with these immigrants.</span></li>\n \t<li><span style=\"font-family: Times New Roman,serif;\">On questioning participants [in the various events] if they knew of the results of the Free Trade Agreements and if these had benefited them or the poor of the US, they assured me they had not. On questioning them if they knew about the damage that Plan Colombia had caused for Colombians, they expressed that they do not have major influence in the political decisions of the state.</span></li>\n \t<li><span style=\"font-family: Times New Roman,serif;\">It was also a new lesson to know in the country that represents the largest military and economic power in the world, that in its interior it has cities and citizens in a great state of poverty.</span></li>\n</ol>\n<span style=\"font-family: Times New Roman,serif;\"><b>AGREEMENTS.</b></span>\n<ol>\n \t<li><span style=\"font-family: Times New Roman,serif;\">To initiate a process of communication to exchange statements, denunciations and support for the struggles that we of the working classes are making, including with [the new contacts in] El Salvador, Honduras, Mexico and Japan. </span></li>\n \t<li><span style=\"font-family: Times New Roman,serif;\">To support the organization of the <a href=\"https://afgj.org/return-to-marquetalia-a-delegation-of-accompaniment-in-support-of-colombias-peace-process\">[AfGJ May] delegation to Colombia</a> that will accompany us in regions at risk due to the actions of paramilitaries and will give their backing to the proposals for peace for the Colombian people.</span></li>\n \t<li><span style=\"font-family: Times New Roman,serif;\">To support the petition for the liberty of Hubert [Ballesteros].</span></li>\n \t<li><span style=\"font-family: Times New Roman,serif;\">To continue our vigilance for the liberty of the political prisoners of Fensuagro and the Marcha Patiótica (Patriotic March) social movement and to seek out some of the social movements and organizations of the United States concerning the possibility of “adoption” of emblematic cases among Fensuagro's political prisoners.</span></li>\n</ol>\n[caption id=\"attachment_6648\" align=\"aligncenter\" width=\"422\"]<img class=\"wp-image-6648\" src=\"https://afgj.org/wp-content/uploads/2016/04/Nidia-haymarket-1.jpg\" alt=\"Nidia Quintero, of Colombia's Fensuagro, shows internationalist solidarity at the grave of the Haymarket martyrs. \" width=\"422\" height=\"563\" /> Nidia Quintero, of Colombia's Fensuagro, shows internationalist solidarity at the grave of the Haymarket martyrs.[/caption]\n\n&nbsp;\n\n[caption id=\"attachment_6649\" align=\"aligncenter\" width=\"441\"]<img class=\" wp-image-6649\" src=\"https://afgj.org/wp-content/uploads/2016/04/IMG_20160406_170755.jpg\" alt=\"Nidia at the site of the Haymarket rebellion, home of the 8 hour work day!\" width=\"441\" height=\"330\" /> Nidia at the site of the Haymarket rebellion, birthplace of the 8 hour work day![/caption]\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

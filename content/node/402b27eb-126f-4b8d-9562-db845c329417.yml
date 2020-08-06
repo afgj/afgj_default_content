@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 402b27eb-126f-4b8d-9562-db845c329417
+  bundle: article
+  default_langcode: en
+  depends:
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'URGENT: Tell Your Senators - Hands Off Nicaragua!'
+  created:
+    -
+      value: 1539584609
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /urgent-tell-your-senators-hands-nicaragua-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "The NICA Act in its resurrected Senate form as the\_<strong>Nicaragua Human Rights and Anticorruption Act of 2018</strong>, sponsored by Ted Cruz and Robert Menendez, has now been added to the Senate calendar and is expected to be voted on by unanimous consent shortly. This bill not only would direct US officials to block loans from international lenders such as the World Bank and Inter-American Development Bank, it would impose sanctions on individual members of the elected government of President Daniel Ortega\_(which could be lifted through an annual waiver),\_require the Nicaraguan government to hold early elections, and increase intelligence agencies spying on that country.\r\n\r\nSenators who received letters from you via e-mail last week replied with form letters (that you kindly forwarded to us) that showed either support for the bill or complete ignorance of the issue.\r\n\r\n<strong>It’s time to call and talk to the foreign relations assistants.</strong>\r\nCall the Capital Switchboard at (202) 224-3121 and ask for the office of each of your Senators. Ask for the Senator’s foreign relations assistant. If this person is not available, ask to leave a message for that assistant.\r\n\r\n<strong>Talking points:</strong>\r\nMy name is ___________________ and I am a constituent of Senator _______________ at zip code __________. I’m calling to ask you to oppose Senate Bill 3233, the\_Nicaragua Human Rights and Anticorruption Act of 2018. This bill is coming up for a unanimous consent vote. One senator can oppose it and stop it. I urge your boss to be that senator.\r\n\r\n<strong>[If you have visited Nicaragua or have lived there, tell the assistant that. Use your own experience and add some of the information from the paragraph below.]</strong>\r\n\r\nNicaragua has been able to make massive progress under the Ortega government in large part due to its commitment to eradicating poverty along with its ability to access international credit. The international credit agencies that this bill targets have praised Nicaragua, saying that it has the best record on project completion in Latin America. \_Nicaragua has extensive social programs such as free healthcare and education at all levels\_(including university), the building of rural roads, electrification, new housing, support for small family business and farms, hunger reduction programs, etc. This made Nicaragua the safest country in Central America, with low levels of migration and some of the strongest sustained economic growth in the region. If this bill passes, all of this progress could be reversed because the opposition, which killed dozens of people and destroyed many public buildings as part of its coup attempt, has no program for Nicaragua. Daniel Ortega’s 2011 reelection was recognized by the OAS as reflecting the will of the Nicaraguan people and the government is working with the OAS to put in place some needed electoral reforms. Passing of S. 3233 would be a tragic mistake"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 64939332-6347-4c3f-baac-107d79156606
+  bundle: article
+  default_langcode: en
+  depends:
+    559721eb-b73d-4d86-a9b5-58f46584daa3: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Urgent: Calls needed to stop violent repression in Honduras'
+  created:
+    -
+      value: 1476972543
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /urgent-calls-needed-stop-violent-repression-honduras
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h3 class=\"post-title entry-title\" style=\"text-align: center;\">REPRESSION AGAINST COPINH RIGHT NOW!</h3>\n<p style=\"text-align: center;\">Alert from the Honduras Solidarity Network</p>\n<img class=\"aligncenter\" src=\"http://4.bp.blogspot.com/-i-rv12adkro/WAkU1Vi_0yI/AAAAAAAALqY/3fbxpSBfkUwjWoj3CE9_c9vYfawfOiO7wCLcB/s1600/14711519_1773099589630479_3387976747702553227_o.jpg\" width=\"393\" height=\"300\" />\n\n&nbsp;\n\nIn this very moment (2pm CST October 20th, 2016), in response to the mass march led by the Civil Council of Popular and Indigenous Organizations of Honduras (COPINH), the Honduran militarized \"Tigres\" police force (supported by financing from the United States) has unleashed brutal repression including pepper spray, tear gas, water tank and beating with nightclubs. There are many families with children participating in the march and whose health and lives are at risk. The march was called by COPINH to demand justice for its assassinated General Coordinator Berta Caceres, an independent international commission to investigate her assassination, and the immediate cancellation of the concession granted to the DESA corporation to develop the Agua Zarca dam in Rio Blanco, along with all other mining and hydroelectric concessions on Lenca indigenous territory.\n<p style=\"text-align: center;\"><iframe src=\"https://www.youtube.com/embed/_H-Br2KwuIc\" width=\"427\" height=\"240\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\nPlease call:\n<ul>\n \t<li>The U.S. Embassy in Tegucigalpa at (504) 2236-9320 and ask for the ambassador or his assistant Annie-Marie Lancu or Human Rights officer Jason Smith. Demand they call their Honduran counterparts and ask for an immediate end to the repression.</li>\n</ul>\n<ul>\n \t<li>Julian Pacheco, Minister of Security - (5004) 9456-3699 (or main office (504) 2229-0003, to demand that Honduran forces immediately end the repression.</li>\n</ul>\n<ul>\n \t<li>Your own senator and congressperson to demand they sign on to the<b>Berta Caceres Law for Human Rights in Honduras</b> to immediately cut off military and police funding to Honduras while the assassinations, repression and impunity continue.</li>\n</ul>\nThis repression comes on the heals of two political assinations in Honduras of\_<span style=\"font-family: Verdana;\">Jose Ángel Flores and Silmer Dionicio, the president and member respectively of the Unified Campesino Movement of the Aguan (MUCA) earlier this week. Read more:\_</span>\n<p style=\"text-align: center;\"><span style=\"font-family: Verdana;\"><a href=\"http://www.thenationreport.org/the-political-assassinations-continue-in-highly-troubled-honduras/\"><b>The Political Assassinations Continue in Highly Troubled Honduras</b></a></span></p>\n<img class=\"aligncenter\" src=\"http://www.thenationreport.org/wp-content/uploads/2016/10/muca-protest.jpg\" alt=\"\" width=\"450\" height=\"236\" />"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 559721eb-b73d-4d86-a9b5-58f46584daa3
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

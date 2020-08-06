@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 9e79f61b-04df-4b94-8b1c-de522ab4d556
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Before and After Excursions'
+  created:
+    -
+      value: 1383155378
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /and-after-excursions
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h3><strong>Go birding before the Tear Down the Walls at one of the best birding\_ hotspots in Tucson, Sweetwater Wetlands.</strong></h3>\r\nSoutheastern Arizona is one of the most biologically diverse areas in the United States,\_ and Tucson is famous as a destination for birdwatchers from all over the world.\_ You are invited to do some pre-conference birding at one of Tucson's finest birding hotspots, Sweetwater Wetlands.\_ We will discuss ecological challenges facing the Tucson area. This is a field trip that will occur on Friday November 1, from 7AM-9:30AM.\_\_ Please contact Ethan Beasley at 520-300-0049 or ethanbeasley@yahoo.com to arrange a meeting place and transportation.\r\n\r\nSponsored by Occupy Tucson"
+      format: full_html
+      summary: ''

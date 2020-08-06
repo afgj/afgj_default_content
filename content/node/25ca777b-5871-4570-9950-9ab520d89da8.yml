@@ -1,0 +1,61 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 25ca777b-5871-4570-9950-9ab520d89da8
+  bundle: article
+  default_langcode: en
+  depends:
+    7c24d703-ad76-40f5-8889-a30cb1700fd3: taxonomy_term
+    ca4e52ca-2d48-486f-8d00-3553c0a7f296: taxonomy_term
+    686ee945-87bd-4a2f-acb2-c75612675251: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'KGNU: La Lucha Sigue : Spotlight on AFGJ'
+  created:
+    -
+      value: 1502379337
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /kgnu-la-lucha-sigue-spotlight-afgj
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2 class=\"p1\" style=\"text-align: center;\"><strong>The Struggle Continues</strong></h2>\n<h2 class=\"p1\" style=\"text-align: center;\"><strong>Host: Irene Rodriguez</strong></h2>\n<p style=\"text-align: center;\">This episode originally aired on July 17th, 2017</p>\nThis episode of La Lucha Sigue Highlights the Alliance for Global Justice’s Solidarity Work with the People of South America. Click Below to Listen to the Show!\n<h2 style=\"text-align: center;\"><a href=\"http://www.kgnu.org/laluchasigue/7/17/2017\"><strong>LISTEN TO THE SHOW</strong></a></h2>\n<p class=\"p1\"><strong>The show includes:</strong></p>\n<p class=\"p1\">An overview of AFGJ’s work and a brief history. (<a href=\"https://afgj.org/about/our-history\" target=\"_blank\" rel=\"noopener\">Click here to read more about AFGJ</a>)</p>\n<p class=\"p1\">A conversation about prison imperialism, with <strong>Nasim Chatha</strong>, Coordinator at the Alliance for Global Justice. She speaks about how the United States is exporting it's for profit prison model, and reflects on how her recent visit to Honduras.</p>\n<p class=\"p1\">A conversation with <strong>James Jordan</strong>, National CoCoordinator at the Alliance for Global Justice. He discuses the recent Colombia Peace Accords, and the delegation AFGJ led to the region. The discussion includes \_the vote for the peace referendum, why it failed, and the after affects of peace, such as hunger strikes in prisons, and increased conflict in certain regions.</p>\n<p class=\"p1\">Reflections with <strong>Alizah Simon</strong><i>,</i>\_student at Oberlin College, and attendee of recent AFGJ Colombia Delegation. She discusses the history of government repression and land displacement for members of the FARC, 60% of whom are campesinos in Colombia. Peace will be much more than just a signing of these accords, but also need to include land reform and government reform.</p>\n<p class=\"p1\">Venezuela Webinar: Each month AFGJ hosts a webinar that feature a voice from Venezuela that is underrepresented \_of what is happening on the ground in Venezuela. The Alliance works to bring those voices to the public.</p>\n<p class=\"p1\">The final section of the show is an excerpt of a recent webinar entitled International Solidarity’s Role in the Assault Against Chavismo. We hear from <strong>William Camacaro</strong>, a Venezuelan artist, activist, and radio host, now living in New York City.</p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 7c24d703-ad76-40f5-8889-a30cb1700fd3
+    -
+      entity: ca4e52ca-2d48-486f-8d00-3553c0a7f296
+    -
+      entity: 686ee945-87bd-4a2f-acb2-c75612675251
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

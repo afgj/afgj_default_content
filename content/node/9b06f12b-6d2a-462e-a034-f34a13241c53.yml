@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 9b06f12b-6d2a-462e-a034-f34a13241c53
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela-ALBA Weekly #212 June 8, 2018'
+  created:
+    -
+      value: 1528593799
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-alba-weekly-212-june-8-2018
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<div></div>\r\n<div><img class=\"aligncenter wp-image-9816\" src=\"https://afgj.org/wp-content/uploads/2018/06/evo-morales-2018-copy.jpg\" alt=\"\" width=\"450\" height=\"252\" /></div>\r\n<div class=\"gmail_default\">\r\n\r\n<a href=\"https://www.facebook.com/BlackAllianceforPeace/videos/1507977745978312/?fref=gs&amp;dti=608352305956315&amp;hc_location=group\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.facebook.com/BlackAllianceforPeace/videos/1507977745978312/?fref%3Dgs%26dti%3D608352305956315%26hc_location%3Dgroup&amp;source=gmail&amp;ust=1528623176120000&amp;usg=AFQjCNEIImDm73kjjkpwhBDxK45ETYzLlA\">Left Forum Venezuela Workshop with Ajamu Baraka, Greg Wilpert and Dan Kovalik</a>\r\n\r\n<hr />\r\n\r\n<a style=\"letter-spacing: 0.05em;\" href=\"https://chicagoalbasolidarity.files.wordpress.com/2018/06/doc_sanctions_ver_-7_jun_-ingles.pdf\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://chicagoalbasolidarity.files.wordpress.com/2018/06/doc_sanctions_ver_-7_jun_-ingles.pdf&amp;source=gmail&amp;ust=1528623176120000&amp;usg=AFQjCNH2NVcwdPFHLGzLsTBdzvnYl9OtvQ\">(Document) Venezuela Report: Sanctions and Blockade against Bolivarian Republic of Venezuela</a>\r\n\r\n</div>\r\n<div class=\"gmail_default\">\r\n\r\n<hr />\r\n\r\n<a href=\"https://mailchi.mp/mppre/venezuela-briefingjune-8-2018?e=5c9b8627ef\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://mailchi.mp/mppre/venezuela-briefingjune-8-2018?e%3D5c9b8627ef&amp;source=gmail&amp;ust=1528623176120000&amp;usg=AFQjCNH9q02R7n3G-RuyhhWTtTh5DhgeYQ\">Venezuela Embassy Briefing June 8</a>\_&amp;\_<a href=\"https://www.youtube.com/watch?v=_fV-C1Ag5sI&amp;feature=youtu.be\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3D_fV-C1Ag5sI%26feature%3Dyoutu.be&amp;source=gmail&amp;ust=1528623176120000&amp;usg=AFQjCNE8tjDgOo4sg_Cw6bnzi-Oqp7bayw\">DeBunking John Oliver's Venezuela Episode</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Economic-Sabotage-Venezuela-Dismantles-Network-Stealing-Medicine-and-Goods-20180607-0016.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Economic-Sabotage-Venezuela-Dismantles-Network-Stealing-Medicine-and-Goods-20180607-0016.html&amp;source=gmail&amp;ust=1528623176120000&amp;usg=AFQjCNGzXDyyMiVOk6AQ1sJstXkEjD0E2w\">Economic Sabotage: Venezuela Dismantles Network Stealing Medicine and Goods</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://www.venezuelasolidarity.co.uk/international-observers-to-venezuelas-election-pen-letter-to-the-eu/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.venezuelasolidarity.co.uk/international-observers-to-venezuelas-election-pen-letter-to-the-eu/&amp;source=gmail&amp;ust=1528623176120000&amp;usg=AFQjCNEqyNSBt00DUUt4bWgtabwVOu5_oQ\">International Observers Letter of Reply to European Union on Venezuela Election</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.mintpressnews.com/us-latin-american-regime-change-tour-now-playing-nicaragua/243431/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.mintpressnews.com/us-latin-american-regime-change-tour-now-playing-nicaragua/243431/&amp;source=gmail&amp;ust=1528623176120000&amp;usg=AFQjCNErS5ksobTLTQSyUcUF_r9jqk6e0A\">US Latin American Regime-Change Tour Now Playing Nicaragua</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://afgj.org/nicanotes-lets-think-about-the-consequences-of-our-actions\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/nicanotes-lets-think-about-the-consequences-of-our-actions&amp;source=gmail&amp;ust=1528623176120000&amp;usg=AFQjCNH-1ujjxHo-JWyzq0mWHcb5mxTZ1Q\">Chuck Kaufman \"Nicaragua: Let's Think about the Consequences of our Actions\"</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.newyorker.com/science/elements/why-african-american-doctors-are-choosing-to-study-medicine-in-cuba\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.newyorker.com/science/elements/why-african-american-doctors-are-choosing-to-study-medicine-in-cuba&amp;source=gmail&amp;ust=1528623176120000&amp;usg=AFQjCNG5PRBs7_h3PzeWePNfwUk4fZ_RNg\">New Yorker:\_Why African-American Doctors Are Choosing to Study Medicine in Cuba</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.workers.org/2018/05/25/capitalism-cuba-and-human-rights/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.workers.org/2018/05/25/capitalism-cuba-and-human-rights/&amp;source=gmail&amp;ust=1528623176120000&amp;usg=AFQjCNHaB8PawjrE1iMtCo5CcXy-SDRCQA\">Capitalism, Cuba, and Human Rights</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.devdiscourse.com/Article/10665-who-highlights-achievement-of-bolivian-program-mi-salud\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.devdiscourse.com/Article/10665-who-highlights-achievement-of-bolivian-program-mi-salud&amp;source=gmail&amp;ust=1528623176120000&amp;usg=AFQjCNEPeS5xw7mB82v7hk97eMshGYK4ng\">WHO Highlights Achievement of Bolivian program Mi Salud</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://consortiumnews.com/2018/06/07/ecuador-continues-playing-hardball-with-assange/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://consortiumnews.com/2018/06/07/ecuador-continues-playing-hardball-with-assange/&amp;source=gmail&amp;ust=1528623176120000&amp;usg=AFQjCNHZCpdS3d47o1_pg35-afZjyAkQqQ\">Ecuador Aids the US on Turning the Screws on Julian Assange</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.facebook.com/events/2190860524470376/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.facebook.com/events/2190860524470376/&amp;source=gmail&amp;ust=1528623176120000&amp;usg=AFQjCNFSXqJrhhVYwzsplSUWzc31FJP6Gg\">Toronto\_<span class=\"aBn\" data-term=\"goog_1839938939\"><span class=\"aQJ\">June 12</span></span>:\_Report back from Venezuela’s Presidential Elections</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://afgj.org/act-now\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/act-now&amp;source=gmail&amp;ust=1528623176120000&amp;usg=AFQjCNFNnacPhGsc2WtdHt4c4dX8ferTvA\">AFGJ Tour Delegations</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://ifconews.org/2018-caravan-routes/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://ifconews.org/2018-caravan-routes/&amp;source=gmail&amp;ust=1528623176120000&amp;usg=AFQjCNHSSUexud6qAbHg627l4QzCV_bPow\">Pastors for Peace Cuba Caravan Route\_<span class=\"aBn\" data-term=\"goog_1839938940\"><span class=\"aQJ\">June 22-July 1</span></span></a>\r\n\r\n<hr />\r\n\r\n&nbsp;\r\n\r\n</div>\r\nhttps://www.youtube.com/watch?v=_fV-C1Ag5sI&amp;authuser=0\r\n\r\n<hr />\r\n\r\n<h3><strong>Delegations:</strong></h3>\r\n<a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/partner-delegation-atc&amp;source=gmail&amp;ust=1527403995279000&amp;usg=AFQjCNH-04XQYlbBbrXqbAiOilZnNTh9Fw\">Agrarian and Worker Struggle in Nicaragua\_<span class=\"aBn\" data-term=\"goog_1939866554\"><span class=\"aQJ\">June 18-28</span></span></a>\r\n\r\n&nbsp;\r\n\r\n<hr />\r\n\r\n<h2 id=\"m_777319361513180780gmail-m_-4546164052145643394gmail-m_8774691331061159411gmail-m_-8213335874581264356gmail-m_-2776178258433599685gmail-m_-9020789454698019944gmail-m_6252858159261738354DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\"><strong>About the Weekly</strong></h2>\r\n<div>\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

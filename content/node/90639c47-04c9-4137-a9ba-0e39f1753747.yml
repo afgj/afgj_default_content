@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 90639c47-04c9-4137-a9ba-0e39f1753747
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+    2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'US in UN Makes its Case to Invade Venezuela; Weisbrot on the Purpose and Impact of New: Venezuela & ALBA Weekly 11.17. 2017'
+  created:
+    -
+      value: 1510941974
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /us-un-makes-its-case-invade-venezuela-weisbrot-purpose-and-impact-new-venezuela-alba-weekly-1117
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<div dir=\"ltr\">\n\n<img class=\"size-full wp-image-8456 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/11/image.png\" alt=\"\" width=\"600\" height=\"401\" />\n\n<hr />\n\nThis weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\n\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\n\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\n\n<hr />\n\n</div>\n<div dir=\"ltr\"></div>\n<div dir=\"ltr\">\n\n<a href=\"https://venezuelanalysis.com/news/13502\">Prelude to Invasion: US Ambassador Nikki Haley in Special UN Security Council Meeting Updates Saddam WMD story -- Venezuela named a Narco-State and Threat to \"World Peace\"</a>\n\nMarc Weisbrot explains why new US sanctions on Venezuela a New Regime Change plan designed to make Venezuelans suffer so they will later revolt:\n\n</div>\n<div dir=\"ltr\"><a href=\"http://cepr.net/publications/op-eds-columns/trump-doubles-down-on-sanctions-and-regime-change-for-venezuela\">Trump Doubles Down on Sanctions and Regime Change for Venezuela</a></div>\n<div dir=\"ltr\"></div>\n<div dir=\"ltr\"><span style=\"font-family: Helvetica;\"><a href=\"http://therealnews.com/t2/index.php?option=com_content&amp;task=view&amp;id=767&amp;Itemid=74&amp;jumival=20438\">US Sanctions on Venezuela \"Attempt to Destroy the Economy\"</a></span></div>\n<div dir=\"ltr\">\n\n<a href=\"http://mailchi.mp/4a9425812527/chavismo-stronger-than-ever?e=[UNIQID]\">Support and Sign on to Venezuela se Respecta Initiative by Circulo Bolivariano Alberto Lovera (NY)</a><a href=\"https://www.greenleft.org.au/content/ten-truths-about-cuba-general-elections\">Cuban Elections on\_November 26: Ten Truths About Cuba's General Elections</a>\n\n<a href=\"https://www.telesurtv.net/english/opinion/Step-by-Step-How-to-Fabricate-News-About-the-Default-in-Venezuela-20171116-0010.html\">Step by Step: How to Fabricate News About the 'Default' in Venezuela</a>\n\n<a href=\"http://www.venezuelasolidarity.co.uk/the-empire-strikes-back-ken-livingstone/\">Ken Livingstone, former Mayor of London, at Venezuela SolidarityUK Conference: The US Strategy to Roll Back the Progressive Gains Made in Latin America this century</a>\n\n<a href=\"http://%20https//www.yahoo.com/news/u-real-threat-world-security-235423518.html\">On NEWSWEEK and Yahoo News!? \_ U.S. Is the ‘Real Threat to World Security and Peace,’ Says Bolivian President</a>\n\n<hr />\n\n<h3><b>Receive the News from Venezuela Each Week-\_</b><b></b><b><a href=\"http://org2.salsalabs.com/o/7315/signup_page/venweekly\">Sign Up</a></b><b>for the Venezuela Weekly!</b></h3>\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+    -
+      entity: 2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb
+  field_mt_slideshow:
+    -
+      value: false

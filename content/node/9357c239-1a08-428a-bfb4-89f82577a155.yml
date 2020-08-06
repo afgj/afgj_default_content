@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 9357c239-1a08-428a-bfb4-89f82577a155
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Victory in Colombia, but Violence Continues'
+  created:
+    -
+      value: 1554745283
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /victory-colombia-violence-continues
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter\" src=\"https://hq.salsalabs.org/api/content/asset/018942c9-deef-4fc2-92f3-e1ef434e2717/data?authToken=jtJcuG5i9PdtPiyw-oyin8lURg7sQM0jhunYUY2uWnCZPBQJvkWe3_LL8pv7iX_WzQDuM_zQmWVE0B2ZKmv5SeEZTw0YiD9IbcfUvSfkzna_XVO8m74D-lhMuEOzkzWOR0swLpZLypwg5ZTcuxbUJMn5nfd5gDCsjk7ByudUPvf2TIkOYpXwd_huiW-_LvPQ9Zk51obJI2yafRtGzpOpbLGYa5jh_wDZ7STzbxtrAzLncuxoHaIDzmNlL_yv8bVL\" width=\"527\" height=\"398\" />\r\n\r\nThank you to everyone who sent emails to Colombian authorities and made calls to the embassy in support of the demands of the \"minga\" indigenous and rural\_community consultations and protests. Government negotiators\_reached agreements with protest leaders on Saturday night. President Iván Duque will be in Cauca on Tuesday to finalize the matter.. AfGJ supporters sent 1,000 emails to the president, made multiple phone calls to the Colombian embassy, and helped facilitate various organizational solidarity declarations.\r\n\r\nDespite this victory, there have been several recent acts of political violence and the US government is still pushing Colombia to abandon key components of Colombia's peace process. A national strike will take place in late April to keep pressure up on the Duque administration to honor accords ending more than five decades of civil war.\r\n\r\n<a href=\"http://afgj.salsalabs.org/colombiaaccompaniment?eType=EmailBlastContent&amp;eId=44444444-4444-4444-4444-444444444444\" target=\"_top\" rel=\"noopener noreferrer\">Please make a tax-deductible contribution to support AfGJ accompaniment of human rights defenders and labor leaders during this crucial time, and to provide medical and nutritional supplies to\_</a><a href=\"http://afgj.salsalabs.org/colombiaaccompaniment/index.html?eType=EmailBlastContent&amp;eId=1200b9d5-71bd-4721-9cb0-3a40c0d9d243&amp;eType=EmailBlastContent&amp;eId=44444444-4444-4444-4444-444444444444\" target=\"_top\" rel=\"noopener noreferrer\">popular movements as the\_struggle moves into its next phase.</a>\r\n\r\nThis latest development, hopeful as it is, was proceeded by several more killings and escalations. Among these was the March 21 killing of eight people in Dagua, Valle de Cauca (the department immediately north of Cauca), including student leader and Fensuagro farm workers union member Jhonatan Landines. Jhonatan and the others were killed in an explosion that local observers claim was a hand-held bomb thrown into a gathering of the Indigenous Guard by troops of the US-funded Colombian Armed Forces.\r\n\r\n<img class=\"sli-align-center\" src=\"https://hq.salsalabs.org/api/content/asset/dfc0cfc9-3b27-4947-8074-2c8560b1d460/data?authToken=jtJcuG5i9PdtPiyw-oyin8lURg7sQM0jhunYUY2uWnCZPBQJvkWe3_LL8pv7iX_WzQDuM_zQmWVE0B2ZKmv5SeEZTw0YiD9IbcfUvSfkzna_XVO8m74D-lhMuEOzkzWOR0swLpZLypwg5ZTcuxbUJMn5nfd5gDCsjk7ByudUPvf2TIkOYpXwd_huiW-_LvPQ9Zk51obJI2yafRtGzpOpbLGYa5jh_wDZ7STzbxtrAzLncuxoHaIDzmNlL_yv8bVL\" width=\"500\" />\r\n\r\nJhonatan Landines, ¡Presente!\r\n\r\nA few days later, April 2, another Indigenous Guard was killed in the village of Gebalá, municipality of Totoro, Cauca. Twenty year old Deiner Seferino Yunda was shot by the National Police.\r\n\r\n<img class=\"sli-align-center\" src=\"https://hq.salsalabs.org/api/content/asset/876cbbd1-4527-44a6-a017-241d69ecbaf2/data?authToken=jtJcuG5i9PdtPiyw-oyin8lURg7sQM0jhunYUY2uWnCZPBQJvkWe3_LL8pv7iX_WzQDuM_zQmWVE0B2ZKmv5SeEZTw0YiD9IbcfUvSfkzna_XVO8m74D-lhMuEOzkzWOR0swLpZLypwg5ZTcuxbUJMn5nfd5gDCsjk7ByudUPvf2TIkOYpXwd_huiW-_LvPQ9Zk51obJI2yafRtGzpOpbLGYa5jh_wDZ7STzbxtrAzLncuxoHaIDzmNlL_yv8bVL\" width=\"293\" />\r\n\r\nDeiner Seferino, ¡Presente!\r\n\r\nThe Alliance for Global Justice has been asked to accompany members of Colombia’s Permanent Committee for Human Rights (CPDH, Comité Permanente de Derechos Humanos) as they travel in Cauca and Valle de Cauca assessing the situation and meeting with popular movements.\r\n\r\nWe are also being asked to observe the opening days of the\_national strike. AfGJ will go to Corinto and Miranda and other parts of\_northern Cauca, where political violence has been especially bad. We are collecting funds to cover associated costs, and to raise money for medicines and food for the strikers and minga participants.\r\n\r\n<a href=\"http://afgj.salsalabs.org/colombiaaccompaniment?eType=EmailBlastContent&amp;eId=44444444-4444-4444-4444-444444444444\" target=\"_top\" rel=\"noopener noreferrer\">Thank you for all you’ve done! Now we need your financial support – please click here for peace and justice in Colombia!</a>\r\n<p style=\"text-align: center;\"></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

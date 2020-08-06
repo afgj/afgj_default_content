@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8ecc75e1-1345-4ec8-8007-c52104fec16b
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Whooops!
+  created:
+    -
+      value: 1480613403
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /whooops
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<div class=\"text-center\">The page you are looking for was either removed or no longer exists.</div>\r\n<div class=\"text-center mt-5\">\r\n<a class=\"button\" href=\"#\">Go Home</a>\r\n</div>"
+      format: raw_html
+      summary: ''

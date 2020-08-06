@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 91e6dc9b-005d-4a1a-b38f-935e43a2fa65
+  bundle: article
+  default_langcode: en
+  depends:
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela''s Bolivarian Revolution Webinar: A Revolution Worth Our Solidarity'
+  created:
+    -
+      value: 1455895516
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuelas-bolivarian-revolution-webinar-revolution-worth-our-solidarity
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><strong>Feb. 28, 2016 - 6:00-8:00pm ET / 3:00-5:00pm PT</strong></p>\n<p style=\"text-align: center;\"><strong>Organized by the <a href=\"http://facebook.com/venezuelasolidarity\">Venezuela Strategy Group</a></strong></p>\n<strong><a href=\"http://myaccount.maestroconference.com/conference/register/Q9H5JO53LFAWP73I\">Register Now</a></strong> for this educational and motivational webinar. Speakers will describe the current situation on the ground in the wake of January’s electoral take-over of the legislative branch by the US-backed right-wing opposition. They will talk about the social and economic gains made by the people of Venezuela since the election of Hugo Chavez in 1998, US government efforts to derail the democratic process since then, and why what happens in Venezuela is of vital interest to those of us in the US and Canada who want to change our own countries. The Webinar will be moderated by Alliance for Global Justice National Coordinator Chuck Kaufman.\n\n<b>\n</b><b>Primary Speakers will be:</b><b></b>\n\n<b><img class=\"alignleft\" src=\"http://org2.salsalabs.com/o/7315/images/rsz_carlos_ron_4_webinar.jpg\" alt=\"rsz_carlos_ron_4_webinar.jpg (160×160)\" /></b>\n\n<span style=\"font-family: Tahoma;\"><b>Carlos Ron </b>is Minister Counselor of the Embassy of Venezuela in the US. He was posted for four years in the political section of the Venezuelan Embassy in Brazil, and he was an adviser in the Office of Foreign Relations of the Presidency of Venezuela under President Hugo Chavez. He graduated from Latin American Studies from Rutgers University and specialized in International Relations in the University of Brasilia.</span>\n\n&nbsp;\n\n&nbsp;\n\n<img class=\"alignleft\" src=\"http://org2.salsalabs.com/o/7315/images/rsz_james_early.jpg\" alt=\"\" width=\"160\" height=\"120\" />\n\n<b>James Early</b> is the former Director Cultural Heritage Policy Smithsonian Institution Center for Folklife and Cultural Heritage. He is \_an independent consultant on Cultural Democracy and Statecraft Heritage Policy, who has collaborated with progressive and revolutionary movements in the U.S., Africa, Latin America, and the Caribbean for four decades with close ties to the Bolivarian Project, the Afro-Venezuelan Network, and as a member of the Political Committee of the Articulacion Regional de Afro Descendientes in the Americas.\n\n&nbsp;\n\n<b><img class=\"alignleft\" src=\"http://org2.salsalabs.com/o/7315/images/rsz_1gloria_la_riva_2.jpg\" alt=\"rsz_1gloria_la_riva_2.jpg (160×193)\" />Gloria La Riva</b> is coordinator of the newly-formed Cuba and Venezuela Solidarity Committee, and for 13 years\_was coordinator of the National Committee to Free the Cuban Five. La Riva has traveled many times to Venezuela since 2001, writing and speaking extensively on the Bolivarian Revolution. She is a founding member of the Network of Intellectuals, Artists and Social Activists in Defense of Humanity. La Riva is Vice-President of Pacific Media Workers Guild, CWA Local 39521 and recipient of Cuba's Friendship Medal, granted by the Cuban Council of State.\n\n&nbsp;\n\n<img class=\"alignleft\" src=\"http://org2.salsalabs.com/o/7315/images/Gregory%20Wilpert%20rotate.jpg\" alt=\"\" width=\"172\" height=\"241\" />\n<b>Gregory Wilpert </b>is a long-time solidarity activist, journalist, and sociologist, and is the author of the book Changing Venezuela by Taking Power: The History and Policies of the Chavez Government (Verso Books, 2007). He is also the founder of the website venezuelanalysis.com and most recently he was director of the teleSUR English website.<b>\_</b>\n<p style=\"text-align: center;\"><b>The Webinar is FREE/Registration required. </b></p>\n<p style=\"text-align: center;\"><b>Participation can be by computer or by phone.\_</b></p>\n<a href=\"http://myaccount.maestroconference.com/conference/register/Q9H5JO53LFAWP73I\"><img class=\"aligncenter\" src=\"http://org2.salsalabs.com/o/7315/images/register-button-png-i11.png\" alt=\"\" width=\"200\" height=\"133\" /></a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d83d9bf0-4744-4084-bf96-b701582fb64c
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Journalism from the Grassroots'
+  created:
+    -
+      value: 1310566095
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /journalism-grassroots
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<strong>Course:</strong> Journalism from the Grassroots\r\n<strong>Instructor:</strong> Dawn Paley\r\n<strong>Duration:</strong> 5 weeks, online\r\n<a href=\"https://org2.democracyinaction.org/o/7315/t/13086/shop/shop.jsp?storefront_KEY=430\">Click here to register now!</a>\r\n\r\n<strong>Description:</strong> \r\nJournalism has changed radically over the past decade, but it’s still worth learning the basics behind the craft. Today many more people are able to communicate online, but an abundance of information and questions about the quality of information continue to obscure important stories from getting the attention they deserve. In this course, activists will be taught the key precepts of journalism, specifically writing for the web, developing sources, doing background research and how to have their work be read by a wider audience. Readings will include exemplary pieces of journalism on militarization and social movements in Latin America and the U.S., as well as journalism, research and publication tip sheets.\r\n\r\n<strong>Skills/understanding that activists will have for organizing and opposing militarism after taking this course:</strong>\r\n\r\n<ul>\r\n\t<li>Research and writing skills</li>\r\n\t<li>Understanding of how to develop sources</li>\r\n\t<li>Knowledge of the various options that exist for publishing and self-publishing online</li></ul>\r\n\r\n<strong>About the Instructor: Meet Dawn Paley</strong>\r\nDawn Paley has been working as a freelance journalist for the last eight years, six of which she has focused on Latin America. Her work has appeared in The Nation, Upside Down World, and NACLA report on the Americas. For the last 3 years she has worked with the Media Co-op, Canada’s most innovative grassroots news network, and helped found a local chapter of the Co-op in her home town of Vancouver, BC. She holds a Master’s in Journalism from the University of British Columbia and regularly gives community journalism workshops for activists."
+      format: full_html
+      summary: ''

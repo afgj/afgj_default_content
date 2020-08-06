@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 7793995a-a0e2-4f28-b3aa-eb6591d66dc8
+  bundle: article
+  default_langcode: en
+  depends:
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    801e3bde-8887-4341-9509-1363185a5f6e: taxonomy_term
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Friends of the ATC Delegation announcement'
+  created:
+    -
+      value: 1541673977
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /friends-atc-delegation-announcement
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1>The Alliance for Global Justice announces the:</h1>\r\n<h1><a href=\"https://friendsatc.org/delegations/?eType=EmailBlastContent&amp;eId=db7d0ed7-1e50-44d9-93b1-ae012ad8c0c4\" target=\"_top\">Food Sovereignty &amp; Agroecology in Nicaragua Delegation</a></h1>\r\n<h1>Which we are co-sponsoring with Friends of the ATC</h1>\r\n<h1><strong>January 3rd-13th, 2019</strong></h1>\r\nSince its founding in 1978, the Asociación de Trabajadores del Campo (ATC) has trained, organized, and fought for the rights of Nicaraguan farmworkers and small-scale producers. Today the ATC, a member organization of La Via Campesina, the international peasant movement that represents over 200 million people, is a vital actor in the global struggle to build alternatives to neoliberal economic policies, free trade agreements, and agribusiness corporations.\r\n\r\nThe Friends of the ATC solidarity network invites you to join our January delegation. We will tour agricultural cooperatives and agroecological schools, meet with peasant-, youth-, and women-led organizations, and help with various installations and work projects. Through these exchanges and our rural homestays, we will learn about not only food sovereignty and agroecology, but also popular education, feminism, and socialism in Nicaragua. This delegation will be a unique and important opportunity to study Nicaragua’s contemporary political context. We will also collaborate on how we can collectively build international solidarity, clarify Nicaragua’s current crisis, and spread the reach of the Friends of the ATC in the United States.\r\n\r\n<a href=\"https://afgj.org/wp-content/uploads/2018/10/Nicaragua-Jan-2019-Delegation-Flyer.pdf\">Nicaragua Jan 2019 Delegation Flyer</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: 801e3bde-8887-4341-9509-1363185a5f6e
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+  field_mt_slideshow:
+    -
+      value: false

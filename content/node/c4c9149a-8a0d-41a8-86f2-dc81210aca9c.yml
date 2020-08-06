@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c4c9149a-8a0d-41a8-86f2-dc81210aca9c
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly: Venezuela''s Communal Movement Today 11.24.2017'
+  created:
+    -
+      value: 1511524784
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-venezuelas-communal-movement-today-11242017
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-8478 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/11/image-1.png\" alt=\"\" width=\"643\" height=\"380\" />\n\n<hr />\n\n<span style=\"color: #000000;\">This weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.</span>\n\n<span style=\"color: #000000;\">It is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff</span>\n\n<span style=\"color: #000000;\">AFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a style=\"color: #000000;\" href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com</span>\n\n<hr />\n<p dir=\"ltr\"><span style=\"color: #000000;\"><a style=\"color: #000000;\" href=\"https://www.counterpunch.org/2017/11/24/venezuelas-communes-a-great-social-achievement/\" target=\"_blank\" rel=\"noopener\">Katrina Kozarek: Venezuela's Communes: A Great Social Achievemen</a>t</span></p>\n<span style=\"color: #000000;\"><a style=\"color: #000000;\" href=\"http://en.granma.cu/mundo/2017-11-22/montevideo-declaration-calls-for-unity-in-the-struggle-against-neoliberalism\" target=\"_blank\" rel=\"noopener\">Final Declaration of the Continental Encounter for Democracy and Against Neoliberalism\_</a></span><span style=\"color: #000000;\"><a style=\"color: #000000;\" href=\"http://www.thedawn-news.org/2017/11/21/organized-communities-demand-swiftness-and-more-involvement-to-the-national-constituent-assembly/\" target=\"_blank\" rel=\"noopener\">Venezuela's Communal Movement Demands More Action from the National Constituent Assembly\_</a>\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_</span>\n\n<span style=\"color: #000000;\"><a style=\"color: #000000;\" href=\"http://www.thedawn-news.org/2017/11/14/argentinas-return-to-being-a-bourgeois-country/\" target=\"_blank\" rel=\"noopener\">Meeting of\_\_ALBA\_Social Movements: Building\_International Solidarity as a Priority to Confront the Empire</a></span>\n\n<span style=\"color: #000000;\"><a style=\"color: #000000;\" href=\"https://www.telesurtv.net/english/multimedia/Venezuela-Between-Economic-War-Sanctions-and-Debt-Squeeze-20171114-0023.html#\" target=\"_blank\" rel=\"noopener\">TeleSur Special Report on \_Economic War, Sanctions and National Debt</a></span>\n\n<span style=\"color: #000000;\"><a style=\"color: #000000;\" href=\"https://www.telesurtv.net/english/news/Neighborhoods-in-Cuba-Debate-Candidates-Ahead-of-Elections-20171123-0021.html\" target=\"_blank\" rel=\"noopener\">Cuba: Neighborhoods \_Debate Candidates Ahead of Elections for Municipal Assemblies of People’s Power</a></span>\n\n<span style=\"color: #000000;\"><a style=\"color: #000000;\" href=\"https://www.telesurtv.net/english/news/Ill-Follow-Fidels-Example-Until-My-Last-Breath-Puerto-Ricos-Oscar-Lopez-20171122-0016.html\" target=\"_blank\" rel=\"noopener\">Oscar Lopez Rivera: I'll Follow Fidel's Example Until My Last Breath</a></span>\n\n<hr />\n<p dir=\"ltr\"><span style=\"color: #000000;\"><strong>\_Allied Events</strong></span></p>\n<p dir=\"ltr\"><span style=\"color: #000000;\"><a style=\"color: #000000;\" href=\"https://www.facebook.com/events/2049128295309085/\" target=\"_blank\" rel=\"noopener\">December 5, NYC: Challenges of the Colombian Peace Process and the Case of Simon Trinidad</a></span></p>\n\n\n<hr />\n\n<h2 style=\"text-align: center;\"><b>Receive the News from Venezuela Each Week-\_</b><b></b><b><a href=\"http://org2.salsalabs.com/o/7315/signup_page/venweekly\">\nSign Up\_</a></b><b>for the Venezuela Weekly!</b></h2>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

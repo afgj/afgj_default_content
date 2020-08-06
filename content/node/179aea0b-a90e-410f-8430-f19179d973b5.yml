@@ -1,0 +1,61 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 179aea0b-a90e-410f-8430-f19179d973b5
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    e1391c31-ce88-4beb-a12d-d58ab528ecd9: taxonomy_term
+    cb4617c7-3c39-4ae4-a5e6-a44b174be3d3: taxonomy_term
+    0dfdb011-9c82-4762-89a0-db01e08f9fe3: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Ataques a la JEP hundirían a Colombia en la guerra'
+  created:
+    -
+      value: 1540990000
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /ataques-la-jep-hundirian-colombia-en-la-guerra
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://elturbion.com/?p=16319&amp;fbclid=IwAR3iwCIGSAgz-v6zBvRVLw-uXaP9H2vORe7MPGM90oXkNS57lFFj4Q2tyFA\">Públicado en El Turbión</a>\r\n\r\n<strong>Por: James Patrick Jordan – octubre 30 de 2018</strong>\r\n\r\n[caption id=\"attachment_10944\" align=\"alignleft\" width=\"282\"]<img class=\" wp-image-10944\" src=\"https://afgj.org/wp-content/uploads/2018/10/nestor_humberto_martinez-dialogo_interamericano.jpg\" alt=\"\" width=\"282\" height=\"188\" /> El fiscal general Néstor Humberto Martínez Neira sería un actor clave en la intención de desacreditar a la JEP. Foto: Diálogo Interamericano.[/caption]\r\n<p class=\"has-drop-cap\">En lo que sería un descarado ataque a los acuerdos de paz de Colombia, el fiscal general Néstor Humberto Martínez Neira ha acusado a\_Martha Lucía Zamora, July Henríquez y Ernesto Caicedo, funcionarios de la Jurisdicción Especial para la Paz (JEP), de haber falsificado documentos y aprovechado su posición para facilitar el paso a la clandestinidad de ‘Iván Márquez’ y otros antiguos insurgentes y negociadores de paz. He discutido este asunto con Henríquez y Gustavo Gallardo, presidente de la organización defensora de derechos humanos\_<a href=\"http://fundacionlazosdedignidad.net/\" target=\"_blank\" rel=\"noreferrer noopener\">Lazos de Dignidad</a>, y no dudan en calificar estas acusaciones de “absurdas”....Muchos de nosotros en los Estados Unidos reconocemos el nombre de July Henríquez. En noviembre de 2014, la\_<a href=\"https://afgj.org/\" target=\"_blank\" rel=\"noreferrer noopener\">Alianza por la Justicia Global</a>, organización a la que pertenezco, la trajo a ella y a Gustavo Gallardo a nuestro país como parte de un grupo de líderes de la Marcha Patriótica....</p>\r\n<a href=\"https://elturbion.com/?p=16319&amp;fbclid=IwAR3iwCIGSAgz-v6zBvRVLw-uXaP9H2vORe7MPGM90oXkNS57lFFj4Q2tyFA\">LEER MAS...</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: e1391c31-ce88-4beb-a12d-d58ab528ecd9
+    -
+      entity: cb4617c7-3c39-4ae4-a5e6-a44b174be3d3
+    -
+      entity: 0dfdb011-9c82-4762-89a0-db01e08f9fe3
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

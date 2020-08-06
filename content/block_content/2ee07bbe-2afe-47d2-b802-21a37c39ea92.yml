@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 2ee07bbe-2afe-47d2-b802-21a37c39ea92
+  bundle: mt_nodes_slideshow_block
+  default_langcode: en
+  depends:
+    9d6b317e-bc0d-453c-a431-e3bc7688c259: node
+    244c6978-88bd-49c3-9aa0-0e2347cfee2a: node
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Take Action'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_ns_slide:
+    -
+      entity: 9d6b317e-bc0d-453c-a431-e3bc7688c259
+    -
+      entity: 244c6978-88bd-49c3-9aa0-0e2347cfee2a

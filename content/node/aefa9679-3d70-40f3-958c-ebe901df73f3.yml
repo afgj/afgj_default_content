@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: aefa9679-3d70-40f3-958c-ebe901df73f3
+  bundle: article
+  default_langcode: en
+  depends:
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+    4d58c480-4afa-42db-9320-32d1579a7036: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'TAKE ACTION TO FREE HONDURAN POLITICAL PRISONERS!'
+  created:
+    -
+      value: 1540241656
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /take-action-free-honduran-political-prisoners
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1 style=\"text-align: center;\"><span style=\"font-weight: 400;\">Why they migrate is why they are imprisoned and killed.</span></h1>\r\n<h1 style=\"text-align: center;\"><span style=\"font-weight: 400;\"><a href=\"https://afgj.salsalabs.org/takeactiontofreehonduranpoliticalprisoners\">TAKE ACTION TO FREE HONDURAN POLITICAL PRISONERS! </a></span></h1>\r\n<span style=\"font-weight: 400;\">15 political prisoners remain imprisoned for protesting the U.S.- and Canadian-backed 2017 electoral fraud in Honduras. The majority of political prisoners are being held in military-run, maximum-security prisons where they face years of pre-trial detention. They are being persecuted, falsely charged and held in the harshest conditions usually reserved for violent criminals for demanding economic, political, and social change in Honduras. </span>\r\n\r\n<span style=\"font-weight: 400;\">The refugees in the caravan traveling to the U.S. border have fled Honduras for the same reasons that Honduran political prisoners are incarcerated: both are resisting the U.S.- and Canadian-supported Honduran dictatorship under Juan Orlando Hernandez. Honduran refugees and political prisoners alike seek a viable, humane solution to the nationwide crisis provoked by the 2009 military coup and (most recently) repression and other violent state policies linked to the 2017 electoral fraud. Read the Honduras Solidarity Network’s statement on the refugee caravan </span><a href=\"http://www.hondurassolidarity.org/\"><span style=\"font-weight: 400;\">here</span></a>\r\n\r\n<span style=\"font-weight: 400;\">Demand that the U.S. and Canada end support to the Honduran regime NOW! \_</span>\r\n\r\n<span style=\"font-weight: 400;\">Signing this petition demands that the U.S. and Canada change their long-standing policies in Honduras. We demand: \_</span>\r\n<ol>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">An end to U.S. and Canadian military and security aid to Juan Orlando Hernandez’s regime, not as Donald Trump’s blackmail threat, but as a way to guarantee the protection of the human rights of the Honduran people. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Justice for Berta Cáceres and all victims of state violence stemming from the 2009 coup and 2017 electoral crisis, and the approval of the Berta Cáceres Human Rights in Honduras Act, H.R. 1299. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Immediate freedom for all political prisoners in Honduras. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">An end to the criminalization, imprisonment, separation, deportation and killing of migrants and refugees.</span></li>\r\n</ol>\r\n<span style=\"font-weight: 400;\">Canadians can also sign another e-petition found </span><a href=\"https://petitions.ourcommons.ca/en/Petition/Sign/e-1868\"><span style=\"font-weight: 400;\">here</span></a>\r\n\r\n<span style=\"font-weight: 400;\">MIGRATION WON’T STOP UNTIL U.S. AND CANADIAN POLICY IN HONDURAS CHANGES. FREE THE POLITICAL PRISONERS! JUSTICE FOR BERTA CACERES!</span>\r\n\r\n<a style=\"background: #ff0000; padding: 10px; margin: 10px 0px; text-align: center; text-decoration: none; font-size: 12pt; color: #ffffff; font-family: Arial, Helvetica, sans-serif; display: inline-block;\" href=\"https://afgj.salsalabs.org/takeactiontofreehonduranpoliticalprisoners\" target=\"_blank\" rel=\"noopener\">Take Action</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+    -
+      entity: 4d58c480-4afa-42db-9320-32d1579a7036
+  field_mt_slideshow:
+    -
+      value: false

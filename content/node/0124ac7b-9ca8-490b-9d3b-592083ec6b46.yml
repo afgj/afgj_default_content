@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 0124ac7b-9ca8-490b-9d3b-592083ec6b46
+  bundle: article
+  default_langcode: en
+  depends:
+    7c24d703-ad76-40f5-8889-a30cb1700fd3: taxonomy_term
+    7de75c6a-4d28-4128-ad47-1ce01b22a3e2: taxonomy_term
+    e2cd83a2-4ff6-40be-8260-0b38e269f80f: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Checkpoint Nation'
+  created:
+    -
+      value: 1476604565
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /checkpoint-nation
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "https://www.youtube.com/watch?v=R75iQK5sS9A\n\nEarly one morning, Maria—then nine months pregnant—and her family were stopped by the police for no discernable reason. A special breakfast outing became a nightmare—and at one of the most intimate moments of her life, Maria found a team of immigration agents—not her husband—by her side.\n\nMaria's chilling story is the centerpiece of \"Checkpoint Nation? Building Community Across Borders,\" a powerful new documentary that depicts the reality of post-9/11 racial profiling and its subsequent impact on women — as mandated by laws such as SB 1070 in Arizona, which are now being imitated and implemented nationwide."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 7c24d703-ad76-40f5-8889-a30cb1700fd3
+    -
+      entity: 7de75c6a-4d28-4128-ad47-1ce01b22a3e2
+    -
+      entity: e2cd83a2-4ff6-40be-8260-0b38e269f80f
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

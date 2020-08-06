@@ -1,0 +1,82 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 9018776e-c203-4556-829c-468ff1723b28
+  bundle: article
+  default_langcode: en
+  depends:
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    1c0c4377-b739-4293-a00a-331346b8aa16: taxonomy_term
+    d7484f78-fd8a-49f7-afcb-5b7fed9db70f: taxonomy_term
+    ca4e52ca-2d48-486f-8d00-3553c0a7f296: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    e2cd83a2-4ff6-40be-8260-0b38e269f80f: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    b2c352f2-62d9-485a-b8f0-d6687d083f48: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'The People’s Hammer Can Tear Down Any Border Wall'
+  created:
+    -
+      value: 1485360381
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /peoples-hammer-can-tear-down-any-border-wall
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "by James Patrick Jordan\n\n<a href=\"https://afgj.org/el-martillo-del-pueblo-puede-derribar-cualquier-pared-en-la-frontera\"><em>en español</em></a>\n\n<img class=\"aligncenter wp-image-7509 \" src=\"https://afgj.org/wp-content/uploads/2017/01/Borderwallbrownsvile1.jpg\" alt=\"Borderwallbrownsvile1\" width=\"533\" height=\"447\" />\n\nThe antidote to ruling class unity is the unity of peoples. “El pueblo unido jamas será vencido” (The people united will never be defeated) must be more than a slogan. It must be the reality, the hammer that we use to tear down the walls and beat back the attacks we are facing.\n<h5 style=\"text-align: center;\"><em>For information about AfGJ's March 10-20, 2017 Mexico delegation, send an email to DELEGATIONS@AFGJ.ORG</em></h5>\nThink about it a minute. We’re hearing a lot about how Donald Trump wants to finish the wall on the US border with Mexico (begun during the Clinton administration). His executive order on border security and immigration accelerates policies already in place: more militarization, more jails for the undocumented, more deportations and more separated families. And we all know about his claim that, <em>“When Mexico sends its people, they’re….sending people that have lots of problems, and they’re bringing those problems with us. They’re bringing drugs. They’re bringing crime. They’re rapists.” </em>\n\nBut one would be mistaken to think that Trump hates all Mexicans. Trump has called Carlos Slim, Mexico’s and the world’s richest person, “A great guy”. And Trump was the only presidential candidate invited to meet with Mexican President Enrique Peña Nieto before the election. Peña Nieto had been slated to visit the White House next week, less than two weeks into the new administration’s tenure. However, due to popular pressure and Trump's arrogant insistence that Mexico pay for the border wall the US is building, Peña Nieto has shown a rare display of gumption and canceled his visit to the US. The pressure to cancel came not just from popular movements, but from a broad array of Mexican politicians from various parties and backgrounds. While this may signify a fissure in US-Mexico relations, it is unlikely to turn into a full-scale break. We expect Mexico will continue to receive funding, advice and material support from the US government for the tools of repression that the government uses against its own people. The US in turn will continue to benefit from the exploitation of Mexico's resources, including the labor of the undocumented on whom our national economy is dependent.\n\nThe reality is that there is a deep and far reaching unity between the 1%-ers of the United States and Mexico. When it comes to their class enemies (meaning, the rest of us), they will continue and will amplify their assaults against working and rural families and poor people on both sides of the border, as well as their drive toward privatization and the decimation of social services and investments.\n\nTrump’s nominee for Secretary of State, Rex Tillerson, served as CEO of Exxon-Mobil from 2006 to 2016. In 2014, <a href=\"http://www.reuters.com/article/mexico-pemex-idUSL2N0RX16I20141002\">Exxon signed a cooperation agreement </a>with the Mexican government oil company PEMEX. And on December 5, 2016, Exxon, already a major oil exporter to Mexico, won a significant bid for <a href=\"http://www.oedigital.com/pipelines/item/14100-mexico-s-deepwater-round-begins and https://www.bloomberg.com/news/articles/2016-05-19/exxon-statoil-said-in-talks-with-pemex-to-sign-interest-pacts\">deep water crude oil drilling</a> off the coast of Mexico just under 200 miles south of Texas. All of this is made possible by the 2013 legislation signed into law by Peña Nieto that opened Mexico’s petroleum resources to private development. The public ownership of oil production and social investment of profits had been one of the most cherished gains of the Mexican revolution.\n\nWhile the US is investing money to militarize the US and Mexico border, it is also funding\_ militarization of \_Mexico’s southern border and investing in Mexican efforts to apprehend, detain and deport immigrants from Central America. Grupo Mexico is a transnational copper company operating mines in Mexico, the United States, Peru and Spain. It also owns most the train tracks in Mexico. Grupo Mexico has stepped up to the plate in a particular way to build its own special anti-immigrant wall.\n\n<a href=\"http://www.counterpunch.org/2016/05/06/mexico-already-has-a-giant-wall-and-a-mining-company-helped-to-build-it/\">Tamara Pearson explains</a> that,\n<p style=\"padding-left: 30px;\">Some walls are made of concrete and razor wire. Others are made of soldiers, violence, bureaucracy and misinformation. While Grupo Mexico has built a long wall to stop migrants from getting on or off its long distance train, ‘The Beast,’ the Mexican government’s Southern Border Plan is also making it much harder for Central American migrants desperately fleeing violence and poverty to travel through the country.</p>\nShe adds that,\n<p style=\"padding-left: 30px;\">The plan has seen increased security presence along Mexico’s southern border and along the train lines, resulting in increased deportations. Crime against migrants has increased, including robbery, sexual assault, murder, and human trafficking….As part of the plan, Grupo Mexico…built a <a href=\"http://www.imagendelgolfo.com.mx/resumen.php?id=41025906\">wall</a> to stop access to the train. The wall, begun in 2013 in Veracruz, chopped a town in half. Made of thick concrete, five meters high and with razor wire on top, so far the wall just makes it harder for tired and injured migrants to make their way to the local refuge. Locals who used to walk across the railway line to get to the market now have to catch a bus around the wall.</p>\nIn fact, Grupo Mexico is one Mexico based corporation that is already benefiting from Trump’s successful campaign for president. Adam Williams, writing for Bloomburg, notes that,\n<p style=\"padding-left: 30px;\"><a href=\"https://www.bloomberg.com/quote/GMEXICOB:MM\">Grupo Mexico SAB</a> was the only company that rose in Mexico’s IPC stock index since the Nov. 8 U.S. election through Wednesday, as Trump’s $550 billion infrastructure pledge helps\_fuel the biggest surge in copper prices in seven years. That’s shielding the company\_owned by billionaire German Larrea\_from Trump’s threats to build a border wall between the countries and restructure the Nafta trade agreement. Concerns that trade will be stifled have sent the peso and shares of other Mexico securities tumbling.</p>\nThese are just a few instances that give us some glimpse of how intertwined are the aspirations—and profits—of the US and Mexican oligarchies. Since 2005, the United States government has provided funding for the construction of 13 of Mexico’s 16 federal prisons, including Mexico’s first private, for profit jails. Each year Mexico spends billions of dollars buying weaponry from the United States for their police and military. All of this mirrors mass incarceration, political imprisonment and police militarization in the United States. Prisons, militarized police and borders in the US and Mexico serve the same purpose—population control and repression of the masses. And that serves a further purpose—the protection of corporate profits. As rural communities and ecosystems are left broken by the spread and dominance of big agribusiness and extractivist developments, and as unionists and other workers fight back against a constant barrage of assaults, prison walls, border walls and bullets are the tools wielded in both countries against the displaced, the desperate, the downtrodden and the dissident.\n\nOf course, when it comes to class struggle and the aspirations of the oppressed, there are two sides to the story. Right now, we are witness to popular uprisings in both the US and Mexico. In the US we have just seen militant demonstrations on Inauguration Day, followed by the January 21<sup>st</sup> Women’s Marches in Washington, DC, throughout the country and, indeed, around the world. These were some of the largest demonstrations in US history. Likewise, in Mexico, we are seeing uprisings against the “gasolinazo”, that is, proposals to raise gas prices, and therefore, as a result, the prices of food and other basic commodities. Millions of people are marching and resisting either side of that arbitrary line that divides our nations. These popular mobilizations have been preceded by huge movements such as the teachers strike in Mexico and the Black Lives Matter and Standing Rock movements here in the US. That momentum must keep growing, and we must reach hands across the border to stand up decisively to those who want to put us down.\n\nFrom March 10 through 20, 2017, AfGJ will be taking a delegation to Mexico that will visit Sonora, Oaxaca and Mexico City. We will be hosted by various unions, indigenous activists, environmentalists, human rights defenders and popular movement leaders. We have two goals with the delegation: 1) to reinforce connections between the popular movements of Mexico and the US; 2) to study in depth the efforts of the US to build new prisons and militarize police and borders both in the US and in Mexico.\_ We know that other organizations and movements on both sides of the wall are also reinforcing and building channels of contact and mutual struggle. These kinds of links should be replicated and encouraged. For those interested in the AfGJ delegation, you can send an email to <a href=\"mailto:DELEGATIONS@AFGJ.ORG\">DELEGATIONS@AFGJ.ORG</a> for an application.\n\nBut most important at all, we hope to see you in the streets. Our unified struggle is exactly the sledgehammer required to topple all the walls constructed to keep us down and profit off our misery. Let’s raise our hammer high—together!"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 1c0c4377-b739-4293-a00a-331346b8aa16
+    -
+      entity: d7484f78-fd8a-49f7-afcb-5b7fed9db70f
+    -
+      entity: ca4e52ca-2d48-486f-8d00-3553c0a7f296
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: e2cd83a2-4ff6-40be-8260-0b38e269f80f
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: b2c352f2-62d9-485a-b8f0-d6687d083f48
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

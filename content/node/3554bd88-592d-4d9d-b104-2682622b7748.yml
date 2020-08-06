@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3554bd88-592d-4d9d-b104-2682622b7748
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Honduras: Human Rights Accompaniment for Communities in Struggle'
+  created:
+    -
+      value: 1456225912
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /honduras-human-rights-accompaniment-communities-struggle
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: left;\">Application deadline, May 27th quickly approaching!</p>\r\n<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-6626\" src=\"https://afgj.org/wp-content/uploads/2016/04/berta-honduras.jpg\" alt=\"berta honduras\" width=\"960\" height=\"720\" /></p>\r\nThe murder of Honduran indigenous leader Berta Caceres on Mar. 3, exposed to the world what Alliance for Global Justice and the Honduras Solidarity Network have known since the June 28, 2009 US-backed coup. Honduras has become a virtual failed state where the ruling party’s police and military operate with total impunity, foreign mining and tourism industries poison and steal indigenous land, and local elites threaten and kill agricultural cooperative leaders in order to expand African Palm plantations to provide palm oil to the US market.\r\n\r\nOne group that enjoys a level of privilege is foreigners, especially foreigners from North America. This delegation will accompany those in Honduras who are most vulnerable to violence, which our very presence will help protect. Our delegation will be led by AfGJ National Co-Coordinator Elane Spivak Rodriguez and Honduras Solidarity Network Co-Coordinator Karen Spring.\r\n\r\nWe will spend time with the Lenca indigenous community of La Esperanza where COPINH leader Berta Caceres was murdered in March. We will also visit and meet with the people in the other at-risk communities including in the Aguan Valley. \_This is an opportunity to put our North American privilege to accomplish something positive. We in the US and Canada have a particular obligation considering our governments’ support for the coup, support for transnational mining and tourist companies, and US aid and training to the brutal police and military. As part of the international community, we MUST play an active role to defend human rights. Our first priority in delegations of this type is always to keep our delegates safe. We have never had a delegate harmed in any way.\r\n\r\n<strong>Human rights accompaniment delegations do save lives. Do something positive with 10 days of your summer this year. Help save lives.</strong>\r\n\r\nPrice: $1,100\r\n\r\n<em>Price includes: hotels (double occupancy) food, in-country travel, translation, and program. It does not include international airfare.</em>\r\n\r\n<strong>For an application or more information, email: <a href=\"mailto:Delegations@afgj.org\">Delegations@afgj.org</a></strong>\r\n\r\n<strong>To pay for this delegation, click <a href=\"https://org2.salsalabs.com/o/7315/donate_page/delegations3\">here.</a></strong>"
+      format: full_html
+      summary: ''

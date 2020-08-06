@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e98864c9-e48d-4f14-b9d6-d9f210f6becf
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly April 27, 2018 What Lies Behind the Nicaragua Unrest?'
+  created:
+    -
+      value: 1524842243
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-april-27-2018-what-lies-behind-nicaragua-unrest
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2><img class=\"aligncenter size-full wp-image-9672\" src=\"https://afgj.org/wp-content/uploads/2018/04/image-1.png\" alt=\"News Venezuela ALBA\" width=\"1280\" height=\"720\" /></h2>\r\n<h2 style=\"text-align: center;\">The News This Week</h2>\r\n<a href=\"https://www.counterpunch.org/2018/04/25/the-empire-turns-its-sights-on-nicaragua-again/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.counterpunch.org/2018/04/25/the-empire-turns-its-sights-on-nicaragua-again/&amp;source=gmail&amp;ust=1524951291406000&amp;usg=AFQjCNFMQYnB0YICrjaE_e_kaFF5O5hb2g\">Dan Kovalik: The US Role in Nicaragua</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/News/13781\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://venezuelanalysis.com/News/13781&amp;source=gmail&amp;ust=1524951291406000&amp;usg=AFQjCNH7-tYlbIQHEWjdIracpeUnxr2ufg\">Venezuelan Opposition Backs Nicaragua’s Protests; Chavez Monument in Nicaragua Destroyed</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://afgj.org/unrest-nicaragua-reconciliation-dialogue\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/unrest-nicaragua-reconciliation-dialogue&amp;source=gmail&amp;ust=1524951291406000&amp;usg=AFQjCNFBlxhq1RVW-7qSqeZ8rTRUIkg_jw\">Nicaragua Network/Alliance for Global Justice Statement on Unrest in Nicaragua</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/opinion/Nicaragua-Next-in-Line-for-Regime-Change-20180421-0014.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/opinion/Nicaragua-Next-in-Line-for-Regime-Change-20180421-0014.html&amp;source=gmail&amp;ust=1524951291406000&amp;usg=AFQjCNFS7xEJpbIVfiBZvNwMHeDCT7imvA\">Tortilla con Sal:\_Nicaragua: Next in Line for Regime Change?</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://www.thedawn-news.org/2018/04/20/the-us-is-the-author-of-all-despotic-regimes-in-latin-america-and-their-crimes/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.thedawn-news.org/2018/04/20/the-us-is-the-author-of-all-despotic-regimes-in-latin-america-and-their-crimes/&amp;source=gmail&amp;ust=1524951291406000&amp;usg=AFQjCNFzuJ95dQ3xkwQFk-I5Px2O1ty_Wg\">Cuba’s Bruno Rodriguez at Americas Summit:\_“The US is the Author of all Despotic Regimes in Latin America and their Crimes”</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.mintpressnews.com/unasur-bolivia-scrambles-to-maintain-south-american-unity-amid-us-support-for-right-wing-governments/241070/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.mintpressnews.com/unasur-bolivia-scrambles-to-maintain-south-american-unity-amid-us-support-for-right-wing-governments/241070/&amp;source=gmail&amp;ust=1524951291406000&amp;usg=AFQjCNGown-bQn-ktvOXI-nOrl9kx5n8UQ\">Bolivia Tries to Maintain UNASUR as South American Right Wing Leaders align with the US</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://www.venezuelasolidarity.org/2018/04/26/venezuela-rural-communities-organise-to-confront-economic-crisis/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.venezuelasolidarity.org/2018/04/26/venezuela-rural-communities-organise-to-confront-economic-crisis/&amp;source=gmail&amp;ust=1524951291406000&amp;usg=AFQjCNHajORtAwMSQq_5H9Q8X5Xkyk2StA\">Venezuela: Rural Communities Organize to Confront Economic Crisis</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.mintpressnews.com/venezuelas-ex-consul-general-to-us-speaks-with-mintpress-on-sanctions-petrodollar/241056/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.mintpressnews.com/venezuelas-ex-consul-general-to-us-speaks-with-mintpress-on-sanctions-petrodollar/241056/&amp;source=gmail&amp;ust=1524951291406000&amp;usg=AFQjCNG3IqH6bBrKrrlWL-P6ldsboJ86Bg\">Jesus Rodriguez, Former Venezuela Consul Discusses the Road Ahead</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://fair.org/home/western-media-shorthand-on-venezuela-conveys-and-conceals-so-much/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://fair.org/home/western-media-shorthand-on-venezuela-conveys-and-conceals-so-much/&amp;source=gmail&amp;ust=1524951291407000&amp;usg=AFQjCNFRg3Dd5jiZVD0T8L25K-en60Cs2g\">Joe Emersberger:\_Western Media on Venezuela Conveys and Conceals So Much</a>\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: center;\">Delegations</h2>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div><a href=\"https://revolucionalimentaria.org/2018/04/09/urgent-call-for-solidarity-delegation-to-venezuela-may-16-24-2018/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://revolucionalimentaria.org/2018/04/09/urgent-call-for-solidarity-delegation-to-venezuela-may-16-24-2018/&amp;source=gmail&amp;ust=1524951291407000&amp;usg=AFQjCNG-URa2SHENsiLjhYy2RRn4VsCjLg\">Solidarity Delegation to Venezuela,\_<span class=\"aBn\" data-term=\"goog_831236531\"><span class=\"aQJ\">May 16-24</span></span>\_(during Presidential Election)</a></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div></div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div><a href=\"https://afgj.org/travel-to-colombia\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/travel-to-colombia&amp;source=gmail&amp;ust=1524951291407000&amp;usg=AFQjCNGeKdZa2eLKq3inIpWJoAJOecQvSg\">Peacemakers Delegation to Colombia with AfGJ,\_<span class=\"aBn\" data-term=\"goog_831236532\"><span class=\"aQJ\">May 19-29</span></span></a></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div dir=\"ltr\"></div>\r\n<div>\r\n<div id=\"m_777319361513180780gmail-m_-4546164052145643394gmail-m_8774691331061159411gmail-m_-8213335874581264356gmail-m_-2776178258433599685gmail-m_-9020789454698019944gmail-m_6252858159261738354DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\"><a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/partner-delegation-atc&amp;source=gmail&amp;ust=1524951291407000&amp;usg=AFQjCNFiyu5lr15JIXW48GoSpetzxRqy6A\">Agrarian &amp; Worker Struggle in Nicaragua: Celebrating the ATC’s 40th Anniversary\_<span class=\"aBn\" data-term=\"goog_831236533\"><span class=\"aQJ\">June 18-28</span></span></a></div>\r\n<div></div>\r\n<div><b><b></b></b><a href=\"https://afgj.org/artist-delegation-nicaragua\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/artist-delegation-nicaragua&amp;source=gmail&amp;ust=1524951291407000&amp;usg=AFQjCNEcJbVfAaBPHCX1z5o6wvVobl7sdQ\">Artists’ Delegation to Nicaragua\_</a><a href=\"https://afgj.org/artist-delegation-nicaragua\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/artist-delegation-nicaragua&amp;source=gmail&amp;ust=1524951291407000&amp;usg=AFQjCNEcJbVfAaBPHCX1z5o6wvVobl7sdQ\"><span class=\"aBn\" data-term=\"goog_831236534\"><span class=\"aQJ\">August 1 through 10, 2018</span></span></a></div>\r\n\r\n<hr />\r\n\r\n<h2 id=\"m_777319361513180780gmail-m_-4546164052145643394gmail-m_8774691331061159411gmail-m_-8213335874581264356gmail-m_-2776178258433599685gmail-m_-9020789454698019944gmail-m_6252858159261738354DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\" style=\"text-align: center;\"><b></b><strong style=\"color: #333333; letter-spacing: 0.05em;\">About the Weekly</strong></h2>\r\n<div>\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n</div>\r\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

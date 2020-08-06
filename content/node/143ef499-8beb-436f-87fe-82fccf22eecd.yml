@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 143ef499-8beb-436f-87fe-82fccf22eecd
+  bundle: mt_testimonial
+  default_langcode: en
+  depends:
+    625cdd4b-032d-492b-802d-34efd87abfec: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Lavern K. McDuffie'
+  created:
+    -
+      value: 1477562511
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_tst_body:
+    -
+      value: "<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_tst_subtitle:
+    -
+      value: 'Founder & CEO at Dolorison'
+  field_mt_tst_testimonial_image:
+    -
+      entity: 625cdd4b-032d-492b-802d-34efd87abfec
+      alt: 'Testimonial image'
+      title: ''
+      width: 750
+      height: 750
+  field_mt_tst_testimonial_link:
+    -
+      uri: 'http://www.morethanthemes.com/'
+      title: 'Testimonial Link'
+      options: {  }

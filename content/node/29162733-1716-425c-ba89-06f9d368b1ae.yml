@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 29162733-1716-425c-ba89-06f9d368b1ae
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+    2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela and ALBA Weekly: ALBA Nations Declaration Calls for Building Unity and Solidarity in Face of Imperial Interference 12.22.2017'
+  created:
+    -
+      value: 1514017184
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-and-alba-weekly-alba-nations-declaration-calls-building-unity-and-solidarity-face
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<div>\_<img class=\"alignleft size-full wp-image-8648\" src=\"https://afgj.org/wp-content/uploads/2017/12/12.23venweekly.png\" alt=\"\" width=\"791\" height=\"792\" /></div>\n<div></div>\n<div>\n\n<hr />\n\n<span style=\"letter-spacing: 0.05em;\">This weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.</span>\n\n</div>\n<div>\n\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\n\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\n\n</div>\n<div>\n\n<hr />\n\n</div>\n<div>\n\n<strong><a href=\"https://www.greenleft.org.au/content/fidel-castro-earth-summit\" target=\"_blank\" rel=\"noopener\">ALBA Country Meeting\_Condemns the Hardening of the US Blockade of Cuba</a></strong>,\_ Urges Compliance with Colombia Peace Agreement, Condemns US and European Union\_ sanctions on Venezuela and OAS interference, Condemns Repression in Honduras, and Defends Palestinian Cause.\n\n<b><a href=\"https://www.huffingtonpost.com/entry/americans-must-hear-the-other-hopeful-side-of-the_us_5a3a77aae4b06cd2bd03d6cb\" target=\"_blank\" rel=\"noopener\">The people of Venezuela are staunchly resisting the regime change drive of Western governments and media.</a> </b>International solidarity is lacking<b>\_</b>whatever the failures of economic policy by the Venezuela government—and there is much valid criticism to be made according to, among others, the analysts writing on Venezuela Analysis–a majority of the people consider that the political opposition in power—allied closely to governments in the U.S., Canada and Europe—would only worsen matters.\n\n<a href=\"https://www.huffingtonpost.com/entry/americans-must-hear-the-other-hopeful-side-of-the_us_5a3a77aae4b06cd2bd03d6cb\" target=\"_blank\" rel=\"noopener\"><b>Dan Kovalik:\_What I have been most struck by in my travels to Venezuela is not the lack of things Venezuelans possess, but their abundance of joy and human solidarity</b></a>\n\n<b><a href=\"http://www.prolibertad.org/\" target=\"_blank\" rel=\"noopener\">Campaign to Free Ana Belen Montes, US Prisoner and Defender of Cuban Sovereignty</a></b>\n\n<a href=\"http://resumen-english.org/2017/12/ten-big-lies-about-venezuela-and-its-revolution/\" target=\"_blank\" rel=\"noopener\"><b>Lies about Venezuela and its Bolivarian Process: Venezuela is not a threat, not a dictatorship, not a narco-state, is not internationally isolated</b></a><p>\n<a href=\"https://www.telesurtv.net/english/news/Bolivian-Military-Officers-Graduate-in-Anti-Imperial-School-20171208-0021.html\" target=\"_blank\" rel=\"noopener\"><b>Bolivia Graduates first class of its counter to the SOA, the military \"School of Anti-Imperialism\"\_</b></a>\n<div id=\"m_4864425232505429797gmail-m_5327948708642288408gmail-m_4959641746746523032DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\"><a href=\"https://www.telesurtv.net/english/news/Fidel-Castros-Enduring-Environmental-Legacy--20161203-0012.html\" target=\"_blank\" rel=\"noopener\"><b>Fidel Castro’s Enduring Environmental Legacy</b></a></div>\n<div id=\"m_4864425232505429797gmail-m_5327948708642288408gmail-m_4959641746746523032DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\">\n<div id=\"m_4864425232505429797gmail-m_5327948708642288408gmail-m_4959641746746523032DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\"><a href=\"https://www.greenleft.org.au/content/fidel-castro-earth-summit\" target=\"_blank\" rel=\"noopener\"><b>Fidel Castro Speech on Combating Climate Change (1992)</b></a></div>\n<div id=\"m_4864425232505429797gmail-m_5327948708642288408gmail-m_4959641746746523032DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\">\n\n<hr />\n<p dir=\"ltr\" style=\"text-align: center;\"><strong>Allied Events</strong></p>\n\n<div id=\"m_4864425232505429797gmail-m_5327948708642288408gmail-m_4959641746746523032DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\"><a href=\"https://afgj.org/register-now-january-conference-military-bases\" target=\"_blank\" rel=\"noopener\">Register Now! January Conference on U.S. Foreign Military Bases</a></div>\n<div id=\"m_4864425232505429797gmail-m_5327948708642288408gmail-m_4959641746746523032DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\"></div>\n<a href=\"https://afgj.org/?p=8575&amp;preview=true\">Nicaragua Delegation with Friend of the ATC - April 2018. Honor the history of Workers Struggles for Land and Dignity in Nicaragua</a>\n\n<a href=\"https://afgj.org/take-action-honduras-solidarity-network-issues-national-call-day-stop-u-s-support-electoral-fraud-repression-honduras\">Act Now! Take Action Opposing Election Fraud in Honduras - Join the Call from the Honduras Solidarity Network.</a>\n\n&nbsp;\n\n</div>\n</div>\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+    -
+      entity: 2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb
+  field_mt_slideshow:
+    -
+      value: false

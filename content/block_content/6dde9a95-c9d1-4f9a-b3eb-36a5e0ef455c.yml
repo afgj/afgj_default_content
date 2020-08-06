@@ -1,0 +1,152 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 6dde9a95-c9d1-4f9a-b3eb-36a5e0ef455c
+  bundle: mt_how_it_works
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'How It Works'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_hiw_item:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: f3cb64fb-da6d-451f-8a1b-9e67f6e78638
+          bundle: mt_how_it_works_item
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1527160465
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_hiw_body:
+            -
+              value: "<p>Lorem ipsum dolor sit amet&nbsp;consectetur adipisicing elit&nbsp;sed do eiusmod tempor</p>\r\n"
+              format: basic_html
+          field_mt_hiw_link:
+            -
+              uri: 'internal:/node/9'
+              title: ''
+              options: {  }
+          field_mt_hiw_title:
+            -
+              value: 'Step One'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: eb6e3a7d-42d8-4ee0-a1eb-086541f2778e
+          bundle: mt_how_it_works_item
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1527160509
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_hiw_body:
+            -
+              value: "<p>Incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>\r\n"
+              format: basic_html
+          field_mt_hiw_link:
+            -
+              uri: 'internal:/node/9'
+              title: ''
+              options: {  }
+          field_mt_hiw_title:
+            -
+              value: 'Step Two'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 97c1cf4d-5c89-41d0-b349-96a46148383c
+          bundle: mt_how_it_works_item
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1527160520
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_hiw_body:
+            -
+              value: "<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>\r\n"
+              format: basic_html
+          field_mt_hiw_link:
+            -
+              uri: 'internal:/node/9'
+              title: ''
+              options: {  }
+          field_mt_hiw_title:
+            -
+              value: 'Step Three'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 85e0a76c-eb73-4d8c-9087-59519ac3ef2f
+          bundle: mt_how_it_works_item
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1527160526
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_hiw_body:
+            -
+              value: "<p>Duis aute irure dolor in reprehenderit in voluptate velit esse</p>\r\n"
+              format: basic_html
+          field_mt_hiw_link:
+            -
+              uri: 'internal:/node/9'
+              title: ''
+              options: {  }
+          field_mt_hiw_title:
+            -
+              value: 'Step Four'

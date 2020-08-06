@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c47cfc5a-1786-4744-9af7-e0acbe99dd3f
+  bundle: article
+  default_langcode: en
+  depends:
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    46c3dd60-d9ef-4093-95e7-5f3fd628dc8b: taxonomy_term
+    0dfdb011-9c82-4762-89a0-db01e08f9fe3: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ STATEMENT AND BACKGROUND ON THE COUP IN BOLIVIA'
+  created:
+    -
+      value: 1573633800
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-statement-and-background-coup-bolivia
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "EDIT: See live updates from on the ground in Bolivia <a href=\"/bolivia-updates\">HERE</a>\r\n\r\n<b>The Alliance for Global Justice condemns the US-backed, OAS-orchestrated military coup against the democratically elected government of Bolivia. We support the efforts of the Bolivian people to restore the constitutional order and return President Evo Morales to office. We call on the community of nations to refuse to recognize the coup government and to expel Bolivia from multinational bodies such as the United Nations until democracy is restored.</b>\r\n\r\n<span style=\"font-weight: 400;\">On October 20th the people of Bolivia voted Evo Morales as their president with overwhelming </span><span style=\"font-weight: 400;\">support, drawing a </span><a href=\"https://computo.oep.org.bo/#\"><span style=\"font-weight: 400;\">89% participation rate</span></a><span style=\"font-weight: 400;\">. Members of Evo’s MAS party (Movement toward </span><span style=\"font-weight: 400;\">Socialism) were also voted in as senators and congressional deputies. Since elections the </span><span style=\"font-weight: 400;\">country has seen demonstrations riddled with violence by a minority of opposition groups who </span><span style=\"font-weight: 400;\">have called for Evo’s resignation. They have burned government buildings and even dragged a MAS woman mayor </span><a href=\"https://www.telesurenglish.net/news/Bolivian-Opposition-Protesters-Attack-Socialist-Mayor-20191107-0003.html\"><span style=\"font-weight: 400;\">out of a town hall, cutting her hair, covering her with red paint, and beating her</span></a><span style=\"font-weight: 400;\">. Opposition rioters ransacked </span><a href=\"https://sputniknews.com/latam/201911101077268235-bolivia-opposition-storms-state-run-broadcaster-radio---reports/\"><span style=\"font-weight: 400;\">press and radio buildings</span></a><span style=\"font-weight: 400;\">, leaving journalists running for their lives. On Sunday, November 10th President Morales was forced to resign after military and police refused to take action to stop the rioters and gave Morales no other option but to relinquish his post.The OAS deemed the electoral victory of Evo Morales illegitimate based on intentionally misleading and incorrect analysis. This included the accusation that there was an unusual surge in pro-Morales and pro-MAS votes from rural areas at the end of the voting. However, </span><a href=\"https://www.thenation.com/article/bolivia-election-oas/\"><span style=\"font-weight: 400;\">economist Marc Weisbrot has shown</span></a><span style=\"font-weight: 400;\"> clearly how this was not unusual, but consistent with voting patterns from the rural areas, which are the last votes counted because of their remoteness.</span>\r\n\r\n<span style=\"font-weight: 400;\">As one might expect, the role of the US in creating the conditions for this coup is evident. The OAS has traditionally served as an organ of US interests in Latin America and receives </span><a href=\"http://www.oas.org/saf/DFAMS/2018/02/RF_TABLE_QUOT_20180228_ENSP.pdf\"><span style=\"font-weight: 400;\">60% of its funding from the US Congress</span></a><span style=\"font-weight: 400;\">. Violent opposition groups have tried to discredit the popular elections of Evo multiple times, including its r completely fabricated smear campaign against him during the constitutional referendum in 2009. This time around the opposition was recorded</span><a href=\"https://www.telesurenglish.net/news/Bolivia-Audios-Linking-Civic-Ex-Military-and-US-in-Coup-Plans-20191105-0001.html\"><span style=\"font-weight: 400;\"> planning the coup before the election</span></a><span style=\"font-weight: 400;\"> took place where they mentioned their collaboration with US Senators including Marco Rubio and Ted Cruz. Opposition groups have also received funding from the usual apparatus of US electoral interventions and manipulations, including the National Endowment for Democracy. Curiously, Ivanka Trump is reported to have traveled to Argentina in October near the border with Bolivia, with funds that were distributed to Bolivian opposition activists who were also present in the area. The US wasted no time in recognizing the resignation of Morales, and the organization</span><a href=\"https://fair.org/home/the-bolivian-coup-is-not-a-coup-because-us-wanted-it-to-happen/\"><span style=\"font-weight: 400;\"> FAIR has shown the complicity of US corporate media</span></a><span style=\"font-weight: 400;\"> in paving the way for acceptance of the coup as legitimate.</span>\r\n\r\n<span style=\"font-weight: 400;\">Since the election of Morales, Bolivia has been a leader and symbol of anti-imperialism and </span><span style=\"font-weight: 400;\">national autonomy in Latin America. Himself a working class Aymara Indian from the Andean </span><span style=\"font-weight: 400;\">Highlands and a trusted union leader, he strived for a rebalancing of social hierarchies both in </span><span style=\"font-weight: 400;\">terms of class and ethnicity. Defining Bolivia as a ‘plurinational state’, he sought to incorporate the </span><span style=\"font-weight: 400;\">disparate social groups which had up to that point been mostly forgotten by liberal elites and big </span><span style=\"font-weight: 400;\">business. With Evo as president, Bolivia broadened land reform for the poor and Indigenous </span><span style=\"font-weight: 400;\">population, increased their electoral participation, nationalized industries and secured </span><span style=\"font-weight: 400;\">sovereignty over its own natural resources. After centuries of Indigenous repression in a </span><span style=\"font-weight: 400;\">majority Indigenous nation, Evo had brought new found hope for Bolivia’s poor. In aligning himself with popular governments in Cuba, Venezuela, and Nicaragua, </span><span style=\"font-weight: 400;\">he placed Bolivia and himself within the reticle of US intelligence. He stood up against foreign control and for national autonomy. The recent coup is a blatant attempt to curtail that progress and to regain a foreign neoliberal stranglehold on the bold and historic nation through the IMF and the OAS.\_</span>\r\n\r\n<span style=\"font-weight: 400;\">Named after the courageous Bolivar himself, Bolivia has always wanted to be more than a </span><span style=\"font-weight: 400;\">puppet of the US and fat wallets. Grim junctures in history such as this one impose on people of </span><span style=\"font-weight: 400;\">conscience a duty to promulgate truth and to reach beyond low risk Facebook ‘shares’ to carry </span><span style=\"font-weight: 400;\">out solutions in the real world and in the realm of practical politics. If we are citizens of the </span><span style=\"font-weight: 400;\">United States it is within that duty for us to implant in public policy, as much as possible and in </span><span style=\"font-weight: 400;\">accordance with the truth, the grand power of national will to alleviate the sins of a neoliberal </span><span style=\"font-weight: 400;\">government and a parasitical oligarchy. Our knowledge of the past propels our responsibilities </span><span style=\"font-weight: 400;\">for the future: we cannot simply look the other way. This moment in history is not over. We support Evo’s return and encourage the international community to continue to call out this US backed right-wing coup.</span>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: 46c3dd60-d9ef-4093-95e7-5f3fd628dc8b
+    -
+      entity: 0dfdb011-9c82-4762-89a0-db01e08f9fe3
+  field_mt_slideshow:
+    -
+      value: false

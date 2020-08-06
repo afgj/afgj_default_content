@@ -1,0 +1,70 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 107b16cb-472a-4338-9292-64d7479e2120
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    1c0c4377-b739-4293-a00a-331346b8aa16: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'URGENT! Colombia''s National Strike is Under Attack in Catatumbo! Please act now!'
+  created:
+    -
+      value: 1508949277
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /urgent-colombias-national-strike-under-attack-catatumbo-please-act-now
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2><img class=\"wp-image-8368 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/10/WhatsApp-Image-2017-10-25-at-3.08.20-PM.jpeg\" alt=\"\" width=\"523\" height=\"335\" /></h2>\n<h2 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25498\"><span style=\"color: #993300;\">PLEASE ACT NOW! Click here to send a\nmessage to Colombian authorities!</span></a></h2>\n<h3><span style=\"color: #0000ff;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25430\">Send an email to the White House demanding an end to policies that promote repression in Colombia!</a></span></h3>\nYour action is needed urgently! Right now anti-riot police in Colombia are attacking a nonviolent demonstration in Catatumbo, Colombia that is in support of the National Strike called by the Fensuagro agricultural workers union, the Marcha Patriótica and other popular movements. This strike is taking place after a particularly bloody month, with 23 social movement leaders murdered in 23 days in October, and after the <a href=\"https://afgj.org/massacre-tumaco-us-pushes-repression\">massacre of a peaceful demonstration by the National Police on October 5, 2017 in Tumaco, Nariño</a>. The demands of the strike are startlingly simple and clear: that the government end its repression of the popular movements and fulfill the obligations it agreed to as part of the peace accords ending over 52 years of war. By taking this action, you may well be helping save lives that this minute are under direct threat!\n\nWe are rushing to get this alert out and don't have the time to give much background information. PLEASE STAY TUNED FOR MORE DETAILED INFORMATION THAT WE WILL SEND OUT IN THE NEXT FEW DAYS.\n<h2 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25498\"><span style=\"color: #993300;\">PLEASE ACT NOW! Click here to send a message to Colombian authorities!</span></a></h2>\n<h3 style=\"text-align: center;\"><a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25430\"><span style=\"color: #993300;\">Click here to send an email to the White House to demand an end to policies that promote repression and political violence in Colombia! </span></a></h3>\n<p style=\"text-align: center;\"><img class=\"aligncenter wp-image-8369\" src=\"https://afgj.org/wp-content/uploads/2017/10/WhatsApp-Image-2017-10-25-at-3.08.10-PM.jpeg\" alt=\"\" width=\"715\" height=\"482\" /></p>\nFollowing is a copy, in Spanish, of a declaration regarding the National Strike published by the Marcha Política:\n\n<strong>LLAMAMIENTO INTERNACIONAL A LA SOLIDARIDAD</strong>\n\n<strong>PARO NACIONAL INDEFINIDO EN COLOMBIA</strong>\n\nTeniendo en cuenta el actual momento político que atraviesa Colombia, signado por el vergonzoso incumplimiento por parte del gobierno nacional en la implementación del Acuerdo Final firmado con las FARC-EP y la falta de garantías de seguridad para las comunidades, sus liderazgos sociales y políticos y los excombatientes en proceso de reincorporación, que dejan un saldo trágico de 127 líderes, lideresas y defensores de derechos humanos asesinados junto a 30 excombatientes en 2017.\n\nEn este marco, las organizaciones sociales y políticas que integran el Movimiento Político y Social Marcha Patriótica, la Asociación Nacional de Zonas de Reserva Campesina – ANZORC, La Coordinadora Nacional de Cultivadores de Coca, Amapola y Marihuana - COCCAM, la Coordinación Nacional de Pueblos Indígenas – CONPI, la Coordinación Nacional de Organizaciones y Comunidades Afrodescendientes – CONAFRO y la Federación Nacional Sindical Unitaria Agropecuaria – FENSUAGRO, han decidido iniciar un Paro Nacional Indefinido desde el 23 de octubre, con los siguientes objetivos:\n<ul>\n \t<li>Lograr la re-instalación de la Mesa Nacional Agropecuaria y Popular de Interlocución y Acuerdo -MIA y las Mesas de Interlocución y Acuerdo Departamentales.</li>\n \t<li>Exigir el cumplimiento pleno e integral de la implementación del Acuerdo de Paz de La Habana.</li>\n \t<li>Reclamar las reivindicaciones departamentales, territoriales y locales y el cumplimiento de los acuerdos pactados anteriormente con los gobiernos locales y el gobierno nacional.</li>\n \t<li>Exigir las garantías de seguridad para el ejercicio de la política y la protesta social para las comunidades.</li>\n \t<li>Rechazar y denunciar ante la comunidad nacional e internacional los planes de señalamiento, estigmatización y falsos positivos judiciales que se adelanten por parte de las Fuerzas Militares y el gobierno nacional hacia las organizaciones que participemos en el Paro Nacional Indefinido.</li>\n</ul>\nConociendo el tipo de gobierno y Estado que tiene Colombia, llamamos a las organizaciones sociales, a los partidos políticos, a los pueblos del mundo a:\n<ul>\n \t<li>Estar vigilantes de lo que suceda en el marco de las movilizaciones y acciones del Paro Nacional Indefinido que iniciarán nuestras organizaciones.</li>\n \t<li>Enviar saludos y pronunciamientos en solidaridad con el Paro Nacional Indefinido y las organizaciones y comunidades que se movilizarán, exigiendo garantías para el ejercicio del derecho a la protesta social.</li>\n \t<li>Solicitar al Estado colombiano el pleno cumplimiento del Acuerdo Final firmado entre el gobierno de Juan Manuel Santos y las Fuerzas Armadas Revolucionarias de Colombia - Ejército del Pueblo (FARC-EP), como obligación adquirida ante el pueblo colombiano y la comunidad internacional.</li>\n \t<li>Ayudar a visibilizar en sus respectivos países las acciones de movilización que se adelantan en Colombia, difundiendo desde nuestras redes sociales y página web <a href=\"http://www.marchapatriotica.org\">marchapatriotica.org</a>.</li>\n</ul>\n<strong>EQUIPO DE RELACIONES INTERNACIONALES</strong>\n\n<strong>MOVIMIENTO POLÍTICO Y SOCIAL MARCHA PATRIÓTICA</strong>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 1c0c4377-b739-4293-a00a-331346b8aa16
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: bd2d1340-3193-44c9-ad3a-9764be0532f4
+  bundle: article
+  default_langcode: en
+  depends:
+    61570ce6-c637-4aa9-a7a7-2b57b6b90e6f: taxonomy_term
+    5b96eb92-481a-47f7-8359-184bfa2e06de: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Farhikhtegan Newspaper: Mostafa Afzalzadeh Interviews AfGJ on Prison Imperialism'
+  created:
+    -
+      value: 1523265679
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /farhikhtegan-newspaper-mostafa-afzalzadeh-interviews-afgj-prison-imperialism
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "[caption id=\"attachment_9527\" align=\"aligncenter\" width=\"225\"]<img class=\"wp-image-9527 size-full\" src=\"https://afgj.org/wp-content/uploads/2018/04/download.jpg\" alt=\"\" width=\"225\" height=\"225\" /> Farhikhtegan Logo[/caption]\r\n\r\nMostafa Afzalzadeh is an Iranian investigative journalist and filmmaker. He created a documentary film entitled\_<a href=\"https://www.youtube.com/watch?v=tuj0ZCY6Zq8\">Manufacturing Dissent: The Truth About Syria</a>, as well as a documentary about the ‘99 percent Movement’ in the US, which was broadcast by the Iran’s National TV and won the first prize at Amar Film Festival. He interviewed AfGJ's Nasim Chatha for Iran's Farhikhtegan newspaper, which is affiliated with Azad University. <a href=\"http://newspaper.fdn.ir/newspaper/PagePDF/28429\">Read the Farsi version</a> of this interview on\_<a href=\"http://fdn.ir/\">Farhikhtegan.</a>\r\n\r\nBelow is a reposting of the interview, originally conducted in English.\r\n\r\n&nbsp;\r\n\r\n<strong>Mostafa Alzalzadeh: Please introduce yourself and let us know about your activities.</strong>\r\n\r\n<strong>Nasim Chatha:\_</strong>My name is Nasim Chatha, and I work with the US organization Alliance for Global Justice (AfGJ). Our work falls under the broad umbrella of Latin America Solidarity. We keep in close contact with popular movements on the Left in places like Honduras, Mexico, and Colombia. We amplify their message from within the United States and shine attention on their struggles. As an anti-imperialist organization, we also oppose sanctions and interference in countries like Nicaragua and Venezuela, places that are seen by the US government as existential threats to US hegemony in the hemisphere.\r\n\r\nIn 2012, when I was still in college, I interned with AfGJ. At the time, we were working with Colombian human rights defenders. Dozens of political prisoners in Colombia were locked away in a certain maximum-security prison, La Tramacúa. Our contacts in Colombia told us this was a new, US built prison, the first of four prison construction projects the US had funded with an initial $4.5 million investment in 2000. Not only that, but La Tramacúa was, and still is, an especially poorly run facility with many incidents of torture and neglect. In the official US-Colombia prison agreement, which is 30 pages long, we learned that the US was involved in a system-wide restructuring of Colombia’s prison system. That experience grew to include another 12 prison construction projects. I started looking at the Colombia model and asking if the experience there was being applied elsewhere. I wrote two articles exposing similar programs in Central America. These articles and the Colombia work revealed a pattern: that the US was actively exporting its model of mass incarceration. We later learned from a US State Department Report on International Prison Conditions published in 2014 that the US had expanded its involvement in foreign prison programs to as many as 25 countries. This is how we initially found out about it, and it seemed like no one else knew about these programs either. So that’s what initially sparked our interest in this and caused us to start researching and speaking out about what we now call Prison Imperialism.\r\n\r\nSix years later, I’m back at AfGJ as a collective member, and working to find out everything I can about US prison management programs. It’s actually quite difficult to find out anything concrete because our State Department is very vague about them. We rely on our partners in other countries to tell us the real effects of these prison programs, and we still don’t know enough about many practical aspects, like how many prisons have been built and how much they cost.\r\n\r\n<strong>\_</strong>\r\n\r\n<strong>MA: What does the phrase “prison imperialism” means?</strong>\r\n\r\nNC: Mainly, we use the word “imperialism” because of the much larger system of military and economic domination to which US prison programs belong. But we also want to suggest something more abstract. Prisons are the main way that peoples’ bodies get handled and micro-managed by the state, at least here in the US. We want to suggest that what’s happening is global population control by means of the prison -- but not just the prison-- in service of imperialist aims.\r\n\r\nThe more concrete phenomenon we call “Prison Imperialism” began in 2000 in Colombia. The Guantanamo prison in occupied Cuba was built shortly after. Now the US is involved in the prisons of 38 different countries in Latin America, Africa, and the Middle East. Often but not always, US prison programs are run in poor places in the global south, in places that are also US proxies in their respective regions. When the US goes in and builds prisons and restructures the prison system, what we’ve seen so far in our studies is not only an increase in the number of prisoners, but also an increase in political arrests. We think prisons are central to US imperialism because they represent a relatively new way of exerting US control around the world, one that’s perhaps not as explicitly militaristic as it used to be, but is still pernicious.\r\n\r\n<strong>\_</strong>\r\n\r\n<strong>MA: How is US using it in other countries?</strong>\r\n\r\nNC: I think most US citizens would think it’s a bit baffling and weird if they knew that we went around the world getting involved in the prisons of other countries. Why spend our money on this? But the US has shifted its military domination of Latin America, and even the rest of the world, to more subtle and discreet means. A prison is something that can be easily portrayed as a humanitarian endeavor, something that the US does to improve the lives of the unfortunate incarcerated living in squalid and dangerous conditions. Of course, the US State Department doesn’t really care about those people – the prison management programs are much more a way of exerting control and offering a tool to US allies.\r\n\r\nThe real function of a US built prison is to be a theatre of terror. Whenever we go build prisons in other countries, what results are massive, maximum securities facility on large, remote pieces of land. They are mirror images of the ones that are very common here in the States. In Honduras, mainstream newspapers in 2015 were full of headlines about big, scary new prisons that would cause gang members to “cry in terror” – this was propaganda to project a muscular image of the state. But this wasn’t just intended for the ears of gang members, it’s also for anyone who might oppose Honduras’s illegal coup government that the US supports. And now, in 2018, after the fraudulent presidential elections, Honduran pro-democracy activists are being locked up in these same US built prisons. Gang members in Honduras are really not much of a threat to people in the US. They aren’t actually why we go build prisons in Honduras. What the US government <em>does</em> find threatening is the idea of a Honduran government that is more resistant to US domination.\r\n\r\n<strong>\_</strong>\r\n\r\n<strong>MA: US from time to time put pressure to other countries because of their prison conditions and judicial system. Even if what they say is true does the US government have the legitimacy to talk about other countries problems while it has a systematic and illegal way of using prisons and prisoners?</strong>\r\n\r\nNC: Absolutely not. There are fundamental, massive problems with the US justice system. If you’re interested in learning more about the inherent wrongness of the US justice and prison system, I’d recommend Michelle Alexander’s book, <em>The New Jim Crow. </em>It’s a very readable book that systematically shows how US prisons essentially warehouse minorities to create a permanent underclass. Even men and women who aren’t locked up, people who “payed their debt to society” and just have a criminal record are denied housing, jobs, and sometimes even welfare.\r\n\r\nBeyond that, our prison conditions are actually very bad, just in a different way. In most other countries, prisons are smaller and located closer to city centers, whereas prisons here in the US are often way out in the middle of nowhere. In other countries, prisoners often get more contact with their families, and sentences are usually shorter. In the rest of the world, solitary confinement isn’t as common as it is here. So even if our incarcerated people usually get enough food, and even if they get their own beds, they often face extreme isolation for a very long time. This is actually a form of torture. The US simply does not have moral high ground with regard to prisons and the judicial system."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 61570ce6-c637-4aa9-a7a7-2b57b6b90e6f
+    -
+      entity: 5b96eb92-481a-47f7-8359-184bfa2e06de
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

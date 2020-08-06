@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 82e79b2b-d886-4003-a5f3-35113197a625
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 20180523_163309.jpg
+  uri:
+    -
+      value: 'public://2020-04/20180523_163309.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 2381246
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1587548438

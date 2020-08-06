@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 8446f152-667e-4f86-8722-565b31753297
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Sign Up For Text Alerts'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<p class=\"more-link\"><a href=\"#\">Get text alerts</a></p>\r\n"
+      format: full_html
+      summary: ''

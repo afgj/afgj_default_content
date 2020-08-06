@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 378cd599-fb6c-44a1-81cb-4000e069f0f5
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: mt-team-member-6.jpg
+  uri:
+    -
+      value: 'public://2018-02/mt-team-member-6.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 12753
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1518025161

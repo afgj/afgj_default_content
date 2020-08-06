@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: c92becd7-d70c-4d1f-a0c2-669886aaed44
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Download our App now'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<h3 class=\"text-center\">Download our App now</h3>\r\n\r\n<p class=\"pb-4 text-center\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore!</p>\r\n\r\n<p class=\"text-center\"><a class=\"button mr-0 mr-sm-4\" href=\"#\">Free trial 30 days</a> <br class=\"d-block d-sm-none\"> or check <a class=\"link--bordered\" href=\"#\">Our pricing list</a></p>\r\n"
+      format: full_html
+      summary: ''

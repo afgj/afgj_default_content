@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: bb1be45b-f7b4-4f2e-a3dc-9cd9279d0ffe
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicanotes: The Battle of San Jacinto and the Image David and Goliath in Nicaragua'
+  created:
+    -
+      value: 1508341236
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-battle-san-jacinto-and-image-david-and-goliath-nicaragua
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"size-full wp-image-7994 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/08/nicanotesbannerwbyline2.jpg\" alt=\"Nincanotes : A blog about nicaragua by solidarity activists\" width=\"594\" height=\"196\" /></a>\n<p style=\"text-align: center;\">By John Kotula</p>\nSeptember in Nicaragua sees the celebration of two important dates of liberation and anti-imperialism. One is\_Independence Day on September, 15 marking the end of Spain’s colonial rule in 1821. The other is a day earlier;\_the remembrance of The Battle of San Jacinto which occurred on September 14, 1856. The events are celebrated\_with pageantry, folk dancing, school marching bands, reenactments, and traffic jams in every town in Nicaragua.\n\nAdditionally, The Battle of San Jacinto is visible all year long, because it is depicted in one of the most famous and\_beloved images to come out of Nicaragua’s history. The most popular version of this scene was painted by a\_Chilean named\_Luis Vergara Ahumada.\_Ahumada was an itinerant artist who traveled widely in Latin American\_countries leaving behind realistic historical paintings. The original of his\_<a href=\"https://es.wikipedia.org/wiki/Luis_Vergara_Ahumada\" target=\"_blank\" rel=\"nofollow noopener\">La Pedrada Andrés Castro</a>\_is in the\_national museum.\n\n<img class=\"alignleft wp-image-8346 size-full\" src=\"https://afgj.org/wp-content/uploads/2017/10/Image-1-San-Jasinto.jpg\" alt=\"The Battle of San Jacinto is visible all year long, because it is depicted in one of the most famous and\_beloved images to come out of Nicaragua’s history. The most popular version of this scene was painted by a\_Chilean named\_Luis Vergara Ahumada.\_Ahumada was an itinerant artist who traveled widely in Latin American\_countries leaving behind realistic historical paintings. The original of his\_La Pedrada Andrés Castro\_is in the\_national museum.\" width=\"1152\" height=\"665\" />\n\nIt is a rare school or government office that doesn’t have a print of this picture on display. It is also widely\_duplicated in murals in many locations.\n\nIn the iconography of asymmetrical warfare the United States will always be Goliath and there will always be a\_multitude of Davids hoping, against all the odds, to throw the rock that knocks our brains out. This will be true until\_the day that we stop trying to use our military superiority to impose our will on others and start acting like a\_benevolent neighbor. Since the World Trade Center was brought down, it has become standard practice to\_indiscriminately label any little guy who stands up to us “a terrorist.”\n\nHowever, historically, many of the little guys have had the moral high ground and are only using whatever they\_have at hand to keep from being disempowered by a bullying, self-righteous, imperialistic, super power. \_Certainly,\_this is an accurate description of relations between the US and Nicaragua for the last couple of hundred years. It is\_no wonder then that the image of David and Goliath is so embedded in Nicaraguan culture.\n\nAfter gaining independence from Spain, self-rule in Nicaragua was marked by conflict between Liberal Party\_factions centered in León and Conservative Party ones in Granada. There were complicated political shenanigans,\_leading up to Granada opening the door to a mercenary army led by the US filibusterer William Walker. Once on\_the ground, Walker went rogue and declared himself president of the country and reinstated slavery.\n\nHe was so out of control and belligerent that all the countries of Central America organized to get rid of him. Battles\_ebbed and flowed, but the one that caught the popular imagination occurred at a farm not far from Managua,\_Hacienda San Jacinto. The local forces were outnumbered by Walker’s men and it looked like they would be\_defeated. However, when his rifle jammed, a local farmer named Andrés Castro picked up a rock and threw it with\_such force at the head of one of Walker’s lieutenants that he fell dead in his tracks. This, and some astute military\_manuevers ordered by Colonel Jose Dolores Estrada, so unsettled the rest of the attackers that they retreated and\_the local guys were victorious. Walker didn’t last much longer. He ended up in front of a firing squad in Honduras\_and he is buried in the beach town of Trujillo, a much prettier final resting ground than he deserved.\n\nDavid and Goliath imagery has continued to be a part of Nicaraguan mythology and culture. In one of Rubén\_Darío’s\_<a href=\"http://www.informepastran.com/index.php/2017/01/18/si-la-patria-es-pequena-uno-grande-la-suena/\" target=\"_blank\" rel=\"noopener\">most quoted poems</a>, he says,\_“Si la patria es pequeña, uno grande la sueña, mis ilusiones y mis deseos y\_mis esperanzas me dicen que no hay Patria pequeña.”\_(If the homeland is small, one dreams it big; my illusions,\_my desires, and my hopes, tell me there is no small homeland.) This idea is elaborated in many speeches, political\_and otherwise.\n\n<img class=\"alignleft size-full wp-image-8347\" src=\"https://afgj.org/wp-content/uploads/2017/10/Image-2-Malatov-Man.jpg\" alt=\"Molotova Man taken by Susan Meiselas on July 16, 1979. It is a famous image of the Sandinista Revolution and has been widely appropriated for other works of art and was used in a billboard for the September commemorations of 1986 which said “A los130 años, el enemigo es el mismo,” which translates as “After 130 years, the enemy is the same.”\" width=\"1380\" height=\"930\" />\n\n(This\_<a href=\"https://en.wikipedia.org/wiki/Molotov_Man\" target=\"_blank\" rel=\"noopener\">photo</a>\_was taken by Susan Meiselas on July 16, 1979. \_It is a famous image of the Sandinista Revolution and\_has been widely appropriated for other works of art and was used in a billboard for the September\_commemorations of 1986 which said\_“A los130 años, el enemigo es el mismo,”\_which translates as “After 130\_years, the enemy is the same.”)\n\nParticularly during the revolution and the Contra war that the US sponsored to undermine the triumph of the\_Sandinistas, David and Goliath imagery was ubiquitous. In statues and murals across the country you can still see\_rocks and Molotov cocktails being used against a more powerful enemy. These works of revolutionary art are not\_about terrorism or, in essence, about violence. They are about people rising up and using whatever means they\_have at hand to defeat tyranny and imperialism. It is a credit to this spirit of independence and autonomy that today\_Nicaragua is the safest most peaceful country in Central America.\n\n<hr />\n\n<strong>BRIEFS</strong>\n<ul>\n \t<li>President and Vice President Daniel Ortega and Rosario Murillo congratulated “with deep revolutionary\_joy” Venezuelan President Nicolas Maduro on the victory of the United Socialist Party of Venezuela (PSUV) in\_Sunday’s\_gubernatorial elections. The PSUV won 17 of 23 state races with 54% of the vote nationally.\_\"Having won\_with absolute clarity these elections allows the world to recognize once more the infinite human quality of the\_Venezuelan people and the indisputable capacity of its president and the party he represents, \"Ortega said.\_(Informe Pastran, Oct. 16)</li>\n</ul>\n<ul>\n \t<li>OAS Electoral Accompaniment Mission leader, Dr. Wilfredo Penco, said the Electoral Mission is committed\_to carry out a professional and respectful work in the Nicaraguan Municipal Elections, in full compliance with the\_Inter-American Democratic Charter. \"The Electoral Accompaniment Mission has had positive meetings with\_representatives of all political parties participating in the\_Nov. 5Municipal Elections, as well as with the magistrates\_of the Supreme Electoral Council,” Penco said. National Police Commissioner Francisco Diaz announced that the\_campaign is progressing in a peaceful, safe and orderly manner. \"During the first 21 days of the campaign, the\_political parties have organized more than 13,500 activities. All were carried out in peace without any disturbance\_of public order reported,\" Diaz said. Logistics Director of the CSE, Leandro Delgado, announced that the printing of\_5.2 million electoral ballots \_has been completed. He also noted that representatives of all political parties and the\_National Police supervised the printing process. Last Monday, CSE President Roberto Rivas signed an agreement\_with Telemaco Talavera, president of the National Council of Universities (CNU), to accompany the elections. The\_agreement states that 5,000 students and teachers will accompany the elections, offering assistance to citizens\_and help to protect their right to vote. (Nicaragua News, Oct. 11, 12)</li>\n</ul>\n<ul>\n \t<li>Ervin Barreda, president of the Nicaragua Sewer and Aqueduct Company, announced that a waste\_management project is being developed in Managua to produce fertilizers and generate biogas energy. \"This is a\_US$120 million project that is being implemented with support from the German government and the German\_Development Bank (KFW),\" Barreda said. (Nicaragua News, Oct. 16)</li>\n</ul>\n<ul>\n \t<li>A report by the Economic Commission for Latin America and the Caribbean (ECLAC) ranks Nicaragua in\_third place in Latin America and first in Central America on economic growth rate projection for 2017. The report\_noted that Nicaragua is leading growth projections in Central America with 4.5%, followed by Costa Rica 3.9%,\_Honduras 3.7%, Guatemala 3.4%, and El Salvador 2.4%. (Nicaragua News, Oct. 13)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

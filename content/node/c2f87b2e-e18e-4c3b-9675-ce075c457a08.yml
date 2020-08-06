@@ -1,0 +1,77 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c2f87b2e-e18e-4c3b-9675-ce075c457a08
+  bundle: mt_service
+  default_langcode: en
+  depends:
+    22602fed-0254-4837-b6ae-cbaf3dc03bd0: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'David Ravelo Gutiérrez beaten, taken by Colombian authorities—Demand his freedom NOW! '
+  created:
+    -
+      value: 1592256409
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_srv_body:
+    -
+      value: "<h6><span><a href=\"https://afgj.salsalabs.org/freedavidravelogutierrezlibertadadavidravelogutierrez/index.html?eType=EmailBlastContent&amp;eId=50e56a60-43ff-475b-918c-6d9f1ec464de\"><strong>Join with international solidarity activists to demand his safety and well-being be respected and that he be freed immediately.</strong></a></span></h6>\r\n\r\n<p><strong>BACKGROUND INFORMATION (Following is a translation by Raquel Mogollón of an alert by the Committee of Solidarity with the Political Prisoners. <a href=\"http://www.comitedesolidaridad.com/es/content/denuncia-p%C3%BAblica-9\">Click here to read the original Spanish</a>)</strong></p>\r\n\r\n<p>#URGENTE #DefendTheDefenders #WeSupportTheColombianPeaceAccord</p>\r\n\r\n<p>Today, May 13, 2019, David Ravelo Gutiérrez, a political prisoner recently detained, currently being held in the La Modelo prison, is taken out of his cell block by the guards without explanation and physically attacked . They are accusing him of responsibility for some denouncements that came to light in the news media exposing the penitentiary system (#INPEC).</p>\r\n\r\n<p>[David is the persecuted son of internationally recognized political prisoner, David Rabelo Crespo ( Libertad Rabelo Crespo ) whose freedom was only just secured last year after many years of unjust imprisonment.]</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_mt_srv_highlight:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 9fc8108d-7538-4d8e-aaa2-45bee5468f4e
+          bundle: mt_highlight
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1592256568
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+  field_mt_srv_image:
+    -
+      entity: 22602fed-0254-4837-b6ae-cbaf3dc03bd0
+      alt: Ravelo
+      title: ''
+      width: 768
+      height: 511
+  field_mt_srv_subheader_body:
+    -
+      value: "<p>David Ravelo Guttiérrez is a well -known social leader and human rights defender who has been beaten by Colombian armed forces and detained without charges in La Modelo prison. He is the son of well-known human rights defender and ex-political prisoner David Ravelo Crespo.</p>\r\n"
+      format: basic_html
+      summary: ''

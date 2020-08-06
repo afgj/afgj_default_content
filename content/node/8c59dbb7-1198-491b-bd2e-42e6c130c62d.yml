@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8c59dbb7-1198-491b-bd2e-42e6c130c62d
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Nicaragua
+  created:
+    -
+      value: 1274717828
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicaragua
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"http://www.nicanet.org/\">For more information on our work in Nicaragua, please visit our Nicaragua Network website. </a>\r\n\r\nThe Nicaragua Network has been organizing in solidarity with the people of Nicaragua for over 30 years. In February of 1979, the Network was founded to support the popular struggle to overthrow the 45 year US-supported Somoza family dictatorship, and after the July 19 victory, to support the efforts of the Sandinista Revolution to provide a better life for the nation’s people. Thus, for over a quarter of a century, the Network has been a leading organization in the United States committed to social and economic justice for Nicaragua, Latin America and the world, based on respect for sovereignty and self-determination. The Network advocates for sound U.S. foreign policies that respect human rights and international law. The Nicaragua Network provides information and organizing tools to a network of 200 solidarity, sister city, and peace and justice committees across the U.S.\r\n\r\nThe Network organizes speaking tours of Nicaraguans in the U.S. and study tours and brigades to Nicaragua. It also publishes a weekly news review, the Nicaragua News Bulletin. Some important current campaigns are: confronting water privatization, debt cancellation for Nicaragua and other poor countries, and radical change of IMF/World Bank measures. We also have campaigns in support of unemployed coffee workers, banana workers, labor organizing in the Free Trade Zones, indigenous rights, and the efforts of Nicaraguan environmental organizations.\r\n<a href=\"http://www.nicanet.org/wp-content/uploads/2007/11/delegation-report.pdf\">\r\nFor a report on the 2006 Nicaragua Delegation, please click here. </a>"
+      format: full_html
+      summary: ''

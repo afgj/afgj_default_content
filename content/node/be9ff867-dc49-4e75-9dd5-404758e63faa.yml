@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: be9ff867-dc49-4e75-9dd5-404758e63faa
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Accomodations
+  created:
+    -
+      value: 1383223682
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /accomodations
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2><strong>Free Housing Options</strong></h2>\r\nWe have lots of floor space for people who can bring their own bedding, limited camping with some tents provided, and a few home-stays for those who can’t sleep on the floor or camp. Please email\_<a href=\"mailto:Chuck@AFGJ.org\">Chuck@AFGJ.org</a>\_with your specific needs including dates and the Tucson activist community will do our best to respond to your needs.\r\n<h2>Hotels</h2>\r\n<strong>Riverpark Inn, Tucson, Arizona.\_</strong>\r\n\r\nWe have arranged a group rate with the <strong>Riverpark Inn, in Tucson, Arizona. \_</strong>Group rates are valid 3 days pre and post event, and includes breakfast. \_It is walking distance from the convention center and free shuttle is also available.\r\n\r\nGuests will call to make their own reservations.\_ Please call our toll-free reservation number (800-551-1466) and ask for the “Alliance for Global Justice” Rate. \_Learn more about the Riverpark Inn on their\_<a title=\"Riverpark Inn\" href=\"http://www.theriverparkinn.com/\" target=\"_blank\">website</a>.\r\n\r\nA single/double room (with tax) = $79.32/night\r\n\r\nA triple/quad room (with tax) = $90.52/night\r\n\r\n&nbsp;\r\n\r\n<strong>Motel 6</strong>\r\n\r\nThe Motel 6 also has reasonably priced rooms. \_We have a group rate there as well, say \"Tear Down the Walls. \_The Motel Inn closest to the Convention Center is located at 960 S Freeway. \_ Learn more at their <a title=\"Website\" href=\"http://www.motel6.com/reservations/motel_detail.aspx?num=50&amp;utm_source=googleplaces&amp;utm_medium=local&amp;utm_campaign=local\" target=\"_blank\">website.</a>\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''

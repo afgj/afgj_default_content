@@ -1,0 +1,56 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 9251707f-b5ba-4202-8dc3-2bc9c124cd4b
+  bundle: article
+  default_langcode: en
+  depends:
+    559721eb-b73d-4d86-a9b5-58f46584daa3: taxonomy_term
+    2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad: taxonomy_term
+    f846e761-3d99-4cc4-a45f-0ecdea249d76: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Honduras Promotes “Utopian Vision” Based on Violent Land Grabbing at San Francisco Event'
+  created:
+    -
+      value: 1433724169
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /honduras-promotes-utopian-vision-based-violent-land-grabbing-san-francisco-event
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"alignnone aligncenter\" src=\"https://org2.salsalabs.com/o/7315/images/CiudadesModelos.JPG\" alt=\"\" width=\"320\" height=\"229\" />\n\nAlliance for Global Justice along with other Latin American solidarity organizations and activists will be protesting the promotion of the charter cities initiatives at Monday's San Francisco event. Our Honduras delegation last year investigating charter cities concluded that these initiatives were anti-democratic, and will likely lead to a loss of sovereignty, an exacerbation of inequality, and environmental degradation. <a href=\"https://afgj.org/delegation-report-on-the-charter-cities-initiative-in-honduras\" target=\"_blank\">Read the full delegation report here. </a>\n\nJoin us in San Francisco on Monday, June 8 at 5:30pm (<a href=\"https://www.facebook.com/events/1016105335068449/\" target=\"_blank\">Facebook event page</a>)\n\n<strong>FOR IMMEDIATE RELEASE</strong>\n\n<em>Contacts:</em>\n\nKaren Spring, Honduras Solidarity Network, Tegucigalpa, Honduras\nSpring.kj@gmail.com, 011-504-9507-3835\n\nPorfirio Quintano, Honduran activist, Bay Area, California\nPorfirio31@yahoo.com, 415-994-3711\n\nKarolo Aparicio, EcoViva, Bay Area, California\nkarolo@ecoviva.org, 510-835-1334\n<p style=\"text-align: center;\"><strong>President of Honduras Promotes “Utopian Vision” Based on Violent Land Grabbing\_at San Francisco Event</strong></p>\n<strong>OAKLAND, Calif., June 6, 2015 –</strong> Honduran president Juan Orlando Hernandez will appear <a href=\"https://www.eventbrite.com/e/disrupting-democracy-choice-among-governance-for-hondurans-tickets-17032660145\" target=\"_blank\">at an event </a>in San Francisco on June 8, 2015. The president will be promoting his anti-democratic vision of “Charter Cities.” These are areas within Honduran territory where Honduran law does not apply, which are instead governed by foreign governments and corporations.\n\nBay Area residents will turn out to protest this assault on Honduran sovereignty, and the context in which the Charter Cities are being proposed. That is government repression, violence, and impunity, backed by strong US political and financial support.\n\nIn 2011, the Honduran Congress approved legislation allowing for the creation of Charter Cities, also known as Model Cities, but two months later, four of the five Supreme Court judges found the law to be unconstitutional. Later that year, in what was termed a “technical coup,” those four judges were forced out by the Honduran Congress and replaced with judges who support the project. While an affront to the rule of law, this came as no surprise in a country still reeling from a 2009 US-supported military coup.\n\nNew legislation was passed in 2013 rebranding Charter Cities as “Zones for Employment and Economic Development” (ZEDEs). ZEDEs are <a href=\"http://www.nlginternational.org/report/Final_NLG_ZEDE_Report.pdf\" target=\"_blank\">investor-friendly enclaves</a> governed by their own judiciaries, laws and security apparatus. They allow corporations to circumvent local business regulations, write their own laws, and create their own private police force. They bypass accountability to the Honduran people, grab land that sustains local people, and enforce arbitrary laws with private security.\n\nThe coastal communities whose lands are targeted for ZEDE development, some of them indigenous Garifuna, are already under siege from the repression and violence. Honduras has the <a href=\"http://edition.cnn.com/2014/04/10/world/un-world-murder-rates/index.html\" target=\"_blank\">highest murder rate in the world</a>, and is one of the most dangerous countries for human rights and environmental defenders, lawyers, and journalists. In 2014 alone, <a href=\"https://www.globalwitness.org/campaigns/environmental-activists/how-many-more/\" target=\"_blank\">12 environmental activists</a> were murdered. <a href=\"http://pen.org/honduras\" target=\"_blank\">More than 34 journalists</a> have been killed since 2009. Since the impunity rate is <a href=\"http://www.aljazeera.com/video/americas/2015/01/impunity-honduras-fuels-crime-epidemic-201511933020100436.html\" target=\"_blank\">over 90%</a>, very few of these violent deaths are investigated, let alone brought to trial.\n\nThe coastal communities have also been subject to theft of their lands for tourism, resource extraction, and narcotrafficking. The corporate cities represent another threat to their territories. Yet the communities will be defenseless before the legally autonomous, unaccountable Charter Cities.\n\nThe Black Fraternal Organization of Honduras (OFRANEH), a Garifuna group which has for decades opposed land grabbing on the Northern coast, said in a<a href=\"https://ofraneh.wordpress.com/2015/05/28/interrumpiendo-la-democracia-en-honduras-islas-distopicas-las-zede-y-nuevas-formas-de-gobernanza/\" target=\"_blank\"> May 28 declaration</a>, “A small group of elite businessmen and politicians are trying to auction off parts of the country to foreign capital in order to create islands of affluence surrounded by a sea of poverty and violence. Honduras’ failed state is directly related to the actions of these thieves who are associated with narcotraffickers and have permitted the collapse of our legal system and corruption of our security forces.”\n\nCharter Cities violate the Honduran constitution and Article 169 of the International Labor Organization, to which the Honduran government is a signatory, by failing to give indigenous communities the right to free, prior and informed consent before development may occur on their land. They violate democratic rights to participation, and national rights to sovereignty. Furthermore, they come into conflict with the basic concept of property – the cornerstone of both human rights and economic growth – even for the most strident free-market libertarian.\n\nThe Seasteading Institute, one of the sponsors of the June 8 event, has <a href=\"http://www.wilderutopia.com/international/political/honduras-neo-colonial-free-market-charter-cities-democracy-not-included-by-annie-bird/\" target=\"_blank\">expressed major interest</a> in developing a Charter City in Honduras, while ignoring the local context and the opposition from communities. OFRANEH says that the “floating city” that Seasteading hopes to construct off the coast would allow the wealthy foreign residents “to evade laws and restrictions of the nation-state, giving way to a micro-state which responds to the economic and political interests of the elite.”\n<p style=\"text-align: center;\"><strong># # #</strong></p>\n<em><strong>UPDATE:</strong> </em>Honduran president Juan Orlando Hernandez has cancelled his appearance and will now be represented by his Chief of Staff Ebal Diaz. See <a href=\"https://www.eventbrite.com/e/free-to-choose-cities-new-opportunities-for-enterprise-governance-in-honduras-and-beyond-tickets-17032660145\" target=\"_blank\">event details here</a>."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 559721eb-b73d-4d86-a9b5-58f46584daa3
+    -
+      entity: 2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad
+  field_mt_slideshow:
+    -
+      value: false
+  field_tags:
+    -
+      entity: f846e761-3d99-4cc4-a45f-0ecdea249d76

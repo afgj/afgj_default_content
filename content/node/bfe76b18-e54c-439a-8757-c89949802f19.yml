@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: bfe76b18-e54c-439a-8757-c89949802f19
+  bundle: article
+  default_langcode: en
+  depends:
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'URGENT: Tell your Senators: Hands Off Nicaragua!'
+  created:
+    -
+      value: 1538064111
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /urgent-tell-your-senators-hands-nicaragua
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.salsalabs.org/NICAActSenateAlert\" target=\"_blank\" style=\"width:100%;background:rgb(255, 0, 0);padding:10px;margin:10px 0px;text-align:center;text-decoration:none;font-size:12pt;color:rgb(255, 255, 255);font-family:Arial, Helvetica, sans-serif;display:inline-block;\">Click Here to Take Action Now!</a>\r\n\r\n<span style=\"font-weight: 400;\">On Wednesday, September 26, the Senate Foreign Relations Committee reported out the </span><a href=\"https://www.foreign.senate.gov/download/nicaragua\"><span style=\"font-weight: 400;\">Nicaragua Human Rights and Anticorruption Act of 2018</span></a><span style=\"font-weight: 400;\">\_(S. 3233)\_which incorporates the House of Representatives-passed</span><span style=\"font-weight: 400;\"> Nicaragua Investment Conditionality Act of 2017 (NICA Act). S. 3233, </span><span style=\"font-weight: 400;\">the Senate bill,</span><span style=\"font-weight: 400;\"> not only would direct US officials to block loans from international lenders such as the World Bank and IMF, it would impose sanctions on individual members of the elected government of President Daniel Ortega </span><span style=\"font-weight: 400;\">(</span><span style=\"font-weight: 400;\">which could be lifted through an annual waiver</span><span style=\"font-weight: 400;\">)</span><span style=\"font-weight: 400;\"> require the Nicaraguan government to hold early elections, and increase intelligence agencies spying on that country. \_\_</span>\r\n\r\n<span style=\"font-weight: 400;\">The Bill can now be called up for a full Senate vote at any time or passed by unanimous consent, as happened with the NICA Act in the House of Representatives. </span>\r\n<h2 style=\"text-align: center;\"><a href=\"https://afgj.salsalabs.org/NICAActSenateAlert\"><span style=\"font-weight: 400;\">Tell your Senator – Don’t pass the Nica Act!\_</span></a></h2>\r\n<span style=\"font-weight: 400;\">Wherever any of us feel the primary fault lies for the unrest in Nicaragua since mid-April, we should be unified against US intervention in Nicaragua’s sovereign affairs. The failed coup dealt a serious blow to Nicaragua’s economy, especially in the tourism industry. It will take years to recovery. Unilateral sanctions are illegal under international law, but a favorite action when the US government wants to “make the economy scream” as a prelude to regime change.</span>\r\n\r\n<span style=\"font-weight: 400;\">As the Chilean people in 1973 or the Venezuelan people in 2018 can tell us, it is not the political elites who suffer under sanctions, it is the ordinary people of the country who are only trying to better the lives of their families. Food scarcity, lack of medicine, skyrocketing inflation, all are the direct effects of sanctions. Their only purpose is collective punishment aimed at making conditions so bad that people will support an undemocratic transfer o</span><span style=\"font-weight: 400;\">f </span><span style=\"font-weight: 400;\">power in their country.</span>\r\n\r\n<span style=\"font-weight: 400;\">Our country is funding regime change in Nicaragua. That makes it our responsibility to stop US intervention today, just as we did in the 1980s. </span>\r\n\r\n<span style=\"font-weight: 400;\">Nicaragua has been able to make massive progress in the past decade in large part due to a government committed to eradicating poverty along with its ability to access international credit. It has extensive social programs such as free healthcare and education at all levels </span><span style=\"font-weight: 400;\">(i</span><span style=\"font-weight: 400;\">ncluding university</span><span style=\"font-weight: 400;\">)</span><span style=\"font-weight: 400;\">, the building of rural roads, electrification, new housing, support for small family business and the informal economy, hunger reduction programs, etc. This made Nicaragua the safest country in Central America, with low levels of migration and some of the strongest sustained economic growth in the region. The sanctioning of Nicaragua would put a major roadblock on this progress, make reconciliation in the aftermath of the failed coup </span><span style=\"font-weight: 400;\">more difficult, </span><span style=\"font-weight: 400;\">and would likely decrease the quality of life for Nicaraguans and increase migration to other countries including the United States.</span>\r\n\r\n<span style=\"font-weight: 400;\">Please tell your Senators that destroying Nicaragua’s economy will not help build the human and economic rights of the Nicaraguan people. The US has frequently played a negative role in Nicaragua’s history. Just this once, we demand that Congress leave its hands off Nicaragua and let Nicaraguans resolve their own difficulties.</span>\r\n\r\n<a href=\"https://afgj.salsalabs.org/NICAActSenateAlert\"><strong>Nicaragua Human Rights and Anticorruption Act of 2018\_! No to US Empire! Yes to Nicaraguan sovereignty and peoples’ solidarity!</strong></a>\r\n\r\n&nbsp;\r\n<h2 style=\"text-align: center;\"><a href=\"https://afgj.salsalabs.org/NICAActSenateAlert\"><span style=\"font-weight: 400;\">Click here to send a letter to your Senators</span></a></h2>\r\n<span style=\"font-weight: 400;\">Dear Sen. ______________</span>\r\n\r\n<span style=\"font-weight: 400;\">I am writing to express my opposition to passage of the Nicaragua Human Rights and Anticorruption Act of 2018 (S. 3233). Among other things, S. 3233 would require US officials to vote against international financial institution loans to Nicaragua, early elections, and increased involvement of US intelligence agencies in Nicaragua’s sovereign affairs. \_This would devastate Nicaragua’s economy which has already taken a serious blow due to civil unrest earlier this year. It would put the US government on the side of breaking with the constitutional order, and it would increase migration, much of which would come to the United States.</span>\r\n\r\n<span style=\"font-weight: 400;\">In fact:</span>\r\n<ul>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">The World Bank and IMF have praised Nicaragua’s management of aid projects as ranking among the best in the world.</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Nicaraguan police and military have prevented drug cartels from gaining a foothold in the country, unlike the other countries of Central America.</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Nicaragua has freedom of speech and no censorship of the press. All of the print media and most radio stations are owned by the opposition.</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">The Organization of American States noted some deficiencies in Nicaragua’s 2017 municipal elections but said the flaws would not have changed the outcome. The Nicaraguan government has pledged to work with the OAS to continue to strengthen the institutionality and transparency of its election processes.</span></li>\r\n</ul>\r\n<span style=\"font-weight: 400;\">Nicaragua was among the first countries in Latin America to achieve the UN Millennium Goals of reducing poverty. If Nicaragua were to lose access to multilateral loans, it would impact its ability to fund education, health care, and economic infrastructure, effectively cutting off at the knees the most productive economy in Central America.</span>\r\n\r\n<span style=\"font-weight: 400;\">The defeat of S. 3233 is important to me as a constituent. I will be closely following this legislation. I would appreciate if you would make a public statement against the Act and I would like a response to this email.</span>\r\n\r\n<span style=\"font-weight: 400;\">Sincerely,</span>\r\n\r\n<span style=\"font-weight: 400;\">YOUR NAME</span>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+  field_mt_slideshow:
+    -
+      value: false

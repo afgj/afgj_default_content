@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4d71c059-a322-49e8-80b2-cbe6f12985b9
+  bundle: article
+  default_langcode: en
+  depends:
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'National Speaking Tour with Steve Ellner'
+  created:
+    -
+      value: 1534892301
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /national-speaking-tour-steve-ellner
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "We are working on a fall speaking tour by Steve Ellner on the hardship imposed on the Venezuelan people by US-Canadian Sanctions.\_ He is available to speak in the East anytime now through mid-October. He will be on the West Coast the second half of October and early November. He will be in the Midwest after the first week of November. If you would like to invite him, as we are making his complete schedule,\_ please let us know.\r\n<div>\r\n<div>\r\n\r\nAs part of a campaign to educate the public and\_<a href=\"https://afgj.org/campaign-to-end-us-and-canada-sanctions-against-venezuela\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/campaign-to-end-us-and-canada-sanctions-against-venezuela&amp;source=gmail&amp;ust=1535175210741000&amp;usg=AFQjCNHEg_4TS3wwb6bS7ecMPV9zoLxr0g\">organize a stronger movement\_</a>against ongoing – and ever increasing – US and Canadian sanctions and intervention on the Venezuelan people, we will be mapping out a national speaking tour by Steve Ellner during October and November.\r\n\r\n</div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n\r\nThis is now more important with the recent US-Colombia backed<a href=\"https://walterlippmann.com/conspiracy-against-venezuela/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://walterlippmann.com/conspiracy-against-venezuela/&amp;source=gmail&amp;ust=1535175210741000&amp;usg=AFQjCNEhoZpNnfsT4Zd03CYTLWj8AmcKJA\">\_assassination attempt\_</a>on Venezuela President Maduro on August 4, and recent US judge ruling authorizing the\_<a href=\"https://www.archyworldys.com/us-judge-authorizes-seizure-of-citgo-for-debt-of-venezuela/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.archyworldys.com/us-judge-authorizes-seizure-of-citgo-for-debt-of-venezuela/&amp;source=gmail&amp;ust=1535175210741000&amp;usg=AFQjCNFmvq1pWxxIiCJvN3UNnmDWBnRc4w\">seizure of Citgo’s assets in the US.</a>\r\n\r\nIf you or your organization are interesting in inviting him to speak sometime this fall\_ – at a university, conference, library or community meeting, please contact us.\r\n\r\nOr, if you have suggestions for us about where he could speak,\_ let us know.\r\n\r\nThis builds on our March 2018\_\_<a href=\"https://chicagoalbasolidarity.wordpress.com/2018/03/11/open-letter-in-support-of-mediation-in-venezuela-not-sanctions/\" target=\"_blank\" rel=\"nofollow noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://chicagoalbasolidarity.wordpress.com/2018/03/11/open-letter-in-support-of-mediation-in-venezuela-not-sanctions/&amp;source=gmail&amp;ust=1535175210741000&amp;usg=AFQjCNHtX8q1OR-rIjJVzUeWsfrMhYVs0g\">Open Letter in Support of Mediation not Sanctions on Venezuela</a>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n\r\nThanks, Stan Smith and Teri Mattson,\r\n\r\n<a href=\"mailto:stansfieldsmith100@gmail.com\" target=\"_blank\" rel=\"noopener\">stansfieldsmith100@gmail.com</a>,\_<a href=\"mailto:teri.mattson@yahoo.com\" target=\"_blank\" rel=\"noopener\"><wbr />teri.mattson@yahoo.com</a>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n<div>\r\n\r\n<a href=\"https://chicagoalbasolidarity.wordpress.com/2018/08/10/the-hardship-imposed-on-the-venezuelan-people-by-us-canadian-sanctions-steve-ellners-fall-speaking-tour/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://chicagoalbasolidarity.wordpress.com/2018/08/10/the-hardship-imposed-on-the-venezuelan-people-by-us-canadian-sanctions-steve-ellners-fall-speaking-tour/&amp;source=gmail&amp;ust=1535175210742000&amp;usg=AFQjCNHBOIAEnkCGVoBLVo8McGcsJx_TaA\">https://chicagoalbasolidarity.<wbr />wordpress.com/2018/08/10/the-<wbr />hardship-imposed-on-the-<wbr />venezuelan-people-by-us-<wbr />canadian-sanctions-steve-<wbr />ellners-fall-speaking-tour/</a>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n\r\n<hr />\r\n\r\nSteve Ellner earned his Ph.D. in Latin American history at the University of New Mexico in 1980. Since 1977 he has taught economic history and political science at the Universidad de Oriente in Puerto La Cruz, Venezuela and for a ten year period taught in the graduate school of law and political science of the Universidad Central de Venezuela.\_He has been a visiting professor at St. John Fisher College (2001), Georgetown University (2004), Duke University (2005), Universidad de los Andes (Venezuela, 2008), Universidad de Buenos Aires (2010), Australian National University (2013), and Tulane University (2015).\r\n\r\n&nbsp;\r\n\r\nAmong his book publications are:\r\n\r\nVenezuela’s Movimiento al Socialismo: From Guerrilla Defeat to Electoral\r\n\r\nPolitics (1988);\r\n\r\nOrganized Labor in Venezuela, l958-l991: Behavior and Concerns in a Democratic Setting \_(l993);\r\n\r\nRethinking Venezuelan Politics: Class, Polarization and the Chávez Phenomenon. (2008);\r\n\r\nThe Latin American Left: From the Fall of Allende to Perestroika (co-editor, 1993);\r\n\r\nVenezuelan Politics in the Chávez Era: Class, Polarization and Conflict (co-editor, 2003);\r\n\r\nVenezuela: Hugo Chávez and the Decline of an “Exceptional” Democracy” (co-editor, 2007);\r\n\r\nLatin America’s Radical Left: Challenges and Complexities of Political Power in the Twenty-First Century\r\n\r\n&nbsp;\r\n\r\nHe has published on the op-ed page of the New York Times and the Los Angeles Times as well as in the Nation and The Progressive, and has been a regular contributor to NACLA: Report on the Americas, Commonweal and In These Times.\r\n\r\nSee also\_<a href=\"https://en.wikipedia.org/wiki/Steve_Ellner\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Steve_Ellner&amp;source=gmail&amp;ust=1535175210742000&amp;usg=AFQjCNFmQH7sxeNwQxdDjl_-1LL3E7WOWA\">https://en.wikipedia.org/<wbr />wiki/Steve_Ellner</a>\r\n\r\n&nbsp;\r\n<h4><strong>Register for the <span class=\"aBn\" tabindex=\"0\" data-term=\"goog_934370779\"><span class=\"aQJ\">August 28</span></span> webinar with Steve Ellner: </strong></h4>\r\n<a href=\"https://afgj.org/steve-ellner-the-hardship-imposed-on-the-venezuelan-people-by-us-canadian-sanctions\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/steve-ellner-the-hardship-imposed-on-the-venezuelan-people-by-us-canadian-sanctions&amp;source=gmail&amp;ust=1535175210742000&amp;usg=AFQjCNH_6fnz9vzEJ45G5xtDG2rjBYTdVQ\">https://afgj.org/steve-ellner-<wbr />the-hardship-imposed-on-the-<wbr />venezuelan-people-by-us-<wbr />canadian-sanctions</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+  field_mt_slideshow:
+    -
+      value: false

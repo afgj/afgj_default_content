@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8267fc2a-0deb-42fb-a61a-3c6ff65f5fad
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Our History'
+  created:
+    -
+      value: 1317894865
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /our-history
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "The Alliance for Global Justice was incorporated in 1998. Its role in the US grassroots progressive movement actually dates to nearly two decades earlier in February 1979 when solidarity activists from across the country formed the <a href=\"http://www.nicanet.org\">Nicaragua Network</a>. Nicaragua Network was the leading Nicaragua solidarity organization in the 1980s after the triumph of the Sandinista Revolution over the US-backed Somoza dictatorship. Tens of thousands of current and former activists throughout the progressive movement cut their activist teeth on coffee or cotton picking brigades to Nicaragua or by building schools, health clinics and houses in Nicaragua and witnessing directly the consequences of US imperialism, but also the courage of ordinary people who were fighting back.\r\n\r\nSandinistas always told the Nicaragua Network, “What you can do to most help us is to change your own government.”\r\n\r\nWe took that instruction to heart in 1990 when the Sandinistas lost an election due to overwhelming US interference and funding as well as the Nicaraguan peoples’ exhaustion from nine years of the US-sponsored Contra terrorist war.\r\n\r\nIn 1993 we joined many other groups to form the 50 Years Is Enough campaign to create an “unhappy” birthday for the World Bank and International Monetary Fund whose policies were burying the Global South in unsustainable debt. We later became the first grassroots group on the 50 Years Steering Committee and in 1996, when the large environmental and development groups were ready to fold it up, we took over financial and staffing responsibility for the campaign. In 1994 we founded the Campaign for Labor Rights to organize against sweatshop labor violations in Central America and world-wide.\r\n\r\nBy 1998 it was becoming confusing for activists and donors alike that a group called Nicaragua Network was the “parent” organization for two projects with global reach. We had a contest for a new name and Alliance for Global Justice was the name selected. We incorporated under the new name and when we received IRS designation as a tax-exempt, non-profit, the Nicaragua Network gave up its own legal existence and transferred its assets to AfGJ, becoming a project of the Alliance.\r\n\r\nAs you can read in our Vision and Mission Statements, the goal of the AfGJ is to build a strong, grassroots movement capable of challenging the economic and foreign policies of our government and corporations. One of our early activities was to act as fiscal sponsor and one of the primary organizers of the April 2000 IMF/WB demonstration in Washington, DC, one of the three major actions of what was then called the anti-globalization movement. That same weekend, we organized a meeting of Latin America solidarity organizations that became the Latin America Solidarity Coalition.\r\n\r\nIn the intervening years we have participated in the formation of many coalitions including the Stop CAFTA coalition and the Act Now to Stop War &amp; End Racism (ANSWER) Coalition. We also act as fiscal sponsor to over 90 economic, social justice and human rights projects around the world that do not have their own tax-exempt status.\r\n\r\nNicaragua solidarity continues to be one of our own core projects. We are also one of the primary organizations in the Honduras Solidarity Network. \_We are the main organization offering solidarity to the largest farmer/farmworker union in Colombia (FENSUAGRO), which is also the union which has had the most members murdered by government and paramilitary forces. We are also the primary group in the US working on behalf of Colombian political prisoners. In addition, AFGJ has been deeply involved with the Global Climate Convergence, leading up to the final UN climate summit in Paris.\r\n\r\n&nbsp;\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''

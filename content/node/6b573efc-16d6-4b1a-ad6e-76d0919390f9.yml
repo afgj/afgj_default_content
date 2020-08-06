@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 6b573efc-16d6-4b1a-ad6e-76d0919390f9
+  bundle: article
+  default_langcode: en
+  depends:
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ''s Workshops at SOA Watch Border Encuentro'
+  created:
+    -
+      value: 1510326028
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgjs-workshops-soa-watch-border-encuentro
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full aligncenter\" src=\"https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/21731090_10155404223321130_3467727519117190073_n.jpg?oh=af1d80f917a7648497123dc16fc89054&amp;oe=5A67ADE1\" alt=\"SOA Watch Encuentro\" width=\"600\" height=\"600\" />\n<p style=\"text-align: center;\"><strong><a href=\"http://www.soaw.org/border/register/\" target=\"_blank\" rel=\"noopener\">Register for the Encuentro</a></strong></p>\n<p style=\"text-align: center;\"><strong>Join AFGJ at our 2 Workshops</strong></p>\n<p style=\"text-align: center;\"><strong>on Saturday, November 11</strong></p>\n\n\n<hr />\n\n<strong>Prison Imperialism</strong>\n\nAlliance for Global Justice, Witness Against Torture\n\n<em>Olmec Room, 2:15-3:45</em><strong>\n</strong><em>\n</em>The United States is spreading its model of mass incarceration around the world. The US government has prison management programs in at least 33 different countries, mainly to majority non-white and “developing” nations including Mexico, Honduras and Colombia. Funding is provided as part of the “War on Drugs”. These classified, clandestine programs involve the construction of new prisons, prison guard training, and data management. Join us to learn how these programs are part of the infrastructure of US empire, and why the fight against mass incarceration is an international struggle.\n\n<hr />\n\n<strong>Colombia: Violence in a Time of Peace</strong>\n\nAlliance for Global Justice, Pan Left Productions, Sembrando Paz, SOA Watch\n\n<em>Tent 1, 4-5:30</em>\n\n<em>\n</em>Since the beginning of Colombia’s peace process, SOA Watch and AfGJ have led or participated in several delegations of accompaniment and verification. We visited regions with the largest indigenous populations, most extreme poverty, most assassinations of activists, and most displacement of rural peoples, as well as five zones where former insurgents and political prisoners are being reintegrated into civil society. We also went to Cuba during peace talks to meet with negotiators. We will present our findings, including how the US is impeding accords ending the civil war, and what we can do to defend them.\n\n<hr />\n<p style=\"text-align: center;\"><a href=\"http://www.soaw.org/border/weekend-program/\" target=\"_blank\" rel=\"noopener\">Full Schedule of Workshops</a></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

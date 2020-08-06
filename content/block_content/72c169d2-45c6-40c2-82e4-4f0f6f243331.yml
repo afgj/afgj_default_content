@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 72c169d2-45c6-40c2-82e4-4f0f6f243331
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Highlights (front page)'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"row\">\r\n<div class=\"col-12 col-xl-6\"><img alt=\"highlight\" src=\"https://mttprojects.s3.amazonaws.com/demo.morethanthemes.com/businessplus/placeholders/static-highlight-1.jpg\" /></div>\r\n\r\n<div class=\"col-12 col-xl-6\">\r\n<h2 class=\"block-title--medium text--colored mb-4 font-weight-normal\">Ideal for all your business needs</h2>\r\n\r\n<ul class=\"list-unstyled mb-4\">\r\n\t<li class=\"mb-1\"><i class=\"fas fa-check text--colored mr-2\"></i> Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>\r\n\t<li class=\"mb-1\"><i class=\"fas fa-check text--colored mr-2\"></i> Aut sit, labore eos odio fugiat ducimus alias</li>\r\n\t<li class=\"mb-1\"><i class=\"fas fa-check text--colored mr-2\"></i> Explicabo dolores harum soluta asperiores et ipsum rem</li>\r\n\t<li class=\"mb-1\"><i class=\"fas fa-check text--colored mr-2\"></i> Debitis deleniti. Incidunt molestias iusto saepe</li>\r\n</ul>\r\n</div>\r\n</div>\r\n"
+      format: full_html
+      summary: ''

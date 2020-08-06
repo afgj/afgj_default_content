@@ -1,0 +1,67 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 6711e31a-e0d0-4e1b-b4f7-1009ca92c4a8
+  bundle: article
+  default_langcode: en
+  depends:
+    cb3a0b64-118f-4986-9915-631ec9964468: taxonomy_term
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    ce605f71-8176-49d4-a4c4-8cda0c2b814e: taxonomy_term
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    ff23272a-2c6a-4d3f-b137-4c19843845a6: taxonomy_term
+    0dfdb011-9c82-4762-89a0-db01e08f9fe3: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Good Work! Hernandez and Bedoya Safe in Colombia'
+  created:
+    -
+      value: 1517923608
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /good-work-hernandez-and-bedoya-safe-colombia
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"size-full wp-image-8960 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/02/unnamed.jpg\" alt=\"\" width=\"540\" height=\"360\" /></p>\r\nThe Alliance for Global Justice and our partners in Colombia wish to give a heartfelt \"thank you\" to all who acted so quickly on behalf of <a href=\"http://org2.salsalabs.com/o/7315/p/dia/action4/common/public/?action_KEY=25827\">Jhon Jairo Hernandez and Jorge Mario Bedoya</a>. The two had been threatened by a right wing mob for their participation in a Leftist presidential campaign. <b>We are happy to say that they are now safe from danger. Without doubt, your rapid response and international solidarity helped make this happen.</b> We know the outcome could have been very different.\_ In the last five days of January, eleven popular movement leaders have been killed in Colombia. Political violence is being used to impede electoral participation of the Left and to intimidate rural voters where communities are standing in the way of big landowners and corporations that want control of Colombia's natural resources.\r\n\r\n<hr />\r\n\r\n<h3 style=\"text-align: center;\">Please consider the following three steps\r\nto Advance Peace in Colombia:</h3>\r\n<strong>1) Join AfGJ's Accompaniment Delegation to Colombia May 19 - 29, 2018, for the first round of presidential elections.</strong> The delegation will be co-lead by Human and Labor Rights Lawyer Dan Kovalik and AfGJ's James Jordan. Send an email for more information to DELEGATIONS@AFGJ.ORG or call 520-540-8336, extension 3\r\n\r\n<strong>2) </strong><a href=\"https://org2.salsalabs.com/o/7315/donate_page/delegations\"><strong>Click here to make a donation</strong> to help young workers, students, and activists of color who are short on funds, so that they can go on AfGJ's Colombia delegation </a>\r\n\r\n<strong>3) Host labor leader Nidia Quintero during her US tour April 9 - 23, 2018.</strong> Nidia is the General Secretary of Colombia's largest agricultural workers union and a leader in the Marcha Patriótica movement for peace and justice. For more information: James@AFGJ.org or 520-540-8336, extension 3\r\n\r\n<hr />\r\n\r\n<strong>Background:</strong>\r\n\r\nJhon Jairo Hernandez and Jorge Mario Bedoya were forced to take shelter on February 4, 2018 in Quimbaya, Quindío after a right wing mob tried to lynch them.They were part of the presidential campaign of Rodrigo Londoño aka Timochenko, the candidate for the new FARC (Common Alternative Revolutionary Force) legal political party formed out of the former FARC-EP (Revolutionary Armed Forces of Colombia - People's Army). Two days previous, ultra-rightists had attacked the campaign in other parts of Quindío, pelting vehicles with rocks and surrounding consultations with communities, not allowing attendees to leave for hours at a time.\r\n\r\n<b>We are deeply concerned for the peace and democracy of Colombia. We are seeing a repeat of the genocide against the Leftist Patriotic Union in the 1980s and 90s when over 5,000 candidates and elected officials were assassinated. That sustained violence derailed the peace process and plunged the country back into civil war. It was followed by the Plan Colombia war strategy, which cost US taxpayer's over $10 billion. We must not go back to those dark days!</b>\r\n\r\nThe events that occurred in Quindío show how fragile are Colombia's peace accords. Threats and assaults are not just aimed at the new and legal FARC, but against all Leftist campaigns, and against human rights defenders, environmentalists, unionists, and popular movement leaders. International awareness and solidarity is key to making this a durable and viable peace."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: cb3a0b64-118f-4986-9915-631ec9964468
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: ce605f71-8176-49d4-a4c4-8cda0c2b814e
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: ff23272a-2c6a-4d3f-b137-4c19843845a6
+    -
+      entity: 0dfdb011-9c82-4762-89a0-db01e08f9fe3
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,73 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3edf7de8-0117-4250-a714-20760eb4769c
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    1c0c4377-b739-4293-a00a-331346b8aa16: taxonomy_term
+    377b87e2-2675-4132-bef1-96b01f279065: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Alliance for Global Justice Statement on the End of the War in Colombia'
+  created:
+    -
+      value: 1466710601
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /alliance-global-justice-statement-end-war-colombia
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"alignleft wp-image-5608\" src=\"https://afgj.org/wp-content/uploads/2014/04/astracan-alert-3.jpg\" alt=\"astracan alert 3\" width=\"298\" height=\"202\" />The Alliance for Global Justice (AfGJ) congratulates the Colombian people in their achievement of an end to more than 52 years of civil war. We want to salute the popular movements that have brought a government entrenched in war and repression to the table to talk peace. Even more, we want to thank the popular movements that have given the world so much inspiration about the power of the people to achieve peace. We know that the new accord is the result of the outcry of millions of Colombians against political violence and for a new era of respect for life and real, participatory democracy.\n\nWe want to call attention to the special roles of the organizations with whom we are most allied: Fensuagro (the National Unitary Labor Federation of Agricultural Workers), Lazos de Dignidad (Links of Dignity) and the Marcha Patriótica (Patriotic March). Fensuagro, one of the world's most persecuted labor organizations, has struggled without rest for the rural workers of Colombia, the population most affected by the war. Until this very moment, more than 100 of its members and leaders are incarcerated as political prisoners, thousands of its families have been displaced and hundreds of its people have given the ultimate sacrifice of their lives as victims of extrajudicial executions. Lazos de Dignidad and the Coalición Larga Vida las Mariposas (Long Live the Butterflies Coalition—which includes Lazos and AfGJ) have worked together for the rights of political\n\n[caption id=\"attachment_5501\" align=\"alignright\" width=\"378\"]<img class=\" wp-image-5501\" src=\"https://afgj.org/wp-content/uploads/2014/03/IMG_3108.jpg\" alt=\"Meeting with Fensuagro affiliates in Tolima to talk about the peace accords\" width=\"378\" height=\"283\" /> Meeting with Fensuagro affiliates in Tolima to talk about the peace accords[/caption]\n\nprisoners, amplifying voices that the powers that be wanted to silence. The work of these and similar organizations will continue in the coming months while they monitor the compliance of the state with its commitment to liberate thousands of political prisoners. We especially give a strong embrace and raise a toast to the Marcha Patriótica. The Marcha is a movement of movements made up of more than 2,000 grassroots organizations. Its socialist and anti-imperialist vision is helping give birth to a New Colombia.\n\nThe reality of this new peace fills us with joy. When we began our projects of solidarity with Colombia, much of the movement in the United States was making the error of treating the Revolutionary Armed Forces of Colombia-Peoples Army (FARC-EP), the government's armed forces and the paramilitaries as equal actors that shared responsibility for political violence in the country. They maintained the idea that the people of Colombia were finding themselves trapped in the middle of a cross fire from all sides. They demonized the FARC-EP while they called for peace and an end to the armed conflict. Their positions were not based on objective reality and they lacked faith in the idea of negotiations. They condemned the FARC-EP as criminals and narcotraffickers that could not be trusted, repeating uncritically the propaganda and distortions of the government and the corporate press. But from the beginning, AfGJ recognized the legitimacy of the insurgency and we rejected the lies made regarding the guerrillas. We never supported nor gave our approval to the insurgency, nor did we have relations with them. But we recognized them as an armed group based in the struggles of the people against the attacks and provocations of the state and against the interests of global capitalism. While other called for peace, but not so much for dialogue and negotiations, the call for a peace process was the cornerstone of our solidarity work—because it was that Colombians asked of us more than anything. We rejected completely a non-political analysis. We understood that in any given year of the conflict, 70 to 80% of the political violence came from Colombian armed forces or their paramilitary allies, and that this violence was encouraged by and of benefit to transnational and extractivist corporate interests and big agribusinesses.\n\nWe understood also that the war in Colombia began with the instigation of the US government and the Pentagon. In 1962, two years before the FARC-EP formed to defend farming people against military attacks, the Pentagon had sent a delegation directed by General William Yarborough to study the situation and make recommendations. This delegation produced a previously classified document that called for the creation of “paramilitaries” and the development of a campaign of “terrorism”against rural people and people accused of being communists. And since 2000, the US government has invested more than $10 billion in Plan Colombia. The majority of this money has been destined for the armed forces, indiscriminate aerial fumigation in the name of a fake war on drugs, or for the construction of prisons and other components of the infrastructure of repression. At the same time, while the US was investing in war in Colombia, it had cut social investment in our own country. And while the US cultivated political violence in Colombia, in its own borders an average of one African descended person was being killed every day in the streets by police. Thus, AfGJ recognizes that the anti-war and anti-imperialist struggles in Colombia have helped us in our own search for liberation and participatory democracy. We believe that our understanding of solidarity and the practical steps necessary to achieve a peace resulted in our invitation to participate in the formation of the Long Live the Butterflies Coalition in 2011 and in the inauguration of the Marcha Patriótica in 2012, as well as to be the first grassroots organization from the US invited to Havana, Cuba in April of 2015 to meet with representatives of the Colombian parties and the guarantor governments to learn more about the agreements under negotiation.\n\n[caption id=\"attachment_4158\" align=\"alignleft\" width=\"301\"]<img class=\" wp-image-4158\" src=\"https://afgj.org/wp-content/uploads/2013/04/IMG_2623.jpg\" alt=\"Members of the CUT labor federation in Colombia march for peace in Colombia.\" width=\"301\" height=\"226\" /> Members of the CUT labor federation in Colombia march for peace in Colombia.[/caption]\n\nWith the signing of this peace accord, and the end of this war, we understand that we must begin new struggles. There are enemies of the peace within the extreme right wing who want nothing more than for the peace to collapse. Already we are seeing an increase in threats and assaults against the popular movements, human rights defenders, students, unionists, environmentalists and rural, indigenous and afrodescendent communities. Forced displacement continues. International accompaniment and vigilance is going to be vital for the development of a just and durable peace.\n\nIt is also going to be necessary that we exercise vigilance with respect to the Colombian government that it fulfill its commitments. Many times the state has made good and significant, but empty, promises. The international community must demand that the state honor its agreements for land reform, freedom for political prisoners, and safety for leaders of social and popular movements. Colombia, the Philippines and Mexico, have the world's highest rates of impunity for those who commit political motivated murders. This must change.\n\nAs people of the United States, we understand that peace in Colombia requires the support of the US, and not its interference, especially not more fomenting of repression and war. The administration of President Barack Obama has already announced its “Plan Peace Colombia” that would actually increase military aid. The government has also been denying visas to well-known persons from the political opposition and labor unions. It is integral that the world hear the testimonies of these people to verify the threats to security they and the popular movements may be experiencing.\n\nFinally, the US has created obstacles to Colombian peace and justice through its practice of petitioning for extraditions of members of the FARC and paramilitaries. The US must end this practice and return the prisoners it is holding to Colombia. The extradition of FARC members impedes the resolution of Colombia's conflict with respect to the freedom of prisoners of war. The extradition of paramilitaries impedes investigations concerning their links with Colombia's political powers. More than anything, if the United States wants to demonstrate its commitment to Colombia's peace, it will return Simón Trinidad aka Ricardo Palmera . Trinidad is a peace negotiator for the FARC and is incarcerated in the Supermax penitentiary of Florence, Colorado where he is kept in a state of solitary confinement.\n\nWe are celebrating the end of 52 years of war in Colombia. And we recognize that we are entering into a new era of struggle for a just peace, and to this struggle, the Alliance for Global Justice commits itself.\n\n[caption id=\"attachment_4151\" align=\"aligncenter\" width=\"518\"]<img class=\" wp-image-4151\" src=\"https://afgj.org/wp-content/uploads/2013/04/IMG_2665.jpg\" alt=\"A contingent of Patriotic March High School students pose with AfGJ's and Pan Left's Raquel Mogollón. There banner has at its center Colombia's hero for peace and leading member of the Patriotic March, Piedad Córdoba, pictured here with Che Guevara and Simón Bolívar--an indication of the high esteem in which she is held. Photo by James Jordan.\" width=\"518\" height=\"388\" /> A contingent of Patriotic March High School students pose with AfGJ's and Pan Left's Raquel Mogollón. There banner has at its center Colombia's hero for peace and leading member of the Patriotic March, Piedad Córdoba, pictured here with Che Guevara and Simón Bolívar--an indication of the high esteem in which she is held. Photo by James Jordan.[/caption]\n\n[caption id=\"attachment_4147\" align=\"aligncenter\" width=\"1600\"]<img class=\"size-full wp-image-4147\" src=\"https://afgj.org/wp-content/uploads/2013/04/IMG_2608.jpg\" alt=\"Bearing their torsos for peace! Photo by James Jordan.\" width=\"1600\" height=\"1200\" /> Bearing their torsos for peace! Photo by James Jordan.[/caption]"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 1c0c4377-b739-4293-a00a-331346b8aa16
+    -
+      entity: 377b87e2-2675-4132-bef1-96b01f279065
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

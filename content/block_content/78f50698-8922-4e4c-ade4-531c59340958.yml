@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 78f50698-8922-4e4c-ade4-531c59340958
+  bundle: basic
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Text blocks'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"mt-text-blocks\">\r\n<div class=\"row\">\r\n<div class=\"col-md-4\">\r\n<div class=\"mt-text-block\">\r\n<h4>FAST DELIVERY</h4>\r\n<div class=\"separator\"></div>\r\n<p>We provide you with fast &amp; delivery regardless of the product size and value.</p>\r\n</div>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<div class=\"mt-text-block\">\r\n<h4>PRICE COMPARISON</h4>\r\n<div class=\"separator\"></div>\r\n<p>The advanced innovation of search engine allows you to easily check prices and compare with just a few clicks.</p>\r\n</div>\r\n</div>\r\n<div class=\"col-md-4\">\r\n<div class=\"mt-text-block\">\r\n<h4>100% MONEY BACK</h4>\r\n<div class=\"separator\"></div>\r\n<p>Within 60 days of payment we offer 100% money back guaranteed.</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>"
+      format: raw_html
+      summary: ''

@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: cdef4757-177e-4435-997e-2cc41091a830
+  bundle: article
+  default_langcode: en
+  depends:
+    2ddd12f9-0ac5-430e-884a-ce6ee8811df6: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela is Under Attack.  What do we do? Stand Up. Fight Back!'
+  created:
+    -
+      value: 1514458318
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-under-attack-what-do-we-do-stand-fight-back
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><em>“Solidarity with Venezuela is solidarity with Nicaragua, </em>\n<em>because if Venezuela goes down, we all go down.”</em></p>\n<p style=\"text-align: center;\">-Roberto Vargas, Nicaraguan poet and militant</p>\nVenezuela is under attack by the Trump administration as it was by the Obama administration. Since the price of oil dropped dramatically due to fracking, Venezuela’s economy has been hurting and our government and the Venezuelan elites have doubled down on their efforts to stamp out the democratic advances started with the election of Hugo Chavez in 1999.\n\nAlliance for Global Justice has worked for nearly two decades to build the solidarity movement in support of the Bolivarian Revolution in Venezuela. In 2014, when the opposition turned violent and the US imposed sanctions, AfGJ called together the Venezuela Strategy Group of important individuals and grassroots organizations.\n\nUnder our leadership, the Venezuela Strategy Group has initiated petitions and sign-on letters demanding that the US stop interfering in Venezuela’s democratic processes and to stop funding opposition violence aimed at destabilizing the government.\n<h2 style=\"text-align: center;\"><a href=\"https://afgj.org/afgjeoy2017\">Please Support AFJG's Solidarity work with a tax-deductible donation.</a></h2>\nCurrently we organize a monthly webinar with different Venezuela experts on the last Tuesday of each month. About 100 people representing themselves or their organizations typically register for the webinars. If you would like to receive an invitation to participate, send an email to AFGJ@AFGJ.org.\n\nPresident Trump has gone so far as to threaten to send US troops to overthrow the elected government of President Nicolas Maduro. We need your support to continue to organize opposition in the US to our country’s efforts to bring Venezuela back into the US political and economic orbit.\n\nVenezuela’s leadership in the hemisphere has increased Latin America political and economic integration, weakening the US stranglehold on the region. We had brunch with Noam Chomsky a couple of years ago and he said, “Latin America has already freed itself.” That freedom is more shaky than it was when he said it.\n\nIt is up to you and I to make sure our government is not able to impose US hegemony again on the 34 countries of this hemisphere. Venezuela is the key.\n<h2 style=\"text-align: center;\"><a href=\"https://afgj.org/afgjeoy2017\">Won’t you please support our</a>\nmovement-building work with a generous\ntax deductible donation today?</h2>\n\n<hr />\n\n<h2 style=\"text-align: center;\">Don't Delay - Make Your 2017 Year End Donation!</h2>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 2ddd12f9-0ac5-430e-884a-ce6ee8811df6
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+  field_mt_slideshow:
+    -
+      value: false

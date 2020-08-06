@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b00a77e6-6209-4e6e-8804-58c10f6791ac
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    820d81bd-bc00-43fd-950c-892f458c2644: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'What is Significant About the Minimum Wage?'
+  created:
+    -
+      value: 1488982698
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /what-significant-about-minimum-wage
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"aligncenter size-full wp-image-6975\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"\" width=\"579\" height=\"195\" /></a>\n\nWhat is significant about the minimum wage?\n\nI returned last week from a delegation to Honduras and Nicaragua. Unfortunately, I spent the whole Nicaragua segment of the delegation sick. As a result I missed many of the meetings and activities planned for us by the Association of Rural Workers (ATC) and the Union of Agricultural Cooperatives. (UCANS-Somoto). Instead of writing about the delegation this week, I’m going to hold off a couple of weeks until we have the official delegation report.\n\nInstead, I’m going to write about the success, once again, of the Sandinista government’s unique Tripartite Alliance model to achieve an agreement on 2017 minimum wage boosts totaling 8.25%.\n\nThe Tripartite Alliance model functions as a direct negotiation between capital and labor in meetings moderated by the government. Since Daniel Ortega returned to the presidency in 2007 and implemented this system, Nicaragua has enjoyed an extended period of labor stability.\n\nLabor stability in and of itself is not necessarily a positive thing if that stability is due to an uneven playing field such as exists currently in the US where corporations hold most of the cards, or if it is due to “company” unions, such as are dominant in Mexico, which do not defend the interests of the workers. But, labor stability in Nicaragua says more about the nature of the State than it does about the relative power dynamics between capital and labor. In the two times I can think of in the past 10 years that labor and capital have not been able to come to a consensus about the percentage increase in the minimum wage, the government has sided with labor and imposed an increase equal to or close to the rate supported by the unions.\n\nIn February, Paulo Speller, secretary general of the Organization of Ibero-American States (OEI), said during a visit to Nicaragua, “Nicaragua is a country that has inspired us because it has a different situation compared to the rest of the region. The economy is growing, the people live in peace, and the government is implementing carefully developed policies. The Nicaragua Tripartite Alliance model between government, employers, and labor is a unique and successful model in the region.”\n\nLuis Barbosa, secretary general of the Sandinista Workers Central – Jose Benito Escobar, said, “We have achieved something great” and Labor Minister Alba Luz Torres called it “a major victory for Nicaragua’s workers.” Employers, represented by the Superior Council for Private Enterprise (COSEP) are also happy with the deal and have repeatedly credited the model for calming foreign investor fears and promoting investment and job growth.\n\nNicaragua has several minimum wages for various sectors of the economy. The one covered by this agreement is the one covering Nicaragua’s lowest paid workers in agriculture and garment factories. The agreement covers workers in the rapidly growing tobacco industry, as well as coffee workers, Nicaragua’s largest single employment sector. For the first time unskilled workers will earn US$195.60 per month. That doesn’t sound like much, admittedly. Honduras and Costa Rica have minimum wages of US$353 and US$516 respectively, but a one-to-one dollar comparison leaves out the fact that Nicaraguan workers have free health care, free education, subsidized food and housing for low wage workers, all of which increases the buying power of the Nicaraguan Cordoba.\n\nNicaragua is nowhere near full employment; barely a third of workers are considered formally employed and paying into social security. But that is a significant increase over historical norms and few would argue that workers are not better off than they were under the neoliberal governments of 1990-2006.\n\nThe fundamentals of the world economy have not changed. Neoliberal capitalism is still making the rules. But in Nicaragua the nature of the State and what economic actors are defended by the State has changed, and that has made all the difference.\n\n<hr />\n\nBRIEFS\n<ul>\n \t<li>During a hearing at the National Assembly Infrastructure Commission last Thursday, Minister of Energy and Mines Salvador Mansell said that over the next 13 years, 1,300 megawatts of energy will be added to the national electrical grid using renewable sources. He added that greater growth in public-private investment has helped to achieve 90% electricity coverage and 53% in renewable energy generation in the country. Over the next four years, it is projected that 256 megawatts of projects will come online. Hydroelectric projects will add 100 megawatts, 63 megawatts will come from wind, 48 megawatts of solar is planned, and the final 45 megawatts will be from burning biomass. <em>(Nicaragua News, Mar. 3, 1)</em></li>\n</ul>\n<ul>\n \t<li>The Swiss Agency for Development and Cooperation (SDC) has approved US$8 million to support the Nicaragua Innovation and Dissemination of Technologies for Adaptation of Agriculture to Climate Change (AGRIADAPTA) Program. María José Corea, director of the Nicaragua Institute of Agricultural Technology (INTA), said the purpose of the 4-year program is to strengthen capabilities in areas such as technological innovation and implementation of new mechanisms to deal with the effects of climate change in the Nicaragua Dry Corridor. <em>(Nicaragua News, Mar. 2)</em></li>\n</ul>\n<ul>\n \t<li>Vice President Rosario Murillo announced that coffee production reached 2.4 million hundredweights last month and that a 10% percent growth is being projected by the end of the harvest. \"This indicator is very positive. Coffee production was 2.2 million hundredweights in 2016 and is projected to exceed 2.6 million hundredweights this year\", Murillo said. <em>(Nicaragua News, Mar. 2)</em></li>\n</ul>\n<ul>\n \t<li>The Supreme Electoral Council and the OAS signed an agreement for the OAS to accompany Nicaragua’s municipal elections scheduled for Nov. 5, 2017. In addition to the government’s Memorandum of Understanding with the OAS to strengthen the democratic system and the rule of law, as well as to ensure free, fair and transparent elections, also signe an agreement to ensure Privileges and Immunities for the OAS Electoral Mission this year. <em>(Nicaragua News, Mar. 1)</em></li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 820d81bd-bc00-43fd-950c-892f458c2644
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

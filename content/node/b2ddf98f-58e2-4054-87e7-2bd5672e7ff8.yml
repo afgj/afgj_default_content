@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b2ddf98f-58e2-4054-87e7-2bd5672e7ff8
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Donations
+  created:
+    -
+      value: 1326825377
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /donations
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p style="text-align: center;">If you are not immediately redirected to our donate page, please<a href="https://org2.salsalabs.com/o/7315/donate_page/afgj-nicanet"> click here.</a></p>'
+      format: full_html
+      summary: ''

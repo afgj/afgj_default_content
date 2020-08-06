@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: b467900a-1ff8-40ea-a8b0-2de331243735
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: Announcement
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"alert alert-dismissible\" role=\"alert\">\r\n  <button type=\"button\" class=\"close\" data-dismiss=\"alert\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button>\r\n  This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies. <a href=\"#\" class=\"link--bordered\">Find out more</a>.\r\n</div>\r\n\r\n\r\n"
+      format: raw_html
+      summary: ''

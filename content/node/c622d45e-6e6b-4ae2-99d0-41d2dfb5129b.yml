@@ -1,0 +1,64 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c622d45e-6e6b-4ae2-99d0-41d2dfb5129b
+  bundle: article
+  default_langcode: en
+  depends:
+    559721eb-b73d-4d86-a9b5-58f46584daa3: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    e2cd83a2-4ff6-40be-8260-0b38e269f80f: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela National Day of Action Activities by City'
+  created:
+    -
+      value: 1425039955
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-national-day-action-activities-city
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<div dir=\"ltr\"><span style=\"font-size: large;\">Venezuela National Day of Action Activities by City</span></div>\n<div dir=\"ltr\"></div>\n<div dir=\"ltr\" style=\"text-align: left;\">\n\n<span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1043003078\"><span class=\"aQJ\"><img class=\"alignright  wp-image-4111\" src=\"https://afgj.org/wp-content/uploads/2013/03/hugo_chavez_and_che.jpg\" alt=\"hugo_chavez_and_che\" width=\"354\" height=\"381\" />March 5</span></span> is the second anniversary of the passing of Venezuela’s President Hugo Chávez, who transformed Venezuela through his courageous struggle to help Venezuelans become protagonists of their destiny.\_ The Venezuela Strategy Group, a coalition of solidarity organizations and individuals has called for actions on <span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1043003079\"><span class=\"aQJ\">March 5</span></span> to commemorate Chavez’ legacy and to build opposition to US efforts to replace the democratically elected government of President Nicolas Maduro through violence.\n\nThe US government is working to destabilize Venezuela’s democratically elected government, using US tax-payer dollars to finance anti-government organizations in Venezuela, encouraging coup attempts and even terrorist attacks on their population. Now, the US is applying sanctions against Venezuela to punish the government and people for defending their sovereignty. It is up to us, the people of the United States, to demand that the US government stop the attacks and destabilization of Venezuela, respect international law and Venezuela's right to self-determination.\n\nIf you live in any of the cities which have announced activities on or around <span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1043003080\"><span class=\"aQJ\">March 5</span></span>, please turn out to remember the advances Venezuelans won through the Bolivarian Revolution led by President Chavez, and to demand of the US government – Hands Off Venezuela!\n\n<span style=\"font-size: large;\">Boston, MA</span>\n<b><span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1043003081\"><span class=\"aQJ\">March 5, 6:30pm</span></span></b>\nEncuentro5, <span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1043003082\"><span class=\"aQJ\">6:30pm</span></span>\n9A Hamilton Place\nTo commemorate the passing of the leader of the Bolivarian Revolution, President Hugo Chavez, we're asking people to come and share some of their thoughts and experiences in remembrance. Free and open to the public\n\n<span style=\"font-size: large;\">Chicago, Ill.</span>\n<b><span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1043003083\"><span class=\"aQJ\">March 5, 4:30 p.m.</span></span></b>\nRally - Federal Plaza\n\n<b><span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1043003084\"><span class=\"aQJ\">March 6, 6-8:30pm</span></span></b>\nRemembering Chavez’ Legacy\nTrinity Episcopal Church\n125 E 26th St, Chicago, Illinois 60616\n\n<span style=\"font-size: large;\">Hammond, IN – Purdue University</span>\n<b><span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1043003085\"><span class=\"aQJ\">March 4, 12:30pm</span></span></b>\nChamber Hall, 3rd Fl. SULB\nSpeaker, Jesus Rodriguez, Consul General, Chicago Venezuela Consulate\n\n<span style=\"font-size: large;\">Larkspur, CA – Redwoods Church</span>\n<b><span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1043003086\"><span class=\"aQJ\">March 5, 7:30 pm</span></span></b>\n2nd Anniversary of Death of President Chavez\nVideo of Miguel Tinker Salas speaking on US – Latin American Relations in the 21st Century\nDiscussion led by Martin Sanchez on developments in Venezuela\n\n<span style=\"font-size: large;\">Los Angeles, CA</span>\n<b><span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1043003087\"><span class=\"aQJ\">Friday, March 6, 6:30 p.m. - 9:30 p.m</span></span></b>.\nImmanuel Presbyterian Church (3300 Wilshire Boulevard)\nForum in defense of the Bolivarian Revolution\n\n<span style=\"font-size: large;\">New York City, NY</span>\n<b><span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1043003088\"><span class=\"aQJ\">Thursday, March 5</span></span></b>\n5th Avenue between 33rd and 34th Street\n<span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1043003089\"><span class=\"aQJ\">4:00 p.m.</span></span>\nMarch: \"Human Rights Watch, Weapon of the U.S. State Department\"\n\n<span style=\"font-size: large;\">San Francisco, CA</span>\n<b><span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1043003090\"><span class=\"aQJ\">Thursday, March 5</span></span></b>\n24th and Mission St.\n<span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1043003091\"><span class=\"aQJ\">5:00 p.m.</span></span>\nRally in Solidarity with Venezuela's Bolivarian Revolution\n\n<span style=\"font-size: large;\">Tucson, AZ</span>\n<span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1043003092\"><span class=\"aQJ\">March 5, \_7pm</span></span>\nGlobal Justice Center\n225 E 26th St.\nRemembering Hugo Chavez; Resisting US Intervention. Speakers on Chavez’ legacy and current US efforts at “regime change.”\n\n<span style=\"font-size: large;\">Washington, DC</span>\n<b><span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1043003093\"><span class=\"aQJ\">March 5, 6:30pm</span></span></b>\nBolivarian Hall, 2445 Massachusetts Ave., NW\nRemembering our Friend and Compañero, Hugo Chavez\n\n<b><span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1043003094\"><span class=\"aQJ\">March 7, 7-10pm</span></span></b>\nSt. Stephen’s Church, 1525 Newton Street, NW DC\nThe Latin American and Caribbean Solidarity Committee/Comité de Solidaridad Latinoamericano y Caribeño\nInvites the Community to a Celebration of The Life and Legacy of Hugo Chavez. Join us for an Evening of Music, Poetry, and Solidarity.\n\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 559721eb-b73d-4d86-a9b5-58f46584daa3
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: e2cd83a2-4ff6-40be-8260-0b38e269f80f
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+  field_mt_slideshow:
+    -
+      value: false

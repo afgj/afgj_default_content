@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 50e3c70a-e1c5-43fe-9f64-3f6508b62792
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: Simón-y-Ché-scaled.png
+  uri:
+    -
+      value: 'public://2020-06/Simón-y-Ché-scaled.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 934555
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1591189424

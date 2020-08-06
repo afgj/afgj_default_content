@@ -1,0 +1,61 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3caf635d-fdb0-4cd3-a827-9ec57d928a79
+  bundle: article
+  default_langcode: en
+  depends:
+    7c24d703-ad76-40f5-8889-a30cb1700fd3: taxonomy_term
+    7de75c6a-4d28-4128-ad47-1ce01b22a3e2: taxonomy_term
+    cd0b4a40-9b03-4048-a812-892416542fb4: taxonomy_term
+    e2cd83a2-4ff6-40be-8260-0b38e269f80f: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Wild Versus Wall'
+  created:
+    -
+      value: 1476370699
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /wild-versus-wall
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2><strong><em>“The only thing the wall won’t stop are people.”</em></strong></h2>\nhttps://vimeo.com/9561480\n\nProduced by the Sierra Club in 2010, <em>Wild Versus Wall </em>examines the ecological consequences of border militarization. It displays how prevention through deterrence efforts, like the border fence, have disrupted animal migration routes, feeding practices and mating traditions. Wildlife in the borderlands’ ecosystems struggle to survive neglected by political decisions and in an environment built to divide."
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 7c24d703-ad76-40f5-8889-a30cb1700fd3
+    -
+      entity: 7de75c6a-4d28-4128-ad47-1ce01b22a3e2
+    -
+      entity: cd0b4a40-9b03-4048-a812-892416542fb4
+    -
+      entity: e2cd83a2-4ff6-40be-8260-0b38e269f80f
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

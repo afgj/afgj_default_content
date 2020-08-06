@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 14bd969f-ec41-4f02-921b-4cee99101d27
+  bundle: article
+  default_langcode: en
+  depends:
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Honduran Government Goes to War Against Its Own People as Presidential Inauguration Approaches'
+  created:
+    -
+      value: 1517233186
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /honduran-government-goes-war-against-its-own-people-presidential-inauguration-approaches
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<span style=\"font-weight: 400;\">PRESS RELEASE from the HONDURAS SOLIDARITY NETWORK</span><span style=\"letter-spacing: 0.05em;\">- January, 2018</span>\r\n\r\n<a href=\"http://www.hondurassolidarity.org/\" target=\"_blank\" rel=\"noopener\"><img class=\"size-full wp-image-8572\" src=\"https://afgj.org/wp-content/uploads/2017/12/Screen-Shot-2017-12-12-at-4.11.33-PM.png\" alt=\"Honduras Solidarity Network HSN\" width=\"896\" height=\"369\" /></a>\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n<span style=\"font-weight: 400;\">On January 27, 2018 , Juan Orlando Hernandez (JOH) is scheduled to be inaugurated into his second term as President of Honduras - despite the fact that re-election is prohibited by the Honduran Constitution and despite the fact that his declared victory from the November 26, 2017 election is considered fraudulent by millions of Hondurans and was declared to be “not confirmable” by the General Secretary of the Organization of American States. Neither this nor the scores of dead Honduran civilians has affected the strong political and economic support for JOH from the United States government. </span>\r\n\r\n<span style=\"font-weight: 400;\">As the inauguration approaches Honduras looks like a country at war: the streets and roads of the cities and villages are full of heavily armed troops using live ammunition and in Humvees equipped with machine guns. But, the other side of this war are unarmed civilians of all ages protesting with non-violent civil disobedience, road blocks, consumer boycotts and marches in a declared National Civic Strike from January 20 - 27. Today, we still don’t have the final count, but many people were detained, many injured and at least one killed - an elderly man was assassinated by the military in Saba, Colon in northern Honduras at a protest. \_There were hundreds of protests around the country that are continuing. </span>\r\n\r\n<span style=\"font-weight: 400;\">More than 30 people have been killed by the government since anti-fraud protests began after the election. More than 1000 arrested and hundreds seriously injured. This deadly repression is sharply increasing as the inauguration date approaches. The political opposition party, the Opposition Alliance, whose candidate Salvador Nasralla won the election vote, along with social justice organizations, indigenous organization, campesino organizations, students and women’s groups calls for no recognition of JOH’s authority. They call for an independent international mediator acceptable to all to convene any dialogue to resolve the crisis that also requires the replacement of the Electoral Tribunal and no continuation of Hernandez as President. </span>\r\n\r\n<span style=\"font-weight: 400;\">HSN human rights observers were in Honduras before and after the election and can testify to the militarized conditions during the election, the irregularities of the Electoral Tribunal process and the brutal repression unleashed by the government. The HSN continues to call for no recognition or support for JOH from the US government including the cutting off of all security assistance. The repression and violence against the Honduran people is being paid for by our tax money and must end. </span>\r\n\r\n<span style=\"font-weight: 400;\">HSN member organizations are joining in solidarity actions and events from January 20-27th. </span>\r\n\r\n<span style=\"font-weight: 400;\">There are public events being organized in New York City, Minneapolis, Chicago, Detroit, San Francisco Bay Area and other cities in the US. Other activities \_will be announced on our Facebook page including a campaign that includes contacting members of the US Congress and Senate to demand an end to funding for dictatorship in Honduras. </span>\r\n\r\n<hr />\r\n\r\n<span style=\"font-weight: 400;\">Honduras Solidarity Network of North America</span>\r\n\r\n<span style=\"font-weight: 400;\">Facebook: </span><a href=\"https://www.facebook.com/HondurasSolidarityNetwork\"><span style=\"font-weight: 400;\">https://www.facebook.com/HondurasSolidarityNetwork</span></a>\r\n\r\n<span style=\"font-weight: 400;\">Website: \_</span><a href=\"http://www.hondurassolidarity.org\"><span style=\"font-weight: 400;\">www.Hondurassolidarity.org</span></a>\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

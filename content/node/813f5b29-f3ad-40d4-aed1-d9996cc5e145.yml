@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 813f5b29-f3ad-40d4-aed1-d9996cc5e145
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: false
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Faith and the Border'
+  created:
+    -
+      value: 1359038421
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /faith-and-border
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "[caption id=\"attachment_3379\" align=\"alignleft\" width=\"600\"]<a href=\"https://afgj.org/wp-content/uploads/2013/01/vigi-Rachel1.jpg\"><img class=\"size-full wp-image-3379  \" title=\"SONY DSC\" src=\"https://afgj.org/wp-content/uploads/2013/01/vigi-Rachel1.jpg\" alt=\"\" width=\"600\" height=\"398\" /></a> Faith-based and human rights groups have held a vigil every week for the past twelve years to call attention to mass migrant death and suffering in the Sonoran desert. The vigil consists of a bilingual prayers and traditional spiritual gospel hymns; oral readings of current news dispatches from the U.S.-Mexico border region on immigration issues; and the ritual of lighting candles to symbolize solidarity with those who continue to suffer and perish in the borderlands.<br />Photo by Rachel Adler[/caption]\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\n&nbsp;\r\n\r\nhttp://www.youtube.com/watch?v=RG3qzRzlqTE"
+      format: full_html
+      summary: ''

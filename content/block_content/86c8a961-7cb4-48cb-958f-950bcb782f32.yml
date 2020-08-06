@@ -1,0 +1,332 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 86c8a961-7cb4-48cb-958f-950bcb782f32
+  bundle: mt_if_block
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Unique Features'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_if:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: d8afd06e-16a3-4842-baa3-f9be2fbbfbeb
+          bundle: mt_icon_features
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1498040780
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_if_body:
+            -
+              value: "<p>Whether you are a resident, a young urologist or an experienced specialist, your career can benefit.</p>\r\n"
+              format: basic_html
+          field_mt_if_fa_icon:
+            -
+              icon_name: th
+              style: fas
+              settings:
+                size: fa-3x
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''
+          field_mt_if_link:
+            -
+              uri: 'internal:/'
+              title: ''
+              options: {  }
+          field_mt_if_title:
+            -
+              value: Backend
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: fc5310ac-fd70-4187-8a61-3ff66fa474a2
+          bundle: mt_icon_features
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1498040780
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_if_body:
+            -
+              value: "<p>For any successful clinician, having the most up-to-date evidence-based recommendations.</p>\r\n"
+              format: basic_html
+          field_mt_if_fa_icon:
+            -
+              icon_name: unlock-alt
+              style: fas
+              settings:
+                size: fa-3x
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''
+          field_mt_if_link:
+            -
+              uri: 'internal:/'
+              title: ''
+              options: {  }
+          field_mt_if_title:
+            -
+              value: Security
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 07797508-f099-47dd-b202-8af6c87e8696
+          bundle: mt_icon_features
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1498040842
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_if_body:
+            -
+              value: "<p>Urologists are bound by national and, increasingly, international laws that govern treatment.</p>\r\n"
+              format: basic_html
+          field_mt_if_fa_icon:
+            -
+              icon_name: sync
+              style: fas
+              settings:
+                size: fa-3x
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''
+          field_mt_if_link:
+            -
+              uri: 'internal:/'
+              title: ''
+              options: {  }
+          field_mt_if_title:
+            -
+              value: Threats
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 3955409d-e59a-42ae-9c8e-ccafd781d805
+          bundle: mt_icon_features
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1498040896
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_if_body:
+            -
+              value: "<p>The EAU offers a wide range of events and courses to interact with the best specialists.</p>\r\n"
+              format: basic_html
+          field_mt_if_fa_icon:
+            -
+              icon_name: smile
+              style: fas
+              settings:
+                size: fa-3x
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''
+          field_mt_if_link:
+            -
+              uri: 'internal:/'
+              title: ''
+              options: {  }
+          field_mt_if_title:
+            -
+              value: Frontend
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 48ba8c83-8561-4d59-abe7-7a85b69ef521
+          bundle: mt_icon_features
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1509715586
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_if_body:
+            -
+              value: "<p>For almost 40 years the EAU has addressed the most pressing issues of care.</p>\r\n"
+              format: basic_html
+          field_mt_if_fa_icon:
+            -
+              icon_name: bullhorn
+              style: fas
+              settings:
+                size: fa-3x
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''
+          field_mt_if_link:
+            -
+              uri: 'internal:/'
+              title: ''
+              options: {  }
+          field_mt_if_title:
+            -
+              value: Marketing
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 9af5bc79-2997-4053-9353-cde0475e07c2
+          bundle: mt_icon_features
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1509715794
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_if_body:
+            -
+              value: "<p>For days in November, Malm will be welcoming experts on andrology from all over the world.</p>\r\n"
+              format: basic_html
+          field_mt_if_fa_icon:
+            -
+              icon_name: life-ring
+              style: fas
+              settings:
+                size: fa-3x
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''
+          field_mt_if_link:
+            -
+              uri: 'internal:/'
+              title: ''
+              options: {  }
+          field_mt_if_title:
+            -
+              value: Support

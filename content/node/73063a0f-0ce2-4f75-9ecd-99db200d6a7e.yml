@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 73063a0f-0ce2-4f75-9ecd-99db200d6a7e
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela-ALBA Weekly News #213, June 15, 2018. Nicaragua & Venezuela: Same US Script Different Scenarios'
+  created:
+    -
+      value: 1529113600
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-alba-weekly-news-213-june-15-2018-nicaragua-venezuela-same-us-script-different
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "[caption id=\"attachment_9834\" align=\"aligncenter\" width=\"678\"]<img class=\"size-full wp-image-9834\" src=\"https://afgj.org/wp-content/uploads/2018/06/venezueladc.jpg\" alt=\"\" width=\"678\" height=\"344\" /> Supporters of Bolivarian Venezuela outside the Organization of American States building in Washington, D.C., June 4.[/caption]\r\n\r\n<a href=\"https://www.workers.org/2018/06/05/protesting-washingtons-attack-on-venezuela/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.workers.org/2018/06/05/protesting-washingtons-attack-on-venezuela/&amp;source=gmail&amp;ust=1529223724027000&amp;usg=AFQjCNGz0Fj2c_hMQYOCW-2ejVHmyUXsAA\">Washington DC Protest at OAS against Attacks on Venezuela</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/opinion/Former-Prisoner-of-Conscience-Condemns-Amnesty-International-20180613-0023.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/opinion/Former-Prisoner-of-Conscience-Condemns-Amnesty-International-20180613-0023.html&amp;source=gmail&amp;ust=1529223724027000&amp;usg=AFQjCNHx6SPk3tw79aK6jNgecOf79xq7tA\">Camilo Mejia, Former Amnesty International Prisoner of Conscience Condemns Amnesty International Report on Nicaragua</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.counterpunch.org/2018/06/15/the-us-nicaragua-a-case-study-in-historical-amnesia-blindness/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.counterpunch.org/2018/06/15/the-us-nicaragua-a-case-study-in-historical-amnesia-blindness/&amp;source=gmail&amp;ust=1529223724032000&amp;usg=AFQjCNEdYTj-lLzbiFs5cyweEnx3UYI1OQ\">Dan Kovalik: The US &amp; Nicaragua: a Case Study in Historical Amnesia &amp; Blindness</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/opinion/NicaraguaVenezuela-One-Enemy-One-Fight-For-Democracy-20180526-0024.html?utm_source=planisys&amp;utm_medium=NewsletterIngles&amp;utm_campaign=NewsletterIngles&amp;utm_content=35\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/opinion/NicaraguaVenezuela-One-Enemy-One-Fight-For-Democracy-20180526-0024.html?utm_source%3Dplanisys%26utm_medium%3DNewsletterIngles%26utm_campaign%3DNewsletterIngles%26utm_content%3D35&amp;source=gmail&amp;ust=1529223724028000&amp;usg=AFQjCNEF710txP72Cd78YkVqWbO7a6iuEg\">Tortilla con Sal:\_Nicaragua,Venezuela: One Enemy, One Fight For Democracy</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://popularresistance.org/letter-from-nicaragua/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://popularresistance.org/letter-from-nicaragua/&amp;source=gmail&amp;ust=1529223724028000&amp;usg=AFQjCNGxVrSJRvIIX2aJyqWrSVW5QSfSIg\">Popular Resistance – Nicaragua: A Catastrophic Well-Orchestrated Event is Occurring</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://en.granma.cu/mundo/2018-06-08/the-same-script-in-different-scenarios\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://en.granma.cu/mundo/2018-06-08/the-same-script-in-different-scenarios&amp;source=gmail&amp;ust=1529223724028000&amp;usg=AFQjCNGjPPAxfe396Jy4vsCF_PZF4KpMaA\">Cuba’s Granma: Nicaragua and Venezuela, the Same Script in Different Scenarios</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.liberationnews.org/puerto-rican-anger-builds-as-study-reveals-4654-hurricane-deaths/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.liberationnews.org/puerto-rican-anger-builds-as-study-reveals-4654-hurricane-deaths/&amp;source=gmail&amp;ust=1529223724028000&amp;usg=AFQjCNE5SzZDJUKPiCi8yXKqHgx5VfOZvg\">US “Human Rights” and Disinformation on Show in Puerto Rico Death Toll of 4,645; US Claims Only 64 Died in Hurricanes</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://journal-neo.org/2018/06/10/why-venezuela-and-syria-cannot-fall-2/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://journal-neo.org/2018/06/10/why-venezuela-and-syria-cannot-fall-2/&amp;source=gmail&amp;ust=1529223724028000&amp;usg=AFQjCNFf5b6gi7hV90g_23RI4VLXTutyig\">Adam Vltchek: Why Venezuela and Syria Cannot Fall</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.mintpressnews.com/us-pulling-organization-of-american-states-levers-to-squeeze-venezuela/243560/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.mintpressnews.com/us-pulling-organization-of-american-states-levers-to-squeeze-venezuela/243560/&amp;source=gmail&amp;ust=1529223724028000&amp;usg=AFQjCNFGXk_uGaKi9cOr_OCZpY_0shmLAg\">Roger Harris – Venezuela’s Narrowing Options: the US is trying to precipitate a “humanitarian crisis” as an excuse for intervention, all the while hypocritically lamenting the consequences of its own policy</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Venezuela-Signs-Agreement-to-Purchase-Medical-Supplies-Directly-From-PAHO-20180614-0008.html?utm_source=planisys&amp;utm_medium=NewsletterIngles&amp;utm_campaign=NewsletterIngles&amp;utm_content=8\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Venezuela-Signs-Agreement-to-Purchase-Medical-Supplies-Directly-From-PAHO-20180614-0008.html?utm_source%3Dplanisys%26utm_medium%3DNewsletterIngles%26utm_campaign%3DNewsletterIngles%26utm_content%3D8&amp;source=gmail&amp;ust=1529223724028000&amp;usg=AFQjCNFXrdz2cnSz1ApNcxCKN0069POPzw\">Venezuela to Buy Medical Supplies Directly from Pan American Health Organization</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://mltoday.com/new-cuban-president-transforms-style-of-government-eng-esp/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://mltoday.com/new-cuban-president-transforms-style-of-government-eng-esp/&amp;source=gmail&amp;ust=1529223724028000&amp;usg=AFQjCNHIQ9QXKfBJSB8eLqRJ_zbD4t1CCA\">New Cuban President Transforms Style of Government</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://reinounido.embajada.gob.ve/index.php?option=com_content&amp;view=article&amp;id=874%3Acomunicadocontraingresootancolombia&amp;catid=3%3Anoticias-de-venezuela-en-el-mundo&amp;Itemid=19&amp;lang=en\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://reinounido.embajada.gob.ve/index.php?option%3Dcom_content%26view%3Darticle%26id%3D874%253Acomunicadocontraingresootancolombia%26catid%3D3%253Anoticias-de-venezuela-en-el-mundo%26Itemid%3D19%26lang%3Den&amp;source=gmail&amp;ust=1529223724028000&amp;usg=AFQjCNHULZ4-3kIf2bn6hUzCP_peMvYsuA\">Venezuelan Government Statement on Colombia Joining NATO</a>\r\n<div class=\"yj6qo\">\r\n\r\n<hr />\r\n\r\n<h2 id=\"m_777319361513180780gmail-m_-4546164052145643394gmail-m_8774691331061159411gmail-m_-8213335874581264356gmail-m_-2776178258433599685gmail-m_-9020789454698019944gmail-m_6252858159261738354DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\" style=\"text-align: center;\"><strong>About the Weekly</strong></h2>\r\n<div>\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n</div>\r\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

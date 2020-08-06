@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 653975b6-f489-4ccd-9339-d9170352f0b0
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Campaign
+  created:
+    -
+      value: 1274429647
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /campaign
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "Welcome to the Respect for Democracy Campaign website. The Respect for Democracy Campaign is an ongoing project in favor of broad based, participatory democracy, and against efforts to undermine democratic processes around the world. When elections are manipulated, it is usually to benefit an elite few by taking power from working families and communities–from real, grassroots majorities.\r\n\r\nA major goal of the Respect for Democracy Campaign is the closing of the misnamed National Endowment for Democracy. The NED was created by Congress in 1983 and is more than 90% funded by US taxes. Yet it is officially designated a private organization–thus it carries out foreign policy efforts in the name of US citizens, with US taxes, but with no meaningful public oversight. This has lead to many abuses, such as NED funding and coordination of the groups that overthrew Haiti’s elected government in 2004, leading to the bloodiest year in Haiti’s modern history. And this is just one example. For instance, in Nicaragua, in 1990, the NED spent more than $20 per voter to influence the presidential elections–more than had been spent per voter by both the Mondale and Bush, Sr. campaigns in the 1998 US elections!\r\n\r\n<a href=\"http://www.wbez.org/content.aspx?audioID=23102\">Listen to an interview with AFGJ done by Chicago Public Radio.</a>"
+      format: full_html
+      summary: ''

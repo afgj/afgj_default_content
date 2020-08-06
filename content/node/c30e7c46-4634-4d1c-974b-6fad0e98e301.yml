@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c30e7c46-4634-4d1c-974b-6fad0e98e301
+  bundle: article
+  default_langcode: en
+  depends:
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Announcing AFGJ''s Feb 2017 Honduras & Nicaragua Delegation!'
+  created:
+    -
+      value: 1477687038
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /announcing-afgjs-feb-2017-honduras-nicaragua-delegation
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p class=\"p1\" style=\"text-align: center;\">Delegation – Feb. 17-26, 2017</p>\n<p class=\"p1\" style=\"text-align: center;\">Sponsored by: <a href=\"https://afgj.org\" target=\"_blank\" rel=\"noopener\">Alliance for Global Justice</a>, <a href=\"http://wwww.codepink.org\" target=\"_blank\" rel=\"noopener\">Code Pink,</a> and <a href=\"http://friendsatc.org/\" target=\"_blank\" rel=\"noopener\">Friends of the ATC*</a></p>\n<p class=\"p2\" style=\"text-align: center;\">For an application, send an email to <a href=\"mailto:Delegations@AFGJ.org\">Delegations@AFGJ.org</a></p>\n<p class=\"p1\" style=\"text-align: center;\"><a href=\"https://afgj.org/hondnicadelegation2017flyer3-2\" target=\"_blank\" rel=\"noopener\"><img class=\"aligncenter wp-image-7208\" src=\"https://afgj.org/wp-content/uploads/2016/10/HondNicaDelegation2017Flyer4.jpg\" alt=\"hondnicadelegation2017flyer4\" width=\"600\" height=\"814\" /></a></p>\n<p class=\"p2\" style=\"text-align: center;\"><em>(click on image to <a href=\"https://afgj.org/hondnicadelegation2017flyer3-2\">download flyer</a>)</em></p>\n<p class=\"p2\">This is a unique delegation to compare two neighboring countries whose shared history contains many similarities and even greater differences. The delegation will specifically \"compare and contrast:\" 1) rural development, ie. Honduras' African Palm and Charter City on the Gulf of Fonseca vs. Nicaragua's cooperatives and the overall reactivation of peasant agriculture since 2007; 2) citizen security contrasting Honduras' militarized policing on behalf of the oligarchy vs. Nicaragua's style of policing which grew out of the Sandinista revolution; 3) empowerment of women through their own actions in Honduras and with government support in Nicaragua; 4) and more generally in each country how people are organizing to be their own protagonists.</p>\n<p class=\"p2\">Delegates will be met at the Tegucigalpa airport on Feb. 17 and travel over four days to the border of Nicaragua guided by Honduras Solidarity Network in-country coordinator, Karen Spring. Community visits and meetings along the way will explore the four areas listed above. We will cross the border on foot and be met by representatives of the ATC, Nicaragua’s farmworker’s union, who will guide us through Northern Nicaragua to study the same four issues, ending in Managua where we will fly home from on Feb. 26.</p>\n<p class=\"p2\">The purpose of the delegation is to highlight the need for our solidarity on behalf of the people of both countries.</p>\n<p class=\"p2\">The $1,000 cost includes all travel except international airfare, all meals, housing (double occupancy), translation, and program. For an application, send an email to <a href=\"mailto:Delegations@AFGJ.org\">Delegations@AFGJ.org</a></p>\n<p class=\"p3\">*Asociación de Trabajadores del Campo\_(Rural Workers Association)</p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

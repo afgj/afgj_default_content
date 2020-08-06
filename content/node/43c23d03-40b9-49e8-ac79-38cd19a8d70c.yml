@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 43c23d03-40b9-49e8-ac79-38cd19a8d70c
+  bundle: article
+  default_langcode: en
+  depends:
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Berta Didn''t Die, She Multipled! Event at the Global Justice Center in Tucson'
+  created:
+    -
+      value: 1519049095
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /berta-didnt-die-she-multipled-event-global-justice-center-tucson
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-9058 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/02/Berta2yrflyer.jpg\" alt=\"\" width=\"504\" height=\"684\" />\r\n\r\n<img class=\"wp-image-9057 size-full aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/02/Berta2yrflyer-Spanish.jpg\" alt=\"\" width=\"504\" height=\"684\" />\r\n\r\n<hr />\r\n\r\n<h1 style=\"font-weight: 400; text-align: center;\">Berta\_Didn’t Die, She Multiplied!</h1>\r\n<p style=\"font-weight: 400;\"><span data-term=\"goog_492402082\">March 2, 2018</span>\_is the two year anniversary of the assassination of internationally renowned Honduran Lenca indigenous leader\_BertaCaceres. Tucson is joining cities around the country and the world to organize events that day to keep international attention focused on the demand to bring the intellectual authors of her murder to justice.</p>\r\n<p style=\"font-weight: 400; text-align: center;\">Global Justice Center</p>\r\n<p style=\"font-weight: 400; text-align: center;\"><a href=\"https://maps.google.com/?q=225+E+26&amp;entry=gmail&amp;source=g\">225 E 26</a><sup>th</sup>\_St</p>\r\n<p style=\"font-weight: 400; text-align: center;\"><span data-term=\"goog_492402083\">6:00-8:00pm</span></p>\r\n<p style=\"font-weight: 400;\">Alliance for Global Justice and Chukson Water Protectors invite you to a showing of a newly produced 30-min video of her life and the continuing campaign to bring justice, “Berta\_Didn’t Die, She Multiplied!.”</p>\r\n<p style=\"font-weight: 400;\">Chuck Kaufman, national co-coordinator of Alliance for Global Justice will also give an update on the current state of repression in Honduras since the fraudulent election of\_<span data-term=\"goog_492402084\">Nov. 26</span>\_and the US role in funding and enabling the repression.</p>\r\n<p style=\"font-weight: 400;\">Chukson Water Protectors will talk about their current projects supporting indigenous rights in Arizona and the US and how the national and international struggles are all part of the same struggle.</p>\r\n<p style=\"font-weight: 400; text-align: center;\">Light food and drinks will be available for purchase.</p>\r\n<p style=\"font-weight: 400; text-align: center;\">A collection will be taken up to support the work of COPINH, the indigenous organization founded by\_Berta\_Caceres to protect Lenca land and cultural rights. Co Sponsored with SOA Watch.</p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

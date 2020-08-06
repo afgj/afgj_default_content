@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c2263166-bb2b-4c23-848c-01e1f4e4c15b
+  bundle: article
+  default_langcode: en
+  depends:
+    80aa1764-ad72-4ff2-855d-70ead52b656b: taxonomy_term
+    ab596c46-1b6f-4125-b33c-04f3d53871d2: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'SMACC: Tell Facebook - Stop Censoring The News!'
+  created:
+    -
+      value: 1539676044
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /smacc-tell-facebook-stop-censoring-news
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h1 style=\"text-align: center;\">Social Media Anti-Censorship Campaign:</h1>\r\n<h1 style=\"text-align: center;\"><a href=\"https://afgj.salsalabs.org/tell-facebook-stop-online-censorship/index.html\"><strong>Click Here to Tell Facebook to Stop Online Censorship!</strong></a></h1>\r\nLast Thursday the tech and social media giant Facebook expelled over 800 political pages from its website including mostly US based grassroots organizations such as <a href=\"https://thefreethoughtproject.com/\">The Free Thought Project</a>, <a href=\"https://theantimedia.com/\">The Anti-Media</a>, <a href=\"https://www.copblock.org/\">Cop Block</a>, <a href=\"http://filmingcops.com/\">Filming Cops</a>, End The Drug War, and <a href=\"https://www.facebook.com/antigmofoods/\">Anti-GMO Foods and Fluoridated Water</a>, <a href=\"https://www.facebook.com/LukeRudkowski/posts/10155511596836906\">among others</a>. Although ostensibly for spamming, ‘fraudulent’ activity, or accusations of <a href=\"https://en.wikipedia.org/wiki/Click_farm\">ad-farming</a>, Facebook has a history of using vague excuses to ban political pages from its website, without specifying specific events or activities that might have triggered a ban.\r\n\r\nMore than hazy reasoning, the political nature of the banned pages says more about the intention behind the purge than anything. The pages had the common denominator of being ‘alternative’ in some way from both ends of the political spectrum but more than being about left or right is their being counter to hegemonic state and corporate narrative. The clearest example of this might be the <a href=\"https://www.rt.com/news/436057-telesur-restored-facebook-block/\">recent banning of TeleSur and VenezuelaAnalysis</a>, two pro-Venezuelan news outlets that were temporarily banned from Facebook around the same time that there was an assassination attempt on Venezuelan leader Nicolas Maduro. This shows that there was some coordination and timing in the bans and the attack. From the far right is Alex Jones, by now infamous, who was permanently banned earlier this year from Facebook, YouTube, and Twitter all at the same time so if for nothing else it was to show the coordinated power of social media sites and to normalize their censoring behavior.\r\n\r\nThere must be similar timing happening now in light of the fact that the whole of the United States is soon to be faced with multiple nationwide midterm elections. What shows even more clearly the link between state interest and Facebook is their employment of the NATO lobby think tank <a href=\"https://newsroom.fb.com/news/2018/05/announcing-new-election-partnership-with-the-atlantic-council/\">Atlantic Council</a> to combat “emerging threats and disinformation campaigns from around the world.” This group consists of defense contractors and ex-military types like Henry Kissinger, Mike Morel (former CIA Director), David Petraeus (Former CIA Director and Army General), and Michael Chirtoff (former homeland security chief). Facebook and other social media platforms have also been <a href=\"https://apnews.com/191b31b5510442afb04502a0702208a1\">executing censorship purges with the aid of FireEye</a>, a security firm similarly staffed with ex-military and police agents, self-described as a ‘private-sector intelligence operation’. The same agents that orchestrated the Iraq, Libyan, Syrian, and Afghanistan War are now censoring information on our social media sites.\r\n\r\nThe online propaganda projects actions match this collusion, not only with the correspondence of a Venezuelan regime change operation and the banning of TeleSur, but in the conspicuous mass banning of other geopolitical actors in the cross hairs of US Imperialist foreign policy. Other media sources that have been banned include <a href=\"https://twitter.com/ibra_joudeh/status/1038373111480164352?s=21\">Syrian state media</a>, <a href=\"https://twitter.com/AntorchaE/status/1038575355689414656?s=19\">Pro-Cuban Media</a>, and of course <a href=\"https://www.newscientist.com/article/2177643-facebook-bans-hundreds-of-accounts-linked-to-russia-and-iran/\">Russian and Iranian outlets</a>. Although a permanent ban is constantly on the horizon for many groups and news outlets, other techniques include shadow bans (posting on a site but no one can see it or it has low visibility) age sensitive bans (you must confirm that you are above a certain age to access content) and temporary bans.\r\n\r\nAlthough some say that private companies are accountable to no one in their right to suppress and censor speech, the colossal presence of social media companies in our lives and in the contemporary political landscape amounts to monopolism. Their censorship is the very real silencing of dissenting opinion in our current day and age.\r\n<h2 style=\"text-align: center;\"><a href=\"https://afgj.salsalabs.org/tell-facebook-stop-online-censorship/index.html\"><strong>Click Here Tell Facebook to End Online Censorship Now!</strong></a></h2>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 80aa1764-ad72-4ff2-855d-70ead52b656b
+    -
+      entity: ab596c46-1b6f-4125-b33c-04f3d53871d2
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: edec68bf-f33a-49f5-bc00-cbe42e5bc008
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Fr. Miguel D’Escoto Dies'
+  created:
+    -
+      value: 1497434402
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /fr-miguel-descoto-dies
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<a href=\"https://afgj.org/nicanotes\"><img class=\"aligncenter size-full wp-image-6975\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"\" width=\"579\" height=\"195\" /></a>\n\nFr. Miguel D’Escoto, former foreign minister, former UN General Assembly President,\_and in general the representative of the courage, honor, humility, and humane face of\_Revolutionary Nicaragua, died on June 8. Fr. Miguel was well known to the\_international solidarity movement. His fast against the contra war was mirrored by\_solidarity fasts throughout the world. Nicaragua’s victory against the United States in its\_1986 World Court case was the brainchild of D’Escoto. It remains an unpaid debt and a\_blot on the reputation of the United States which refused to recognize the jurisdiction of\_the World Court. Next week I hope to have an extended tribute to Fr. Miguel and to also\_publish short personal accounts of people’s memories of this amazing man. If you\_would like to send in a written contribution to next week’s blog, <strong>send it to\_<a href=\"mailto:Chuck@AFGJ.org\">Chuck@AFGJ.org </a></strong>no later than\_Sunday, June 18. In my message to our board when I\_learned of his death, I wrote that he was from a time when giants walked the earth. Fr.\_Miguel D’Escoto was a giant among giants. Miguel D’Escoto, presente, presente,\_presente!\n\n<hr />\n\n<strong>BRIEFS</strong>\n<ul>\n \t<li>The Central Bank announced that the inflation rate through May was 2.91%,\_representing a reduction of 0.74% compared to the same period in 2016. The report\_also noted that this year the Nicaraguan economy is projecting 5% growth, with an\_estimated inflation of 4.5%. (Nicaragua News, June 8)</li>\n</ul>\n<ul>\n \t<li>Vice President Rosario Murillo, announced that more than 6,000 property titles\_will be delivered to Nicaragua families this month. She noted that most of the titles will\_go to female head of households and will help strengthen legal certainty and property\_rights in the country. (Nicaragua News, June 7)</li>\n</ul>\n<ul>\n \t<li>Juana Argeñal, minister of Environment and Natural Resources (MARENA)\_announced that the government is increasing its annual reforestation goal from the\_15,000 hectares it committed to six years ago, to 20,000 hectares a year. Other\_speakers noted for Environment Day that Nicaragua has gone from 25% to 52%\_electricity production from renewable resources between 2007 and 2016, is treating\_sewage that previously went raw into lakes Xolotlan (Managua) and Cocibolca\_(Nicaragua), and forest fires have been cut by 54%. (El Nuevo Diario, June 6)</li>\n</ul>\n<ul>\n \t<li>US$1.54 billion of the current budget is allocated to poverty reduction, an\_increase of nearly $US12 million over last year. The increase is despite falling external\_loans and aid. This year 76.8% of poverty reduction spending is from tax revenues.\_International loans and donations have decreased by over 20% as Nicaragua’s ability\_to fund its own programs has increased. (El Nuevo Diario, June 7)</li>\n</ul>\n<ul>\n \t<li>In a remarkable example of the strength of Nicaragua’s Tripartite Model of\_negotiated minimum wage between labor unions, businesses, and the government, a\_minimum wage agreement was signed on June 8 guaranteeing an 8.25% annual wage\_increase for Free Trade Zone workers each year from 2018-2022. This is the longest\_period covered since the Tripartite Model was first implemented in 2009. The\_agreement will cover 115,000 Free Trade Zone workers, primarily textile and sporting\_apparel workers. (El Nuevo Diario, June 8)</li>\n</ul>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

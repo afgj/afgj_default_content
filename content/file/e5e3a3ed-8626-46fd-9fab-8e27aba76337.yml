@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: e5e3a3ed-8626-46fd-9fab-8e27aba76337
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: mt-testimonial-3.jpg
+  uri:
+    -
+      value: 'public://2018-02/mt-testimonial-3.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 17096
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1518089076

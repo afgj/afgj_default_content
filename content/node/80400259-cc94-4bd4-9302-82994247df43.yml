@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 80400259-cc94-4bd4-9302-82994247df43
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela - ALBA Weekly 4.13.2018: Venezuela Condemns US Attack on Lula; Bolivia "Attack on Syria Would be Attack on Entire UN System"'
+  created:
+    -
+      value: 1523681390
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-4132018-venezuela-condemns-us-attack-lula-bolivia-attack-syria-would-be
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-9599 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/04/venweekly.png\" alt=\"\" width=\"918\" height=\"530\" />\r\n<h2 style=\"text-align: center;\">The News This Week</h2>\r\n\"<a href=\"https://www.telesurtv.net/english/news/Venezuela-Govt-Lulas-Imprisonment-Directed-by-US-Empire-20180412-0023.html\" target=\"_blank\" rel=\"noopener\">The aggression against the former Brazilian leader</a> is a continental movement directed by the intelligence services of the United States to criminalize social movements against the expansion of the North American empire,\"\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.rt.com/news/423989-us-above-law-violates-un-charter/\" target=\"_blank\" rel=\"noopener\">‘Attack on Syria Would be Attack on Entire UN system’ – Bolivia’s UN envoy</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://mailchi.mp/mppre/venezuela-briefingapril-8-2018?e=5c9b8627ef\" target=\"_blank\" rel=\"noopener\">Venezuela Embassy; Venezuela Briefing April 9, 2018</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/US-Advising-Latin-American-Allies-on-Drafting-Sanctions-Laws-Against-Venezuela-20180409-0008.html\" target=\"_blank\" rel=\"noopener\">US Advising Latin American Allies on Drafting Sanctions Laws Against Venezuela</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Former-Spanish-PM-Zapatero-to-Observe-Venezuelan-Elections-20180410-0014.html\" target=\"_blank\" rel=\"noopener\">Former Spanish Prime Minister Zapatero to be Observer in Venezuelan Presidential Elections</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://www.plenglish.com/index.php?o=rn&amp;id=27057&amp;SEO=venezuela-f.m.-warns-about-us-actions-against-its-elections\" target=\"_blank\" rel=\"noopener\">Venezuela Foreign Minister Warns About US Actions Against Its Elections</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/news/13766\" target=\"_blank\" rel=\"noopener\">Venezuela Teachers Sign Progressive Agreement with Government</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/news/13763\" target=\"_blank\" rel=\"noopener\">Venezuela: Maduro Sides with Campesinos Against Big Landowner Evictions</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://resumen-english.org/2018/04/bolivias-tipnis-dispute/\" target=\"_blank\" rel=\"noopener\">Bolivia’s TIPNIS Dispute: Example of How Liberal-Left Alternative Media Becomes a Conveyor Belt for US Regime Change Propaganda</a>\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: center;\"><strong>Delegations</strong></h2>\r\n<a href=\"https://revolucionalimentaria.org/2018/04/09/urgent-call-for-solidarity-delegation-to-venezuela-may-16-24-2018/\" target=\"_blank\" rel=\"noopener\">Solidarity Delegation to Venezuela, May 16-24 (during Presidential Election</a>)\r\n\r\n<a href=\"https://afgj.org/travel-to-colombia\" target=\"_blank\" rel=\"noopener\">Peacemakers Delegation to Colombia with AfGJ, May 19-29</a>\r\n\r\n<a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\">Agrarian &amp; Worker Struggle in Nicaragua: Celebrating the ATC’s 40th Anniversary June 18-28</a>\r\n\r\n<a href=\"https://afgj.org/artist-delegation-nicaragua\" target=\"_blank\" rel=\"noopener\">Artists’ Delegation to Nicaragua August 1 through 10, 2018</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4d2a5299-3a89-4cb6-bb4b-7d8428cbd205
+  bundle: article
+  default_langcode: en
+  depends:
+    4848f7f1-d8a6-4770-9e04-5737ab5cc97d: taxonomy_term
+    7c24d703-ad76-40f5-8889-a30cb1700fd3: taxonomy_term
+    d7484f78-fd8a-49f7-afcb-5b7fed9db70f: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'SB1070 in Effect, Separating Families on the Streets of Tucson'
+  created:
+    -
+      value: 1442044050
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /sb1070-effect-separating-families-streets-tucson
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "https://www.youtube.com/watch?v=57yb4cQ2Gng&feature=youtu.be\n\nThis video was taken on August 20, 2010 by Raquel Mogollón, President of Tucson’s Pan Left Video Collective. It was taken just four months after the Arizona legislature had passed its harsh anti-immigrant law SB1070. Raquel was participating in “Migra Patrol”, a project to witness and document the effects of SB1070, which calls on all levels of law enforcement, including local and state police, to act as enforcers of immigration law. The heart of SB1070 is its promotion of racial profiling of anyone who might be suspected of being in the US without documents—in other words, anyone who is brown skinned and speaking Spanish. In this video, the mother of three children has just been taken away by the Border Patrol, and her car impounded. She had been pulled over because one of her tail lights was not working.\n\nSuddenly, her three children, a sister and an unidentified friend were left stranded on the side of the road, with mother and children thrust into a cycle of indefinite and prolonged separation and uncertainty.\n\nThe video is grainy and the sound quality not good, since it was taken on-the-spot, with a cell phone. Nevertheless, it gives a small glimpse into the very moment where “the border crosses a family.”\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 4848f7f1-d8a6-4770-9e04-5737ab5cc97d
+    -
+      entity: 7c24d703-ad76-40f5-8889-a30cb1700fd3
+    -
+      entity: d7484f78-fd8a-49f7-afcb-5b7fed9db70f
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

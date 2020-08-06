@@ -1,0 +1,46 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 304c9d2f-87b7-4220-aa9a-cc1522ea0dd7
+  bundle: mt_background_image_block
+  default_langcode: en
+  depends:
+    1472d47b-eae1-4ee4-8983-e915fc5da267: file
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Call to action 2'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_background_image:
+    -
+      entity: 1472d47b-eae1-4ee4-8983-e915fc5da267
+      alt: 'Background Image'
+      title: ''
+      width: 1920
+      height: 1080
+  field_mt_bg_image_color:
+    -
+      value: 'region--light-typography region--black-background'
+  field_mt_bg_image_layout_mode:
+    -
+      value: container
+  field_mt_bg_image_opacity:
+    -
+      value: 70
+  field_mt_bg_image_positioning:
+    -
+      value: false
+  field_mt_block_reference:
+    -
+      target_id: stillhavequestions

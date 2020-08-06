@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 038e96e2-5496-4eca-b58c-bf0386e6ce53
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela-ALBA Weekly #214 June 22, 2018 Struggle Against Washington''s Latin America Policy Advances'
+  created:
+    -
+      value: 1529641972
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-weekly-214-june-22-2018-struggle-against-washingtons-latin-america-policy-advances
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p dir=\"ltr\"><img class=\"size-full wp-image-9925 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/06/venweeklyjune22.png\" alt=\"\" width=\"845\" height=\"450\" /></p>\r\n<p dir=\"ltr\"><a href=\"https://www.telesurtv.net/english/news/Venezuela-Condemns-Opposition-Violence-in-Nicaragua-20180617-0014.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Venezuela-Condemns-Opposition-Violence-in-Nicaragua-20180617-0014.html&amp;source=gmail&amp;ust=1529729176222000&amp;usg=AFQjCNHivhl6D1SzXNPvadlkBwtWcxoCng\">Venezuela Condemns Opposition Violence in Nicaragua</a></p>\r\n\r\n\r\n<hr />\r\n<p dir=\"ltr\"><a href=\"https://www.rt.com/usa/430034-venezuela-us-lee-camp/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.rt.com/usa/430034-venezuela-us-lee-camp/&amp;source=gmail&amp;ust=1529729176222000&amp;usg=AFQjCNFTD7YoI_TN_F6CpdDCGkLISuVgnQ\">Corporate Media Talk Coup in Venezuela Because it Sits on Oil US Empire Wants – Abby Martin</a></p>\r\n\r\n\r\n<hr />\r\n<p dir=\"ltr\"><a href=\"https://grayzoneproject.com/2018/06/19/ned-nicaragua-protests-us-government/amp/?__twitter_impression=true\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://grayzoneproject.com/2018/06/19/ned-nicaragua-protests-us-government/amp/?__twitter_impression%3Dtrue&amp;source=gmail&amp;ust=1529729176222000&amp;usg=AFQjCNFIxkzr64vwI54L58PcJJhc09e8hg\">Max Blumenthal: US Gov. Meddling Machine Boasts of ‘Laying the Groundwork for Insurrection’ in Nicaragua</a></p>\r\n\r\n\r\n<hr />\r\n<p dir=\"ltr\"><a href=\"https://www.mintpressnews.com/nicaraguas-paramilitary-opposition-wages-intimidation-and-media-terror-campaign/244523/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.mintpressnews.com/nicaraguas-paramilitary-opposition-wages-intimidation-and-media-terror-campaign/244523/&amp;source=gmail&amp;ust=1529729176222000&amp;usg=AFQjCNHKtjh4WzbfuKOwh5PoYNRT4t5cCw\">Nicaragua’s Paramilitary Opposition Wages Intimidation and Media Terror Campaign</a></p>\r\n\r\n\r\n<hr />\r\n<p dir=\"ltr\"><b></b><a href=\"https://www.telesurtv.net/english/news/Bolivias-Evo-Morales-The-US-Is-An-Interventionist-State-20180620-0031.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Bolivias-Evo-Morales-The-US-Is-An-Interventionist-State-20180620-0031.html&amp;source=gmail&amp;ust=1529729176222000&amp;usg=AFQjCNFx_A7xt3uKBx9_t6-ju8KBP0vqHw\">Evo Morales: The United States is the worst threat for world peace, Human Rights and Mother Earth</a></p>\r\n\r\n\r\n<hr />\r\n<p dir=\"ltr\"><a href=\"http://theprisma.co.uk/2018/06/18/aleida-guevara-talks-about-her-father-che/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://theprisma.co.uk/2018/06/18/aleida-guevara-talks-about-her-father-che/&amp;source=gmail&amp;ust=1529729176222000&amp;usg=AFQjCNERUuI-KfSiKt2EsPjc8qtR3vW6OQ\">Aleida Guevara Talks about her Father, Che</a></p>\r\n\r\n\r\n<hr />\r\n\r\n<a href=\"http://en.granma.cu/mundo/2018-06-19/puerto-ricos-inalienable-right-to-self-determination-and-independence-reiterated-in-the-un\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://en.granma.cu/mundo/2018-06-19/puerto-ricos-inalienable-right-to-self-determination-and-independence-reiterated-in-the-un&amp;source=gmail&amp;ust=1529729176222000&amp;usg=AFQjCNEU7-xV4PbSbVhMWvb8NTNEI7IfoA\">ALBA Initiative in UN CommitteeSupports Puerto Rico’s Inalienable Right to Self-Determination and Independence</a>\r\n\r\n<hr />\r\n<p dir=\"ltr\"><a href=\"http://en.granma.cu/mundo/2018-06-18/exclusive-interview-with-lula-the-injustice-committed-against-me-is-an-injustice-against-the-brazilian-people\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://en.granma.cu/mundo/2018-06-18/exclusive-interview-with-lula-the-injustice-committed-against-me-is-an-injustice-against-the-brazilian-people&amp;source=gmail&amp;ust=1529729176222000&amp;usg=AFQjCNEL6xT4odCyId4PNaGaNJ0GHfEDFg\">EXCLUSIVE INTERVIEW WITH LULA: The Injustice Committed Against Me is an Injustice Against the Brazilian People</a></p>\r\n\r\n\r\n<hr />\r\n<p dir=\"ltr\"><b></b><a href=\"https://www.commondreams.org/news/2018/06/21/shut-place-down-children-drugged-and-given-forced-injections-texas-detention\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.commondreams.org/news/2018/06/21/shut-place-down-children-drugged-and-given-forced-injections-texas-detention&amp;source=gmail&amp;ust=1529729176222000&amp;usg=AFQjCNEIeX0zOOGMckN3dUlQ0PF3d_bOwQ\">Immigrant Children Drugged and Given Forced Injections at Texas Detention Facility, Lawsuit Says</a></p>\r\n\r\n\r\n<hr />\r\n<p dir=\"ltr\"><a href=\"https://www.commondreams.org/news/2018/06/21/what-solidarity-looks-mass-demonstrations-laguardia-airport-kids-ripped-parents?utm_term=%27This%20Is%20What%20Solidarity%20Looks%20Like%27%3A%20Mass%20Demonstrations%20at%20LaGuardia%20Airport%20as%20Kids%20Ripped%20From%20Parents%20Arrive%20in%20New%20York&amp;utm_campaign=Daily%20Newsletter%20-%20During%20Fundraiser%20-%20WITH%20Fundraising%20Message&amp;utm_content=email&amp;utm_source=Act-On+Software&amp;utm_medium=email&amp;cm_mmc=Act-On%20Software-_-email-_-News%20%2526%20Views%20%7C%20%27This%20Is%20What%20Solidarity%20Looks%20Like%27-_-%27This%20Is%20What%20Solidarity%20Looks%20Like%27%3A%20Mass%20Demonstrations%20at%20LaGuardia%20Airport%20as%20Kids%20Ripped%20From%20Parents%20Arrive%20in%20New%20York\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.commondreams.org/news/2018/06/21/what-solidarity-looks-mass-demonstrations-laguardia-airport-kids-ripped-parents?utm_term%3D%2527This%2520Is%2520What%2520Solidarity%2520Looks%2520Like%2527%253A%2520Mass%2520Demonstrations%2520at%2520LaGuardia%2520Airport%2520as%2520Kids%2520Ripped%2520From%2520Parents%2520Arrive%2520in%2520New%2520York%26utm_campaign%3DDaily%2520Newsletter%2520-%2520During%2520Fundraiser%2520-%2520WITH%2520Fundraising%2520Message%26utm_content%3Demail%26utm_source%3DAct-On%2BSoftware%26utm_medium%3Demail%26cm_mmc%3DAct-On%2520Software-_-email-_-News%2520%252526%2520Views%2520%257C%2520%2527This%2520Is%2520What%2520Solidarity%2520Looks%2520Like%2527-_-%2527This%2520Is%2520What%2520Solidarity%2520Looks%2520Like%2527%253A%2520Mass%2520Demonstrations%2520at%2520LaGuardia%2520Airport%2520as%2520Kids%2520Ripped%2520From%2520Parents%2520Arrive%2520in%2520New%2520York&amp;source=gmail&amp;ust=1529729176222000&amp;usg=AFQjCNFulfwoqGCSLlXVDC0KT3AH15wJWQ\">'This Is What Solidarity Looks Like': Mass Demonstrations at LaGuardia Airport as Kids Ripped From Parents Arrive in New York</a></p>\r\n\r\n\r\n<hr />\r\n<p dir=\"ltr\"><a href=\"https://mailchi.mp/91d88d17ce34/tfa-fall-newsletter-is-out-815101?e=48d064a48e\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://mailchi.mp/91d88d17ce34/tfa-fall-newsletter-is-out-815101?e%3D48d064a48e&amp;source=gmail&amp;ust=1529729176222000&amp;usg=AFQjCNFKXZXIuc-rvKcoXeulaxmAR2aiCw\">Making Sense of Venezuela: A Report Back from the Presidential Election, <span class=\"aBn\" data-term=\"goog_478053380\"><span class=\"aQJ\">Thursday June 28</span></span></a></p>\r\n\r\n\r\n<hr />\r\n<p dir=\"ltr\"><a style=\"letter-spacing: 0.05em;\" href=\"https://mailchi.mp/1c39ca8e0116/tfa-fall-newsletter-is-out-817709?e=48d064a48e\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://mailchi.mp/1c39ca8e0116/tfa-fall-newsletter-is-out-817709?e%3D48d064a48e&amp;source=gmail&amp;ust=1529729176222000&amp;usg=AFQjCNEJvdTcaP6n1DkJHDpS0iGg3oK7qQ\">Task Force on Americas Report on Venezuela \_<span class=\"aBn\" data-term=\"goog_478053381\"><span class=\"aQJ\">Sunday, July 1, 2018</span></span></a></p>\r\n\r\n\r\n<hr />\r\n\r\n<h2 id=\"m_777319361513180780gmail-m_-4546164052145643394gmail-m_8774691331061159411gmail-m_-8213335874581264356gmail-m_-2776178258433599685gmail-m_-9020789454698019944gmail-m_6252858159261738354DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\"><strong>About the Weekly</strong></h2>\r\n<div>\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

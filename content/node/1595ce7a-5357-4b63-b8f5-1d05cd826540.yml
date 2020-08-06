@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 1595ce7a-5357-4b63-b8f5-1d05cd826540
+  bundle: article
+  default_langcode: en
+  depends:
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+    e1391c31-ce88-4beb-a12d-d58ab528ecd9: taxonomy_term
+    0dfdb011-9c82-4762-89a0-db01e08f9fe3: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Paz por Colombia - Declaración de la Coalición Contra Bases Militares Extranjeras de Estados  Unidos'
+  created:
+    -
+      value: 1533667984
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /paz-por-colombia-declaracion-de-la-coalicion-contra-bases-militares-extranjeras-de-estados-unidos
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<em>Ocasionado por la toma de posesión por Iván Duque de la Presidencia de Colombia el 7 de agosto de 2018, y en solidaridad con las manifestaciones en Colombia y el mundo en favor de la paz y contra la violencia política.\r\n</em>\r\n\r\n<a href=\"https://afgj.org/peace-for-colombia-declaration-of-the-coalition-against-u-s-foreign-military-bases\">FOR ENGLISH, CLICK HERE</a>\r\n\r\n[caption id=\"attachment_10532\" align=\"aligncenter\" width=\"733\"]<img class=\" wp-image-10532\" src=\"https://afgj.org/wp-content/uploads/2018/08/PHRO-Colombia.jpeg\" alt=\"\" width=\"733\" height=\"412\" /> El Observatorio por los Derechos Humanos de los Pueblos manifiesta en Oaxaca, México por la paz de Colombia.[/caption]\r\n\r\nLa <a href=\"http://nousnatobases.org/\">Coalición Contra Bases Militares Extranjeras de Estados Unidos</a> declara nuestra solidaridad con los movimientos populares de Colombia que actualmente son los objetivos de una operación sistemática de exterminio e intimidación. El 7 de agosto, 2018, el candidato derechista, Iván Duque, tomará posesión de la presidencia de Colombia, respaldada por todo interés comercial y político, y toda organización paramilitar que quiera socavar la paz de este país.\r\n\r\nDenunciamos esta violencia derechista y los esfuerzos, ya sean legal o ilegales, para\r\n\r\nromper la paz y anular los acuerdos que han terminado más de 52 años de guerra entre el gobierno de Colombia y las FARC-EP (Fuerzas Armadas Revolucionarias de Colombia -Ejército Popular). Como resultado de esta guerra, más de 220,000 personas han perdido la vida, más de 92,000 personas han desaparecido, y más de 7,7 millones de personas han sido desplazadas por la fuerza. Desde el principio, las comunidades más impactadas han sido los pueblos afrocolombianos, indígenas, y campesinos. \_También, desde el principio, la raíz de este conflicto ha sido la codicia de capitalismo global para sus tierras y los recursos naturales que abundan en sus territorios. Ni los grandes terratenientes, grandes agronegocios, narcotraficantes, compañías extractivas y transnacionales, ni los escuadrones de muerte, es decir, los paramilitares, que les sirven, ni los militares, empresarios, ni políticos vinculados a ellos, quieren la paz. No quieren devolver a los desplazados a sus fincas y hogares. No quieren reformas agrarias, ni reservas y resguardas que protejan a las comunidades oprimidas y su acceso a la tierra. No quieren la paz – quieren la dominación total y el despojo de cualquiera comunidad que presenta un obstáculo par sus ganancias excesivas.\r\n\r\nLa elección el 17 de junio de 2018 de Iván Duque como presidente de Colombia fue una victoria para los enemigos de la paz. Ganó el voto en una temporada electoral marcada por irregularidades y un clima de amenazas y agresiones violentas contra la izquierda y el centro-izquierda y sus candidatos. La situación ya era deplorable antes de su elección. Entre el 1 de enero de 2016 y el 14 de mayo de 2018, la Marcha Patriótica, un movimiento social por una paz justa, contó 385 víctimas de la violencia política. Todos ellos eran miembros de movimientos populares y de la izquierda, ex insurgentes y ex prisioneros políticos y sus familias, sindicalistas, defensores de derechos humanos, estudiantes, y ambientalistas. La mayoría de los asesinatos fueron cometidos por paramilitares y otros grupos ilegales. Muchos de los paramilitares operan con impunidad en lugares donde hay localizados tropas de las Fuerzas Armadas de Colombia. Las Fuerzas Armadas también han atacado directamente movimientos y manifestaciones populares, y están siendo investigados por 14 asesinatos de dirigentes sociales.\r\n\r\nDe las 385 víctimas entre 1 de enero de 2016 y 14 de mayo de 2018, 161 procedían de la Marcha Patriótica y 62% de ellos fueron matado en zonas rurales. De estos, 33 pertenecían a una sola organización sindical, FENSUAGRO (Federación Nacional Sindical Unitaria Agropecuaria). Mas de un tercio de las víctimas, 33,2%, fueron indígenas (48, o casi 18%) o afrocolomianos (41, o un poco más de 15%). Desde la elección de Duque en junio, la situación ha empeorado aún más, con líderes e integrantes de movimientos sociales y ex insurgentes y sus familias siendo asesinados a una tasa de más de un persona por día.\r\n\r\nLa guerra y la represión en Colombia son resultados directos de las políticas de los Estados Unidos de Norteamérica y el capitalismo transnacional. En 1962, la Comisión Yarborough del Pentágono impujó a Colombia a soltar “el terror” militar y paramilitar contra los campesinos colombianos a fin de lograr el control territorial para el capitalismo nacional e internacional. Desde 2000, Estados Unidos ha invertido $11 mil millones a través del Plan Colombia. Al menos el 70% de ese financiamiento ha ido hacia las Fuerzas Armadas de Colombia, y la mayoría del resto hacia aparatos y programas de “seguridad” que benefician las estrategias generales de guerra y represión.\r\n\r\nA cambio, a los militares estadounidenses estadounidense se les ha concedido una presencia en siete bases militares en Colombia. Colombia no sólo ha dado los EEUU acceso a sus bases militares, se ha convertido en un socio importante en el imperialismo de los Estados Unidos y OTAN. Colombia ha enviado sus tropas a Afganistán y Yemen, y ha patrullado las costas de Centroaméricabas y el África occidental con los militares estadounidenses. Colombia también ha dado capitación internacional a más de 30,000 militares, policías, y personal carcelario y judicial. En un acto de discordancia geográfica, Colombia se ha afiliado a la OTAN, dándole una presencia permanente en Latinoamérica.\r\n\r\nAsí, nosotros de la <a href=\"http://nousnatobases.org/\">Coalición Contra las Bases Militares Extranjeras de los EEUU</a> no sólo denunciamos la violencia política en Colombia. Denunciamos que el Estado de Colombia se ha convertido en un agente del Imperio que amenaza su propio pueblo, la región, y el planeta. Reconocemos que lo que ocurre en Colombia tiene repercusiones globales. Estamos de pie con los movimientos populares de Colombia y decimos con ellos que: ¡La paz de Colombia es la paz del mundo!\r\n\r\n&nbsp;\r\n\r\n[caption id=\"attachment_10534\" align=\"aligncenter\" width=\"653\"]<img class=\" wp-image-10534\" src=\"https://afgj.org/wp-content/uploads/2018/08/NYC-e1533692872240-1024x701.jpeg\" alt=\"\" width=\"653\" height=\"447\" /> New York, New York por la paz de Colombia![/caption]\r\n\r\n&nbsp;\r\n\r\n[caption id=\"attachment_10541\" align=\"aligncenter\" width=\"690\"]<img class=\"wp-image-10541\" src=\"https://afgj.org/wp-content/uploads/2018/08/WhatsApp-Image-2018-08-07-at-6.54.22-PM-1024x576.jpeg\" alt=\"\" width=\"690\" height=\"388\" /> Uruguay dice No a la violencia derechista y Si a la paz[/caption]\r\n\r\n&nbsp;\r\n\r\n[caption id=\"attachment_10540\" align=\"aligncenter\" width=\"677\"]<img class=\" wp-image-10540\" src=\"https://afgj.org/wp-content/uploads/2018/08/DF-1024x768.jpeg\" alt=\"\" width=\"677\" height=\"508\" /> En Ciudad de México afuera la puertas de la Embajada de Colombia, de pie por la paz![/caption]\r\n\r\n&nbsp;\r\n\r\n[caption id=\"attachment_10533\" align=\"aligncenter\" width=\"663\"]<img class=\" wp-image-10533\" src=\"https://afgj.org/wp-content/uploads/2018/08/San-Francisco-1024x768.jpeg\" alt=\"\" width=\"663\" height=\"497\" /> San Francisco, California quiere la paz de Colombia![/caption]\r\n\r\n&nbsp;\r\n\r\n[caption id=\"attachment_10531\" align=\"aligncenter\" width=\"635\"]<img class=\" wp-image-10531\" src=\"https://afgj.org/wp-content/uploads/2018/08/Suiza-por-Colombia-1024x768.jpeg\" alt=\"\" width=\"635\" height=\"476\" /> En Suiza, demandan la paz por Colombia![/caption]\r\n\r\n[caption id=\"attachment_10536\" align=\"aligncenter\" width=\"656\"]<img class=\"wp-image-10536\" src=\"https://afgj.org/wp-content/uploads/2018/08/Portland-1024x576.jpeg\" alt=\"\" width=\"656\" height=\"369\" /> Portland, Oregon preparan para su manifestación de 7 de agosto de 2018 - Paz y Justicia y Derechos Sindicales![/caption]\r\n\r\n&nbsp;\r\n<p style=\"text-align: center;\"><img class=\"aligncenter size-large wp-image-10537\" src=\"https://afgj.org/wp-content/uploads/2018/08/Raquel-618x1024.jpeg\" alt=\"\" width=\"618\" height=\"1024\" /></p>\r\n\r\n<h3></h3>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+    -
+      entity: e1391c31-ce88-4beb-a12d-d58ab528ecd9
+    -
+      entity: 0dfdb011-9c82-4762-89a0-db01e08f9fe3
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

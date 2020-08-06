@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3f3fe8b6-1ab3-45ed-9048-e96c5ef4c15e
+  bundle: article
+  default_langcode: en
+  depends:
+    642d243c-fd07-43a0-adb4-cd22ee1ad530: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Nicanotes: Guest Blog: The 2016 Presidential Elections: A Report From Nicaragua'
+  created:
+    -
+      value: 1480509635
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-guest-blog-2016-presidential-elections-report-nicaragua
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p class=\"p1\"><a href=\"https://afgj.org/nicanotes\" target=\"_blank\" rel=\"noopener\"><img class=\"aligncenter wp-image-6975 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/08/nicanotesbannerwbyline.jpg\" alt=\"nicanotesbannerwbyline\" width=\"579\" height=\"195\" /></a></p>\n<p class=\"p1\">This week’s Guest Blog returns to the subject of Nicaragua’s Nov. 6 elections from the point of view of Brian Willson who was\_invited as an official observer.</p>\n\n\n<hr />\n\n<h2 class=\"p1\" style=\"text-align: center;\"><a href=\"http://www.counterpunch.org/2016/11/25/the-2016-presidential-elections-a-report-from-nicaragua/\" target=\"_blank\" rel=\"noopener\">The 2016 Presidential Elections:\nA Report From Nicaragua</a></h2>\n<p class=\"p1\" style=\"text-align: center;\">by S. Brian Willson, November 25, 2016</p>\n<p class=\"p1\" style=\"text-align: center;\"><img class=\"aligncenter wp-image-7353 size-full\" src=\"https://afgj.org/wp-content/uploads/2016/11/BrianWilsonElection.jpg\" alt=\"brianwilsonelection\" width=\"602\" height=\"480\" /></p>\n<p class=\"p1\">On November 6, Nicaragua held its national elections, two days before the US electoral theater of the absurd. I was asked to be\_an official election observer for the Nicaragua elections, one of 63 total from 44 countries. My first exposure to Nicaragua\_occurred in early 1986, thirty years ago, during the Reagan Contra terrorist war (1981-1990) ravaging the entire society with\_murders, rapes, arsons, and assassinations, attempting to overthrow the Sandinista (FSLN) -led revolution.</p>\n<p class=\"p1\">It was a welcome relief to be outside the US during our elections. Despite a constant barrage from the US State Department of\_the corruption in Nicaragua (pot calling the kettle black), the unsafe conditions in and danger to tourists (more hypocritical\_rhetoric, since Nicaragua is far safer than all the other countries in Central America, and safer than the US), and more than a\_million dollars of funding from the US’s National Endowment for Democracy (NED) to fund dissent against the Nicaraguan\_government (more imperial meddling), the FSLN (Sandinista Liberation Front Party) won 70 of the 92 seats (76%) in the National\_Assembly, and its Presidential candidate, the much maligned revolutionary fighter Daniel Ortega, won with 72.5% of the vote of\_3.8 million registered Nicaraguans.</p>\n<p class=\"p1\">The polling stations were generally located in schools or community centers, were well organized with trained volunteer staff,\_extremely safe and nonviolent, and voting was by very colorful/pictorial paper ballots. There was no intimidation, and it was very\_orderly. As observers, we could watch wherever we wanted to, inside and outside the polling stations.</p>\n<p class=\"p1\">The Ortega-Murillo government has been systematically demonized by the US for years. Though there are genuine issues\_relating to political policies and personal behavior of some members of the Nicaraguan government, they pale in comparison to\_the grotesque behavior of US politicians, and the country is not bombing, intervening, or torturing people around the world. Its\_programs elevating the status of the poor, expanding land reform, improving education and health care for more people, building\_transportation and communication infrastructure, and committing itself to assuring a high percentage of the nation’s energy from\_renewables (wind, solar, hydro, geothermal), and its control of drug trafficking while experiencing relatively low crime levels,\_makes it a nation that is exemplary compared to most others.</p>\n\n\n<hr />\n<p class=\"p1\"><strong>S. Brian Willson,</strong> as a 1st lieutenant, served as commander of a US Air Force combat security police unit in Viet Nam’s Mekong\_Delta in 1969. He is a trained lawyer who has been an anti-war, peace and justice activist for more than forty years. His\_psychohistorical memoir, <a href=\"https://www.amazon.com/exec/obidos/ASIN/1604864214/counterpunchmaga\" target=\"_blank\" rel=\"noopener\">“Blood On The Tracks: The Life and Times of S. Brian Willson”</a> was published in 2011 by PM Press. A\_long-time member of Veterans For Peace, he currently resides in Portland, Oregon</p>\n\n\n<hr />\n<p class=\"p1\"><strong>BRIEFS</strong></p>\n\n<ul>\n \t<li class=\"p1\">On US Thanksgiving Day, while we were eating turkey, Nicaragua was dealing with twin natural disasters: Hurricane Otto,\_which originated in the Caribbean and crossed Costa Rica and Nicaragua along the two countries border, and an undersea 7.0\_Richter Scale earthquake in the Pacific off the coast of Nicaragua and El Salvador which caused a tsunami alert and waves 6 feet\_above normal. Costa Rica numbered 10 deaths from Hurricane Otto. Although Nicaragua evacuated 10,143 people into 125\_shelters from 69 communities and had 817 homes destroyed or severely damaged, it had no casualties. Nicaragua did have one\_death when a woman on the Pacific Coast died of a heart attack attributed to the tsunami alert. Most of the hurricane damage\_occurred in El Castillo and San Carlos in the municipality of Rio San Juan. \_SINAPRED, Nicaragua’s disaster agency, has been doing large-scale disaster response drills and trainings beginning soon after the Ortega government came into office in\_2007. The multi-agency trainings, including the Army, fire departments, schools, hospitals, and the general public paid off on Nov. 24 with Nicaraguans ready to deal\_efficiently with two natural disasters that could have seen significant death and injuries. The government announced that it has a US$187 million line of credit with the Inter-\_American Development Bank for mitigation of effects of natural disasters. By Nov. 29, only 248 people remained in shelters.\_(El Nuevo Diario, Nov. 25, 28)</li>\n</ul>\n<ul>\n \t<li class=\"p1\">The Inter-American Development Bank announced a US$87 million loan for the purpose of\_improving\_rural roads (often called farm-to-market roads) on the\_Caribbean Coast from remote areas of the Department of Matagalpa to Bluefields. The loan is for 40 years at 1% interest. The Ortega government has\_a goal of building\_200\_kilometers of rural roads\_this year.\_(El Nuevo Diario, Nov. 23)</li>\n</ul>\n<ul>\n \t<li class=\"p1\">National Police Chief Aminta Granera reaffirmed her commitment to\_further\_integrate women into the police force. “The Nicaraguan Police have a high level of\_female participation that is above most other Latin American countries,” she said. Over 35% of police are women and they hold 33% of leadership positions within the force.\_(Nicaragua News, Nov. 23)</li>\n</ul>\n<ul>\n \t<li class=\"p1\">Prevencion Integral\_magazine published an article calling\_the\_Better Work-Nicaragua Program “one of the most successful initiatives worldwide with respect to\_occupational safety in the Free Trade Zone sector. The article also noted that improvements in health and occupational safety, good paying\_jobs, and fair treatment of\_workers\_are ensuring better results for companies affiliated with the program. William De Goof, who was conducting a Better Work workshop in Managua, stressed the\_importance of the workshop and its positive impact on the protection of workers’ rights, promotion of dialogue, and job stability in the Nicaragua Free Trade Zones. Better\_Work is a US Labor Department program initiated while Hilda Solis was Secretary of Labor during President Obama’s first term.\_(Nicaragua News, Nov. 23, 28)</li>\n</ul>\n<ul>\n \t<li class=\"p1\">The Sandinista government has increased access to favorable financing for new home purchases by increasing the price of homes covered by the low-cost housing\_credit from US$20,000 to US$23,000 and a special\_subsidy for homes costing up to US$32,000 that lowers interest rates by 2.5%\_Nicaragua Chamber of Construction\_President Rodrigo Pereira predicted construction sector growth at 15% next year thanks to public and private investments injecting greater dynamism in the construction\_sector. He added that formal construction jobs, meaning jobs that pay into social security, have more than doubled under the government of President Daniel Ortega from\_14,400 in 2010 to 36,000 this year.\_(Nicaragua News, Nov. 23, 28; El Nuevo Diario, Nov. 23)</li>\n</ul>\n<p class=\"p1\"></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 642d243c-fd07-43a0-adb4-cd22ee1ad530
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

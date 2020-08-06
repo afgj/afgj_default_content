@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: d861de59-fb02-4adf-896f-21cbd778977c
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: prosandinistarallymanagua_0.png
+  uri:
+    -
+      value: 'public://2020-06/prosandinistarallymanagua_0.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 678635
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1591199988

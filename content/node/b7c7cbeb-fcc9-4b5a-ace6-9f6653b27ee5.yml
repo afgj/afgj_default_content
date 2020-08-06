@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b7c7cbeb-fcc9-4b5a-ace6-9f6653b27ee5
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Workshop Registration '
+  created:
+    -
+      value: 1372645797
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /workshop-registration
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "To download a PDF version of the registration form, <a href=\"https://afgj.org/wp-content/uploads/2013/07/TDTW-Workshop-Registration-Form.pdf\">click here</a>\r\n\r\n<iframe src=\"https://docs.google.com/forms/d/123ZWcG4gL8cFkoefJ3_fhULTXVEOW473IH5UPAw4HWI/viewform?embedded=true\" height=\"4000\" width=\"760\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\"></iframe>"
+      format: full_html
+      summary: ''

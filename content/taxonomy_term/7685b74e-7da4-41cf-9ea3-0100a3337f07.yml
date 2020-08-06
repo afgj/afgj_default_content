@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: 7685b74e-7da4-41cf-9ea3-0100a3337f07
+  bundle: mt_collections
+  default_langcode: en
+  depends:
+    c64dd370-2514-4b8f-b682-987253b794f3: file
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: Souvenirs
+  weight:
+    -
+      value: 2
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_mt_collection_image:
+    -
+      entity: c64dd370-2514-4b8f-b682-987253b794f3
+      alt: 'Product Group three'
+      title: ''
+      width: 750
+      height: 835

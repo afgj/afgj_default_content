@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 0fbd9564-be19-4246-9fbf-9eb996e1e9c6
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela Webinar Sept 26: A Report Back from the International Solidarity  Meeting ''Todos Somos Venezuela'' in Caracas'
+  created:
+    -
+      value: 1506246432
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-webinar-sept-26-report-back-international-solidarity-meeting-todos-somos-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p style=\"text-align: center;\"><img class=\"alignleft size-full wp-image-7078\" src=\"https://afgj.org/wp-content/uploads/2016/09/VSN-webinar.jpg\" alt=\"Venezuela Webinar\" width=\"960\" height=\"510\" /><strong>This series of one-hour webinars on the last Tuesday of each month features scholars, Venezuela government officials, writers, solidarity activists and others with firsthand knowledge of Venezuela and US-Venezuela relations. Venezuela remains a top target of US “regime change” strategies and will remain so no matter who is elected president in November. These webinars are designed to inform and motivate solidarity with the Bolivarian process in Venezuela and to expose and oppose US intervention.</strong></p>\n&nbsp;\n<h1 style=\"text-align: center;\"><a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED52DB81814931\" target=\"_blank\" rel=\"noopener\"><b>Register Now!</b><b><u></u><u></u></b></a></h1>\n<h1 style=\"text-align: center;\">A Report Back from the International Solidarity</h1>\n<h1 style=\"text-align: center;\">Meeting 'Todos Somos Venezuela' in Caracas</h1>\n<h1 style=\"text-align: center;\"><b><span style=\"color: #ff0000;\">This Week!</span>\_</b><b><span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1272346033\"><span class=\"aQJ\">Tuesday, September 26th, 2017 at 8pm ET</span></span>\_/\_<span class=\"aBn\" tabindex=\"0\" data-term=\"goog_1272346034\"><span class=\"aQJ\">5pm PT</span></span></b><b><u></u><u></u></b></h1>\n<h1 style=\"text-align: center;\">Presentation by Nino Pagliccia</h1>\nNino Pagliccia participated in the recent international solidarity conference in\_Venezuela. He holds a MS in Statistics from Stanford University and has worked as\_a Global Health researcher at the U of British Columbia in Canada. Nino is former vice\_president of the Canada-Cuba Friendship Association in Vancouver and former co-chair of the\_the Canadian Network on Cuba. He has led many\_delegations to Cuba and received the Medal of Friendship granted by the Cuban\_Council of State. He is currently one of the spokespersons and administrator of the\_social networks of the Front for the Defense of the Peoples Hugo Chavez -\_Vancouver Chapter. He frequently speaks on issues in defense of the Bolivarian\_Revolution and writes opinion articles for social media and for the newspaper of the\_Communist Party of Canada, People's Voice.\n<h2 style=\"text-align: center;\"><strong>These monthly webinars are one hour long and you must\n<a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED52DB81814931\" target=\"_blank\" rel=\"noopener\">REGISTER</a> to participate.\_<u></u><u></u><u></u>\_</strong><u></u></h2>\nPlease share the registration link widely. You can participate by phone or through your computer but your computer will give you a much fuller experience if you participate through your computer.<u></u><u></u>\n<p style=\"text-align: center;\">Please Share Widely!<u></u><u></u></p>\n\n\n<hr />\n\n\n\n<hr />\n\nInterested in keeping up with the news from Venezuela?\_<b>AfGJ's Venezuela Weekly</b>\_contains a few useful articles on Venezuela that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\_<b></b><b><a href=\"http://org2.salsalabs.com/o/7315/signup_page/venweekly\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://org2.salsalabs.com/dia/track.jsp?key%3D-1%26url_num%3D8%26url%3Dhttp%253A%252F%252Forg2.salsalabs.com%252Fo%252F7315%252Fsignup_page%252Fvenweekly&amp;source=gmail&amp;ust=1506357516697000&amp;usg=AFQjCNFe7CzeT7uRBWc8Dbrt43a1WOsMmw\">Subscribe\_Here!</a>\n</b>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,114 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: accae5a0-a154-41e4-ad9a-66646f8f2430
+  bundle: mt_frontpage_cover_block
+  default_langcode: en
+  depends:
+    82e79b2b-d886-4003-a5f3-35113197a625: file
+    8bae5a71-5700-48a1-b7f8-99cf4727327f: file
+    24622de1-b03e-458f-aeec-5734cc44b868: file
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Front page cover'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_fpcb_background_image:
+    -
+      entity: 82e79b2b-d886-4003-a5f3-35113197a625
+      alt: Cauca
+      title: ''
+      width: 4032
+      height: 3024
+  field_mt_fpcb_badge:
+    -
+      value: New
+  field_mt_fpcb_block_height:
+    -
+      value: 1280
+  field_mt_fpcb_cta_button:
+    -
+      uri: 'internal:/node/23'
+      title: 'Continue Reading'
+      options: {  }
+  field_mt_fpcb_image_button:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 9cb4234f-c025-4d59-a279-a7215515f77d
+          bundle: mt_image_button
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1527256650
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_image_button_image:
+            -
+              entity: 8bae5a71-5700-48a1-b7f8-99cf4727327f
+              alt: 'Image button'
+              title: ''
+              width: 201
+              height: 60
+          field_mt_image_button_link:
+            -
+              uri: 'internal:/'
+              title: ''
+              options: {  }
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: a1b06a18-77f4-48e0-b0ff-e85da6ad6179
+          bundle: mt_image_button
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1527256703
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_image_button_image:
+            -
+              entity: 24622de1-b03e-458f-aeec-5734cc44b868
+              alt: 'Image button'
+              title: ''
+              width: 201
+              height: 60
+          field_mt_image_button_link:
+            -
+              uri: 'internal:/'
+              title: ''
+              options: {  }
+  field_mt_fpcb_subtitle:
+    -
+      value: 'Brief summary introduction about the article here'
+  field_mt_fpcb_title:
+    -
+      value: 'Recent News Headline'

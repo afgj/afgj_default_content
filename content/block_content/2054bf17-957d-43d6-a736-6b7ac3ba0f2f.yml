@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 2054bf17-957d-43d6-a736-6b7ac3ba0f2f
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Social Bookmarks'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<ul class=\"icons-list icons-list--bordered icons-list--no-margin p-0 text-center text-md-right d-md-block d-none\">\r\n  <li><a class=\"background-color-inverted-facebook\" href=\"#\"><i class=\"fab fa-facebook\"><span class=\"sr-only\">facebook</span></i></a></li>\r\n  <li><a class=\"background-color-inverted-twitter\" href=\"#\"><i class=\"fab fa-twitter\"><span class=\"sr-only\">twitter</span></i></a></li>\r\n  <li><a class=\"background-color-inverted-linkedin\" href=\"#\"><i class=\"fab fa-linkedin\"><span class=\"sr-only\">linkedin</span></i></a></li>\r\n  <li><a class=\"background-color-inverted-youtube\" href=\"#\"><i class=\"fab fa-youtube\"><span class=\"sr-only\">youtube</span></i></a></li>\r\n</ul>\r\n"
+      format: full_html
+      summary: ''

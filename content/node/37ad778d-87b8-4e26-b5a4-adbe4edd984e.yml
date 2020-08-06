@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 37ad778d-87b8-4e26-b5a4-adbe4edd984e
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+    2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'AFGJ Venezuela & ALBA Weekly 1.19. 2018: Looking Back on 2017 and Ahead to 2018'
+  created:
+    -
+      value: 1516469229
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /afgj-venezuela-alba-weekly-119-2018-looking-back-2017-and-ahead-2018-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<b><img class=\"alignleft size-full wp-image-8872\" src=\"https://afgj.org/wp-content/uploads/2018/01/VenWeekly1.20.18.png\" alt=\"\" width=\"1200\" height=\"798\" />Jan 20th, 2018</b>\n\nThis weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\n\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\n\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=4G62FrZLtKpw2pDTihLPd6j1FjKE8bC9\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=JbzVeknDe0hE4xsuH37RNKj1FjKE8bC9\">Venezuelanalysis.com</a>.\n\n<hr />\n<p style=\"text-align: center;\"><strong><a href=\"https://venezuelanalysis.com/donate\" target=\"_blank\" rel=\"noopener\">Support, Donate to Venezuelanalysis</a></strong></p>\n\n\n<hr />\n\n&nbsp;\n\n<strong><a href=\"https://afgj.org/venezuela-webinar-findings-humanitarian-situation-venezuela-effects-international-sanctions\" target=\"_blank\" rel=\"noopener\">Register Now for AFGJ Webinar with Alfred de Zayas, UN Rapporteur for Human Rights on the Situation in Venezuela</a></strong>\n\n<hr />\n\n<a href=\"http://en.granma.cu/mundo/2018-01-17/maduro-2017-was-a-year-of-important-social-advances\" target=\"_blank\" rel=\"noopener\">Maduro: 2017 was a Year of Important Social Advances</a> --progress in combating the war being waged by right wing sectors both in and outside the country; success of the Bolivarian Revolution in constituent, regional and municipal elections; crack down on corruption scandals in PDVSA; country is on target to build 2 million homes; 4 million families will now receive more assistance.\n\n<hr />\n\n<a href=\"https://www.telesurtv.net/english/news/President-Maduro-2017-Marked-a-Consolidation-of-Social-Programs-20180115-0018.html\" target=\"_blank\" rel=\"noopener\">President Maduro: 2017 Marked a Consolidation of Some Social Programs</a>\n\n<a href=\"https://www.facebook.com/presstvuk/videos/2034433569916689/\" target=\"_blank\" rel=\"noopener\">PressTV: Egle Sanchez, Graphic Workers Federation President, on the Gains and Challenges of the Bolivarian Revolution</a>\n\n<a href=\"https://www.investigaction.net/en/the-evidence-of-economic-war-against-venezuela/\" target=\"_blank\" rel=\"noopener\">Examples of the Economic War against Venezuela</a>\n\n<a href=\"http://www.plenglish.com/index.php?o=rn&amp;id=23487&amp;SEO=cuba-awarded-safest-country-in-tourism-fair-in-madrid\" target=\"_blank\" rel=\"noopener\">Cuba Awarded World's Safest Country at Tourism Fair in Madrid</a>\n\n<a href=\"http://www.thedawn-news.org/2018/01/12/2018-will-be-a-crucial-year-for-the-bolivarian-revolution-of-venezuela/\" target=\"_blank\" rel=\"noopener\">The Empire's Latest Attacks: 2018 will be a Crucial Year for the Bolivarian Revolution of Venezuela</a>\n\n<a href=\"http://en.granma.cu/mundo/2018-01-16/latin-america-and-the-caribbean-seeking-unity-and-peace-despite-the-storm-clouds-brewing-in-the-north\" target=\"_blank\" rel=\"noopener\">Cuba's Granma Newspaper Looks at Latin America in 2017</a>\n\n<a href=\"https://www.telesurtv.net/english/news/Cuban-Doctors-to-Help-Patients-in-South-Side-Chicago-20180117-0018.html\" target=\"_blank\" rel=\"noopener\">Cuban Doctors Help Patients in South Side Chicago</a>\n\n<a href=\"https://www.facebook.com/telesurenglish/videos/1270118373131562/\" target=\"_blank\" rel=\"noopener\">Abandoned by Government, Chicago Turns to Cuba</a>\n\n<a href=\"https://venezuelanalysis.com/news/13605\" target=\"_blank\" rel=\"noopener\">New Venezuelan Social Welfare Program will Benefit 4 Million Families</a>\n\n<a href=\"https://www.investigaction.net/en/mercosur-the-affront-of-the-triple-alliance-against-the-bolivarian-process/\" target=\"_blank\" rel=\"noopener\">Mercosur: the Attack of Brazil, Argentina and Paraguay Against Venezuela</a>\n\n<a href=\"https://www.telesurtv.net/english/opinion/The-12-Victories-of-Venezuelan-President-Maduro-in-2017-20180102-0009.html\" target=\"_blank\" rel=\"noopener\">Ramonet: The 12 Victories of President Maduro in 2017</a>\n\n<hr />\n<p style=\"text-align: center;\"><strong>Allied Issues + Delegations</strong></p>\n<a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\">April Delegation to Nicaragua</a>\n\n<a href=\"https://afgj.org/travel-to-colombia\" target=\"_blank\" rel=\"noopener\">May Delegation to Colombia</a>\n\n<a href=\"https://icangotocuba.wordpress.com/sign-up-now/\" target=\"_blank\" rel=\"noopener\">May Day Delegation to Cuba</a>\n\n<a href=\"http://www.mstbrazil.org/news/send-message-solidarity-lula-da-silva\" target=\"_blank\" rel=\"noopener\">Friends of the MST: Send a Message of Solidarity with Lula</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+    -
+      entity: 2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b9c18690-7601-4ef2-b83e-8dc0fa333574
+  bundle: article
+  default_langcode: en
+  depends:
+    196ada50-d89c-465a-9c41-f44a9feaaead: taxonomy_term
+    3ad1f134-ace5-4b4d-bdb3-efff4e632423: taxonomy_term
+    12b3e54e-3084-4815-bb8d-cd79a0d28b01: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NicaNotes: “Live from Nicaragua : Uprising or Coup?”'
+  created:
+    -
+      value: 1556501925
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /nicanotes-live-nicaragua-uprising-or-coup
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "As we stand here today on the brink of the one year anniversary of the spasm of violence and confusion that engulfed Nicaragua last year, it is time to tell the truth and correct the historical record about what actually happened during three months of violence. The Alliance for Global Justice, with contributions by over 20 co-authors plus editors, photographers, videographers, and folks who lived the terror of those times, has produced a free electronic book available in pdf and electronic book formats. Live from Nicaragua: Uprising our Coup? is a reader with both original articles and reprints of articles written during the troubled times.\r\n\r\nIn 2018, Nicaragua suffered its worst political violence and upheaval since the end of the US backed Contra war of the 1980s. Extremely polarized controversy persists about what caused this conflict, how it developed and what is means for Nicaragua’s people now. This book brings together material completely excluded from mainstream coverage of events in Nicaragua. The book has been produced by people with an unquestionable and long demonstrated commitment to grass roots democracy and community development in Nicaragua and the region based on an anti-imperialist vision of peace and justice for all. The book challenges the mainstream and much of the alternative media coverage of events in Nicaragua over the last year. It is essential reading for anyone seeking to understand those events.\r\n\r\n<em>The book will be available from midday Thursday April 18th 2019</em>\r\n\r\n<strong>Extracts from Gabriela Luna’s Prologue</strong>\r\n\r\nThe geographical position, extraction of natural resources, exploitation of cheap labor and possibility of building an inter-oceanic canal have been the axes of imperialist interest in Central America. This has bathed the region’s history in blood and resistance, which is why the desperate migrant caravan from the northern triangle of the isthmus is in fact the offspring of U.S. imperialism.\r\n\r\nSince 2007, hope and life have been redefined with the return of the Sandinista Front to government. The absolute number of undernourished people in the country has been reduced by half, access to free education and health care has been guaranteed to rural communities, maternal mortality has been reduced by 60% and infant mortality by 52%, while access to electricity has been increased from 54% to 96% of the country’s population.\r\n\r\nNicaragua is the safest country in Central America, and is in sixth place globally for women's participation in public and civic spaces. Life in the countryside has recovered dignity, thanks to a policy that prioritizes and values the family economy, making it possible to reduce food imports and become 100% self-sufficient in beans, corn, eggs, milk, fruits, onions, peppers, tomatoes and beef.\r\n\r\nThe attempted coup was intended to eradicate not only the Sandinista Front from political power in Nicaragua but also to tear Sandinismo from the heart and historical memory of the people. The practices of desecrating and burning historical sites of the Sandinista Front, of stripping, beating, torturing, kidnapping and publicly murdering Sandinistas, or publicly burning people, is not new in the history of Nicaragua or Central America.\r\n\r\nThese practices stem from the Spanish conquest that publicly tortured indigenous rebels. They were then applied by U.S. soldiers in military interventions, by the Somoza dictatorship, and were part of the US’ counter-insurgency handbook, applied during more than 30 years in Guatemala and El Salvador to stop the advances of peoples’ revolutions in these countries.\r\n\r\nThe CIA’s Contra armies applied these practices in peasant communities during the 1980s.\r\n\r\nThe opposition’s death roadblocks were mostly manned by socially-excluded poor people who were paid to create chaos and pain. They were politically supported by young upper middle-class university students, who, from the comfort of their homes in gated communities, misunderstood the reality of the roadblocks, and consumed the mainstream media’s version of the crisis.\r\n\r\nThese media outlets are dominated nationally by the oligarchy. US-owned social media companies provided platforms for a strategy that activated hundreds of young people previously trained by USAID and NED to create a dominant narrative. The coup’s media blitzkrieg used the advertising pages of Facebook to spread lies, foment hatred and encourage violence—accusing the Sandinistas of the violence against Sandinistas.\r\n\r\nThe first sector to break the psychological and horror siege was the moral reserve of the Sandinista Front: its historic rank-and-file membership. In the face of systematic violence against Sandinista families, the only option was local organizing for the protection of families, neighborhoods, towns and cities. Barricades were formed in the neighborhoods and public institutions to prevent arson attacks and assassinations.\r\n\r\nThese defense barricades, set up over weeks in the cities, towns and neighborhoods of Nicaragua, were made up of members of the Sandinista Front from various generations...but with one common denominator: these barricades were made up of Nicaragua’s workers. In practice, everyone learned from everyone, and natural leaders emerged from the heart of the neighborhoods who often were not part of any of the official structures of the Sandinista Front.\r\n\r\nThis was political education in practice: young people learned what it means to be a Sandinista, the principles and values of the historic militancy, the historical burden behind their actions. These young people respected and valued the bravery and knowledge of the old guard, while elders respected the strengths of the young people and their understanding of the impact of social media. Since the highways were shut down by rightwing roadblocks, Sandinistas across the country organized themselves to distribute locally sourced food.\r\n\r\nThe elite in Nicaragua has long believed that the people are ignorant, or “innocent” as the oligarchy’s newspaper, La Prensa, puts it. They assumed that if denied their ability to live normally and safely, Nicaraguans would demand a new government. The plan backfired, and the Sandinista Front mobilized more people in the street from April to September of 2018 than in any other period in its history.\r\n\r\nDuring this period, Nicaraguans saw themselves in a new light and were forced to reckon with the strengths and weaknesses of the political process, of living in a capitalist country with a socialist government, under the shadow of the United States. Above all, those three months of resistance clearly demonstrated the immense courage of the people of Nicaragua, especially those without land, without a car, the workers from the inner-city neighborhoods. History again demonstrated the Nicaraguan people’s capacity for resistance and survival, dignity and strength. It was the people’s wisdom that defeated the coup.\r\n\r\n<strong>How to obtain Live from Nicaragua: Uprising or Coup?</strong>\r\n\r\n<strong>EDIT (Updated links):</strong> we have new links to updated versions of our book on last year’s failed coup entitled, Live from Nicaragua: Uprising or Coup? Please use these and share them with your friends.\r\n\r\n<a href=\"https://afgj.org/wp-content/uploads/2019/07/live_from_nicaragua_june_2019.pdf\">https://afgj.org/wp-content/uploads/2019/07/live_from_nicaragua_june_2019.pdf</a>\r\n\r\n<a href=\"https://afgj.org/wp-content/uploads/2019/07/live_from_nicaragua_june_2019-1.epub\">https://afgj.org/wp-content/uploads/2019/07/live_from_nicaragua_june_2019-1.epub</a>\r\n\r\n<a href=\"https://afgj.org/wp-content/uploads/2019/07/live_from_nicaragua_june_2019-1.mobi\">https://afgj.org/wp-content/uploads/2019/07/live_from_nicaragua_june_2019-1.mobi</a>\r\n\r\n<strong>En Espanol:</strong>\r\n\r\n<a href=\"https://afgj.org/wp-content/uploads/2019/07/nicaragua_2018_levantamiento_popular_o_golpe_de_estado.mobi\">https://afgj.org/wp-content/uploads/2019/07/nicaragua_2018_levantamiento_popular_o_golpe_de_estado.mobi</a>\r\n\r\n<a href=\"https://afgj.org/wp-content/uploads/2019/07/nicaragua_2018_levantamiento_popular_o_golpe_de_estado.pdf\">https://afgj.org/wp-content/uploads/2019/07/nicaragua_2018_levantamiento_popular_o_golpe_de_estado.pdf</a>\r\n\r\n<a href=\"https://afgj.org/wp-content/uploads/2019/07/nicaragua_2018_levantamiento_popular_o_golpe_de_estado.epub\">https://afgj.org/wp-content/uploads/2019/07/nicaragua_2018_levantamiento_popular_o_golpe_de_estado.epub</a>\r\n\r\n<strong>Alternative Links:</strong>\r\n\r\n<a href=\"http://ml.afgj.xyz/dada/mail.cgi/r/twoshoes/617691279041/\">http://www.tortillaconsal.com/live_from_nicaragua_june_2019.pdf</a>\r\n\r\n<a href=\"http://ml.afgj.xyz/dada/mail.cgi/r/twoshoes/280268072833/\">http://www.tortillaconsal.com/live_from_nicaragua_june_2019.epub</a>\r\n\r\n<a href=\"http://ml.afgj.xyz/dada/mail.cgi/r/twoshoes/257883174990/\">http://www.tortillaconsal.com/live_from_nicaragua_june_2019.mobi</a>\r\n\r\nFor the e-book version\r\n- Click on the link to save the file to your device, then\r\nopen the .zip file to access the version you want.\r\n\r\nFor a Kindle hand-held device\r\n- Open the compressed e-book file on your computer and\r\nconnect the Kindle device to your computer\r\n- Use your mouse to move the 'Kindle content' folder in the opened e-book file to the 'documents' folder on the Kindle device\r\n- Once copied, disconnect the Kindle. 'Live from Nicaragua' should appear on its home page.\r\n\r\nFor the PDF version\r\n- Click on the link and save the file to your device"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 196ada50-d89c-465a-9c41-f44a9feaaead
+    -
+      entity: 3ad1f134-ace5-4b4d-bdb3-efff4e632423
+    -
+      entity: 12b3e54e-3084-4815-bb8d-cd79a0d28b01
+  field_mt_slideshow:
+    -
+      value: false

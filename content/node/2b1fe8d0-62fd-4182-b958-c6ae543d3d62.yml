@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2b1fe8d0-62fd-4182-b958-c6ae543d3d62
+  bundle: article
+  default_langcode: en
+  depends:
+    559721eb-b73d-4d86-a9b5-58f46584daa3: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Honduras Election Fraud Alert'
+  created:
+    -
+      value: 1511959451
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /honduras-election-fraud-alert
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h2 style=\"text-align: center;\"><b>Contact your elected officials!</b></h2>\n<span style=\"color: #222222;\">1. You can call your Senators and Member of Congress through the Congressional Switchboard at 202-224-3121</span>\n\n<span style=\"color: #222222;\">2. You can write to your elected officials through <a href=\"https://democracy.io/#!/\" target=\"_blank\" rel=\"noopener\">https://democracy.io/#!/</a></span>\n\n[caption id=\"\" align=\"aligncenter\" width=\"504\"]<img src=\"https://org2.salsalabs.com/o/7315/images/Student%20March.JPG\" alt=\"Student March in Honduras post election\" width=\"504\" height=\"378\" /> Students take to the streets of El Progreso in the north of Honduras Tuesday night to call for Juan Orlando Hernandez to \"Get Out.\"[/caption]\n\n<div class=\"entry-content\">\n\nThe Alliance for Global Justice is very concerned that the democratic will of the voters of Honduras is being reversed through fraud right now. Honduras held elections for President, the National Assembly, and mayors on Sunday, November 26, 2017. The Supreme Electoral Tribunal, which is a separate branch of government charged with conducting elections, halted announcing returns Sunday night when with roughly 60% of ballots counted, Alliance Against Re-Election presidential candidate Salvador Nasralla was shown to be winning over incumbent National Party candidate President Juan Orlando Hernandez.\n\nThe Supreme Electoral Tribunal (TSE) is headed by two magistrates of the National Party and one from the Liberal Party faction that in 2009 fomented a coup against democratically elected President Manuel Zelaya. The Libre Party is not represented on the TSE. Libre came in second in 2013 presidential elections and its candidate, Xiomara Castro, may have won had it not been for significant fraud by the National Party which was documented by international observers including a 55-person Honduras Solidarity Network delegation led by AfGJ.\n\nThe TSE finally began releasing vote totals late Tuesday after over 24 hours of silence. Nasralla’s lead is dropping rapidly despite statements by two TSE magistrates on Monday that his lead was “irreversible .” The European Union election monitoring delegation of 100 observers is criticizing the TSE for lack of transparency for failure to document where these new votes are coming from. As of Wednesday morning the TSE continues to slowly release results, while refusing to identify their source, which allege to show Nasralla’s “irreversible” lead shrinking now to about 1%.\n\nThe Alliance for Global Justice calls on activists to monitor the situation and if the TSE declares Juan Orlando Hernandez the winner, to contact your Senators and Member of Congress to demand that the US not recognize the fraudulent election results. Demand that they look into the issues of election fraud and cut off US military and police aid and training as a consequence of the massive fraud and violation of the Organization of American States Democratic Charter.\n\n[caption id=\"\" align=\"aligncenter\" width=\"504\"]<img src=\"https://org2.salsalabs.com/o/7315/images/Militarization.JPG\" alt=\"Militarization in Honduras\" width=\"504\" height=\"336\" /> Outrageous number of military sent to the town of La Esperanza on Tuesday in conjunction with a march there celebrating the potential win of Salvador Nasralla.\_ We counted about 30 trucks full of armed soldiers.[/caption]\n\nThe Alliance for Global Justice still hopes that justice will prevail and that Nasralla and the coalition that he fronted for, will receive a fair count and President Juan Orlando Hernandez will concede and step down peacefully. The largest party in Nasralla’s coalition is the Libre Party which was formed by former President Zelaya, the faction of the Liberal Party that opposed the coup, and social groups that were part of the National Front for Popular Resistance.\n\nIf Nasralla is allowed to take power, it will be the dawn of a new day in Honduras. While Nasralla himself is center-right, the coalition he represents is center to left. In 2013 Nasralla’s Anti-Corruption Party (PAC) ran against corruption. If Nasralla’s coalition wins enough seats in the legislature, we could see a major crackdown on corruption which has run unchecked since the June 28, 2009 coup. The teacher’s union pension fund was robbed to finance the coup government and the National Party’s own victory in 2013 was financed with the theft of tens of millions of dollars from the country’s health care system. Many members of the government and the oligarchy are also in tight with drug cartels.\n\nWe would hope that a Nasralla victory too would cut down on the corporate and state violence that killed over 200 hundred peasant cooperative members and dozens of environmentalists and indigenous leaders such as Berta Caceres, union leaders, journalists, and LGBTQ activists. If Orlando Hernandez is declared victor, we can expect more political killing, more impunity, more land theft from peasant cooperatives, more criminalization of dissent, and more involuntary migration by refugees.\n\n[caption id=\"\" align=\"aligncenter\" width=\"504\"]<img src=\"https://org2.salsalabs.com/o/7315/images/JOH%20Assassino.JPG\" alt=\"\" width=\"504\" height=\"336\" /> Grafitti seen all across the country as seen in La Esperanza, Intibuca, home of assassinated leader Berta Caceres[/caption]\n\nFor the Honduran people, a lot hangs on whether the National Party, with the permission of the United States government, is allowed to steal these elections, or whether the democratic opposition will prevail even against the massive fraud that took place on election day and appears to be taking place now behind closed doors at the Supreme Electoral Tribunal.\n\nOur government finances and allows the violence and corruption in Honduras. It is our responsibility to demand that the will of the Honduras people be allowed to prevail in democratic elections.\n\n<hr />\n\n<h2><b>Act Now!</b></h2>\n<b>--You can call your Senators and Member of Congress through the Congressional Switchboard at 202-224-3121. You can write to your elected officials through <a href=\"https://democracy.io/#!/\">https://democracy.io/#!/</a>.</b>\n\n<b>--La Voz de los de Abajo, which is currently in Honduras leading a human rights accompaniment delegation on behalf of the HSN, also asks people to call the US embassy in Tegucigalpa. The embassy numbers when dialed from the United States are: 011-504-22385114 or 011-504-22369320.</b>\n\n</div>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 559721eb-b73d-4d86-a9b5-58f46584daa3
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 2d9bb32a-0d79-44d1-8c2d-8a8fa3d822ad
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

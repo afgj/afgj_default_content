@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4a2496cd-955f-416a-8550-1344b281f6ca
+  bundle: article
+  default_langcode: en
+  depends:
+    f3a04f7a-4b52-4ce7-a043-ae2c1dc03d17: taxonomy_term
+    61570ce6-c637-4aa9-a7a7-2b57b6b90e6f: taxonomy_term
+    5b96eb92-481a-47f7-8359-184bfa2e06de: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Talk Nation Radio: AfGJ on Prison Imperialism'
+  created:
+    -
+      value: 1517929879
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /talk-nation-radio-afgj-prison-imperialism
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "David Swanson interviews Nasim, AfGJ's Prison Imperialism Project Coordinator, for Talk Nation Radio. Listen to hear them discuss the roots of Prison Imperialism in Colombia, it's expansion all around the world, the US's true motives for managing the world's prisons, how activists can get involved, and more.\r\n\r\n<iframe src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/395442294&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true\" width=\"100%\" height=\"166\" frameborder=\"no\" scrolling=\"no\"></iframe>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: f3a04f7a-4b52-4ce7-a043-ae2c1dc03d17
+    -
+      entity: 61570ce6-c637-4aa9-a7a7-2b57b6b90e6f
+    -
+      entity: 5b96eb92-481a-47f7-8359-184bfa2e06de
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

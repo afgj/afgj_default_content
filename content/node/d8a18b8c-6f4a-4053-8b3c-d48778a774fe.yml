@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d8a18b8c-6f4a-4053-8b3c-d48778a774fe
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela Prepares After Tillerson''s US Tour of Latin America to Gain Support for a Venezuela Coup:AFGJ Venezuela and ALBA Weekly 2.9.2018'
+  created:
+    -
+      value: 1518201542
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-prepares-after-tillersons-us-tour-latin-america-gain-support-venezuela-coupafgj-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"size-full wp-image-8993 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2018/02/image.png\" alt=\"\" width=\"1242\" height=\"810\" />\r\n\r\n<b>Feb 9th, 2018</b>\r\n\r\nThis weekly email contains a few useful articles on Venezuela and ALBA Countries that contain bite-sized dose of the truth so that you can fight the disinformation in your own community, that so much of the media, including alternative media are putting out.\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nAFGJ Friends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=4G62FrZLtKpw2pDTihLPd6j1FjKE8bC9\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on\_<a href=\"http://org2.salsalabs.com/dia/track.jsp?v=2&amp;c=JbzVeknDe0hE4xsuH37RNKj1FjKE8bC9\">Venezuelanalysis.com</a>.\r\n\r\n<hr />\r\n\r\n<a href=\"https://zcomm.org/znetarticle/us-policy-a-big-factor-in-venezuelas-depression/\" target=\"_blank\" rel=\"noopener\">\r\nUS Policy a Big Factor in Venezuela’s Depression</a>\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/US-Rejects-Elections-as-Maduro-Welcomes-Observers--20180208-0020.html\" target=\"_blank\" rel=\"noopener\">US Rejects Elections as Maduro Welcomes International Observers to Monitor the Vote</a>\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Ex-Prime-Minister-Zapatero-Criticizes-Venezuelan-Opposition-20180207-0046.html\" target=\"_blank\" rel=\"noopener\">Ex-Prime Minister Zapatero Criticizes Venezuelan Opposition for Breaking off Dialogue after Agreement is Reached</a>\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Venezuela-Maduro-Signs-Agreement-Opposition-Backs-Out-20180208-0015.html\" target=\"_blank\" rel=\"noopener\">The Agreement Maduro Agreed to Sign, while the Opposition Backed Out</a>\r\n\r\n<a href=\"http://www.fightbacknews.org/2018/2/9/opposition-abandons-negotiations-venezuela?utm_source=Fight%20Back%21%20News%20Service&amp;utm_campaign=ff1f44d137-UA-743468-8&amp;utm_medium=email&amp;utm_term=0_acdbc87f5c-ff1f44d137-263622285\" target=\"_blank\" rel=\"noopener\">Fightback News: Opposition Abandons negotiations in Venezuela</a>\r\n\r\n<a href=\"https://www.spreaker.com/user/radiosputnik/rex-tillersons-latin-america-tour-signal\" target=\"_blank\" rel=\"noopener\">Gloria La Riva, Brian Becker: Rex Tillerson's Latin America Tour: Shows Support for Coup in Venezuela</a>\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Mexico-rejects-US-oil-sanctions-on-Venezuela-20180208-0019.html\" target=\"_blank\" rel=\"noopener\">Mexico Rejects US Oil Sanctions on Venezuela</a>\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Colombias-President-Sides-with-the-US-Against-Venezuela-20180206-0033.html\" target=\"_blank\" rel=\"noopener\">Colombia's President Sides with the US Against Venezuela</a>\r\n\r\n<a href=\"https://www.telesurtv.net/english/opinion/Ecuador-Morenos-Pyrrhic-Referendum-Victory-20180208-0012.html\" target=\"_blank\" rel=\"noopener\">Ecuador: Moreno’s Pyrrhic Referendum Victory</a> <a href=\"http://www.firethistime.net/articles/Volume12/V12I2/what-is-canada-doing-venezuela.html\" target=\"_blank\" rel=\"noopener\">What is the Government of Canada Doing in Venezuela?</a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

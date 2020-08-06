@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 5398da2e-0d43-4076-acbf-31f3b9b4af17
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: IMG_0539_2.jpg
+  uri:
+    -
+      value: 'public://2020-06/IMG_0539_2.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 2795094
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1591148984

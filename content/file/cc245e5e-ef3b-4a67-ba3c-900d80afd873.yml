@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: cc245e5e-ef3b-4a67-ba3c-900d80afd873
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: fullwidth-slideshow-slide-2.jpg
+  uri:
+    -
+      value: 'public://2016-11/fullwidth-slideshow-slide-2.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 30491
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1479923206

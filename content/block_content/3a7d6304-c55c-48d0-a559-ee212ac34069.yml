@@ -1,0 +1,56 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 3a7d6304-c55c-48d0-a559-ee212ac34069
+  bundle: mt_google_maps
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Google map - Banner'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_map_location:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 44e5c049-d124-4c10-a15d-6b7a1e72bc7a
+          bundle: mt_map_location
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1496415069
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_ml_latitude:
+            -
+              value: '32.203205'
+          field_mt_ml_location_name:
+            -
+              value: 'Location One'
+          field_mt_ml_longitude:
+            -
+              value: '-110.966089'
+  field_mt_map_zoom:
+    -
+      value: '15'

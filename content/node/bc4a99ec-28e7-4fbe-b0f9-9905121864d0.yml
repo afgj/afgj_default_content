@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: bc4a99ec-28e7-4fbe-b0f9-9905121864d0
+  bundle: article
+  default_langcode: en
+  depends:
+    f013da03-fae1-4d9b-bbbb-c638193bab3c: file
+    0203b804-7536-4e89-a6e4-261e3c401bf7: file
+    9323facb-7e92-4bab-acd3-93c59204ac07: file
+    9274412f-669c-4a45-8404-35b90de73aee: file
+    e335b27c-8703-48bc-b547-25ca174e23b7: file
+    f92af009-5f91-477f-a52e-7dc9f61a35bd: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'First Article'
+  created:
+    -
+      value: 1465328961
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /first-article
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise <a href=\"#\">with competitive technologies</a>. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n\r\n<blockquote>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise with competitive technologies. Appropriately communicate adaptive imperatives rather than value-added potentialities.</blockquote>\r\n\r\n<p>Phosfluorescently e-enable adaptive synergy for strategic quality vectors. Continually transform fully tested expertise <a href=\"#\">with competitive technologies</a>. Appropriately communicate adaptive imperatives rather than value-added potentialities. Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n\r\n<h3>Lorem ipsum dolor sit amed consetatur</h3>\r\n\r\n<p>Compellingly <a href=\"#\">recaptiualize enterprise-wide web-readiness</a> for robust strategic theme areas. Synergistically reconceptualize user-centric functionalities via revolutionary strategic theme areas. Progressively transition out-of-the-box leadership skills rather than top-line and <a href=\"#\">this is a hover link</a>.</p>\r\n"
+      format: full_html
+      summary: ''
+  field_image:
+    -
+      entity: f013da03-fae1-4d9b-bbbb-c638193bab3c
+      alt: 'First Article'
+      title: 'First Image'
+      width: 750
+      height: 500
+    -
+      entity: 0203b804-7536-4e89-a6e4-261e3c401bf7
+      alt: 'First Article'
+      title: 'Second Image'
+      width: 750
+      height: 500
+    -
+      entity: 9323facb-7e92-4bab-acd3-93c59204ac07
+      alt: 'First Article'
+      title: 'Third Image'
+      width: 750
+      height: 500
+    -
+      entity: 9274412f-669c-4a45-8404-35b90de73aee
+      alt: 'First Article'
+      title: 'Fourth Image'
+      width: 750
+      height: 500
+    -
+      entity: e335b27c-8703-48bc-b547-25ca174e23b7
+      alt: 'First Article'
+      title: 'Fifth Image'
+      width: 750
+      height: 500
+  field_mt_slideshow:
+    -
+      value: false
+  field_mt_slideshow_image:
+    -
+      entity: f92af009-5f91-477f-a52e-7dc9f61a35bd
+      alt: 'First Article'
+      title: 'First Article'
+      width: 1920
+      height: 650
+  field_mt_slideshow_text:
+    -
+      value: "<p>Conveniently harness frictionless outsourcing whereas state of the art interfaces. Quickly enable prospective technology rather than open-source technologies.</p>\r\n"
+      format: basic_html
+  field_mt_subheader_body:
+    -
+      value: "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>\r\n"
+      format: basic_html
+  field_mt_video:
+    -
+      value: 'https://www.youtube.com/watch?v=ViuDsy7yb8M'

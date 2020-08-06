@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 572473d4-2307-4cd5-b6b0-5ee62b8cf4bc
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: IMG_9607-333x500.png
+  uri:
+    -
+      value: 'public://2020-06/IMG_9607-333x500.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 104186
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1591191758

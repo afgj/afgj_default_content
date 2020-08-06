@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e1fc77f9-2ff9-4be3-9302-860fd22250f7
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Honduras Solidarity'
+  created:
+    -
+      value: 1341489841
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /honduras-solidarity-old
+      langcode: en
+      pathauto: 0
+  body:
+    -
+      value: "<p><img alt=\"\" class=\"aligncenter size-full wp-image-7636\" height=\"225\" src=\"https://afgj.org/wp-content/uploads/2017/03/honduraspageimage.jpg\" width=\"600\" /> Manuel Zelaya, the elected president of Honduras, was overthrown in a right wing coup on June 28, 2009. While at first the administration of US President Barack Obama distanced itself from the coup, it has since been learned that the US government supported the coup and its aftermath in a variety of direct and indirect ways. At the time the coup was underway, there was little in the way of a Honduras solidarity movement here in the US. However, the Alliance for Global Justice had been paying attention when we saw the crisis that was developing in the Central American country and when we got the word that the coup was underway, we started mobilizing immediately and released the first alerts to US activists to take action against what was happening. We also must mention and congratulate our friends at School of the Americas Watch who rapidly organized a demonstration that same day at the Honduran Embassy in Washington DC. We were also co-founders of the Honduras Solidarity Network which we continue to support and participate in. For more information send an email to Eduardo@AFGJ.org or call 202-540-8336 ext. 7.</p>\r\n\r\n<p style=\"text-align: center;\"><strong><a href=\"http://www.hondurassolidarity.org/\">For the latest news on Honduras, click here to visit the site of the Honduras Solidarity Network, a coalition that includes the Alliance for Global Justice</a></strong></p>\r\n\r\n<p style=\"text-align: center;\"><strong><a href=\"https://afgj.org/category/honduras\">Click here to visit AfGJ's archive of Honduras related articles</a></strong></p>\r\n\r\n<section class=\"c8\" id=\"primary\">\r\n<article class=\"post-2073 post type-post status-publish format-standard hentry category-alerts category-honduras category-human-rights category-solidarity\" id=\"post-2073\">\r\n<div class=\"entry-content\">\r\n<div class=\"excerpt\">\r\n<p class=\"more-link-p\">&nbsp;</p>\r\n</div>\r\n</div>\r\n</article>\r\n</section>\r\n<!-- #primary.c8 -->"
+      format: full_html
+      summary: ''

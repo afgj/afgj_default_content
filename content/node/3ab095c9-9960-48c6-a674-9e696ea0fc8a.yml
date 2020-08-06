@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3ab095c9-9960-48c6-a674-9e696ea0fc8a
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Delegations
+  created:
+    -
+      value: 1274365723
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /delegations
+      langcode: en
+      pathauto: 0
+  body:
+    -
+      value: "<p style=\"text-align: left;\">Our&nbsp;delegations to Colombia have helped&nbsp;free political prisoner and expose prison conditions and the role of the US Bureau of Prisons in their creation. In Honduras AfGJ delegations have stopped an illegal eviction of a peasant cooperative in Rigores, accompanied cooperatives under threat of violence in the Aguan Valley, and exposed fraud in the presidential election. AfGJ delegations to Nicaragua and Venezuela have exposed participants to successful poverty reduction and participatory democracy projects that have transformed those countries and would transform our own.</p>\r\n\r\n<p>Nothing promotes peaceful relations more than getting to know the people and culture of another country. Nothing beats witnessing for ourselves the reality of another country to expose the lies of our government and corporate media. Nothing inspires us more to change our own country than to laugh and cry, eat and play, with people who pay the price for the corporate greed and violence created by the US Empire and our own consumerism.</p>\r\n\r\n<p style=\"text-align: center;\"><strong>To request a delegation application, or for more information, contact <a href=\"mailto:delegations@afgj.org\">delegations@afgj.org</a><a href=\"mailto: workertoworker@gmail.com\">&nbsp;</a></strong></p>\r\n\r\n<hr />\r\n<h3 style=\"text-align: center;\">2020 Delegations</h3>\r\n\r\n<ul>\r\n\t<li>April 12-21, 2020, <a href=\"https://afgj.org/sanctions-kill-food-sovereignty-delegation-to-venezuela-april-12-21-2020?fbclid=IwAR3fe27dqZ3gf-kicejPrfgPL1JowSfLnwjYfLOogKuNthCil6sjYB9l4iQ\" rel=\"noopener noreferrer\" target=\"_blank\">Venezuela: Sanctions Kill! – Food Sovereignty Delegation</a></li>\r\n\t<li>May 8-18, Honduras: AfGJ/Honduras Solidarity Network - Emergency Human Rights Delegation focused <span class=\"il\">Honduran</span>&nbsp;Political Prisoners, the victims of political repression and on the human rights activists defending the environment and their communities.</li>\r\n</ul>\r\n\r\n<hr /><!-- pagebreak -->\r\n<h3 class=\"break\"><strong><span style=\"color: #800000;\"><strong><strong>Past Delegations</strong></strong></span></strong></h3>\r\n\r\n<ul>\r\n\t<li>Nov 24 - Dec 4, 2019 <a href=\"https://afgj.org/join-the-uslaw-afgj-delegation-to-colombia-nov-24-dec-4-2019\">AfGJ-US Labor Against the War joint delegation: Union Solidarity Delegation</a></li>\r\n\t<li><a href=\"https://afgj.org/emergency-human-rights-delegation-to-honduras?eType=EmailBlastContent&amp;eId=2f692bd4-982b-4c20-aa45-eb82311aadc1\">March 26-April 2, 2019 Emergency Human Rights Delegation to Honduras</a></li>\r\n\t<li>March 14 - 24, 2019, End the Sanctions against Venezuela Delegation</li>\r\n\t<li><em><a href=\"https://afgj.org/friends-of-the-atc-delegation-announcement\">January 3-13, 2019 Food Sovereignty and Agroecology Delegation to Nicaragua</a></em></li>\r\n\t<li>July 23 - 30, 2018 African Awareness Association Inc.’s Annual&nbsp;<span style=\"letter-spacing: 0.05em;\">‘Black History Educational &amp; Cultural Tour’ from&nbsp;</span><span style=\"letter-spacing: 0.05em;\">Guantanamo to Santiago to Havana,&nbsp;</span><span class=\"il\" style=\"letter-spacing: 0.05em;\">Cuba</span></li>\r\n\t<li><em><em><a href=\"https://afgj.org/hondurasdelegation2018\"><span style=\"color: #808080;\">April 8- 15, 2018</span> Human Rights Delegation to Honduras</a></em></em></li>\r\n\t<li><em><a href=\"https://afgj.org/travel-to-colombia\"><span style=\"color: #808080;\">May 19-29 2018</span> Peacemakers Delegation to Colombia with AfGJ</a></em></li>\r\n\t<li><em>Aug 4-14, 2017: <a href=\"https://afgj.org/paraguaydelegations2017\">Paraguay:</a></em> <em>Land of Inequality and Food Security</em></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><em>March 10-20, 2017: <a href=\"https://afgj.org/mexicodelegation2017\">Why is the US Building Prisons in Mexico? </a></em></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><em>February 17-26, 2017 <a href=\"https://afgj.org/columbiadelegation2016\">&nbsp;Honduras &amp; Nicaragua: Compare &amp; Contrast</a></em></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><em>Sept 29-Oct 5 Colombia: <a href=\"https://afgj.org/columbiadelegation2016\">&nbsp;Delegation of Accompaniment: Stand with Peace in Colombia!</a><a href=\"https://afgj.org/mexico_delegation2016\">&nbsp;</a></em></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><em>May 22- June 1 Colombia: <a href=\"https://afgj.org/return-to-marquetalia-a-delegation-of-accompaniment-in-support-of-colombias-peace-process\">Delegation of Accompaniment in Support of Colombia’s Peace Process</a></em></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><em>June 20-July 1 Nicaragua:&nbsp;<a href=\"https://afgj.org/nica-atc-delegation-2016\">Food and Sovereignty&nbsp;and Agroeology</a>. Co Sponsored by AFGJ.</em></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><em>June 27-July 6 &nbsp;Honduras: <a href=\"https://afgj.org/honduras-delegation-2016\">Human Rights Accompaniment for Communities in Struggle&nbsp;</a></em></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><em>April 8-17&nbsp;<a href=\"https://afgj.org/?page_id=6433&amp;preview=true\">Venezuela: A Revolution Worth Our Solidarity</a></em></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><em>April 11-18, 2015: <a href=\"https://afgj.org/meet-with-colombia-peace-negotiators-in-havana-cuba\">Cuba: Meet with Colombian Peace Negotiators in Havana, Cuba</a></em></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><em>July 22-Aug 1, 2015: <a href=\"https://afgj.org/hondurasnicaragua\">Bi-National Delegation: Honduras and Nicaragua</a></em></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><em>December 3 - 13, 2014: <a href=\"https://afgj.org/ecology-and-climate-justice-delegation-to-peru\">Peru: Ecology and Climate Justice</a></em></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><em>November 8 - 16, 2014: <a href=\"https://afgj.org/honduras-delegation-contrasting-models-of-development?preview=true\">Honduras: Community-led Development vs. Top-down Development</a></em></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><em>August 3 - 12, 2014: <a href=\"https://afgj.org/two-exciting-summer-delegations-to-central-america\">Nicaragua: Climate Change</a></em></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><em>June 22 - July 1, 2014<span style=\"letter-spacing: 0.05em;\">: </span><a href=\"https://afgj.org/honduras-human-rights-accompaniment-delegation\" style=\"letter-spacing: 0.05em;\">Honduras: Human Rights Accompaniment</a></em></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><em>March 15 -25th, 2014:&nbsp;<a href=\"https://afgj.org/nicaragua-indigenous-rights-delegation\">Nicaragua Indigenous Rights Delegation</a></em></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><em>June 10 - 21st, 2013: <a href=\"https://afgj.org/climate-change-delegation-to-nicaragua-june-10-21st\">Climate Change Delegation to Nicaragua. </a></em></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><em>November 17 - 26th, 2013: Election Monitoring Delegation to Honduras</em></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><em>March 22 - April 1, 2013: <a href=\"https://afgj.org/join-our-delegation-to-colombia-hosted-by-the-marcha-patriotica-fensuagro-and-lazos-de-dignidad\">Delegation to Colombia, Hosted by the Marcha Patriótica, FENSUAGRO and Lazos de Dignidad</a></em></li>\r\n</ul>\r\n"
+      format: full_html
+      summary: ''

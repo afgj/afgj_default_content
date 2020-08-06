@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: cdb59341-cd85-4410-a92a-b1ab941d0569
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Subscribe to the Alliance for Global Justice'
+  created:
+    -
+      value: 1537890401
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /subscribe
+      langcode: en
+      pathauto: 0
+  body:
+    -
+      value: "<div id=\"e20c893a-3e67-4172-b67f-3b0af3f78432\"><script type=\"text/javascript\" src=\"https://default.salsalabs.org/api/widget/template/9522d199-f687-4216-97e2-8410ccb0b1f8/?tId=e20c893a-3e67-4172-b67f-3b0af3f78432\" ></script></div>\r\n"
+      format: full_html
+      summary: ''

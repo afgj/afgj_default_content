@@ -1,0 +1,73 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8da71b78-f2e0-4a9c-8e02-bc9750cc80d2
+  bundle: article
+  default_langcode: en
+  depends:
+    559721eb-b73d-4d86-a9b5-58f46584daa3: taxonomy_term
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    651e78fc-4c64-4360-99ef-2b7731c81f5e: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    b2c352f2-62d9-485a-b8f0-d6687d083f48: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Be a Peacemaker! Join AfGJ''s Colombia Delegation, June 30-July 10, 2017'
+  created:
+    -
+      value: 1493801734
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /be-peacemaker-join-afgjs-colombia-delegation-june-30-july-10-2017
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<h3 style=\"text-align: center;\"><b>Join the Alliance for Global Justice delegation to Colombia June 30-July 10, 2017! Get your application today by sending an email to </b><a href=\"mailto:Delegations@AFGJ.org\"><b>Delegations@AFGJ.org</b></a></h3>\n<img class=\"alignleft size-full wp-image-7745\" src=\"https://afgj.org/wp-content/uploads/2017/05/20160926_182839-Copy.jpg\" alt=\"\" width=\"396\" height=\"527\" />This delegation will conduct investigations into peace accords concerning political prisoner reintegration into civil society in Colombia. This is a central component of accords ending more than 50 years of civil war. We will visit with experts, government officials, former political prisoners and former insurgents of the FARC-EP (Revolutionary Armed Forces of Colombia-People’s Army). The delegation’s detailed report will provide independent and international verification regarding relevant provisions of the peace process.\n\nYour participation in this effort will be part of history and leave behind a collective, as well as personal, legacy of solidarity, peace, justice and sustainability. Your presence in Colombia and work on this report will provide exactly the kind of global awareness that saves lives by helping neutralize paramilitary threats and other obstacles. You will be able to say that you helped lay the foundation for a durable peace in Colombia. For those of us from the United States, we will be able to in part counteract years of support for repression carried out by our government in our names.\n\nColombia has had other peace processes and they have failed because the enemies of peace were ruthless in their attacks on the hopes and aspirations of the people. An example is the peace process of the 1980s and 90s that was drowned in blood as some 5,000 Leftist electoral candidates and officials were murdered in a ten-year campaign of political violence. Our partners have told us repeatedly the solidarity and awareness of the international community was largely missing in that period. We have been implored to bring people to Colombia who can make sure that this sad situation never happens again! Let’s do our part to end the bloodshed so that a new Colombia can be born--the positive repercussions will resound throughout the hemisphere and the planet!\n\nAre you ready to be an international peacemaker? This delegation is a great place to start!\n<p style=\"text-align: center;\">The delegation’s price is $1200. That covers lodging, at least two meals a day, all in-country transportation, interpretation and other delegation related costs. Not covered are international airfare to and from Colombia.</p>\n\n<h2 style=\"text-align: center;\">Send an email today to <a href=\"mailto:Delegations@AFGJ.org\">Delegations@AFGJ.org</a> to request an application.</h2>\n<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-7744\" src=\"https://afgj.org/wp-content/uploads/2017/05/20160926_162559-Copy.jpg\" alt=\"\" width=\"471\" height=\"628\" /></p>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 559721eb-b73d-4d86-a9b5-58f46584daa3
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 651e78fc-4c64-4360-99ef-2b7731c81f5e
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: b2c352f2-62d9-485a-b8f0-d6687d083f48
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

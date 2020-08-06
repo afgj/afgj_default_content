@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: ba9d93ab-3aff-4cb4-88ee-b81873005025
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: ConstantWarFunding.png
+  uri:
+    -
+      value: 'public://2020-06/ConstantWarFunding.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 133521
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1591191924

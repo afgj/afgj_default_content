@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ba5ac53f-e4df-4391-aa6a-3aadae93fd5e
+  bundle: article
+  default_langcode: en
+  depends:
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+    c8b9868c-1c34-4205-8f32-325e70d9a254: taxonomy_term
+    2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Register Now! Venezuela Webinar This Sunday! UN Official to Present on Venezuela'
+  created:
+    -
+      value: 1516878932
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /register-now-venezuela-webinar-sunday-un-official-present-venezuela-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"wp-image-7078 size-full aligncenter\" src=\"https://afgj.org/wp-content/uploads/2016/09/VSN-webinar.jpg\" alt=\"Venezuela Monthly Webinar Series Mural Header by Alliance for Global Justice and the Venezuela Solidarity campaign\" width=\"960\" height=\"510\" />\n\nThis series of one-hour webinars on the last Tuesday of each month\_features scholars, Venezuela government officials, writers, solidarity\_activists and others with firsthand knowledge of Venezuela and US-Venezuela relations. Venezuela remains a top target of US “regime\_change” strategies and will remain so no matter who is elected president\_in November. These webinars are designed to inform and motivate\_solidarity with the Bolivarian process in Venezuela and to expose and\_oppose US intervention.\n\n<hr />\n\n<h2 style=\"text-align: center;\"><span style=\"color: #3366ff;\">To View a Recording of this Webinar\_<a style=\"color: #3366ff;\" href=\"https://www.anymeeting.com/bqogdnpvfdkbr/E956D788874F30\" target=\"_blank\" rel=\"noopener\">Click Here</a></span></h2>\n<h2 style=\"text-align: center;\">\"Findings on the Humanitarian Situation in Venezuela and the Effects of International Sanctions\"\nUN Official to Present in Sunday Webinar on Venezuela</h2>\n<h2 style=\"text-align: center;\">Presenter: Alfred de Zayas\nSunday January 28,\n3 pm\_– 4 pm EST / Noon – 1 pm PST</h2>\n<span style=\"font-weight: 400;\">After a November mission to Venezuela, UN Independent Expert Alfred de Zayas angered the Venezuela opposition and its US government sponsors by declaring that there is “no humanitarian crisis in Venezuela.” The Alliance for Global Justice and Venezuela Strategy Group is excited to have Mr. de Zayas discuss his investigation and conclusions in a webinar.</span>\n\n<hr />\n\n<img class=\"alignleft size-full wp-image-8892\" src=\"https://afgj.org/wp-content/uploads/2018/01/Alfred-de-Zayas.jpg\" alt=\"\" width=\"360\" height=\"360\" />\n<div id=\"m_-3786212050154025529m_4107628146660661525gmail-m_-2787944241926530888m_3206826190664645305gmail-m_1089538694461398405m_2988922266101771603yui_3_16_0_ym19_1_1516754600396_4343\"><span id=\"m_-3786212050154025529m_4107628146660661525gmail-m_-2787944241926530888m_3206826190664645305gmail-m_1089538694461398405m_2988922266101771603yui_3_16_0_ym19_1_1516754600396_4344\" lang=\"EN-US\">Alfred-Maurice de Zayas (born May 31, 1947, Havana, Cuba) is an American lawyer, writer, historian, a leading expert in the field of human rights and international law and retired high-ranking United Nations official. Since 2012, he has been the UN Independent Expert on the Promotion of a Democratic and Equitable International Order (appointed by the United Nations Human Rights Council).<u></u><u></u></span></div>\n<div id=\"m_-3786212050154025529m_4107628146660661525gmail-m_-2787944241926530888m_3206826190664645305gmail-m_1089538694461398405m_2988922266101771603yui_3_16_0_ym19_1_1516754600396_4346\"><span id=\"m_-3786212050154025529m_4107628146660661525gmail-m_-2787944241926530888m_3206826190664645305gmail-m_1089538694461398405m_2988922266101771603yui_3_16_0_ym19_1_1516754600396_4347\" lang=\"EN-US\">\_</span></div>\n<div id=\"m_-3786212050154025529m_4107628146660661525gmail-m_-2787944241926530888m_3206826190664645305gmail-m_1089538694461398405m_2988922266101771603yui_3_16_0_ym19_1_1516754600396_4348\" dir=\"ltr\"><span id=\"m_-3786212050154025529m_4107628146660661525gmail-m_-2787944241926530888m_3206826190664645305gmail-m_1089538694461398405m_2988922266101771603yui_3_16_0_ym19_1_1516754600396_4349\" lang=\"EN-US\">In September 2014 the Human Rights Council extended his mandate through 2018. De Zayas is currently a professor of International Law at the Geneva School of Diplomacy and International Relations. He formerly worked with the United Nations from 1981-2003 as a senior lawyer with the Office of the UN High Commissioner for Human Rights, Secretary of the Human Rights Committee, and the Chief of Petitions. Zayas practiced law in New York and Florida 1970-74. De Zayas' work focuses on the judicial protection of peoples and minorities.</span></div>\n<h2 style=\"text-align: center;\"><a href=\"http://www.anymeeting.com/PIID=ED53D887854B31\" target=\"_blank\" rel=\"noopener\">Register Now!</a></h2>\nPlease share the <a href=\"https://www.anymeeting.com/AccountManager/RegEv.aspx?PIID=ED53D887854B31\" target=\"_blank\" rel=\"noopener\">registration link </a>widely. You can participate by phone or through\_your computer but your computer will give you a much fuller experience if you\_participate through your computer.\n<h2 style=\"text-align: center;\"><strong>These monthly webinars are one hour long\nand you must\_<a href=\"http://www.anymeeting.com/PIID=ED53D887854B31\" target=\"_blank\" rel=\"noopener\">REGISTER</a>\_to participate.\_\_</strong></h2>\nOur webinar platform only supports Chrome and Firefox, so if you use a different browser, you’ll need to download a free copy of Chrome or Firefox to participate.\n\n<hr />\n\nInterested in keeping up with the news from Venezuela?\_AfGJ's Venezuela Weekly\_contains a few useful articles on Venezuela that contain bite-sized dose of the truth\_so that you can fight the disinformation in your own community, that so much of the\_media, including alternative media are putting out.\_<strong><a href=\"http://org2.salsalabs.com/o/7315/signup_page/venweekly\" target=\"_blank\" rel=\"noopener\">Subscribe Here!</a></strong>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+    -
+      entity: c8b9868c-1c34-4205-8f32-325e70d9a254
+    -
+      entity: 2e3c5e6b-e4c4-4ea9-9c29-b6a67f3af7cb
+  field_mt_slideshow:
+    -
+      value: false

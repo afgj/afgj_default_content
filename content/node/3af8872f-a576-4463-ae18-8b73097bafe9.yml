@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3af8872f-a576-4463-ae18-8b73097bafe9
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    f5230e01-a41d-4724-9d21-4fa657d546f5: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela Weekly 4.6.2018 West''s Blatant Double Standard on Israel and Venezuela'
+  created:
+    -
+      value: 1523087693
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-weekly-462018-wests-blatant-double-standard-israel-and-venezuela
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<img class=\"aligncenter wp-image-9519 size-full\" src=\"https://afgj.org/wp-content/uploads/2018/04/Maduro-Palestine-copy.jpg\" alt=\"\" width=\"600\" height=\"340\" />\r\n\r\n<a href=\"https://www.change.org/p/end-julian-assange-s-isolation?recruiter=15727331&amp;utm_source=share_petition&amp;utm_medium=twitter&amp;utm_campaign=psf_combo_share_initial\" target=\"_blank\" rel=\"noopener\">Sign Petition for Julian Assange</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://www.firethistime.net/articles/Volume12/V12I4/todos-somos-venezuela-report.html\" target=\"_blank\" rel=\"noopener\">In Depth Report on March Todos Somos Venezuela Conference by Fire This Time</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/analysis/13747\" target=\"_blank\" rel=\"noopener\">Miguel Rodriguez Torres is a Human Rights Violator and Enemy of Popular Movements who has Aligned Himself with Venezuela's Violent Right-Wing Opposition</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://venezuelanalysis.com/analysis/13750\" target=\"_blank\" rel=\"noopener\">Venezuela Condemns Israeli Crimes in Gaza</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://en.granma.cu/mundo/2018-04-03/israeli-violence-against-palestinians-causes-global-outrage\" target=\"_blank\" rel=\"noopener\">Granma: Israeli Violence Against Palestinians Causes Global Outrage</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.mintpressnews.com/venezuela-hits-back-following-new-sanctions-over-alleged-funding-of-wmd-and-terrorism/240053/\" target=\"_blank\" rel=\"noopener\">Venezuela Responds to Panama/ Switzerland Smears That it Launders Money,Finances Terrorism and WMD</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://reinounido.embajada.gob.ve/index.php?view=article&amp;catid=3%3Anoticias-de-venezuela-en-el-mundo&amp;id=848%3Acomunicadosolidaridadconlulabrasil&amp;format=pdf&amp;lang=en\" target=\"_blank\" rel=\"noopener\">Venezuela Condemns Gross Injustice Against Brazil's Lula</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Maduro-Spains-Persecution-of-Catalan-Leaders-Shameful-20180325-0020.html\" target=\"_blank\" rel=\"noopener\">Maduro Condemns Spanish Repression of Catalonia's Leaders as Shameful</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.telesurtv.net/english/news/Venezuela-Inaugurates-University-in-Honor-of-Martin-Luther-King-20180404-0010.html\" target=\"_blank\" rel=\"noopener\">Venezuela Inaugurates University in Honor of Martin Luther King</a>\r\n\r\n<hr />\r\n\r\n<a href=\"http://en.granma.cu/mundo/2018-04-02/fake-news-a-new-name-for-old-practices\" target=\"_blank\" rel=\"noopener\">Cuba's Granma on Fake News</a>\r\n\r\n<hr />\r\n\r\n<a href=\"https://www.counterpunch.org/2018/04/05/ecuadorean-villagers-may-still-triumph-over-chevron/\" target=\"_blank\" rel=\"noopener\">Ecuadorean Villagers May Still Triumph Over Chevron</a>\r\n\r\n<hr />\r\n\r\n&nbsp;\r\n\r\n<strong>Other Issues:</strong>\r\n\r\n<a href=\"http://theinternationalcommittee.org/support-colombian-political-prisoner-simon-trinidad-held-at-us-maximum-security-prison/\" target=\"_blank\" rel=\"noopener\">Support US Political Prisoner Simon Trinidad</a>\r\n\r\n<a href=\"http://www.prolibertad.org/ana-belen-montes\" target=\"_blank\" rel=\"noopener\">The ProLibertad Freedom Campaign: Free Ana Belen Montes</a>\r\n\r\n<hr />\r\n\r\n<strong>Delegations</strong>\r\n\r\n<a href=\"https://afgj.org/hondurasdelegation2018\" target=\"_blank\" rel=\"noopener\">April Human Rights Delegation to Honduras</a>\r\n\r\n<a href=\"https://afgj.org/travel-to-colombia\" target=\"_blank\" rel=\"noopener\">May Peacemakers Delegation to Colombia</a>\r\n\r\n<a href=\"https://afgj.org/partner-delegation-atc\" target=\"_blank\" rel=\"noopener\">June Agrarian &amp; Worker Struggle Delegation to Nicaragua</a>\r\n\r\n<a href=\"https://afgj.org/artist-delegation-nicaragua\" target=\"_blank\" rel=\"noopener\">August Artist Delegation to Nicaragua</a>\r\n\r\n<hr />\r\n\r\n<h2 style=\"text-align: center;\"><strong>About the Weekly</strong></h2>\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n&nbsp;\r\n\r\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: f5230e01-a41d-4724-9d21-4fa657d546f5
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 73e0e117-99b4-4e98-ae19-cf9f811ece06
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: c1NEWoOA.jpeg
+  uri:
+    -
+      value: 'public://2020-06/c1NEWoOA.jpeg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 722248
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1591127636

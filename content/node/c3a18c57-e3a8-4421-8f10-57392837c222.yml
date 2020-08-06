@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c3a18c57-e3a8-4421-8f10-57392837c222
+  bundle: article
+  default_langcode: en
+  depends:
+    d970c4e8-97e9-472e-a4f1-ea46f031ca27: taxonomy_term
+    10a9386a-1426-45c8-87e6-53fb3301da59: taxonomy_term
+    ff23272a-2c6a-4d3f-b137-4c19843845a6: taxonomy_term
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Bilingual WEBINAR presented by the Honduras Solidarity Network'
+  created:
+    -
+      value: 1544296455
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /bilingual-webinar-presented-honduras-solidarity-network
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "[español abajo]\r\n\r\n<img class=\"wp-image-8572 aligncenter\" src=\"https://afgj.org/wp-content/uploads/2017/12/Screen-Shot-2017-12-12-at-4.11.33-PM-300x124.png\" alt=\"Honduras Solidarity Network HSN\" width=\"444\" height=\"194\" />\r\n<h1 style=\"text-align: center;\">Roots of the Exodus: from the Honduran political crisis to the Refugee caravan- an update</h1>\r\n<p class=\"m_1113558231395510200gmail-p1\" style=\"text-align: center;\"><strong><span class=\"m_1113558231395510200gmail-s1\">Tuesday, December 11 at 7pm CT and Central American Time/8pm ET/6pm MT/5pm PT</span></strong></p>\r\n<a href=\"https://zoom.us/webinar/register/WN_ly_t6AxTTHq3SqQSsrzCFA\" target=\"_blank\" rel=\"noopener\"><img class=\"aligncenter wp-image-10366\" src=\"https://afgj.org/wp-content/uploads/2018/07/register-now-300x162-300x162.jpg\" alt=\"\" width=\"180\" height=\"105\" /></a>\r\n\r\n<hr />\r\n\r\nP<img class=\"size-medium wp-image-11019 alignright\" style=\"letter-spacing: 0.05em;\" src=\"https://afgj.org/wp-content/uploads/2018/12/bartolo-540x540-274x300.jpg\" alt=\"\" width=\"274\" height=\"300\" /><span style=\"letter-spacing: 0.05em;\">lease join this Honduras Solidarity Network webinar with Honduran journalist, former opposition congressman, and human rights defender, <strong>Bartolo Fuentes</strong> <strong>who was accompanying the Refugee Caravan until he was detained by Guatemalan officials and deported to Honduras</strong>. Bartolo began his activism as a young student and was forced to leave Honduras for a time due to political persecution for his opposition to th</span><span style=\"letter-spacing: 0.05em;\">e US wars in Central America. Bartolo has been active for years on migration and was one of the founders of the Honduran organization COFAMIPRO (Committe of the Families of Disappeared Migrants of Progreso). After the 2009 coup, Bartolo joined the resistance movement and organizations and was elected to Congress 2014-2017 as a member of the anti-coup party LIBRE. After his deportation from Guatemala this fall, the Honduran regime threatened to prosecute Bartolo for human trafficking because of his accompaniment and advocacy for the Honduran refugees and his opposition to the current regime. He has had to seek refuge outside Honduras.</span>\r\n<p style=\"text-align: right;\"><img class=\"wp-image-11020 alignleft\" style=\"letter-spacing: 0.8px; text-align: center;\" src=\"https://afgj.org/wp-content/uploads/2018/12/bartolo-caravana-1-300x150.jpg\" alt=\"\" width=\"371\" height=\"197\" /></p>\r\n<a href=\"https://zoom.us/webinar/register/WN_ly_t6AxTTHq3SqQSsrzCFA\" target=\"_blank\" rel=\"noopener\"><strong>You must register to participate</strong></a>. The webinar will be done using the Zoom webinar platform in Spanish.\r\n\r\n<strong>Simultaneous English interpretation will be available by calling +1 (619) 309-1058, PIN 695050.</strong> This is made possible by our comrades at Interoccupy.\r\n\r\n**We will be recording the webinar and will make it available shortly after.\r\n\r\n<hr />\r\n\r\n&nbsp;\r\n\r\n<span style=\"font-weight: 400;\">Seminario virtual bilingüe presentado por la Red de Solidaridad con Honduras</span>\r\n<h1><b>Raíces del Éxodo: de la Crisis Política Hondureña a la Caravana de Refugiadxs – Una Actualización</b></h1>\r\n<b>Martes, 11 de diciembre, 7pm CST / horas de Centroamérica / 8pm EST / 6pm MST / 5pm PST</b>\r\n\r\n<a href=\"https://default.salsalabs.org/Tf8a73589-100d-4032-9e77-22008b63bee2/038df965-8375-44d1-af3e-d98bbfdecde2\"><b>Inscríbete Aquí</b></a>\r\n\r\n<span style=\"font-weight: 400;\">Participa en un seminario virtual de la Red de Solidaridad con Honduras con Bartolo Fuentes, periodista hondureño, ex-congresista de oposición y defensor de derechos humanos. </span><b>Bartolo Fuentes, acompañó la Caravana de Refugiadxs hasta que fue detenido por oficiales de Guatemala y deportado a Honduras.</b><span style=\"font-weight: 400;\"> Bartolo comenzó su activismo como joven estudiante y se vio obligado salir de Honduras temporalmente debido a la persecución política que enfrentó por su oposición a las guerras de los EE.UU. en Centroamérica. Bartolo ha estado involucrado por años en temas de migración y es co-fundador de la organización hondureña COFAMIPRO (Comité de Familiares de Migrantes Desaparecidos del Progreso). Después del golpe de estado del 2009, Bartolo se sumó al movimiento de resistencia, fue electo al congreso durante 2014-2017 como miembro del partido anti-golpista LIBRE. Después de su deportación desde Guatemala este otoño, el régimen hondureño amenazó con procesar a Bartolo por tráfico de personas como consecuencia del acompañamiento y defensa de lxs refugiadxs, y su oposición al régimen actual. Tuvo que salir del país durante un tiempo.</span>\r\n\r\n<a href=\"https://default.salsalabs.org/T9d6ad419-34b2-4ff0-a193-48cf5cf5aba1/038df965-8375-44d1-af3e-d98bbfdecde2\"><b>Tienes que inscribirte para participar</b></a><span style=\"font-weight: 400;\">. El seminario virtual se realizará en español en la plataforma Zoom.</span>\r\n\r\n<b>Interpretación simultánea al inglés estará disponible llamando al +1 (619) 309-1058, PIN 695050.</b><span style=\"font-weight: 400;\"> Esto es posible gracias a nuestros camaradas de Interoccupy.</span>\r\n\r\n<span style=\"font-weight: 400;\">**Estaremos grabando este seminario virtual y estará disponible poco después de su realización.</span>\r\n\r\n<hr />\r\n\r\n<a href=\"https://zoom.us/webinar/register/3215442073595/WN_ly_t6AxTTHq3SqQSsrzCFA\" target=\"_blank\" rel=\"noopener\"><img class=\"aligncenter wp-image-10366 size-medium\" src=\"https://afgj.org/wp-content/uploads/2018/07/register-now-300x162-300x162.jpg\" alt=\"\" width=\"300\" height=\"162\" /></a>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: d970c4e8-97e9-472e-a4f1-ea46f031ca27
+    -
+      entity: 10a9386a-1426-45c8-87e6-53fb3301da59
+    -
+      entity: ff23272a-2c6a-4d3f-b137-4c19843845a6
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+  field_mt_slideshow:
+    -
+      value: false

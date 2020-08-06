@@ -1,0 +1,195 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 2c242b3c-5f08-49b5-9943-898d1f992ced
+  bundle: mt_fancy_linked_images_block
+  default_langcode: en
+  depends:
+    613e5145-7717-48fe-ade1-65160ef77295: file
+    bc6a3c4b-c569-438d-8576-0be201875e8e: file
+    04f7bc11-7833-484d-9938-804f6ebd555c: file
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Fancy linked images'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_fancy_linked_image:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: d110a7c6-6a78-4bf2-b080-4ce4a8182e57
+          bundle: mt_fancy_linked_image
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1474456132
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_fli_button_fa_icon:
+            -
+              icon_name: shopping-bag
+              style: fas
+              settings:
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''
+          field_mt_fli_image:
+            -
+              entity: 613e5145-7717-48fe-ade1-65160ef77295
+              alt: 'fancy image one'
+              title: 'fancy image one'
+              width: 750
+              height: 750
+          field_mt_fli_link:
+            -
+              uri: 'internal:/products-3-col'
+              title: Products
+              options: {  }
+          field_mt_fli_shape:
+            -
+              value: pentagon
+          field_mt_fli_title:
+            -
+              value: 'Offers on new Products'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 388d8887-1840-42a8-8380-89ea40c55440
+          bundle: mt_fancy_linked_image
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1474456348
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_fli_button_fa_icon:
+            -
+              icon_name: envelope
+              style: fas
+              settings:
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''
+          field_mt_fli_image:
+            -
+              entity: bc6a3c4b-c569-438d-8576-0be201875e8e
+              alt: 'fancy image two'
+              title: 'fancy image two'
+              width: 750
+              height: 750
+          field_mt_fli_link:
+            -
+              uri: 'internal:/contact'
+              title: 'Reach out'
+              options: {  }
+          field_mt_fli_shape:
+            -
+              value: circle
+          field_mt_fli_title:
+            -
+              value: 'Refer a friend'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 1fe59ee3-3837-4438-a754-49117863bdae
+          bundle: mt_fancy_linked_image
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1474456368
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_fli_button_fa_icon:
+            -
+              icon_name: envelope
+              style: fas
+              settings:
+                masking:
+                  mask: ''
+                  style: fas
+                power_transforms:
+                  scale:
+                    type: ''
+                    value: ''
+                  position_y:
+                    type: ''
+                    value: ''
+                  position_x:
+                    type: ''
+                    value: ''
+          field_mt_fli_image:
+            -
+              entity: 04f7bc11-7833-484d-9938-804f6ebd555c
+              alt: 'fancy image three'
+              title: 'fancy image three'
+              width: 750
+              height: 750
+          field_mt_fli_link:
+            -
+              uri: 'internal:/contact'
+              title: 'Contact us'
+              options: {  }
+          field_mt_fli_shape:
+            -
+              value: rectangle
+          field_mt_fli_title:
+            -
+              value: 'Become a Representative'

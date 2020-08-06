@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 21239a24-9067-424a-a412-2bc4c38d3b07
+  bundle: basic
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Still have questions?'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"contact-info__text-secondary text-center mb-0\">Questions? Contact the Association Management office at</div>\r\n\r\n<div class=\"contact-info__text-primary text-center\">(012) 345 - 6789 or <a class=\"link--bordered\" href=\"#\">info@businessplus.edu</a></div>\r\n"
+      format: full_html
+      summary: ''

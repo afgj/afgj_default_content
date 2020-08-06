@@ -1,0 +1,191 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: e063c791-93fb-43c0-a379-811a3a29ccc8
+  bundle: mt_fltt_block
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Why Me?'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_mt_fltt:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: c1e0c58d-a303-496f-8e3c-901843375ec2
+          bundle: mt_featured_linked_text_tile
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1479316272
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_fltt_body:
+            -
+              value: "<p>I take the time to listen to your needs understand your business to ensure my design solutions will be effective.</p>\r\n"
+              format: basic_html
+          field_mt_fltt_title:
+            -
+              value: 'Listening Skills'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: bbc397c8-3c34-47c6-92da-f26bc8c3ae1b
+          bundle: mt_featured_linked_text_tile
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1479316329
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_fltt_body:
+            -
+              value: "<p>You’ll have a veteran creative director &amp; team of experienced pros working on your account, not entry-level ones.</p>\r\n"
+              format: basic_html
+          field_mt_fltt_title:
+            -
+              value: Experience
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 00f6cffb-868a-4eb0-bd1d-382b7477c063
+          bundle: mt_featured_linked_text_tile
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1479316362
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_fltt_body:
+            -
+              value: "<p>Every business is important &amp; we are focused on developing a successful &nbsp;relationship with each one.</p>\r\n"
+              format: basic_html
+          field_mt_fltt_title:
+            -
+              value: 'Our Size'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 0a713f3a-7d1b-4b88-a0a7-6ac2095c1493
+          bundle: mt_featured_linked_text_tile
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1479316386
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_fltt_body:
+            -
+              value: "<p>Our pricing packages are customized for your company’s unique needs. We deliver the highest value.</p>\r\n"
+              format: basic_html
+          field_mt_fltt_title:
+            -
+              value: 'Our Value'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 56b278c3-7912-48e0-acb5-f5f40c73d582
+          bundle: mt_featured_linked_text_tile
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1479316437
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_fltt_body:
+            -
+              value: "<p>We are humbled and honored by this and work to create that kind of trust with each of our clients.</p>\r\n"
+              format: basic_html
+          field_mt_fltt_title:
+            -
+              value: Relationships
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: e6934dc7-83f4-4623-a594-f261414f4227
+          bundle: mt_featured_linked_text_tile
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1479316455
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_mt_fltt_body:
+            -
+              value: "<p>We care about our clients and can often be found working out of hours to get everything.</p>\r\n"
+              format: basic_html
+          field_mt_fltt_title:
+            -
+              value: Passionate

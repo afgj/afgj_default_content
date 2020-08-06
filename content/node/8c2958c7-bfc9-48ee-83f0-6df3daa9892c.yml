@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8c2958c7-bfc9-48ee-83f0-6df3daa9892c
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: National
+  created:
+    -
+      value: 1342099528
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /national
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<span style=\"color: #0070c0; font-size: 14pt;\"><strong><span style=\"color: #008080;\">NATIONAL - FISCALLY SPONSORED PROJECTS </span>\r\n</strong></span>\r\n<ul>\r\n\t<li>Cindy Sheehan's Soapbox\r\n<span style=\"color: #ff6600;\"> <a href=\"http://cindysheehanssoapbox.blogspot.com/\"><span style=\"color: #ff6600;\">cindysheehanssoapbox.blogspot.com</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Courage to Resist <span style=\"color: #333333;\">(<a href=\"https://afgj.org/sponsored-projects/fiscally-sponsored-projects/national/courage-to-resist\"><span style=\"color: #333333;\">See CTR introduction in Global Justice Monitor</span></a>)</span>\r\n<span style=\"color: #ff6600;\"> <a href=\"http://www.couragetoresist.org/\"><span style=\"color: #ff6600;\">www.couragetoresist.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Desert Storm Think Tank and All Veterans' Advocate\r\n(contact paxelrod1675@yahoo.com, 847-362-3658)</li>\r\n</ul>\r\n<ul>\r\n\t<li>End US Wars\r\n<span style=\"color: #ff6600;\"> <a href=\"http://www.EndUSWars.org\"><span style=\"color: #ff6600;\">www.EndUSWars.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Fossil Fuel Divestment Student Network\r\n<span style=\"color: #ff6600;\"> <a href=\"http://studentsdivest.org\"><span style=\"color: #ff6600;\">studentsdivest.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>InterOccupy\r\n<span style=\"color: #ff6600;\"> <a href=\"http://www.interoccupy.net\"><span style=\"color: #ff6600;\">www.interoccupy.net</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>It's Our Economy\r\n<span style=\"color: #ff6600;\"> <a href=\"http://itsoureconomy.us/\"><span style=\"color: #ff6600;\">itsoureconomy.us</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>LGBT Freedom and Asylum Network\r\n<span style=\"color: #ff6600;\"> <a href=\"http://www.lgbt-fan.org/\"><span style=\"color: #ff6600;\">www.lgbt-fan.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Military Resistance\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.militaryproject.org/\"><span style=\"color: #ff6600;\">www.militaryproject.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Movement Net Lab\r\n<span style=\"color: #ff6600;\"><span style=\"color: #ff6600;\">www.movementnetlab.org</span></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>National Coalition to Protect Student Privacy\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.studentprivacy.org/\"><span style=\"color: #ff6600;\">www.studentprivacy.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>National Immigrant Solidarity Network\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.immigrantsolidarity.org\"><span style=\"color: #ff6600;\">http://www.immigrantsolidarity.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>National Immigrant Youth Alliance (NIYA)\r\n<span style=\"color: #ff6600;\"><a href=\"http://theniya.org\"><span style=\"color: #ff6600;\">theniya.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>National Network Opposing the Militarization of Youth (NNOMY)\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.nnomy.org/\"><span style=\"color: #ff6600;\">www.nnomy.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Occucards.com\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.occucards.com/\"><span style=\"color: #ff6600;\">www.occucards.com</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Occupy Wall Street\r\n<span style=\"color: #ff6600;\"> <a href=\"https://occupywallst.org/\"><span style=\"color: #ff6600;\">www.occupywallst.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Pan-African Roots\r\n<span style=\"color: #ff6600;\">no website, contact Bob Brown at paroots02@yahoo.com or (202) 239-1651</span></li>\r\n</ul>\r\n<ul>\r\n\t<li>People's Congress\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.peoplescongress.org/\"><span style=\"color: #ff6600;\">www.peoplescongress.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Poor People's Economic Human Rights Campaign/Education Center\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.economichumanrights.org\"><span style=\"color: #ff6600;\">www.economichumanrights.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Project Safe Haven\r\n<span style=\"color: #ff6600;\"><a href=\"http://safehavenproject.org\"><span style=\"color: #ff6600;\">www.safehavenproject.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>Stop Mass Incarceration Network\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.stopmassincarceration.org/\"><span style=\"color: #ff6600;\">www.stopmassincarceration.org/</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>United Students Against Sweatshops\r\n<span style=\"color: #ff6600;\"><a href=\"http://studentsagainstsweatshops.org/index.php\"><span style=\"color: #ff6600;\">www.studentsagainstsweatshops.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>WillNotBuy\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.willnotbuy.org\"><span style=\"color: #ff6600;\">www.willnotbuy.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>US Labor Against the War\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.uslaboragainstwar.org/\"><span style=\"color: #ff6600;\">www.uslaboragainstwar.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>World Beyond War\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.worldbeyondwar.org/\"><span style=\"color: #ff6600;\">www.worldbeyondwar.org</span></a></span></li>\r\n</ul>\r\n<ul>\r\n\t<li>World Can't Wait\r\n<span style=\"color: #ff6600;\"><a href=\"http://www.worldcantwait.org\"><span style=\"color: #ff6600;\">www.worldcantwait.org</span></a></span></li>\r\n</ul>\r\n&nbsp;\r\n<h2 style=\"padding-left: 30px;\"></h2>\r\n&nbsp;\r\n<h2 style=\"padding-left: 30px; text-align: center;\"><strong><span style=\"color: #008080;\"><span style=\"color: #ff6600;\"><a title=\"Donations\" href=\"https://org2.salsalabs.com/o/7315/donate_page/fiscally-sponsored-projects\"><span style=\"color: #ff6600;\">DONATE</span></a></span> TO A FISCALLY SPONSORED PROJECTS</span></strong></h2>\r\n<h2 style=\"padding-left: 30px; text-align: center;\"><strong><span style=\"color: #008080;\"><span style=\"color: #ff6600;\"><a title=\"Fiscally Sponsored Projects\" href=\"https://afgj.org/sponsored-projects/fiscally-sponsored-projects\"><span style=\"color: #ff6600;\">ABOUT</span></a></span> FISCAL SPONSORSHIP</span></strong></h2>\r\n<p style=\"padding-left: 30px;\"><strong><span style=\"text-decoration: underline;\">\r\n</span></strong></p>"
+      format: full_html
+      summary: ''

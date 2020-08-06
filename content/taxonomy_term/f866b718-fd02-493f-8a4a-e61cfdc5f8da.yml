@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: f866b718-fd02-493f-8a4a-e61cfdc5f8da
+  bundle: categories
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: 'Trade, economics, and globalization (neoliberalism)'
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /trade-economics-and-globalization-neoliberalism
+      langcode: en
+      pathauto: 1

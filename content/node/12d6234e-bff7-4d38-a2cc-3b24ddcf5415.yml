@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 12d6234e-bff7-4d38-a2cc-3b24ddcf5415
+  bundle: article
+  default_langcode: en
+  depends:
+    8237849e-9cf4-456f-a34a-53131347a475: taxonomy_term
+    fe8c45d5-ab5b-4aa5-a196-df167a3a5d27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Venezuela & ALBA News July 13, 2018: Nicaragua, Venezuela, Ecuador, and Haiti'
+  created:
+    -
+      value: 1531479494
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /venezuela-alba-news-july-13-2018-nicaragua-venezuela-ecuador-and-haiti
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<table border=\"0\" width=\"600\" cellspacing=\"14\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td class=\"mainbar\" align=\"left\" valign=\"top\" width=\"500\"><b>\_July 13, 2018</b>\r\n<h2><img src=\"https://org2.salsalabs.com/o/7315/images/Managua%20marches%20for%20peace%20July%202018.jpg\" alt=\"\" /></h2>\r\n<h2>The News This Week</h2>\r\n<p dir=\"ltr\"><b>Nicaragua\r\n</b></p>\r\n<p dir=\"ltr\">K<a href=\"https://www.truthdig.com/articles/what-is-really-happening-in-nicaragua/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.truthdig.com/articles/what-is-really-happening-in-nicaragua/&amp;source=gmail&amp;ust=1531634403400000&amp;usg=AFQjCNHhuAwq3Ah5fTjuYqHaCaLCG9RQ9g\">evin Zeese gives an excellent examination on the right wing in the opposition and the US Regime Change plan in Nicaragua </a></p>\r\n<p dir=\"ltr\">F<a href=\"http://m.fightbacknews.org/2018/7/11/sandinista-supporters-keep-nicaragua-free-soft-coup\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://m.fightbacknews.org/2018/7/11/sandinista-supporters-keep-nicaragua-free-soft-coup&amp;source=gmail&amp;ust=1531634403400000&amp;usg=AFQjCNFtcU5jQftUMCdxJl_LhA03C17rag\">ightback News: Sandinista supporters keep Nicaragua free of ‘soft coup’</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.counterpunch.org/2018/07/06/understanding-the-conflict-in-nicaragua-the-long-battle-against-us-imperialism/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.counterpunch.org/2018/07/06/understanding-the-conflict-in-nicaragua-the-long-battle-against-us-imperialism/&amp;source=gmail&amp;ust=1531634403400000&amp;usg=AFQjCNGVGslb-QBJJRl2CwxneXLB-3UNHQ\">Understanding the Conflict in Nicaragua: the Long Battle Against US Imperialism</a></p>\r\n<p dir=\"ltr\"><b>\r\nVenezuela</b></p>\r\n<p dir=\"ltr\"><a href=\"https://www.democracynow.org/2018/7/11/mark_weisbrot_trumps_threats_to_invade\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.democracynow.org/2018/7/11/mark_weisbrot_trumps_threats_to_invade&amp;source=gmail&amp;ust=1531634403400000&amp;usg=AFQjCNHK8QVFAS8Mmw7fJ83WvZSs1U6qXw\">Mark Weisbrot: Trump’s Threats to Invade Venezuela Are Part of U.S. Strategy of Regime Change</a></p>\r\n<p dir=\"ltr\">V<a href=\"https://venezuelanalysis.com/news/13932\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://venezuelanalysis.com/news/13932&amp;source=gmail&amp;ust=1531634403401000&amp;usg=AFQjCNHoAJ5_oYnavVOc4jsn2aAMvKJXag\">enezuela \_creates Local Defense Committees as Maduro Makes Changes to Top Military</a></p>\r\n<p dir=\"ltr\"><a href=\"http://theprisma.co.uk/2018/07/09/venezuela-the-inconvenient-truths/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://theprisma.co.uk/2018/07/09/venezuela-the-inconvenient-truths/&amp;source=gmail&amp;ust=1531634403401000&amp;usg=AFQjCNFQDlPN2J2Vn1NGsdlPGZImWPYKeA\">Interview with Francisco Domínguez, of Britain’s Venezuela Solidarity Campaign</a></p>\r\n<p dir=\"ltr\"><a href=\"http://resumen-english.org/2018/07/cynical-helmets/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://resumen-english.org/2018/07/cynical-helmets/&amp;source=gmail&amp;ust=1531634403401000&amp;usg=AFQjCNFfs5XciIVv9VgYLdLwdx7tu-lH1Q\">Syrian regime change agents White Helmets move to Colombia-Venezuela border to begin anti-Chavista work</a></p>\r\n<p dir=\"ltr\"><b>Ecuador</b></p>\r\n<p dir=\"ltr\"><a href=\"https://www.counterpunch.org/2018/07/09/the-persecution-of-rafael-correa/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.counterpunch.org/2018/07/09/the-persecution-of-rafael-correa/&amp;source=gmail&amp;ust=1531634403401000&amp;usg=AFQjCNG-H6UYas8oWpAkEDQZYsyLE0qkWQ\">Joe Emersberger: The Persecution of Rafael Correa</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.telesurtv.net/english/news/Why-Such-Hate-Against-Rafael-Correa-20180707-0016.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/news/Why-Such-Hate-Against-Rafael-Correa-20180707-0016.html&amp;source=gmail&amp;ust=1531634403401000&amp;usg=AFQjCNHEWmWlbWIjmrhILPH_7aBI3qvejg\">Neoilberal Counterattack: Why Such Hate against Rafael Correa</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.telesurtv.net/english/analysis/Self-Sabotage-Ecuador-Embraces-Neoliberal-Reform-and-US-Interests-20180706-0012.html\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.telesurtv.net/english/analysis/Self-Sabotage-Ecuador-Embraces-Neoliberal-Reform-and-US-Interests-20180706-0012.html&amp;source=gmail&amp;ust=1531634403401000&amp;usg=AFQjCNHclZEphZdUnLDWnkVFmbJxEKq2KQ\">Ecuador Embraces Neoliberal Reform and US Interests</a></p>\r\n<p dir=\"ltr\"><b>\r\nHaiti</b></p>\r\n<p dir=\"ltr\"><a href=\"https://haitiliberte.com/nationwide-popular-uprising-calls-for-president-jovenel-moises-removal/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://haitiliberte.com/nationwide-popular-uprising-calls-for-president-jovenel-moises-removal/&amp;source=gmail&amp;ust=1531634403401000&amp;usg=AFQjCNEyZxVWN2AiA_N93sWVXs7zBmyNmw\">Nationwide Popular Uprising Calls for President Jovenel Moïse’s Removal</a></p>\r\n<p dir=\"ltr\"><b>\r\nSolidarity Events:</b></p>\r\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/events/1708855935899394/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.facebook.com/events/1708855935899394/&amp;source=gmail&amp;ust=1531634403401000&amp;usg=AFQjCNG23ptkwNRGOrMGQV9hDMRHI9kpdg\">Vancouver protest July 13 - Hands off Venezuela </a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/events/2046613622017672/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.facebook.com/events/2046613622017672/&amp;source=gmail&amp;ust=1531634403401000&amp;usg=AFQjCNHckB8lj0DyHyfatZQqyq-jD2Vlug\">Buffalo July 13 \_- Jeanette Charles of Venezuelanalysis: On People's Power, Black Liberation, and Reparations at the Heart of Revolutionary Cuba and Venezuela</a></p>\r\n<p dir=\"ltr\"><a href=\"https://www.facebook.com/events/360558571139819/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://www.facebook.com/events/360558571139819/&amp;source=gmail&amp;ust=1531634403401000&amp;usg=AFQjCNGd1kGQThl3MRvuoCT1pcO_1UapKw\">Chicago, <span class=\"aBn\" data-term=\"goog_934552045\"><span class=\"aQJ\">July 14</span></span> - Lee Artz: Bolivarian Venezuela in Defiance of the US Empire</a></p>\r\n\r\n\r\n<hr />\r\n\r\n<strong><a href=\"https://afgj.org/call-foraugust-7-international-day-for-peace-in-colombia-against-state-and-paramilitary-terror\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=https://afgj.org/call-foraugust-7-international-day-for-peace-in-colombia-against-state-and-paramilitary-terror&amp;source=gmail&amp;ust=1530984782419000&amp;usg=AFQjCNFZulNF9ehgDxVlEQ6weTvXXM07iQ\">AFGJ Calls for <span class=\"aBn\" data-term=\"goog_588860817\"><span class=\"aQJ\">August 7</span></span> International Day for Peace in Colombia, against State and Paramilitary Terror</a></strong>\r\n\r\n<hr />\r\n\r\n<h2 id=\"m_777319361513180780gmail-m_-4546164052145643394gmail-m_8774691331061159411gmail-m_-8213335874581264356gmail-m_-2776178258433599685gmail-m_-9020789454698019944gmail-m_6252858159261738354DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2\"><strong>About the Weekly</strong></h2>\r\n<div>\r\n\r\nIt is AfGJ’s conviction that we in the US defend Venezuela’s sovereignty and recognize that the Bolivarian Revolution has improved the lives of its citizens, led the movement toward Latin America integration, and is building participatory democracy structures that are an example for us in the US as well. -AfGJ staff\r\n\r\nFriends – we would like to include statements, events, and actions in solidarity with Venezuela. If you are aware of any or are planning any, please send them to us:\_<a href=\"http://stansfieldsmith100@gmail.com/\">stansfieldsmith100@gmail.com</a>. These may also be used as part of the redesigned international solidarity page on Venezuelanalysis.com\r\n\r\n</div>\r\n<div id=\"m_8509126310956016771yiv3059714876yui_3_16_0_ym19_1_1503062836586_3627\" dir=\"ltr\">\r\n<div class=\"sharedaddy sd-sharing-enabled\"></div>\r\n&nbsp;\r\n<div dir=\"ltr\">\r\n<div></div>\r\n<div></div>\r\n<div></div>\r\n</div>\r\n</div>\r\n<div id=\"m_8509126310956016771yiv3059714876yui_3_16_0_ym19_1_1503062836586_3621\" class=\"m_8509126310956016771yiv3059714876signature\">\r\n<div id=\"m_8509126310956016771yui_3_16_0_ym19_1_1503102709682_27684\" dir=\"ltr\"></div>\r\n</div></td>\r\n</tr>\r\n</tbody>\r\n</table>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 8237849e-9cf4-456f-a34a-53131347a475
+    -
+      entity: fe8c45d5-ab5b-4aa5-a196-df167a3a5d27
+  field_mt_slideshow:
+    -
+      value: false

@@ -1,0 +1,70 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 08fd026b-6de6-4b32-8518-82826413809b
+  bundle: article
+  default_langcode: en
+  depends:
+    bed3be34-13cc-44d7-aa98-5c4c6d407a11: taxonomy_term
+    6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    ff12a908-6afb-41f0-b6a1-87498b8f579c: taxonomy_term
+    c4878d03-9a07-446b-955a-4e6fa2fa867f: taxonomy_term
+    b2c352f2-62d9-485a-b8f0-d6687d083f48: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'July 10, 2017 Call-in and International Colombia Solidarity Actions'
+  created:
+    -
+      value: 1499633080
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /july-10-2017-call-and-international-colombia-solidarity-actions
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "The Alliance for Global Justice is finishing its current delegation to Colombia by holding a <a href=\"http://org2.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=6&amp;url=https%3A%2F%2Fwww.facebook.com%2Fevents%2F702639756610789%2F\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://org2.salsalabs.com/dia/track.jsp?key%3D-1%26url_num%3D6%26url%3Dhttps%253A%252F%252Fwww.facebook.com%252Fevents%252F702639756610789%252F&amp;source=gmail&amp;ust=1499744186704000&amp;usg=AFQjCNErVDjGnFztBMZT_oayYxKLgXiIDQ\">demonstration outside the US Embassy in Bogotá, Colombia, Monday, July 10, at 10:30am</a>. The demonstration is also endorsed by Lazos de Dignidad, the People's Human Rights Observatory, and the Coordination for Human Rights in the Americas. Our demands are:\n<ul>\n \t<li>Free Simón Trinidad and Sonya!</li>\n \t<li>Stop extraditions of former Colombian insurgents to the US because it interferes with the peace accords, and stop the extraditions of paramilitaries because it interferes with investigations into their ties with Colombian political and business leaders!</li>\n \t<li>Amnesty for all Colombian political prisoners, a conditions of the peace accords!</li>\n \t<li>Stop US funding of Colombian jails where political prisoners are harbored!</li>\n</ul>\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=7&amp;url=http%3A%2F%2Fafgj.org%2Ffarc-ep-disarms-prisoners-begin-hunger-strike\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://org2.salsalabs.com/dia/track.jsp?key%3D-1%26url_num%3D7%26url%3Dhttp%253A%252F%252Fafgj.org%252Ffarc-ep-disarms-prisoners-begin-hunger-strike&amp;source=gmail&amp;ust=1499744186704000&amp;usg=AFQjCNHLAaAsNsGJxKaJ0luxzqGtzWLXaQ\">Across Colombia, a hunger strike is in its 16th day</a> to demand the government comply with its obligations to release political prisoners. Besides the AfGJ protest at the embassy, cities across Latin America, North America and Europe will be holding demonstrations in support of the strikers and Colombian political prisoners, including those helded in US jails. Today also marks the public release of an <a href=\"http://org2.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=8&amp;url=http%3A%2F%2Fafgj.org%2Fopen-letter-colombian-government-pope-freedom-political-prisoners\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://org2.salsalabs.com/dia/track.jsp?key%3D-1%26url_num%3D8%26url%3Dhttp%253A%252F%252Fafgj.org%252Fopen-letter-colombian-government-pope-freedom-political-prisoners&amp;source=gmail&amp;ust=1499744186704000&amp;usg=AFQjCNEtTvkKumd2-ceJwnBQ0jRBHn-2iA\">open letter by the Coordination for Human Rights in the Americas </a>regarding calling for the amnesty to be implemented.\n\n<b>PEOPLE IN THE UNITED STATES ARE BEING ASKED TO PARTICIPATE IN A CALL-IN DAY TO THE WHITE HOUSE DEMANDING THE RELEASE OF SIMÓN TRINIDAD AND SONYA!</b>\n\nFollowing is an alert being circulated by <a href=\"http://org2.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=9&amp;url=https%3A%2F%2Fwww.facebook.com%2FSupportTheColombiaPeaceProcess%2F\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://org2.salsalabs.com/dia/track.jsp?key%3D-1%26url_num%3D9%26url%3Dhttps%253A%252F%252Fwww.facebook.com%252FSupportTheColombiaPeaceProcess%252F&amp;source=gmail&amp;ust=1499744186704000&amp;usg=AFQjCNHTcQSxZOiN8F2ep5WwtS30GfiI2g\">Support the Colombian Peace Process, Free Simon Trinidad/Ricardo Palmera</a>\n\n<span class=\"m_-6563891376532916787_4n-j m_-6563891376532916787_3cht m_-6563891376532916787fsl\">Free Simon Trinidad! Free Sonia!</span>\n\n&nbsp;\n\n<img class=\"aligncenter wp-image-7944\" src=\"https://afgj.org/wp-content/uploads/2017/07/amnistia-300x157.png\" alt=\"\" width=\"513\" height=\"284\" />\n<p style=\"text-align: center;\"><span class=\"m_-6563891376532916787_4n-j m_-6563891376532916787_3cht m_-6563891376532916787fsl\">Free All Colombian Political Prisoners!</span></p>\n<span class=\"m_-6563891376532916787_4n-j m_-6563891376532916787_3cht m_-6563891376532916787fsl\">\n<a href=\"http://org2.salsalabs.com/dia/track.jsp?key=-1&amp;url_num=10&amp;url=https%3A%2F%2Fwww.facebook.com%2Fevents%2F702639756610789%2F%3Facontext%3D%257B%2522ref%2522%253A%25222%2522%252C%2522ref_dashboard_filter%2522%253A%2522upcoming%2522%252C%2522feed_story_type%2522%253A%252222%2522%252C%2522action_history%2522%253A%2522%255B%257B%255C%2522surface%255C%2522%253A%255C%2522dashboard%255C%2522%252C%255C%2522mechanism%255C%2522%253A%255C%2522main_list%255C%2522%252C%255C%2522extra_data%255C%2522%253A%255B%255D%257D%255D%2522%257D\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://org2.salsalabs.com/dia/track.jsp?key%3D-1%26url_num%3D10%26url%3Dhttps%253A%252F%252Fwww.facebook.com%252Fevents%252F702639756610789%252F%253Facontext%253D%25257B%252522ref%252522%25253A%2525222%252522%25252C%252522ref_dashboard_filter%252522%25253A%252522upcoming%252522%25252C%252522feed_story_type%252522%25253A%25252222%252522%25252C%252522action_history%252522%25253A%252522%25255B%25257B%25255C%252522surface%25255C%252522%25253A%25255C%252522dashboard%25255C%252522%25252C%25255C%252522mechanism%25255C%252522%25253A%25255C%252522main_list%25255C%252522%25252C%25255C%252522extra_data%25255C%252522%25253A%25255B%25255D%25257D%25255D%252522%25257D&amp;source=gmail&amp;ust=1499744186704000&amp;usg=AFQjCNH-LqXxlLcCv4Ly3h7dqDnMmYEcDw\">Please also support the action at the US Embassy in Bogota, Colombia organized by the Alliance for Global Justice by clicking here and sharing their photos, videos, and demands. </a></span>\n\nWe are demanding President Trump release Ricardo Palmera (Simon Trinidad) and show support for the ongoing peace process in Colombia<span class=\"m_-6563891376532916787text_exposed_show\">. The FARC no longer exist and turned in their weapons, so it is time to show Colombians that their country belongs to them, not the U.S. We say let Trinidad's voice be heard in political campaigns in Colombia, instead of being silenced in the Colorado mountains.</span>\n\nWe are also demanding freedom for \"Sonia\" or Anayibe Rojas Valderrama, another FARC member imprisoned in Forth Worth, Texas.\n\nTrinidad is held in the Florence, Colorado supermax prison, in solitary confinement. Solitary confinement is a special type of torture. He is not even allowed to read our letters to him. Florence supermax is the \"Guantanamo of the Rockies\" where human rights are violated as a matter of policy. In 2015, thirty-five American activists, from nine states, held a march and rally outside the underground Colorado prison to demand freedom for Simon Trinidad.\n\nThere are still hundreds of FARC fighters held in prison and they need to be free to propel the Colombian peace process forward. The Colombian government must also act quickly to end the murders by right-wing militias tied to land owners and drug cartels. Laws must be enforced and impunity for police and soldiers brought to an end. For peace and reconciliation to succeed, those who were the most involved in the war need to be engaged in and publicly seen to support the processes. If there are long delays and changes in interpretations of the peace agreement, it breaks trust and confidence. What Simon Trinidad and most Colombians want is a political and legal system that belongs to Colombians and is not dominated or manipulated by foreign companies or governments.\n\nSimon Trinidad and \"Sonia\" are casualties of the Colombian peace process. It is time for President Trump to step up and support the changes coming to Colombia. If Trump frees Simon Trinidad and sends him home to promote the peace, it sends a message that Colombia's future lies in the hands of Colombians.\n\nCall Trump: <a href=\"tel:%28202%29%20456-1111\" target=\"_blank\" rel=\"noopener\">202-456-1111</a> and say:\nWe want the President to Free Ricardo Palmera (Simon Trinidad)!\nWe want the President to Free Anayibe Rojas Valderrama (Sonia)!\nIt is Time for Trump to Step up for Peace!\n\n&nbsp;"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: bed3be34-13cc-44d7-aa98-5c4c6d407a11
+    -
+      entity: 6352c61b-3b10-4f0a-9fc4-7b87b28e0b1f
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: ff12a908-6afb-41f0-b6a1-87498b8f579c
+    -
+      entity: c4878d03-9a07-446b-955a-4e6fa2fa867f
+    -
+      entity: b2c352f2-62d9-485a-b8f0-d6687d083f48
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

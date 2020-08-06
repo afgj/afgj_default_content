@@ -1,0 +1,86 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2e71af81-512a-41a6-a8bb-af74b85d2687
+  bundle: mt_showcase
+  default_langcode: en
+  depends:
+    50e3c70a-e1c5-43fe-9f64-3f6508b62792: file
+    fb26fdea-922a-48d9-b7f0-5e548dd20cbf: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Colombia Watch'
+  created:
+    -
+      value: 1591189269
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /colombia-watch
+      langcode: en
+      pathauto: 0
+  field_mt_shw_body:
+    -
+      value: "<p><strong>More Background:</strong></p>\r\n\r\n<p>Colombia is a country of great importance to all people who want peace and justice in the world, and liberation from the US/NATO Empire. It is a doorway between South America and Central and North America. It unites the Andes with the Amazon basin and is the only South American country that touches both the Atlantic and Pacific oceans. It is rich in water, mineral, and agricultural resources – a fact that inspires the greed of global capitalism, resulting in the oppression of Colombia’s people, the stealth of its land, and violation of its ecosystems.</p>\r\n\r\n<p>Colombia also has a strong history of popular mobilizations and resistance to capitalism and Empire. Peace accords were adopted in late 2016 to open up new spaces for political participation of Left and Center-Left candidacies and end more than five decades of civil war with promises of rural development, freedom for political prisoners, and the return of displaced peoples to their communities. However, the peace has been under constant attack by the extreme right wing, mainly via paramilitary death squads and the Colombian Armed Forces. Every 30 hours, someone is killed in political violence. As of September, 2019, more than 850 human rights defenders, social movement leaders, community activists, and ex-insurgents participating in the peace process have been murdered. Rarely is anyone prosecuted for these crimes.</p>\r\n\r\n<p>The <a href=\"https://afgj.org/sweet-dreams-and-nightmares-can-colombia-achieve-a-just-peace\">Trump administration has been advocating against key components of the peace accords</a> from the moment it took power.&nbsp; The White House has urged a return to forced eradication of illicit crops instead of programs for crop substitution and rural development. This has encouraged a string of massacres and killings of rural activists.</p>\r\n\r\n<p>The Trump administration has also renewed calls for extraditions of former insurgents that could nullify the agreements. These calls have included attacks against the Special Jurisdiction for Peace courts that are a cornerstone for the peace agreement. <a href=\"https://afgj.org/major-win-for-peace-in-colombia-jesus-santrich-is-free\">Fortunately, those efforts have up till now been defeated, but we need to stay vigilant.</a></p>\r\n\r\n<p>Colombia has become an important junior partner in the US/NATO/Corporate Empire. Both Admiral Kurt Tidd, former head of the Pentagon’s Southern Command, and Admiral Craig S. Faller, the current commander, have made multiple visits to Colombian Armed Forces concentrations on the border of Venezuela, and in Nariño, where peasant communities are being subject to heavy repression. With more than $11 billion of US taxes invested in Colombia’s military and “security” infrastructure, the nation has become a nail holding up the Empire in the very heart of Latin America. Colombia has recently become a NATO global partner. Its military relationship with the Pentagon means that Colombian troops have gone to Afghanistan and Yemen, and taken part in patrols with the US of Central American and West African sea and air spaces. Colombia’s military, police, and penitentiary agents have trained over 30,000 students around the world, more than half in Mexico. Many fear that Colombia could be a launching pad for an invasion of Venezuela. This is why the Duque and Trump administrations are so keen on destroying the peace accords – because they know that opening up space to the Left could transform the country, Latin America and the world, and provide a major blow to Empire.</p>\r\n\r\n<p>The peace of Colombia is the peace of the world! We welcome your support of AfGJ’s Colombia solidarity work!</p>\r\n"
+      format: full_html
+      summary: 'Colombia is a country of great importance to all people who want peace and justice in the world, and liberation from the US/NATO Empire.'
+  field_mt_shw_content_collapses:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: a7279466-505b-46b1-a182-47eef42c3e25
+          bundle: mt_collapse
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1591189424
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+  field_mt_shw_image:
+    -
+      entity: 50e3c70a-e1c5-43fe-9f64-3f6508b62792
+      alt: 'Simon Bolivar and Che'
+      title: ''
+      width: 1020
+      height: 588
+  field_mt_shw_subheader_body:
+    -
+      value: "<p><strong>The Paro Nacional (National Strike) is a massive uprising that has been taking place in Colombia since November 21st to demand that the government end austerity measures and instead invest in the people, comply with and fulfill the Peace Accords of 2016, and put an end to the killings of social movement leaders and ex-insurgents. However, even though the strike has involved millions of persons, we hear little about it in the United States, and what we do is inaccurate and misleading. We must ask why? Colombia is in a state of humanitarian crisis with political violence claiming victims at a rate that ranges between one person every three days to more than one person per day. In the Department of La Guajira, one of the most militarized regions of Colombia and a major source of profits for foreign coal mining companies, every year 600 to 700 Wayuú indigenous children die from malnutrition. We do not hear about the humanitarian crisis in Colombia because it is a country that has become an essential regional and global partner to the U.S./NATO military machine and the Empire of the Rich. What we hear is the myth that Colombia is an example of capitalist and democratic success.&nbsp; Instead, we are told almost daily about the suffering of the Venezuelan people who are enduring and surviving and resisting the devastating blockade and sanctions imposed by the U.S. government. Again, why? Because Venezuela, unlike Colombia, is slated for the overthrow of its elected government, while Colombia’s resources are being privatised and the nation is used as a base of control for all of Latin America. For those who would like to learn more about Colombia’s national strike and its humanitarian crisis, please click the following links:</strong></p>\r\n\r\n<p style=\"text-align: center;\"><a href=\"/while-colombia-bleeds-the-daily-reality-of-colombias-social-movements\">While Colombia Bleeds–the Daily Reality of Colombia’s Social Movements</a></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p class=\"entry-title\" style=\"text-align: center;\"><a href=\"/while-colombia-strikes-the-media-lies-the-government-ignores-and-the-police-attack\" rel=\"bookmark\" title=\"\">While Colombia Strikes, the Media Lies, the Government Ignores, and the Police Attack</a></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p class=\"entry-title\" style=\"text-align: center;\"><a href=\"/repression-already-underway-even-before-the-launching-of-colombias-national-strike\" rel=\"bookmark\" title=\"\">Repression Already Underway, Even Before the Launching of Colombia’s National Strike</a></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p style=\"text-align: center;\"><a href=\"http://www.indepaz.org.co/paz-al-liderazgo-social/\">Click HERE for a regularly updated list of social movement leaders and peace process participants killed since January 1, 2020</a></p>\r\n\r\n<p style=\"text-align: center;\"><a href=\"https://afgj.org/category/colombia\"><span style=\"color: #993300;\">CLICK HERE for an informative Q&amp;A about the re-arming of the FARC-EP Nuevo Poder and the current state of Colombia’s peace process</span></a></p>\r\n\r\n<p style=\"text-align: center;\"><a href=\"/reogranized-farc-ep\"><span style=\"color: #993300;\">CLICK HERE to view archived Colombia solidarity articles pulished by AfGJ</span></a></p>\r\n\r\n<p style=\"text-align: center;\"><a href=\"/latest-colombia\">list of old articles</a></p>\r\n\r\n<p style=\"text-align: center;\"><span style=\"color: #0000ff;\"><em>For more information, please send an email to James@AFGJ.org or call us at 202-540-8336, extension 3.</em></span></p>\r\n"
+      format: full_html
+      summary: ''
+  field_mt_shw_tags:
+    -
+      entity: fb26fdea-922a-48d9-b7f0-5e548dd20cbf
+  field_mt_shw_video:
+    -
+      value: 'https://www.youtube.com/watch?v=WKXo7EM_mGs'
+    -
+      value: 'https://youtu.be/dnrf2eeNWuQ'

@@ -1,0 +1,56 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f1a1d392-8b40-4f43-801e-6f301ef03ced
+  bundle: mt_team_member
+  default_langcode: en
+  depends:
+    5398da2e-0d43-4076-acbf-31f3b9b4af17: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Evelyn Medina'
+  created:
+    -
+      value: 1591128474
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /team/evelyn-medina
+      langcode: en
+      pathauto: 1
+  field_mt_tmm_body:
+    -
+      value: "<p><span style=\"font-size:12pt;font-family:Cambria\">Evelyn Medina currently lives in Chicago. Evelyn has participated on multiple AfGJ delegations to Latin America. She has been involved in the labor movement as a volunteer since 2013 and has done Latin America solidarity work, including hosting international guests and taking part in letter-writing campaigns in support of prisoners. Evelyn is in charge of bookkeeping and has previously worked in the hospitality industry.</span></p>\r\n"
+      format: full_html
+      summary: ''
+  field_mt_tmm_featured:
+    -
+      value: false
+  field_mt_tmm_member_photo:
+    -
+      entity: 5398da2e-0d43-4076-acbf-31f3b9b4af17
+      alt: Evelyn
+      title: ''
+      width: 4032
+      height: 3024
+  field_mt_tmm_subtitle:
+    -
+      value: 'Chief Financial Officer'

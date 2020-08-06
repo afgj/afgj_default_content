@@ -1,0 +1,73 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 73839042-571b-451d-a29c-2c0d04bbd12d
+  bundle: article
+  default_langcode: en
+  depends:
+    7de75c6a-4d28-4128-ad47-1ce01b22a3e2: taxonomy_term
+    1c0c4377-b739-4293-a00a-331346b8aa16: taxonomy_term
+    cd0b4a40-9b03-4048-a812-892416542fb4: taxonomy_term
+    d7484f78-fd8a-49f7-afcb-5b7fed9db70f: taxonomy_term
+    ca4e52ca-2d48-486f-8d00-3553c0a7f296: taxonomy_term
+    e2cd83a2-4ff6-40be-8260-0b38e269f80f: taxonomy_term
+    3276c811-8acb-475a-80b0-f90ed617b6db: taxonomy_term
+    3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b: taxonomy_term
+    069c0d78-580c-4578-a786-f7b2f7299e8e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'John McCain''s "midnight riders" put borderlands at risk'
+  created:
+    -
+      value: 1442407509
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /john-mccains-midnight-riders-put-borderlands-risk
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<div>\n<h1><span class=\"il\">John</span> McCain's \"midnight riders\" put borderlands at risk</h1>\n<a href=\"http://org2.salsalabs.com/o/7315/p/dia/action3/common/public/?action_KEY=21390\">Click HERE to take action!</a>\n\n</div>\n<div>by: <a href=\"http://peoplesworld.org/james-jordan\" target=\"_blank\" rel=\"noopener\">James Jordan</a></div>\nSeptember 15 2015, <a href=\"http://peoplesworld.org/john-mccain-s-midnight-riders-put-borderlands-at-risk/\">Originally published in the Peoples World</a>\n\n<img class=\"alignnone\" src=\"http://peoplesworld.org/assets/Uploads/Jose-Matus-at-S750-forum520x300.jpg\" alt=\"\" width=\"520\" height=\"300\" />\n\nEver heard of \"<span class=\"il\">Sneaky</span> <span class=\"il\">John</span> and the Midnight Riders\"?\n\nNo, it's not the name of a rock band, not some outlaw gang from the 1800s. What it refers to is the surreptitious way in which Arizona's Republican Sen. <span class=\"il\">John</span> McCain has introduced or tried to introduce legislation that exempts pet projects from environmental protection laws.\n\n<a href=\"http://org2.salsalabs.com/o/7315/p/dia/action3/common/public/?action_KEY=21390\">The latest example is S750, a border militarization bill that, if passed, would exclude new surveillance installations and other border patrol activities from environmental protection laws.</a> The bill would apply to federal lands within 100 miles of the U.S.-Mexico border in Arizona and parts of California.\n\nMcCain has already been trying to attach S750 to the 2016 National Defense Authorization Act (NDAA). Chuck Kaufman of the <a href=\"https://afgj.org/\" target=\"_blank\" rel=\"noopener\">Alliance for Global Justice</a> explains, \"The best way we can defeat this bill is to bring it out into the light of day. If we expose McCain's underhanded tactics, S750 will likely die just like a vampire in the sun. But if he can <span class=\"il\">sneak</span> it by as an amendment on a larger bill, that's how it will get passed.\" A companion bill, HR1412, has been introduced in the House by Arizona Rep. Matt Salmon, also a Republican.\n\nThis is not the first time McCain has tried to <span class=\"il\">sneak</span> something by on a \"midnight rider,\" a term for these last minute, \"off the radar\" amendments. It's a process he has used on laws that on their own would probably not get passed.\n\nHe attaches them to what is considered \"must pass\" legislation. He set the precedent back in 1988 by adding a rider to that year's NDAA exempting the University of Arizona's Mount Graham Astronomical Complex from environmental regulations. The observatory was funded with a $5.44 million grant from the Air Force and was built in the middle of land sacred to the Apache. The site is home to 18 different animal and plant species found nowhere else on Earth.\n\nMcCain used the same maneuver again last year with an amendment that traded public land known as Oak Flat to the Rio Tinto corporation, a United Kingdom and Australia-based corporation that wants to mine Oak Flat for copper. <a href=\"http://www.peoplesworld.org/apache-stronghold-caravan-seeks-to-save-sacred-site-from-mining-giant/\" target=\"_blank\" rel=\"noopener\">The site is also considered sacred to the Apache</a> and lies at the bottom of an important watershed.\n\nArizona Rep. Raúl Grijalva, ranking member of the <a href=\"http://naturalresources.house.gov/subcommittees/subcommittee/?SubcommitteeID=5064\" target=\"_blank\" rel=\"noopener\">House's Subcommittee on Public Lands and Environmental Regulations</a>, has introduced legislation to repeal the Oak Flat swap.\n\nSen. McCain claims S750 is needed for new security installations and to give the U.S. Border Patrol and Immigration and Customs Enforcement agents unimpeded access to federal lands. However, Dan Millis, Director of the <a href=\"http://www.sierraclub.org/borderlands\" target=\"_blank\" rel=\"noopener\">Sierra Club's Borderlands Campaign</a>, noted at a recent community forum at the Global Justice Center in Tucson, Arizona, \"It's a very effective argument because you think, 'They don't have access to federal lands? Of course they have access to federal lands! They have more access than anyone else to federal, private, all the lands along the border....So he is spreading the notion that Border Patrol is somehow not granted access to these areas....Well, that's completely false.\"\n\nJosé Matús, director of the <a href=\"https://www.facebook.com/IndigenousAllianceWithoutBorders\" target=\"_blank\" rel=\"noopener\">Indigenous Alliance Without Borders</a>, talked about the regular impositions border agents make on people living in indigenous lands crossed by the border: \"They always have had the authority to patrol....They come in their trucks, bikes, waking people up at all hours of the night, asking people for their documents....They've always had that power 100 miles north of the border, but now they want to give them everything, waving all our rights.\"\n\nMillis puts S750 in further context by pointing out that \"37 federal laws were waived by the Dept. of Homeland Security under George Bush, the largest waiver of laws in U.S. history. And that's how border walls are able to be built quickly through protected natural areas and that's why we have so many problems with border walls blocking wildlife migration, breaking up wildlife habitat and most notoriously causing floods.....Today because nothing stood in the way of the Bush administration...we have 652 miles of barriers....OK, so that brings us to Senator McCain's proposal....What his bill does is it draws a line 100 miles north of the border in the Tucson and Yuma sectors-the Yuma sector goes into California....It goes into the Yuma sector 100 miles up, close to <a href=\"http://www.nps.gov/jotr/index.htm\" target=\"_blank\" rel=\"noopener\">Joshua Tree National Park</a>, through the <a href=\"http://www.fws.gov/refuge/kofa/\" target=\"_blank\" rel=\"noopener\">Kofa National Wildlife Refuge</a>, just south of Phoenix, all the <a href=\"http://www.nps.gov/sagu/index.htm\" target=\"_blank\" rel=\"noopener\">Saguaro National Parks, East and West</a>. Of course the <a href=\"http://www.tonation-nsn.gov/\" target=\"_blank\" rel=\"noopener\">Tohono 'O'odham nation</a>, several other Native American reservations are totally encompassed in this area because it applies to federal public lands and tribal lands. So, if 37 laws being tossed out the window results in 652 miles of border walls, imagine what all laws tossed out the window could mean for Arizona.\"\n\nRep. Grijalva also spoke at the forum, which was co-sponsored by the Arizona Peace Council, Alliance for Global Justice and <a href=\"http://www.saltearthlaborcollege.org/\" target=\"_blank\" rel=\"noopener\">Salt of the Earth Labor College</a>. He was confident regarding the ability to defeat S750 provided people stay aware of it and speak out against it. Grijalva gives much credit to the Oak Flats struggle:\n\n\"I think, based on what the Apache nation has done on this issue...it's going to be much more difficult politically...to do that same kind of <span class=\"il\">sneaky</span> process....And for that we should be very grateful to the Oak Flat advocates and the Apache nation for raising this issue...[to] the embarrassment of McCain and the political travesty of doing something in that way and not allowing it to be fully digested and discussed....\"\n\nRep. Grijalva spoke of the dangerous agendas behind S750 in regards to immigration reform and environmental protection:\n\n\"It's a two pronged agenda.... Part of the agenda...[is] to end any legislative hope... that we would end up with something semi-rational in terms of comprehensive immigration reform because this bill is about enforcement only-only enforcement....So this bill...suspends any possibility in this cycle of doing anything rational and right. It shifts the debate into...enforcement as opposed to dealing with family unification and all the other aspects of immigration that need to be dealt with.\n\n\"The other agenda is about attacking bedrock environmental laws that have been on the books for 50, 40, 45 years.... When we suspend not only 37 laws but all the laws along that 100 mile cut off we're also suspending sacred sites, cultural resources, historic...protections, all part of a Native American legacy in the Southwest that despite colonization has existed and survived....It's both about immigration and the environment and citizen accountability and participation in decision making....Suspending laws sets a dangerous precedent....Mark my word, once these basic fundamental laws that are part of a legal legacy for this county are suspended we have opened a can of worms for that to become a practice.\"\n\nImmigrant rights activist and founder of <a href=\"http://www.derechoshumanosaz.net/\" target=\"_blank\" rel=\"noopener\">Tucson's Coalición de Derechos Humanos (Human Rights Coalition)</a>, Isabel Garcia, sees an ominous link between bills like S750 and ecological and climate injustice. According to Garcia, \"We have the neoliberal monster and we have the other monster of the military...and we are creating refugees. Then there's the denial on the part of so many people in this country but especially in DC of the impact that we have on climate. We see nothing yet. When the world begins to warm, we will see massive migration. We're already seeing massive migration, but we will see it get huge....Is it any surprise that we have begun to militarize [the border]? Did you see...the military has plans of how we're going to safeguard the United States in case there are mass riots, a mass influx of people? Eventually we created Homeland Security....Do you see how it begins to normalize? We say, 'Well, the military should be involved in borders, why aren't they involved in policing our borders? And what's the difference between the military and Homeland Security, anyway?' And before you know it, we don't know the difference.\"\n\nGarcia sees this militarization happening in many places and at many levels. She observes, \"There was a bill in the [Arizona] legislature...to keep secret the names of police officers who have killed. Border Patrol already does this. They've been hiding the names-who does that? Who does that? The military. The military has no accountability. Nobody has to say who killed whom. And we're moving more and more to this militarized form, and of course the environment is part of it, too. We're all connected, all of this is all totally connected....\"\n\nFor people living along the border that would be affected by S750, the impacts of border militarization on communities and ecosystems have already been devastating. Border agents act with impunity for crimes against both people and nature, and installments for so-called border \"security\" have already scarred and imperiled the land.\n\nIf <span class=\"il\">John</span> McCain and his Midnight Riders succeed, it's because they will have attacked in the shadows and circumvented public input and democratic process. But if word gets out about S750 - if it is exposed to the light of day - it can and will be defeated.\n\n<em>Photo: José Matús of Alianza Indigena says \"Enough!\" to S750, McCain's new border militarization bill. Also pictured are Isabel Garcia, Dan Millis and Rep. Raul Grijalva. James Jordan/PW.</em>"
+      format: full_html
+      summary: ''
+  field_categories:
+    -
+      entity: 7de75c6a-4d28-4128-ad47-1ce01b22a3e2
+    -
+      entity: 1c0c4377-b739-4293-a00a-331346b8aa16
+    -
+      entity: cd0b4a40-9b03-4048-a812-892416542fb4
+    -
+      entity: d7484f78-fd8a-49f7-afcb-5b7fed9db70f
+    -
+      entity: ca4e52ca-2d48-486f-8d00-3553c0a7f296
+    -
+      entity: e2cd83a2-4ff6-40be-8260-0b38e269f80f
+    -
+      entity: 3276c811-8acb-475a-80b0-f90ed617b6db
+    -
+      entity: 3f9fd7b7-eb5c-4f2d-9a6f-03fac26a185b
+    -
+      entity: 069c0d78-580c-4578-a786-f7b2f7299e8e
+  field_mt_slideshow:
+    -
+      value: false

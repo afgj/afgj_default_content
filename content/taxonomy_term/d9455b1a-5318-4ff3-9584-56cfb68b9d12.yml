@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: d9455b1a-5318-4ff3-9584-56cfb68b9d12
+  bundle: categories
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: 'Latin America solidarity - general or not otherwise covered'
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /latin-america-solidarity-general-or-not-otherwise-covered
+      langcode: en
+      pathauto: 1
