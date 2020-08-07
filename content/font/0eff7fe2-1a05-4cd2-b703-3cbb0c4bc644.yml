@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 0eff7fe2-1a05-4cd2-b703-3cbb0c4bc644
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    15fd35d0-d4d2-47b5-8cb7-0b38b010e762: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Cormorant&subset=cyrillic#700'
+  name:
+    -
+      value: 'Cormorant 700 (cyrillic)'
+  css_family:
+    -
+      value: Cormorant
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '700'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:13:"Cormorant:700";s:6:"subset";s:8:"cyrillic";}'
+  created:
+    -
+      value: 1468916163
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 15fd35d0-d4d2-47b5-8cb7-0b38b010e762

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: c05acc41-3b1a-4f8e-a4f4-d56ca2b963f5
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    60db99f2-0b1f-45ff-be70-1e724afe1b2f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Sarpanch&subset=latin-ext#800'
+  name:
+    -
+      value: 'Sarpanch 800 (latin-ext)'
+  css_family:
+    -
+      value: Sarpanch
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '800'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:12:"Sarpanch:800";s:6:"subset";s:9:"latin-ext";}'
+  created:
+    -
+      value: 1468916099
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 60db99f2-0b1f-45ff-be70-1e724afe1b2f

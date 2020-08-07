@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 6adf06e1-4781-4508-96e4-33cf26500cdd
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    9ed74df8-ef09-4d47-aea0-57418a94eef8: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Ranga&subset=devanagari#700'
+  name:
+    -
+      value: 'Ranga 700 (devanagari)'
+  css_family:
+    -
+      value: Ranga
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '700'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:9:"Ranga:700";s:6:"subset";s:10:"devanagari";}'
+  created:
+    -
+      value: 1468916108
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: 9ed74df8-ef09-4d47-aea0-57418a94eef8

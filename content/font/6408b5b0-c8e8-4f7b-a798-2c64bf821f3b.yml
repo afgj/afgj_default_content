@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 6408b5b0-c8e8-4f7b-a798-2c64bf821f3b
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    60db99f2-0b1f-45ff-be70-1e724afe1b2f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Ceviche One&subset=latin-ext#regular'
+  name:
+    -
+      value: 'Ceviche One regular (latin-ext)'
+  css_family:
+    -
+      value: 'Ceviche One'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:19:"Ceviche One:regular";s:6:"subset";s:9:"latin-ext";}'
+  created:
+    -
+      value: 1468916166
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: 60db99f2-0b1f-45ff-be70-1e724afe1b2f

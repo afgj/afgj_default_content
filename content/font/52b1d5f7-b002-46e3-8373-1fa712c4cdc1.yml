@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 52b1d5f7-b002-46e3-8373-1fa712c4cdc1
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    6588e67a-2c28-42c1-98f1-30d72cac6328: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Alice&subset=latin#regular'
+  name:
+    -
+      value: 'Alice regular (latin)'
+  css_family:
+    -
+      value: Alice
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:13:"Alice:regular";s:6:"subset";s:5:"latin";}'
+  created:
+    -
+      value: 1468916178
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 6588e67a-2c28-42c1-98f1-30d72cac6328

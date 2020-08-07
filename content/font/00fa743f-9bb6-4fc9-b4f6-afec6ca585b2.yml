@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 00fa743f-9bb6-4fc9-b4f6-afec6ca585b2
+  depends:
+    17446f80-8d34-40cc-ab9f-3fee7f30131c: taxonomy_term
+    6588e67a-2c28-42c1-98f1-30d72cac6328: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Julee&subset=latin#regular'
+  name:
+    -
+      value: 'Julee regular (latin)'
+  css_family:
+    -
+      value: Julee
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:13:"Julee:regular";s:6:"subset";s:5:"latin";}'
+  created:
+    -
+      value: 1468916142
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 17446f80-8d34-40cc-ab9f-3fee7f30131c
+  field_supported_languages:
+    -
+      entity: 6588e67a-2c28-42c1-98f1-30d72cac6328

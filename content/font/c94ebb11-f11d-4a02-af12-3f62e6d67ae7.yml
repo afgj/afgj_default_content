@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: c94ebb11-f11d-4a02-af12-3f62e6d67ae7
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    21846484-5884-4b22-999a-98533b6414fc: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Noto Serif&subset=greek#italic'
+  name:
+    -
+      value: 'Noto Serif italic (greek)'
+  css_family:
+    -
+      value: 'Noto Serif'
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:17:"Noto Serif:italic";s:6:"subset";s:5:"greek";}'
+  created:
+    -
+      value: 1468916123
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 21846484-5884-4b22-999a-98533b6414fc

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 6c6343be-7273-48de-9e98-d470161467ac
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    9ed74df8-ef09-4d47-aea0-57418a94eef8: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Modak&subset=devanagari#regular'
+  name:
+    -
+      value: 'Modak regular (devanagari)'
+  css_family:
+    -
+      value: Modak
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:13:"Modak:regular";s:6:"subset";s:10:"devanagari";}'
+  created:
+    -
+      value: 1468916128
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: 9ed74df8-ef09-4d47-aea0-57418a94eef8

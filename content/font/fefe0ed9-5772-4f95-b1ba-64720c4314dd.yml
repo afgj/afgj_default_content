@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: fefe0ed9-5772-4f95-b1ba-64720c4314dd
+  depends:
+    17446f80-8d34-40cc-ab9f-3fee7f30131c: taxonomy_term
+    9ed74df8-ef09-4d47-aea0-57418a94eef8: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Amita&subset=devanagari#700'
+  name:
+    -
+      value: 'Amita 700 (devanagari)'
+  css_family:
+    -
+      value: Amita
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '700'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:9:"Amita:700";s:6:"subset";s:10:"devanagari";}'
+  created:
+    -
+      value: 1468916177
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 17446f80-8d34-40cc-ab9f-3fee7f30131c
+  field_supported_languages:
+    -
+      entity: 9ed74df8-ef09-4d47-aea0-57418a94eef8

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 5d3952b8-da34-4ce9-b541-8fe96ee9123a
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    21846484-5884-4b22-999a-98533b6414fc: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Jura&subset=greek#300'
+  name:
+    -
+      value: 'Jura 300 (greek)'
+  css_family:
+    -
+      value: Jura
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '300'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:8:"Jura:300";s:6:"subset";s:5:"greek";}'
+  created:
+    -
+      value: 1468916142
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 21846484-5884-4b22-999a-98533b6414fc

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 97807f96-fbaf-4646-ac6c-c56c4b0659cc
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    b72925ad-f146-407a-bcdc-20482a2261bd: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Cairo&subset=arabic#regular'
+  name:
+    -
+      value: 'Cairo regular (arabic)'
+  css_family:
+    -
+      value: Cairo
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:13:"Cairo:regular";s:6:"subset";s:6:"arabic";}'
+  created:
+    -
+      value: 1468916169
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: b72925ad-f146-407a-bcdc-20482a2261bd

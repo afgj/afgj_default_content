@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 77313b9b-e379-4a8e-a9cb-109bb9f3898c
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    15fd35d0-d4d2-47b5-8cb7-0b38b010e762: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Lora&subset=cyrillic#700italic'
+  name:
+    -
+      value: 'Lora 700italic (cyrillic)'
+  css_family:
+    -
+      value: Lora
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '700'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:14:"Lora:700italic";s:6:"subset";s:8:"cyrillic";}'
+  created:
+    -
+      value: 1468916134
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 15fd35d0-d4d2-47b5-8cb7-0b38b010e762

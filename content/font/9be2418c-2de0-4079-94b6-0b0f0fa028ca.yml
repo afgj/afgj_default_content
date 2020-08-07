@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 9be2418c-2de0-4079-94b6-0b0f0fa028ca
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    60db99f2-0b1f-45ff-be70-1e724afe1b2f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Comfortaa&subset=latin-ext#300'
+  name:
+    -
+      value: 'Comfortaa 300 (latin-ext)'
+  css_family:
+    -
+      value: Comfortaa
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '300'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:13:"Comfortaa:300";s:6:"subset";s:9:"latin-ext";}'
+  created:
+    -
+      value: 1468916163
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: 60db99f2-0b1f-45ff-be70-1e724afe1b2f

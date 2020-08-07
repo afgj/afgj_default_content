@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: da3dc82a-c32d-43a8-9247-3d504b93cff3
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    60db99f2-0b1f-45ff-be70-1e724afe1b2f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Ubuntu&subset=latin-ext#700'
+  name:
+    -
+      value: 'Ubuntu 700 (latin-ext)'
+  css_family:
+    -
+      value: Ubuntu
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '700'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:10:"Ubuntu:700";s:6:"subset";s:9:"latin-ext";}'
+  created:
+    -
+      value: 1468916086
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 60db99f2-0b1f-45ff-be70-1e724afe1b2f

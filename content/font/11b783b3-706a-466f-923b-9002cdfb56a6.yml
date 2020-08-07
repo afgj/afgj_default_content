@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 11b783b3-706a-466f-923b-9002cdfb56a6
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    15fd35d0-d4d2-47b5-8cb7-0b38b010e762: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Exo 2&subset=cyrillic#700italic'
+  name:
+    -
+      value: 'Exo 2 700italic (cyrillic)'
+  css_family:
+    -
+      value: 'Exo 2'
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '700'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:15:"Exo 2:700italic";s:6:"subset";s:8:"cyrillic";}'
+  created:
+    -
+      value: 1468916152
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 15fd35d0-d4d2-47b5-8cb7-0b38b010e762

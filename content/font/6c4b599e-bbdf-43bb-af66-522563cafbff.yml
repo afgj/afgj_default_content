@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 6c4b599e-bbdf-43bb-af66-522563cafbff
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    21846484-5884-4b22-999a-98533b6414fc: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Roboto&subset=greek#500'
+  name:
+    -
+      value: 'Roboto 500 (greek)'
+  css_family:
+    -
+      value: Roboto
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '500'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:10:"Roboto:500";s:6:"subset";s:5:"greek";}'
+  created:
+    -
+      value: 1468916106
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 21846484-5884-4b22-999a-98533b6414fc

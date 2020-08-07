@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: dcbb8a71-4304-42c3-8045-bc33c17e663d
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    21846484-5884-4b22-999a-98533b6414fc: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Roboto Slab&subset=greek#300'
+  name:
+    -
+      value: 'Roboto Slab 300 (greek)'
+  css_family:
+    -
+      value: 'Roboto Slab'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '300'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:15:"Roboto Slab:300";s:6:"subset";s:5:"greek";}'
+  created:
+    -
+      value: 1468916102
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 21846484-5884-4b22-999a-98533b6414fc

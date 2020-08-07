@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 56c5a533-c558-4631-9dc6-2abe8c66ff28
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    b72925ad-f146-407a-bcdc-20482a2261bd: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=El Messiri&subset=arabic#700'
+  name:
+    -
+      value: 'El Messiri 700 (arabic)'
+  css_family:
+    -
+      value: 'El Messiri'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '700'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:14:"El Messiri:700";s:6:"subset";s:6:"arabic";}'
+  created:
+    -
+      value: 1468916155
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: b72925ad-f146-407a-bcdc-20482a2261bd

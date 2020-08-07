@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 1bc5b8bf-1af0-4c1b-aaf5-1ceca83bd1dc
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    60db99f2-0b1f-45ff-be70-1e724afe1b2f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Kanit&subset=latin-ext#600'
+  name:
+    -
+      value: 'Kanit 600 (latin-ext)'
+  css_family:
+    -
+      value: Kanit
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '600'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:9:"Kanit:600";s:6:"subset";s:9:"latin-ext";}'
+  created:
+    -
+      value: 1468916139
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 60db99f2-0b1f-45ff-be70-1e724afe1b2f

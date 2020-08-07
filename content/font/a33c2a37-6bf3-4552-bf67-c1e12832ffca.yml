@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: a33c2a37-6bf3-4552-bf67-c1e12832ffca
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    c1cdc43c-8afe-48ec-b7a9-780edabfd4aa: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Caudex&subset=greek-ext#700italic'
+  name:
+    -
+      value: 'Caudex 700italic (greek-ext)'
+  css_family:
+    -
+      value: Caudex
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '700'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:16:"Caudex:700italic";s:6:"subset";s:9:"greek-ext";}'
+  created:
+    -
+      value: 1468916166
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: c1cdc43c-8afe-48ec-b7a9-780edabfd4aa

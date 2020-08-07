@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 2c8adeac-44d3-410a-9d1a-78ecf1cf86fd
+  depends:
+    e63ab54f-3b7c-43f7-8976-e4eb9cd2a966: taxonomy_term
+    c1cdc43c-8afe-48ec-b7a9-780edabfd4aa: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Roboto Mono&subset=greek-ext#italic'
+  name:
+    -
+      value: 'Roboto Mono italic (greek-ext)'
+  css_family:
+    -
+      value: 'Roboto Mono'
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:18:"Roboto Mono:italic";s:6:"subset";s:9:"greek-ext";}'
+  created:
+    -
+      value: 1468916103
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: e63ab54f-3b7c-43f7-8976-e4eb9cd2a966
+  field_supported_languages:
+    -
+      entity: c1cdc43c-8afe-48ec-b7a9-780edabfd4aa

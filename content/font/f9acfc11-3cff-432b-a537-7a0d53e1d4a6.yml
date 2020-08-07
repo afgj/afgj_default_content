@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: f9acfc11-3cff-432b-a537-7a0d53e1d4a6
+  depends:
+    17446f80-8d34-40cc-ab9f-3fee7f30131c: taxonomy_term
+    15fd35d0-d4d2-47b5-8cb7-0b38b010e762: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Neucha&subset=cyrillic#regular'
+  name:
+    -
+      value: 'Neucha regular (cyrillic)'
+  css_family:
+    -
+      value: Neucha
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:14:"Neucha:regular";s:6:"subset";s:8:"cyrillic";}'
+  created:
+    -
+      value: 1468916126
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 17446f80-8d34-40cc-ab9f-3fee7f30131c
+  field_supported_languages:
+    -
+      entity: 15fd35d0-d4d2-47b5-8cb7-0b38b010e762

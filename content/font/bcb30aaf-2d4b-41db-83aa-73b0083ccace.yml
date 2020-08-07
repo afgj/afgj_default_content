@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: bcb30aaf-2d4b-41db-83aa-73b0083ccace
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    b72925ad-f146-407a-bcdc-20482a2261bd: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Rakkas&subset=arabic#regular'
+  name:
+    -
+      value: 'Rakkas regular (arabic)'
+  css_family:
+    -
+      value: Rakkas
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:14:"Rakkas:regular";s:6:"subset";s:6:"arabic";}'
+  created:
+    -
+      value: 1468916109
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: b72925ad-f146-407a-bcdc-20482a2261bd

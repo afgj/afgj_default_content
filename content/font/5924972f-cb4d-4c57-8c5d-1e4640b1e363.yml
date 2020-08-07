@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 5924972f-cb4d-4c57-8c5d-1e4640b1e363
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    15fd35d0-d4d2-47b5-8cb7-0b38b010e762: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Comfortaa&subset=cyrillic#300'
+  name:
+    -
+      value: 'Comfortaa 300 (cyrillic)'
+  css_family:
+    -
+      value: Comfortaa
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '300'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:13:"Comfortaa:300";s:6:"subset";s:8:"cyrillic";}'
+  created:
+    -
+      value: 1468916165
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: 15fd35d0-d4d2-47b5-8cb7-0b38b010e762

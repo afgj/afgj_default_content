@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: ff9b2d18-3996-4ce4-9398-48f271cc2b95
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    ed42df9e-892e-48c1-beee-8295416bdf05: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Baloo Bhai&subset=gujarati#regular'
+  name:
+    -
+      value: 'Baloo Bhai regular (gujarati)'
+  css_family:
+    -
+      value: 'Baloo Bhai'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:18:"Baloo Bhai:regular";s:6:"subset";s:8:"gujarati";}'
+  created:
+    -
+      value: 1468916172
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: ed42df9e-892e-48c1-beee-8295416bdf05

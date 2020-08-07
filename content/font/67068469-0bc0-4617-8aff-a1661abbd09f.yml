@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 67068469-0bc0-4617-8aff-a1661abbd09f
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    df366265-aa5a-43a2-a2cf-bd67fe469b71: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Pridi&subset=thai#200'
+  name:
+    -
+      value: 'Pridi 200 (thai)'
+  css_family:
+    -
+      value: Pridi
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '200'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:9:"Pridi:200";s:6:"subset";s:4:"thai";}'
+  created:
+    -
+      value: 1468916114
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: df366265-aa5a-43a2-a2cf-bd67fe469b71

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 272e55d6-7c73-42d8-b61f-31fbfaceded9
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    60db99f2-0b1f-45ff-be70-1e724afe1b2f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Tinos&subset=latin-ext#italic'
+  name:
+    -
+      value: 'Tinos italic (latin-ext)'
+  css_family:
+    -
+      value: Tinos
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:12:"Tinos:italic";s:6:"subset";s:9:"latin-ext";}'
+  created:
+    -
+      value: 1468916091
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 60db99f2-0b1f-45ff-be70-1e724afe1b2f

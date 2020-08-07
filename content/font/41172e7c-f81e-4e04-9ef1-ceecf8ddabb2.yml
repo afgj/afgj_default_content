@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 41172e7c-f81e-4e04-9ef1-ceecf8ddabb2
+  depends:
+    17446f80-8d34-40cc-ab9f-3fee7f30131c: taxonomy_term
+    9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Itim&subset=vietnamese#regular'
+  name:
+    -
+      value: 'Itim regular (vietnamese)'
+  css_family:
+    -
+      value: Itim
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:12:"Itim:regular";s:6:"subset";s:10:"vietnamese";}'
+  created:
+    -
+      value: 1468916144
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 17446f80-8d34-40cc-ab9f-3fee7f30131c
+  field_supported_languages:
+    -
+      entity: 9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f

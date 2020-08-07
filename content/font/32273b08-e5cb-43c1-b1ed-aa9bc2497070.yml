@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 32273b08-e5cb-43c1-b1ed-aa9bc2497070
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    6588e67a-2c28-42c1-98f1-30d72cac6328: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Raleway&subset=latin#600'
+  name:
+    -
+      value: 'Raleway 600 (latin)'
+  css_family:
+    -
+      value: Raleway
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '600'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:11:"Raleway:600";s:6:"subset";s:5:"latin";}'
+  created:
+    -
+      value: 1468916109
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 6588e67a-2c28-42c1-98f1-30d72cac6328

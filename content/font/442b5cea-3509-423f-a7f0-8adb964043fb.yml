@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 442b5cea-3509-423f-a7f0-8adb964043fb
+  depends:
+    e63ab54f-3b7c-43f7-8976-e4eb9cd2a966: taxonomy_term
+    15fd35d0-d4d2-47b5-8cb7-0b38b010e762: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Ubuntu Mono&subset=cyrillic#700italic'
+  name:
+    -
+      value: 'Ubuntu Mono 700italic (cyrillic)'
+  css_family:
+    -
+      value: 'Ubuntu Mono'
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '700'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:21:"Ubuntu Mono:700italic";s:6:"subset";s:8:"cyrillic";}'
+  created:
+    -
+      value: 1468916084
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: e63ab54f-3b7c-43f7-8976-e4eb9cd2a966
+  field_supported_languages:
+    -
+      entity: 15fd35d0-d4d2-47b5-8cb7-0b38b010e762

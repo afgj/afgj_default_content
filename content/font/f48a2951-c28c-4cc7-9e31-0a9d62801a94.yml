@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: f48a2951-c28c-4cc7-9e31-0a9d62801a94
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    9ed74df8-ef09-4d47-aea0-57418a94eef8: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Martel&subset=devanagari#800'
+  name:
+    -
+      value: 'Martel 800 (devanagari)'
+  css_family:
+    -
+      value: Martel
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '800'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:10:"Martel:800";s:6:"subset";s:10:"devanagari";}'
+  created:
+    -
+      value: 1468916131
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 9ed74df8-ef09-4d47-aea0-57418a94eef8

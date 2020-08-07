@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: f9ed478d-d206-44ed-8e13-122351aedd18
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    15fd35d0-d4d2-47b5-8cb7-0b38b010e762: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Cormorant&subset=cyrillic#500italic'
+  name:
+    -
+      value: 'Cormorant 500italic (cyrillic)'
+  css_family:
+    -
+      value: Cormorant
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '500'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:19:"Cormorant:500italic";s:6:"subset";s:8:"cyrillic";}'
+  created:
+    -
+      value: 1468916163
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 15fd35d0-d4d2-47b5-8cb7-0b38b010e762

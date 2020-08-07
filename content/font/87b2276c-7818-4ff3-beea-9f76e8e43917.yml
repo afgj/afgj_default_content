@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 87b2276c-7818-4ff3-beea-9f76e8e43917
+  depends:
+    e63ab54f-3b7c-43f7-8976-e4eb9cd2a966: taxonomy_term
+    15fd35d0-d4d2-47b5-8cb7-0b38b010e762: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=PT Mono&subset=cyrillic#regular'
+  name:
+    -
+      value: 'PT Mono regular (cyrillic)'
+  css_family:
+    -
+      value: 'PT Mono'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:15:"PT Mono:regular";s:6:"subset";s:8:"cyrillic";}'
+  created:
+    -
+      value: 1468916119
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: e63ab54f-3b7c-43f7-8976-e4eb9cd2a966
+  field_supported_languages:
+    -
+      entity: 15fd35d0-d4d2-47b5-8cb7-0b38b010e762

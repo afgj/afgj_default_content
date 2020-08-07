@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: f8ade0a3-fc31-4cd5-919b-35e6529236ac
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    bbcb58af-f539-4772-8d19-4ce83a12ec07: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Baloo Da&subset=bengali#regular'
+  name:
+    -
+      value: 'Baloo Da regular (bengali)'
+  css_family:
+    -
+      value: 'Baloo Da'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:16:"Baloo Da:regular";s:6:"subset";s:7:"bengali";}'
+  created:
+    -
+      value: 1468916172
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: bbcb58af-f539-4772-8d19-4ce83a12ec07

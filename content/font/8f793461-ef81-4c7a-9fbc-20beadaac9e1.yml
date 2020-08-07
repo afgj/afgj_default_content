@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 8f793461-ef81-4c7a-9fbc-20beadaac9e1
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    df366265-aa5a-43a2-a2cf-bd67fe469b71: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Prompt&subset=thai#300'
+  name:
+    -
+      value: 'Prompt 300 (thai)'
+  css_family:
+    -
+      value: Prompt
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '300'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:10:"Prompt:300";s:6:"subset";s:4:"thai";}'
+  created:
+    -
+      value: 1468916113
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: df366265-aa5a-43a2-a2cf-bd67fe469b71

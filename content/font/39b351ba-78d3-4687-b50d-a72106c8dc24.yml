@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 39b351ba-78d3-4687-b50d-a72106c8dc24
+  depends:
+    e63ab54f-3b7c-43f7-8976-e4eb9cd2a966: taxonomy_term
+    21846484-5884-4b22-999a-98533b6414fc: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Nova Mono&subset=greek#regular'
+  name:
+    -
+      value: 'Nova Mono regular (greek)'
+  css_family:
+    -
+      value: 'Nova Mono'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:17:"Nova Mono:regular";s:6:"subset";s:5:"greek";}'
+  created:
+    -
+      value: 1468916123
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: e63ab54f-3b7c-43f7-8976-e4eb9cd2a966
+  field_supported_languages:
+    -
+      entity: 21846484-5884-4b22-999a-98533b6414fc

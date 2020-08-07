@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: b9f8993f-0583-45af-982f-06c4df7be21f
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    24723779-acc7-4740-8731-cfe9abad6ff5: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Pavanam&subset=tamil#regular'
+  name:
+    -
+      value: 'Pavanam regular (tamil)'
+  css_family:
+    -
+      value: Pavanam
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:15:"Pavanam:regular";s:6:"subset";s:5:"tamil";}'
+  created:
+    -
+      value: 1468916116
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 24723779-acc7-4740-8731-cfe9abad6ff5

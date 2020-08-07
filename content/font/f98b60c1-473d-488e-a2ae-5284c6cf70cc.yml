@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: f98b60c1-473d-488e-a2ae-5284c6cf70cc
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    15fd35d0-d4d2-47b5-8cb7-0b38b010e762: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=PT Serif Caption&subset=cyrillic#regular'
+  name:
+    -
+      value: 'PT Serif Caption regular (cyrillic)'
+  css_family:
+    -
+      value: 'PT Serif Caption'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:24:"PT Serif Caption:regular";s:6:"subset";s:8:"cyrillic";}'
+  created:
+    -
+      value: 1468916119
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 15fd35d0-d4d2-47b5-8cb7-0b38b010e762

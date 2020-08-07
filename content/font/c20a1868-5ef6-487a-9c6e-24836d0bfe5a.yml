@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: c20a1868-5ef6-487a-9c6e-24836d0bfe5a
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Trirong&subset=vietnamese#900'
+  name:
+    -
+      value: 'Trirong 900 (vietnamese)'
+  css_family:
+    -
+      value: Trirong
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '900'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:11:"Trirong:900";s:6:"subset";s:10:"vietnamese";}'
+  created:
+    -
+      value: 1468916087
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f

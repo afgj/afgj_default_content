@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 514e15dc-c685-4261-915e-ad0b52dc2730
+  depends:
+    17446f80-8d34-40cc-ab9f-3fee7f30131c: taxonomy_term
+    6588e67a-2c28-42c1-98f1-30d72cac6328: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Felipa&subset=latin#regular'
+  name:
+    -
+      value: 'Felipa regular (latin)'
+  css_family:
+    -
+      value: Felipa
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:14:"Felipa:regular";s:6:"subset";s:5:"latin";}'
+  created:
+    -
+      value: 1468916152
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 17446f80-8d34-40cc-ab9f-3fee7f30131c
+  field_supported_languages:
+    -
+      entity: 6588e67a-2c28-42c1-98f1-30d72cac6328

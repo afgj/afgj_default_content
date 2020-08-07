@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 33ffa0b1-ad2b-4cfd-a8b2-0e97f91ae8e9
+  depends:
+    e63ab54f-3b7c-43f7-8976-e4eb9cd2a966: taxonomy_term
+    15fd35d0-d4d2-47b5-8cb7-0b38b010e762: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Roboto Mono&subset=cyrillic#300'
+  name:
+    -
+      value: 'Roboto Mono 300 (cyrillic)'
+  css_family:
+    -
+      value: 'Roboto Mono'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '300'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:15:"Roboto Mono:300";s:6:"subset";s:8:"cyrillic";}'
+  created:
+    -
+      value: 1468916103
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: e63ab54f-3b7c-43f7-8976-e4eb9cd2a966
+  field_supported_languages:
+    -
+      entity: 15fd35d0-d4d2-47b5-8cb7-0b38b010e762

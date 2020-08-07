@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 57d6c775-d99a-41e6-83d3-be87d9196319
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Judson&subset=vietnamese#italic'
+  name:
+    -
+      value: 'Judson italic (vietnamese)'
+  css_family:
+    -
+      value: Judson
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:13:"Judson:italic";s:6:"subset";s:10:"vietnamese";}'
+  created:
+    -
+      value: 1468916142
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f

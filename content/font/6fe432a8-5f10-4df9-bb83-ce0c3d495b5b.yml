@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 6fe432a8-5f10-4df9-bb83-ce0c3d495b5b
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Cormorant&subset=vietnamese#regular'
+  name:
+    -
+      value: 'Cormorant regular (vietnamese)'
+  css_family:
+    -
+      value: Cormorant
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:17:"Cormorant:regular";s:6:"subset";s:10:"vietnamese";}'
+  created:
+    -
+      value: 1468916163
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f

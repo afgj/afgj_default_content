@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 35c58c78-5ecf-4c1a-acd3-15b86d738359
+  depends:
+    e63ab54f-3b7c-43f7-8976-e4eb9cd2a966: taxonomy_term
+    21846484-5884-4b22-999a-98533b6414fc: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Cousine&subset=greek#regular'
+  name:
+    -
+      value: 'Cousine regular (greek)'
+  css_family:
+    -
+      value: Cousine
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:15:"Cousine:regular";s:6:"subset";s:5:"greek";}'
+  created:
+    -
+      value: 1468916159
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: e63ab54f-3b7c-43f7-8976-e4eb9cd2a966
+  field_supported_languages:
+    -
+      entity: 21846484-5884-4b22-999a-98533b6414fc

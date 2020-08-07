@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 801027e3-8218-4e05-9e6b-2470485842a1
+  depends:
+    17446f80-8d34-40cc-ab9f-3fee7f30131c: taxonomy_term
+    df366265-aa5a-43a2-a2cf-bd67fe469b71: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Sriracha&subset=thai#regular'
+  name:
+    -
+      value: 'Sriracha regular (thai)'
+  css_family:
+    -
+      value: Sriracha
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:16:"Sriracha:regular";s:6:"subset";s:4:"thai";}'
+  created:
+    -
+      value: 1468916094
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 17446f80-8d34-40cc-ab9f-3fee7f30131c
+  field_supported_languages:
+    -
+      entity: df366265-aa5a-43a2-a2cf-bd67fe469b71

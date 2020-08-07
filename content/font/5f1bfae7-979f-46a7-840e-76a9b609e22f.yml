@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 5f1bfae7-979f-46a7-840e-76a9b609e22f
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    21846484-5884-4b22-999a-98533b6414fc: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Fira Sans&subset=greek#500italic'
+  name:
+    -
+      value: 'Fira Sans 500italic (greek)'
+  css_family:
+    -
+      value: 'Fira Sans'
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '500'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:19:"Fira Sans:500italic";s:6:"subset";s:5:"greek";}'
+  created:
+    -
+      value: 1468916151
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 21846484-5884-4b22-999a-98533b6414fc

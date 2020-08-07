@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: a2ddecc4-4a53-468b-bccd-cbb776b5af98
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    47ed109d-312b-455e-8c24-c807926818f1: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Amatica SC&subset=hebrew#regular'
+  name:
+    -
+      value: 'Amatica SC regular (hebrew)'
+  css_family:
+    -
+      value: 'Amatica SC'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:18:"Amatica SC:regular";s:6:"subset";s:6:"hebrew";}'
+  created:
+    -
+      value: 1468916177
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: 47ed109d-312b-455e-8c24-c807926818f1

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 62d1b7be-c70e-4033-9976-23e80b335c6b
+  depends:
+    17446f80-8d34-40cc-ab9f-3fee7f30131c: taxonomy_term
+    60db99f2-0b1f-45ff-be70-1e724afe1b2f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Butterfly Kids&subset=latin-ext#regular'
+  name:
+    -
+      value: 'Butterfly Kids regular (latin-ext)'
+  css_family:
+    -
+      value: 'Butterfly Kids'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:22:"Butterfly Kids:regular";s:6:"subset";s:9:"latin-ext";}'
+  created:
+    -
+      value: 1468916169
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 17446f80-8d34-40cc-ab9f-3fee7f30131c
+  field_supported_languages:
+    -
+      entity: 60db99f2-0b1f-45ff-be70-1e724afe1b2f

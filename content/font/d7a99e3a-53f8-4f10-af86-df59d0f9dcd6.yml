@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: d7a99e3a-53f8-4f10-af86-df59d0f9dcd6
+  depends:
+    e63ab54f-3b7c-43f7-8976-e4eb9cd2a966: taxonomy_term
+    60db99f2-0b1f-45ff-be70-1e724afe1b2f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Oxygen Mono&subset=latin-ext#regular'
+  name:
+    -
+      value: 'Oxygen Mono regular (latin-ext)'
+  css_family:
+    -
+      value: 'Oxygen Mono'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:19:"Oxygen Mono:regular";s:6:"subset";s:9:"latin-ext";}'
+  created:
+    -
+      value: 1468916119
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: e63ab54f-3b7c-43f7-8976-e4eb9cd2a966
+  field_supported_languages:
+    -
+      entity: 60db99f2-0b1f-45ff-be70-1e724afe1b2f

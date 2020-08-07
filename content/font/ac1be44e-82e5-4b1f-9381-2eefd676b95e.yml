@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: ac1be44e-82e5-4b1f-9381-2eefd676b95e
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Bungee Hairline&subset=vietnamese#regular'
+  name:
+    -
+      value: 'Bungee Hairline regular (vietnamese)'
+  css_family:
+    -
+      value: 'Bungee Hairline'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:23:"Bungee Hairline:regular";s:6:"subset";s:10:"vietnamese";}'
+  created:
+    -
+      value: 1468916169
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: 9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f

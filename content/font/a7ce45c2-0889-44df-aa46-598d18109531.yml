@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: a7ce45c2-0889-44df-aa46-598d18109531
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    60db99f2-0b1f-45ff-be70-1e724afe1b2f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Trirong&subset=latin-ext#500italic'
+  name:
+    -
+      value: 'Trirong 500italic (latin-ext)'
+  css_family:
+    -
+      value: Trirong
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '500'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:17:"Trirong:500italic";s:6:"subset";s:9:"latin-ext";}'
+  created:
+    -
+      value: 1468916087
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 60db99f2-0b1f-45ff-be70-1e724afe1b2f

@@ -19,6 +19,6 @@ default:
       value: true
   body:
     -
-      value: "<div class=\"logo-and-site-name-wrapper clearfix\">\r\n  <div class=\"logo\">\r\n    <a href=\"#\" title=\"Home\" rel=\"home\" class=\"site-branding__logo\">\r\n      <img src=\"https://mttprojects.s3.amazonaws.com/demo.morethanthemes.com/afgjtheme/placeholders/logo-bright.svg\" alt=\"Home\">\r\n    </a>\r\n  </div>\r\n  <div class=\"site-name site-branding__name\">\r\n    <a href=\"#\" title=\"Home\" rel=\"home\">Conference+</a>\r\n  </div>\r\n  <div class=\"site-slogan site-branding__slogan\">A DRUPAL 8 THEME FOR CORPORATE SITES</div>\r\n</div>"
+      value: "<div class=\"logo-and-site-name-wrapper clearfix\">\r\n  <div class=\"logo\">\r\n    <a href=\"#\" title=\"Home\" rel=\"home\" class=\"site-branding__logo\">\r\n      <img src=\"https://mttprojects.s3.amazonaws.com/demo.morethanthemes.com/businessplus/placeholders/logo-bright.svg\" alt=\"Home\">\r\n    </a>\r\n  </div>\r\n  <div class=\"site-name site-branding__name\">\r\n    <a href=\"#\" title=\"Home\" rel=\"home\">Conference+</a>\r\n  </div>\r\n  <div class=\"site-slogan site-branding__slogan\">A DRUPAL 8 THEME FOR CORPORATE SITES</div>\r\n</div>"
       format: raw_html
       summary: ''

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: fb0fc802-3a3c-4c01-be5a-bd5e12a45a93
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    15fd35d0-d4d2-47b5-8cb7-0b38b010e762: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Cormorant Unicase&subset=cyrillic#500'
+  name:
+    -
+      value: 'Cormorant Unicase 500 (cyrillic)'
+  css_family:
+    -
+      value: 'Cormorant Unicase'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '500'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:21:"Cormorant Unicase:500";s:6:"subset";s:8:"cyrillic";}'
+  created:
+    -
+      value: 1468916161
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 15fd35d0-d4d2-47b5-8cb7-0b38b010e762

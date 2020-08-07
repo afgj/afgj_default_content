@@ -19,6 +19,6 @@ default:
       value: true
   body:
     -
-      value: "<div class=\"contact-info d-md-block d-inline-block text-left\">\r\n<ul>\r\n\t<li><i class=\"fas fa-map-marker-alt\"><span class=\"sr-only\">map-marker-alt</span></i> 787 Virginia Street New York,<br />\r\n\tNY 213421</li>\r\n\t<li><i class=\"fas fa-phone\"><span class=\"sr-only\">phone</span></i> +321 123 456 7</li>\r\n\t<li><i class=\"far fa-envelope\"><span class=\"sr-only\">envelope</span></i> <a class=\"link--bordered\" href=\"mailto:info@afgjtheme.com\">info@afgjtheme.com</a></li>\r\n</ul>\r\n</div>\r\n"
+      value: "<div class=\"contact-info d-md-block d-inline-block text-left\">\r\n<ul>\r\n\t<li><i class=\"fas fa-map-marker-alt\"><span class=\"sr-only\">map-marker-alt</span></i> 787 Virginia Street New York,<br />\r\n\tNY 213421</li>\r\n\t<li><i class=\"fas fa-phone\"><span class=\"sr-only\">phone</span></i> +321 123 456 7</li>\r\n\t<li><i class=\"far fa-envelope\"><span class=\"sr-only\">envelope</span></i> <a class=\"link--bordered\" href=\"mailto:info@businessplus.com\">info@businessplus.com</a></li>\r\n</ul>\r\n</div>\r\n"
       format: full_html
       summary: ''

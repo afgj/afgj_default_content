@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: a6d8f02c-61de-4229-b889-600a53e54cd0
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    c1cdc43c-8afe-48ec-b7a9-780edabfd4aa: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Roboto&subset=greek-ext#300italic'
+  name:
+    -
+      value: 'Roboto 300italic (greek-ext)'
+  css_family:
+    -
+      value: Roboto
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '300'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:16:"Roboto:300italic";s:6:"subset";s:9:"greek-ext";}'
+  created:
+    -
+      value: 1468916106
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: c1cdc43c-8afe-48ec-b7a9-780edabfd4aa

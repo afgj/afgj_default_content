@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: cde2d1f8-943f-47f3-aa2c-1dc646c4a6b4
+  depends:
+    e63ab54f-3b7c-43f7-8976-e4eb9cd2a966: taxonomy_term
+    6588e67a-2c28-42c1-98f1-30d72cac6328: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Source Code Pro&subset=latin#600'
+  name:
+    -
+      value: 'Source Code Pro 600 (latin)'
+  css_family:
+    -
+      value: 'Source Code Pro'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '600'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:19:"Source Code Pro:600";s:6:"subset";s:5:"latin";}'
+  created:
+    -
+      value: 1468916095
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: e63ab54f-3b7c-43f7-8976-e4eb9cd2a966
+  field_supported_languages:
+    -
+      entity: 6588e67a-2c28-42c1-98f1-30d72cac6328

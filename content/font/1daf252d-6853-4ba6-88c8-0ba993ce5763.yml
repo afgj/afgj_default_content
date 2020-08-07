@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 1daf252d-6853-4ba6-88c8-0ba993ce5763
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    24723779-acc7-4740-8731-cfe9abad6ff5: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Hind Madurai&subset=tamil#600'
+  name:
+    -
+      value: 'Hind Madurai 600 (tamil)'
+  css_family:
+    -
+      value: 'Hind Madurai'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '600'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:16:"Hind Madurai:600";s:6:"subset";s:5:"tamil";}'
+  created:
+    -
+      value: 1468916147
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 24723779-acc7-4740-8731-cfe9abad6ff5

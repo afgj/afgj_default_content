@@ -19,6 +19,6 @@ default:
       value: true
   body:
     -
-      value: "<div class=\"overlay-container\"><img alt=\"sidebar image\" src=\"https://mttprojects.s3.amazonaws.com/demo.morethanthemes.com/afgjtheme/placeholders/block-img.jpg\" /></div>\r\n\r\n<h3><a href=\"#\">Sidebar block with image</a></h3>\r\n\r\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do <a href=\"#\">eiusmod tempor</a> incididunt ut labore et dolore magna aliqua.</p>\r\n\r\n<p><a class=\"link--bordered\" href=\"#\">Read more</a></p>\r\n"
+      value: "<div class=\"overlay-container\"><img alt=\"sidebar image\" src=\"https://mttprojects.s3.amazonaws.com/demo.morethanthemes.com/businessplus/placeholders/block-img.jpg\" /></div>\r\n\r\n<h3><a href=\"#\">Sidebar block with image</a></h3>\r\n\r\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do <a href=\"#\">eiusmod tempor</a> incididunt ut labore et dolore magna aliqua.</p>\r\n\r\n<p><a class=\"link--bordered\" href=\"#\">Read more</a></p>\r\n"
       format: full_html
       summary: ''

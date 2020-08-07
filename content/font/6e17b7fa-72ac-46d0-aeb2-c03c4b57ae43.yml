@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 6e17b7fa-72ac-46d0-aeb2-c03c4b57ae43
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    60db99f2-0b1f-45ff-be70-1e724afe1b2f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Coda Caption&subset=latin-ext#800'
+  name:
+    -
+      value: 'Coda Caption 800 (latin-ext)'
+  css_family:
+    -
+      value: 'Coda Caption'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '800'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:16:"Coda Caption:800";s:6:"subset";s:9:"latin-ext";}'
+  created:
+    -
+      value: 1468916165
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 60db99f2-0b1f-45ff-be70-1e724afe1b2f

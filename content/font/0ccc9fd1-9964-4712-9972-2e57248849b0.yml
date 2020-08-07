@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 0ccc9fd1-9964-4712-9972-2e57248849b0
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    2c9dc05b-e70d-4fd9-93f8-9dbc6d2203b7: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Koulen&subset=khmer#regular'
+  name:
+    -
+      value: 'Koulen regular (khmer)'
+  css_family:
+    -
+      value: Koulen
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:14:"Koulen:regular";s:6:"subset";s:5:"khmer";}'
+  created:
+    -
+      value: 1468916136
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: 2c9dc05b-e70d-4fd9-93f8-9dbc6d2203b7

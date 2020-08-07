@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 9f398c98-d1b2-43b3-b478-abc56c3255b0
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    bbcb58af-f539-4772-8d19-4ce83a12ec07: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Hind Siliguri&subset=bengali#600'
+  name:
+    -
+      value: 'Hind Siliguri 600 (bengali)'
+  css_family:
+    -
+      value: 'Hind Siliguri'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '600'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:17:"Hind Siliguri:600";s:6:"subset";s:7:"bengali";}'
+  created:
+    -
+      value: 1468916145
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: bbcb58af-f539-4772-8d19-4ce83a12ec07

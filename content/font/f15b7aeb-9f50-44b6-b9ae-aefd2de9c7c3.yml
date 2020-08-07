@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: f15b7aeb-9f50-44b6-b9ae-aefd2de9c7c3
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    c1cdc43c-8afe-48ec-b7a9-780edabfd4aa: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Arimo&subset=greek-ext#700italic'
+  name:
+    -
+      value: 'Arimo 700italic (greek-ext)'
+  css_family:
+    -
+      value: Arimo
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '700'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:15:"Arimo:700italic";s:6:"subset";s:9:"greek-ext";}'
+  created:
+    -
+      value: 1468916174
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: c1cdc43c-8afe-48ec-b7a9-780edabfd4aa

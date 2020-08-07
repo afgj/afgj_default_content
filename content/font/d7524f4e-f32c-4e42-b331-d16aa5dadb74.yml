@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: d7524f4e-f32c-4e42-b331-d16aa5dadb74
+  depends:
+    e63ab54f-3b7c-43f7-8976-e4eb9cd2a966: taxonomy_term
+    21846484-5884-4b22-999a-98533b6414fc: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Cousine&subset=greek#700italic'
+  name:
+    -
+      value: 'Cousine 700italic (greek)'
+  css_family:
+    -
+      value: Cousine
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '700'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:17:"Cousine:700italic";s:6:"subset";s:5:"greek";}'
+  created:
+    -
+      value: 1468916159
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: e63ab54f-3b7c-43f7-8976-e4eb9cd2a966
+  field_supported_languages:
+    -
+      entity: 21846484-5884-4b22-999a-98533b6414fc

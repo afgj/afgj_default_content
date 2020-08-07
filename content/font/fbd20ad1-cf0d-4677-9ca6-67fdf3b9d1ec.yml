@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: fbd20ad1-cf0d-4677-9ca6-67fdf3b9d1ec
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    c1cdc43c-8afe-48ec-b7a9-780edabfd4aa: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Noto Sans&subset=greek-ext#700italic'
+  name:
+    -
+      value: 'Noto Sans 700italic (greek-ext)'
+  css_family:
+    -
+      value: 'Noto Sans'
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '700'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:19:"Noto Sans:700italic";s:6:"subset";s:9:"greek-ext";}'
+  created:
+    -
+      value: 1468916125
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: c1cdc43c-8afe-48ec-b7a9-780edabfd4aa

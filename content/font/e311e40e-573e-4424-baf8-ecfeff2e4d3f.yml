@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: e311e40e-573e-4424-baf8-ecfeff2e4d3f
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    60db99f2-0b1f-45ff-be70-1e724afe1b2f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Elsie&subset=latin-ext#900'
+  name:
+    -
+      value: 'Elsie 900 (latin-ext)'
+  css_family:
+    -
+      value: Elsie
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '900'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:9:"Elsie:900";s:6:"subset";s:9:"latin-ext";}'
+  created:
+    -
+      value: 1468916155
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: 60db99f2-0b1f-45ff-be70-1e724afe1b2f

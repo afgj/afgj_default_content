@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 77fd9f18-f323-4ae4-9cae-8024297f48d0
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    21846484-5884-4b22-999a-98533b6414fc: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Open Sans&subset=greek#300'
+  name:
+    -
+      value: 'Open Sans 300 (greek)'
+  css_family:
+    -
+      value: 'Open Sans'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '300'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:13:"Open Sans:300";s:6:"subset";s:5:"greek";}'
+  created:
+    -
+      value: 1468916123
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 21846484-5884-4b22-999a-98533b6414fc

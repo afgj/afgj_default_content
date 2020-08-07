@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 48dfd665-bdfc-4f94-9a17-ef5d50cc428c
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    15fd35d0-d4d2-47b5-8cb7-0b38b010e762: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Cormorant Infant&subset=cyrillic#500'
+  name:
+    -
+      value: 'Cormorant Infant 500 (cyrillic)'
+  css_family:
+    -
+      value: 'Cormorant Infant'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '500'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:20:"Cormorant Infant:500";s:6:"subset";s:8:"cyrillic";}'
+  created:
+    -
+      value: 1468916162
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 15fd35d0-d4d2-47b5-8cb7-0b38b010e762

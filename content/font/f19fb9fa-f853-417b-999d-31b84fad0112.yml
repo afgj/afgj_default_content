@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: f19fb9fa-f853-417b-999d-31b84fad0112
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    bbcb58af-f539-4772-8d19-4ce83a12ec07: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Atma&subset=bengali#500'
+  name:
+    -
+      value: 'Atma 500 (bengali)'
+  css_family:
+    -
+      value: Atma
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '500'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:8:"Atma:500";s:6:"subset";s:7:"bengali";}'
+  created:
+    -
+      value: 1468916173
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: bbcb58af-f539-4772-8d19-4ce83a12ec07

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 4f16d211-07f7-4f76-a5b0-43c37702e158
+  depends:
+    17446f80-8d34-40cc-ab9f-3fee7f30131c: taxonomy_term
+    24723779-acc7-4740-8731-cfe9abad6ff5: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Kavivanar&subset=tamil#regular'
+  name:
+    -
+      value: 'Kavivanar regular (tamil)'
+  css_family:
+    -
+      value: Kavivanar
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:17:"Kavivanar:regular";s:6:"subset";s:5:"tamil";}'
+  created:
+    -
+      value: 1468916138
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 17446f80-8d34-40cc-ab9f-3fee7f30131c
+  field_supported_languages:
+    -
+      entity: 24723779-acc7-4740-8731-cfe9abad6ff5

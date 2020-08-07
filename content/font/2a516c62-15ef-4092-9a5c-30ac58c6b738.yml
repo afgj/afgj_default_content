@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 2a516c62-15ef-4092-9a5c-30ac58c6b738
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    6588e67a-2c28-42c1-98f1-30d72cac6328: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Tenali Ramakrishna&subset=latin#regular'
+  name:
+    -
+      value: 'Tenali Ramakrishna regular (latin)'
+  css_family:
+    -
+      value: 'Tenali Ramakrishna'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:26:"Tenali Ramakrishna:regular";s:6:"subset";s:5:"latin";}'
+  created:
+    -
+      value: 1468916091
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 6588e67a-2c28-42c1-98f1-30d72cac6328

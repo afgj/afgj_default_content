@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 39c2412e-41ed-4de9-aef0-0394e29bc0df
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    2c9dc05b-e70d-4fd9-93f8-9dbc6d2203b7: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Kdam Thmor&subset=khmer#regular'
+  name:
+    -
+      value: 'Kdam Thmor regular (khmer)'
+  css_family:
+    -
+      value: 'Kdam Thmor'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:18:"Kdam Thmor:regular";s:6:"subset";s:5:"khmer";}'
+  created:
+    -
+      value: 1468916138
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: 2c9dc05b-e70d-4fd9-93f8-9dbc6d2203b7

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: a5feb2e6-bcfe-4321-b420-8455a14d1cf0
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Cormorant Garamond&subset=vietnamese#600italic'
+  name:
+    -
+      value: 'Cormorant Garamond 600italic (vietnamese)'
+  css_family:
+    -
+      value: 'Cormorant Garamond'
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '600'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:28:"Cormorant Garamond:600italic";s:6:"subset";s:10:"vietnamese";}'
+  created:
+    -
+      value: 1468916162
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f

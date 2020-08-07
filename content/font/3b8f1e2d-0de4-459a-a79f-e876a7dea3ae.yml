@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 3b8f1e2d-0de4-459a-a79f-e876a7dea3ae
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    47ed109d-312b-455e-8c24-c807926818f1: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=David Libre&subset=hebrew#700'
+  name:
+    -
+      value: 'David Libre 700 (hebrew)'
+  css_family:
+    -
+      value: 'David Libre'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '700'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:15:"David Libre:700";s:6:"subset";s:6:"hebrew";}'
+  created:
+    -
+      value: 1468916158
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 47ed109d-312b-455e-8c24-c807926818f1

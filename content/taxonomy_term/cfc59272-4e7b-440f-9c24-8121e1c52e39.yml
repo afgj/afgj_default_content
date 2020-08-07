@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  bundle: font_classification
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: sans-serif
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0

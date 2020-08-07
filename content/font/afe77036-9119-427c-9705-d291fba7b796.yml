@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: afe77036-9119-427c-9705-d291fba7b796
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    9ed74df8-ef09-4d47-aea0-57418a94eef8: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Inknut Antiqua&subset=devanagari#800'
+  name:
+    -
+      value: 'Inknut Antiqua 800 (devanagari)'
+  css_family:
+    -
+      value: 'Inknut Antiqua'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '800'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:18:"Inknut Antiqua:800";s:6:"subset";s:10:"devanagari";}'
+  created:
+    -
+      value: 1468916144
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 9ed74df8-ef09-4d47-aea0-57418a94eef8

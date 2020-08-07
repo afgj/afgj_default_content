@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: ed45cf81-d298-4bd8-8ad4-fb437091986d
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    6588e67a-2c28-42c1-98f1-30d72cac6328: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Ek Mukta&subset=latin#800'
+  name:
+    -
+      value: 'Ek Mukta 800 (latin)'
+  css_family:
+    -
+      value: 'Ek Mukta'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '800'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:12:"Ek Mukta:800";s:6:"subset";s:5:"latin";}'
+  created:
+    -
+      value: 1468916155
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 6588e67a-2c28-42c1-98f1-30d72cac6328

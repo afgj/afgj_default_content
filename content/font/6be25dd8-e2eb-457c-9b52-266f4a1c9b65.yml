@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 6be25dd8-e2eb-457c-9b52-266f4a1c9b65
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    6588e67a-2c28-42c1-98f1-30d72cac6328: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Josefin Sans&subset=latin#100italic'
+  name:
+    -
+      value: 'Josefin Sans 100italic (latin)'
+  css_family:
+    -
+      value: 'Josefin Sans'
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '100'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:22:"Josefin Sans:100italic";s:6:"subset";s:5:"latin";}'
+  created:
+    -
+      value: 1468916142
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 6588e67a-2c28-42c1-98f1-30d72cac6328

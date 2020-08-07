@@ -19,6 +19,6 @@ default:
       value: true
   field_mt_block_reference:
     -
-      target_id: afgjtheme_views_block__mt_latest_block_3
+      target_id: businessplus_views_block__mt_latest_block_3
     -
-      target_id: afgjtheme_views_block__mt_latest_block_1
+      target_id: businessplus_views_block__mt_latest_block_1

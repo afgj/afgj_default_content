@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: b8501053-df6c-420a-95bd-6411dc05995d
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    df366265-aa5a-43a2-a2cf-bd67fe469b71: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Taviraj&subset=thai#600italic'
+  name:
+    -
+      value: 'Taviraj 600italic (thai)'
+  css_family:
+    -
+      value: Taviraj
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '600'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:17:"Taviraj:600italic";s:6:"subset";s:4:"thai";}'
+  created:
+    -
+      value: 1468916092
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: df366265-aa5a-43a2-a2cf-bd67fe469b71

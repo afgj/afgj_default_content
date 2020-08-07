@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: f6ef2518-06dd-42c2-bde3-cd705240934c
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    b72925ad-f146-407a-bcdc-20482a2261bd: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Changa&subset=arabic#500'
+  name:
+    -
+      value: 'Changa 500 (arabic)'
+  css_family:
+    -
+      value: Changa
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '500'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:10:"Changa:500";s:6:"subset";s:6:"arabic";}'
+  created:
+    -
+      value: 1468916166
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: b72925ad-f146-407a-bcdc-20482a2261bd

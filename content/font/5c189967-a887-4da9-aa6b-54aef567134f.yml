@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 5c189967-a887-4da9-aa6b-54aef567134f
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    df366265-aa5a-43a2-a2cf-bd67fe469b71: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Chonburi&subset=thai#regular'
+  name:
+    -
+      value: 'Chonburi regular (thai)'
+  css_family:
+    -
+      value: Chonburi
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:16:"Chonburi:regular";s:6:"subset";s:4:"thai";}'
+  created:
+    -
+      value: 1468916165
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: df366265-aa5a-43a2-a2cf-bd67fe469b71

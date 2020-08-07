@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 5623a294-72a8-420f-a0a1-e41e108c1057
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    6588e67a-2c28-42c1-98f1-30d72cac6328: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Sorts Mill Goudy&subset=latin#regular'
+  name:
+    -
+      value: 'Sorts Mill Goudy regular (latin)'
+  css_family:
+    -
+      value: 'Sorts Mill Goudy'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:24:"Sorts Mill Goudy:regular";s:6:"subset";s:5:"latin";}'
+  created:
+    -
+      value: 1468916095
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 6588e67a-2c28-42c1-98f1-30d72cac6328

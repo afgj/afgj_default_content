@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: e1960b38-5236-4b1c-9666-6646c0ab4161
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Taviraj&subset=vietnamese#900italic'
+  name:
+    -
+      value: 'Taviraj 900italic (vietnamese)'
+  css_family:
+    -
+      value: Taviraj
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '900'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:17:"Taviraj:900italic";s:6:"subset";s:10:"vietnamese";}'
+  created:
+    -
+      value: 1468916091
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f

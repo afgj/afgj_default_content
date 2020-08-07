@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 372b1311-7621-41ed-9b7a-39976f3ad160
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Prompt&subset=vietnamese#100'
+  name:
+    -
+      value: 'Prompt 100 (vietnamese)'
+  css_family:
+    -
+      value: Prompt
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '100'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:10:"Prompt:100";s:6:"subset";s:10:"vietnamese";}'
+  created:
+    -
+      value: 1468916113
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f

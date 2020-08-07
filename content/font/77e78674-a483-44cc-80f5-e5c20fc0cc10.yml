@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 77e78674-a483-44cc-80f5-e5c20fc0cc10
+  depends:
+    e63ab54f-3b7c-43f7-8976-e4eb9cd2a966: taxonomy_term
+    47ed109d-312b-455e-8c24-c807926818f1: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Cousine&subset=hebrew#regular'
+  name:
+    -
+      value: 'Cousine regular (hebrew)'
+  css_family:
+    -
+      value: Cousine
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:15:"Cousine:regular";s:6:"subset";s:6:"hebrew";}'
+  created:
+    -
+      value: 1468916159
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: e63ab54f-3b7c-43f7-8976-e4eb9cd2a966
+  field_supported_languages:
+    -
+      entity: 47ed109d-312b-455e-8c24-c807926818f1

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 0b245c17-82d2-49fc-81b8-0e7da8745b3e
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Taviraj&subset=vietnamese#200'
+  name:
+    -
+      value: 'Taviraj 200 (vietnamese)'
+  css_family:
+    -
+      value: Taviraj
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '200'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:11:"Taviraj:200";s:6:"subset";s:10:"vietnamese";}'
+  created:
+    -
+      value: 1468916092
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f

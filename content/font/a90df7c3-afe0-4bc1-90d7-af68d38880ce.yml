@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: a90df7c3-afe0-4bc1-90d7-af68d38880ce
+  depends:
+    e63ab54f-3b7c-43f7-8976-e4eb9cd2a966: taxonomy_term
+    c1cdc43c-8afe-48ec-b7a9-780edabfd4aa: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Ubuntu Mono&subset=greek-ext#700'
+  name:
+    -
+      value: 'Ubuntu Mono 700 (greek-ext)'
+  css_family:
+    -
+      value: 'Ubuntu Mono'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '700'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:15:"Ubuntu Mono:700";s:6:"subset";s:9:"greek-ext";}'
+  created:
+    -
+      value: 1468916086
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: e63ab54f-3b7c-43f7-8976-e4eb9cd2a966
+  field_supported_languages:
+    -
+      entity: c1cdc43c-8afe-48ec-b7a9-780edabfd4aa

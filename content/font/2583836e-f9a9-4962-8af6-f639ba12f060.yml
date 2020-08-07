@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 2583836e-f9a9-4962-8af6-f639ba12f060
+  depends:
+    e63ab54f-3b7c-43f7-8976-e4eb9cd2a966: taxonomy_term
+    21846484-5884-4b22-999a-98533b6414fc: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Roboto Mono&subset=greek#300italic'
+  name:
+    -
+      value: 'Roboto Mono 300italic (greek)'
+  css_family:
+    -
+      value: 'Roboto Mono'
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '300'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:21:"Roboto Mono:300italic";s:6:"subset";s:5:"greek";}'
+  created:
+    -
+      value: 1468916103
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: e63ab54f-3b7c-43f7-8976-e4eb9cd2a966
+  field_supported_languages:
+    -
+      entity: 21846484-5884-4b22-999a-98533b6414fc

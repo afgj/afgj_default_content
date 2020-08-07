@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 55dbf079-90c7-47c8-a25f-8b282b336f80
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    6588e67a-2c28-42c1-98f1-30d72cac6328: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Roboto&subset=latin#100italic'
+  name:
+    -
+      value: 'Roboto 100italic (latin)'
+  css_family:
+    -
+      value: Roboto
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '100'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:16:"Roboto:100italic";s:6:"subset";s:5:"latin";}'
+  created:
+    -
+      value: 1468916106
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 6588e67a-2c28-42c1-98f1-30d72cac6328

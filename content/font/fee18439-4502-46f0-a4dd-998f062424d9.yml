@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: fee18439-4502-46f0-a4dd-998f062424d9
+  depends:
+    e63ab54f-3b7c-43f7-8976-e4eb9cd2a966: taxonomy_term
+    bcd62403-9959-4483-902f-9681788fc5b4: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Cousine&subset=cyrillic-ext#700italic'
+  name:
+    -
+      value: 'Cousine 700italic (cyrillic-ext)'
+  css_family:
+    -
+      value: Cousine
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '700'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:17:"Cousine:700italic";s:6:"subset";s:12:"cyrillic-ext";}'
+  created:
+    -
+      value: 1468916159
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: e63ab54f-3b7c-43f7-8976-e4eb9cd2a966
+  field_supported_languages:
+    -
+      entity: bcd62403-9959-4483-902f-9681788fc5b4

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 97003f49-e451-4fb6-b846-891d0322e0d1
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    bcd62403-9959-4483-902f-9681788fc5b4: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Roboto Slab&subset=cyrillic-ext#100'
+  name:
+    -
+      value: 'Roboto Slab 100 (cyrillic-ext)'
+  css_family:
+    -
+      value: 'Roboto Slab'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '100'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:15:"Roboto Slab:100";s:6:"subset";s:12:"cyrillic-ext";}'
+  created:
+    -
+      value: 1468916102
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: bcd62403-9959-4483-902f-9681788fc5b4

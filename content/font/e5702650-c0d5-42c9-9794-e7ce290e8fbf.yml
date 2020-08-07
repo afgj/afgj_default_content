@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: e5702650-c0d5-42c9-9794-e7ce290e8fbf
+  depends:
+    e63ab54f-3b7c-43f7-8976-e4eb9cd2a966: taxonomy_term
+    bcd62403-9959-4483-902f-9681788fc5b4: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Roboto Mono&subset=cyrillic-ext#500'
+  name:
+    -
+      value: 'Roboto Mono 500 (cyrillic-ext)'
+  css_family:
+    -
+      value: 'Roboto Mono'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '500'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:15:"Roboto Mono:500";s:6:"subset";s:12:"cyrillic-ext";}'
+  created:
+    -
+      value: 1468916103
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: e63ab54f-3b7c-43f7-8976-e4eb9cd2a966
+  field_supported_languages:
+    -
+      entity: bcd62403-9959-4483-902f-9681788fc5b4

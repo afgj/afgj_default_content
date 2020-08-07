@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: c866ee36-1cdc-4a60-bc1f-c8f5be670a83
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    21846484-5884-4b22-999a-98533b6414fc: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Tinos&subset=greek#700italic'
+  name:
+    -
+      value: 'Tinos 700italic (greek)'
+  css_family:
+    -
+      value: Tinos
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '700'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:15:"Tinos:700italic";s:6:"subset";s:5:"greek";}'
+  created:
+    -
+      value: 1468916089
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 21846484-5884-4b22-999a-98533b6414fc

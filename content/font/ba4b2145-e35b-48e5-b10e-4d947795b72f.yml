@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: ba4b2145-e35b-48e5-b10e-4d947795b72f
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    bcd62403-9959-4483-902f-9681788fc5b4: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Merriweather&subset=cyrillic-ext#300italic'
+  name:
+    -
+      value: 'Merriweather 300italic (cyrillic-ext)'
+  css_family:
+    -
+      value: Merriweather
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '300'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:22:"Merriweather:300italic";s:6:"subset";s:12:"cyrillic-ext";}'
+  created:
+    -
+      value: 1468916131
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: bcd62403-9959-4483-902f-9681788fc5b4

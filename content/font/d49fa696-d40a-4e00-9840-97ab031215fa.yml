@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: d49fa696-d40a-4e00-9840-97ab031215fa
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    ed42df9e-892e-48c1-beee-8295416bdf05: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Rasa&subset=gujarati#300'
+  name:
+    -
+      value: 'Rasa 300 (gujarati)'
+  css_family:
+    -
+      value: Rasa
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '300'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:8:"Rasa:300";s:6:"subset";s:8:"gujarati";}'
+  created:
+    -
+      value: 1468916108
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: ed42df9e-892e-48c1-beee-8295416bdf05

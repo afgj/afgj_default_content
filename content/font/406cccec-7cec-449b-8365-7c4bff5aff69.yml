@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 406cccec-7cec-449b-8365-7c4bff5aff69
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    bcd62403-9959-4483-902f-9681788fc5b4: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Comfortaa&subset=cyrillic-ext#regular'
+  name:
+    -
+      value: 'Comfortaa regular (cyrillic-ext)'
+  css_family:
+    -
+      value: Comfortaa
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:17:"Comfortaa:regular";s:6:"subset";s:12:"cyrillic-ext";}'
+  created:
+    -
+      value: 1468916163
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: bcd62403-9959-4483-902f-9681788fc5b4

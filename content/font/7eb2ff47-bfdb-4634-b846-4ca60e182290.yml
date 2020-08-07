@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 7eb2ff47-bfdb-4634-b846-4ca60e182290
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Prompt&subset=vietnamese#600italic'
+  name:
+    -
+      value: 'Prompt 600italic (vietnamese)'
+  css_family:
+    -
+      value: Prompt
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '600'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:16:"Prompt:600italic";s:6:"subset";s:10:"vietnamese";}'
+  created:
+    -
+      value: 1468916113
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 9a74d5e1-e5d1-46c8-9aa0-280e7c1ac53f

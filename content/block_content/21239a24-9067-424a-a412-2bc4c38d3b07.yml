@@ -22,6 +22,6 @@ default:
       value: true
   body:
     -
-      value: "<div class=\"contact-info__text-secondary text-center mb-0\">Questions? Contact the Association Management office at</div>\r\n\r\n<div class=\"contact-info__text-primary text-center\">(012) 345 - 6789 or <a class=\"link--bordered\" href=\"#\">info@afgjtheme.edu</a></div>\r\n"
+      value: "<div class=\"contact-info__text-secondary text-center mb-0\">Questions? Contact the Association Management office at</div>\r\n\r\n<div class=\"contact-info__text-primary text-center\">(012) 345 - 6789 or <a class=\"link--bordered\" href=\"#\">info@businessplus.edu</a></div>\r\n"
       format: full_html
       summary: ''

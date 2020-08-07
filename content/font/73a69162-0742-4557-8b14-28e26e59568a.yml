@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 73a69162-0742-4557-8b14-28e26e59568a
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    15fd35d0-d4d2-47b5-8cb7-0b38b010e762: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Merriweather&subset=cyrillic#900'
+  name:
+    -
+      value: 'Merriweather 900 (cyrillic)'
+  css_family:
+    -
+      value: Merriweather
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '900'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:16:"Merriweather:900";s:6:"subset";s:8:"cyrillic";}'
+  created:
+    -
+      value: 1468916129
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 15fd35d0-d4d2-47b5-8cb7-0b38b010e762

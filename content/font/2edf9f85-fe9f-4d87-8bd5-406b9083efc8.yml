@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 2edf9f85-fe9f-4d87-8bd5-406b9083efc8
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    24723779-acc7-4740-8731-cfe9abad6ff5: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Arima Madurai&subset=tamil#regular'
+  name:
+    -
+      value: 'Arima Madurai regular (tamil)'
+  css_family:
+    -
+      value: 'Arima Madurai'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:21:"Arima Madurai:regular";s:6:"subset";s:5:"tamil";}'
+  created:
+    -
+      value: 1468916176
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: 24723779-acc7-4740-8731-cfe9abad6ff5

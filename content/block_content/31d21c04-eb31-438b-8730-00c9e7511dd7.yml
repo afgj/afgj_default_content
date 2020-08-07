@@ -19,6 +19,6 @@ default:
       value: true
   body:
     -
-      value: "<div class=\"logo-centered\"><a class=\"site-branding__logo\" href=\"#\" rel=\"home\" title=\"Home\"><img alt=\"Home\" src=\"https://mttprojects.s3.amazonaws.com/demo.morethanthemes.com/afgjtheme/placeholders/logo-white.svg\" /> </a></div>\r\n\r\n<div class=\"text-center clearfix\">\r\n<div class=\"site-name site-branding__name\"><a href=\"#\" rel=\"home\" title=\"Home\">Business+</a></div>\r\n\r\n<div class=\"site-slogan site-branding__slogan\">A top quality Drupal 8 theme</div>\r\n</div>\r\n"
+      value: "<div class=\"logo-centered\"><a class=\"site-branding__logo\" href=\"#\" rel=\"home\" title=\"Home\"><img alt=\"Home\" src=\"https://mttprojects.s3.amazonaws.com/demo.morethanthemes.com/businessplus/placeholders/logo-white.svg\" /> </a></div>\r\n\r\n<div class=\"text-center clearfix\">\r\n<div class=\"site-name site-branding__name\"><a href=\"#\" rel=\"home\" title=\"Home\">Business+</a></div>\r\n\r\n<div class=\"site-slogan site-branding__slogan\">A top quality Drupal 8 theme</div>\r\n</div>\r\n"
       format: full_html
       summary: ''

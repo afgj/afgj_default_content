@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 934d43e0-a80f-49f3-83d3-ebbf2f0cb505
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    b72925ad-f146-407a-bcdc-20482a2261bd: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Aref Ruqaa&subset=arabic#700'
+  name:
+    -
+      value: 'Aref Ruqaa 700 (arabic)'
+  css_family:
+    -
+      value: 'Aref Ruqaa'
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: '700'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:14:"Aref Ruqaa:700";s:6:"subset";s:6:"arabic";}'
+  created:
+    -
+      value: 1468916176
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: b72925ad-f146-407a-bcdc-20482a2261bd

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 27b49064-ff65-4c78-b9fe-31e73cf4a419
+  depends:
+    cfc59272-4e7b-440f-9c24-8121e1c52e39: taxonomy_term
+    15fd35d0-d4d2-47b5-8cb7-0b38b010e762: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Roboto&subset=cyrillic#500italic'
+  name:
+    -
+      value: 'Roboto 500italic (cyrillic)'
+  css_family:
+    -
+      value: Roboto
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: '500'
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:16:"Roboto:500italic";s:6:"subset";s:8:"cyrillic";}'
+  created:
+    -
+      value: 1468916106
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: cfc59272-4e7b-440f-9c24-8121e1c52e39
+  field_supported_languages:
+    -
+      entity: 15fd35d0-d4d2-47b5-8cb7-0b38b010e762

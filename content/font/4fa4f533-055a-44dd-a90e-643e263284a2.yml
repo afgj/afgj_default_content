@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 4fa4f533-055a-44dd-a90e-643e263284a2
+  depends:
+    1b9cbc06-509b-42ef-ba7e-19dd7f358a96: taxonomy_term
+    2c9dc05b-e70d-4fd9-93f8-9dbc6d2203b7: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Suwannaphum&subset=khmer#regular'
+  name:
+    -
+      value: 'Suwannaphum regular (khmer)'
+  css_family:
+    -
+      value: Suwannaphum
+  css_style:
+    -
+      value: normal
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:19:"Suwannaphum:regular";s:6:"subset";s:5:"khmer";}'
+  created:
+    -
+      value: 1468916094
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: 1b9cbc06-509b-42ef-ba7e-19dd7f358a96
+  field_supported_languages:
+    -
+      entity: 2c9dc05b-e70d-4fd9-93f8-9dbc6d2203b7

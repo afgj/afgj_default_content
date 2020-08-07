@@ -19,6 +19,6 @@ default:
       value: true
   body:
     -
-      value: '<div class="company-info"><p><small>Have any questions? Contact us at +1-800-corporate or <a href="mailto:info@afgjtheme.com">info@afgjtheme.com</a></small></p></div>'
+      value: '<div class="company-info"><p><small>Have any questions? Contact us at +1-800-corporate or <a href="mailto:info@businessplus.com">info@businessplus.com</a></small></p></div>'
       format: raw_html
       summary: ''

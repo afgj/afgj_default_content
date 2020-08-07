@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: font
+  uuid: 06f41ae8-c03d-4f68-b8ca-60e1604d3f50
+  depends:
+    bfa6bbb4-f657-4792-b1e1-bdd312d33b2c: taxonomy_term
+    47ed109d-312b-455e-8c24-c807926818f1: taxonomy_term
+default:
+  pid:
+    -
+      value: google_fonts_api
+  url:
+    -
+      value: 'http://www.google.com/webfonts/family?family=Tinos&subset=hebrew#italic'
+  name:
+    -
+      value: 'Tinos italic (hebrew)'
+  css_family:
+    -
+      value: Tinos
+  css_style:
+    -
+      value: italic
+  css_weight:
+    -
+      value: normal
+  metadata:
+    -
+      value: 'a:2:{s:4:"path";s:12:"Tinos:italic";s:6:"subset";s:6:"hebrew";}'
+  created:
+    -
+      value: 1468916089
+  status:
+    -
+      value: false
+  field_classification:
+    -
+      entity: bfa6bbb4-f657-4792-b1e1-bdd312d33b2c
+  field_supported_languages:
+    -
+      entity: 47ed109d-312b-455e-8c24-c807926818f1
